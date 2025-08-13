@@ -1,675 +1,126 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>DR Script Builder</title>
-<style>
-  :root{
-    --bg-primary:#0f0f10;
-    --bg-elev:#16171a;
-    --bg-card:#1b1d22;
-    --ink:#e7e7ea;
-    --muted:#a7aab3;
-    --faint:#7b7f88;
-    --accent:#7c6cff;
-    --accent-2:#8b5cf6;
-    --border:#2a2d33;
-    --radius:16px;
-  }
-  *{box-sizing:border-box}
-  html,body{height:100%}
-  body{margin:0; color:var(--ink); background:radial-gradient(1200px 800px at 10% -10%, rgba(124,108,255,.08), transparent 55%), radial-gradient(900px 700px at 110% 20%, rgba(139,92,246,.06), transparent 60%), var(--bg-primary); font:400 16px/1.6 Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial}
-
-  .app{display:grid; grid-template-columns:280px 1fr; min-height:100vh}
-
-  /* Sidebar */
-  .side{background:linear-gradient(180deg, var(--bg-elev), var(--bg-primary)); border-right:1px solid var(--border); padding:22px 16px; position:sticky; top:0; height:100vh; overflow:auto}
-  .brand{display:flex; gap:12px; align-items:center; padding:6px 8px 18px}
-  .brand .logo{width:28px; height:28px; display:grid; place-items:center; border-radius:10px; background:linear-gradient(145deg, var(--accent), var(--accent-2))}
-  .brand h1{margin:0; font-size:22px; line-height:1.2}
-  .brand small{display:block; color:var(--faint); font-size:12px; margin-top:4px}
-  .nav-section{color:var(--faint); font-weight:600; font-size:12px; margin:18px 10px 8px}
-  .nav{display:flex; flex-direction:column; gap:8px}
-  .nav button{appearance:none; background:transparent; border:1px solid transparent; color:var(--ink); width:100%; text-align:left; border-radius:12px; padding:12px 14px; display:flex; gap:12px; align-items:center; cursor:pointer}
-  .nav button.active{background:#17181c; border-color:var(--border)}
-  .nav button:hover{background:#15161a}
-
-  /* Main */
-  .main{padding:28px 28px 80px; overflow:auto}
-  h2.title{font-size:36px; margin:0 0 14px}
-
-  .btn{--bg:#20222a; --bd:var(--border); --tx:var(--ink); background:linear-gradient(180deg, var(--bg), #16181e); border:1px solid var(--bd); color:var(--tx); padding:10px 14px; border-radius:12px; cursor:pointer; font-weight:600; display:inline-flex; align-items:center; gap:10px}
-  .btn:hover{filter:brightness(1.06)}
-  .btn.primary{--bg:linear-gradient(180deg, #5046ff, #4a3df2); --bd:#5a50ff}
-  .btn.ghost{background:transparent}
-  .btn.small{padding:6px 10px; font-size:13px}
-
-  /* Grids & cards (reused) */
-  .empty{border:1px dashed var(--border); color:var(--muted); border-radius:16px; padding:32px; display:grid; place-items:center}
-  .field{margin-bottom:16px}
-  .label{display:block; color:var(--muted); font-size:12px; margin-bottom:6px}
-  .text, .textarea, select{width:100%; background:#0f1116; color:var(--ink); border:1px solid var(--border); border-radius:10px; padding:10px 12px}
-  .textarea{min-height:130px; resize:vertical}
-  .tagbar{display:flex; gap:8px; flex-wrap:wrap}
-  .tag{padding:6px 10px; border:1px solid var(--border); border-radius:999px; cursor:pointer; font-size:12px; background:#15171a}
-  .tag.active{outline:2px solid #4f46e5}
-  .journal-list{display:grid; gap:12px; margin-top:10px}
-  .entry{background:#17191f; border:1px solid var(--border); border-radius:14px; padding:14px}
-  .entry h4{margin:0 0 6px}
-  .entry .meta{color:var(--faint); font-size:12px; display:flex; gap:10px; align-items:center}
-  .entry .tags{display:flex; gap:6px; flex-wrap:wrap; margin-top:6px}
-
-  /* RTE */
-  .rte{background:#0f1116; border:1px solid var(--border); border-radius:12px; overflow:hidden}
-  .rte .rtebar{display:flex; gap:6px; padding:8px; border-bottom:1px solid var(--border); background:#12141a}
-  .rte .rtebar button{background:#171920; border:1px solid var(--border); color:var(--ink); padding:6px 8px; border-radius:8px; cursor:pointer}
-  .rte .area{min-height:240px; padding:14px; outline:none}
-
-  /* Lucid styles that we also reuse */
-  .tab-btn{background:var(--bg-elev); border:1px solid var(--border); color:var(--ink); padding:8px 16px; border-radius:8px; cursor:pointer; font-size:14px; transition:.2s ease}
-  .tab-btn.active{background:var(--accent); color:#fff; border-color:var(--accent)}
-  .tab-content{margin-top:16px}
-  .progress-card{background:var(--bg-card); border:1px solid var(--border); border-radius:12px; padding:16px}
-  .progress-card h3{margin:0 0 12px; color:var(--ink)}
-  .mini-chart{height:60px; background:var(--bg-elev); border-radius:8px; display:flex; align-items:end; gap:2px; padding:4px}
-  .chart-bar{background:var(--accent); border-radius:2px; min-height:4px; flex:1; opacity:.7; transition:.2s ease}
-
-  /* Mobile */
-  @media (max-width: 920px){ .app{grid-template-columns:74px 1fr} .brand h1, .brand small{display:none} .nav button span{display:none} }
-</style>
-</head>
-<body>
-<div class="app">
-  <aside class="side">
-    <div class="brand">
-      <div class="logo">✨</div>
-      <div>
-        <h1>DR Script Builder</h1>
-        <small>Reality Shifting Companion</small>
-      </div>
-    </div>
-
-    <div class="nav-section">MAIN</div>
-    <div class="nav">
-      <button data-view="portals" class="active">🌟 <span>My Portals</span></button>
-      <button data-view="journal">📖 <span>Journal</span></button>
-      <button data-view="playlists">🎵 <span>Playlists</span></button>
-      <button data-view="visualizers">🖼️ <span>Visualizers</span></button>
-    </div>
-
-    <div class="nav-section">SPECIAL</div>
-    <div class="nav">
-      <button data-view="waiting">⏳ <span>Waiting Rooms</span></button>
-      <button data-view="lucid">🌙 <span>Lucid Dreaming</span></button>
-      <button data-view="astral">🪐 <span>Astral Projection</span></button>
-    </div>
-
-    <div class="nav-section" style="margin-top:22px">SYSTEM</div>
-    <div class="nav">
-      <button data-view="settings">⚙️ <span>Settings</span></button>
-    </div>
-  </aside>
-
-  <main class="main">
-    <!-- Placeholder: Your existing views render here; keeping only Astral new view in this snippet to avoid collisions. -->
-
-    <!-- Astral Projection View -->
-    <section id="astral-view" class="view" hidden>
-      <h2 class="title">Astral Projection</h2>
-      <p style="color:var(--muted); margin:-4px 0 14px">Journal your journeys, track goals, and prep with focused practices.</p>
-
-      <div class="astral-tabs" style="display:flex; gap:8px; margin:16px 0; border-bottom:1px solid var(--border); padding-bottom:8px">
-        <button class="tab-btn active" data-tab="ap-journal">📓 Journal</button>
-        <button class="tab-btn" data-tab="ap-goals">🎯 Goals</button>
-        <button class="tab-btn" data-tab="ap-practices">🧘 Practices</button>
-        <button class="tab-btn" data-tab="ap-sessions">⏱️ Sessions</button>
-        <button class="tab-btn" data-tab="ap-progress">📊 Progress</button>
-      </div>
-
-      <!-- Journal Tab -->
-      <div id="ap-journal" class="tab-content">
-        <div class="toolbar" style="display:flex; gap:8px; flex-wrap:wrap; align-items:center">
-          <button class="btn primary" id="apNewEntry">＋ New Entry</button>
-          <button class="btn" id="apExport">⬇ Export</button>
-          <input id="apSearch" class="text" placeholder="Search journal..." style="min-width:220px"/>
-          <select id="apSort" class="text" style="max-width:200px">
-            <option value="date_desc">Newest first</option>
-            <option value="date_asc">Oldest first</option>
-            <option value="title_asc">Title A→Z</option>
-            <option value="title_desc">Title Z→A</option>
-          </select>
-        </div>
-        <div id="apTagBar" class="tagbar"></div>
-        <div id="apList" class="journal-list"></div>
-        <div id="apEmpty" class="empty" style="display:none">No astral entries yet</div>
-      </div>
-
-      <!-- Goals Tab -->
-      <div id="ap-goals" class="tab-content" hidden>
-        <div class="toolbar" style="display:flex; gap:8px; flex-wrap:wrap; align-items:center">
-          <button class="btn primary" id="apNewGoal">＋ New Goal</button>
-        </div>
-        <div style="display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-top:10px">
-          <div>
-            <h3 style="margin:0 0 8px">Active Goals</h3>
-            <div id="apActiveGoals" class="journal-list"></div>
-          </div>
-          <div>
-            <h3 style="margin:0 0 8px">Completed Goals</h3>
-            <div id="apCompletedGoals" class="journal-list"></div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Practices Tab -->
-      <div id="ap-practices" class="tab-content" hidden>
-        <div class="toolbar" style="display:flex; gap:8px; flex-wrap:wrap; align-items:center">
-          <button class="btn primary" id="apNewPractice">＋ Add Practice</button>
-        </div>
-        <div id="apPracticesList" style="display:grid; gap:12px; margin-top:10px"></div>
-        <div class="empty" id="apPracticesEmpty" style="display:none">No practices yet. Add things like rope method, body-sway, or energy breath.</div>
-      </div>
-
-      <!-- Sessions Tab -->
-      <div id="ap-sessions" class="tab-content" hidden>
-        <div class="toolbar" style="display:flex; gap:8px; flex-wrap:wrap; align-items:center">
-          <button class="btn primary" id="apNewSession">＋ Plan Session</button>
-          <button class="btn" id="apStartTimer">▶ Start Timer</button>
-          <input id="apTimerMins" class="text" type="number" min="1" value="20" style="width:120px"/>
-          <span id="apTimerDisplay" style="color:var(--muted)">00:00</span>
-        </div>
-        <div id="apSessionsList" class="journal-list"></div>
-        <div id="apSessionsEmpty" class="empty" style="display:none">No sessions yet</div>
-      </div>
-
-      <!-- Progress Tab -->
-      <div id="ap-progress" class="tab-content" hidden>
-        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:20px; margin-top:10px">
-          <div class="progress-card">
-            <h3>Attempts This Month</h3>
-            <div id="apAttemptsNum" style="font-size:28px; font-weight:800; color:var(--accent)">0</div>
-            <div class="mini-chart" id="apAttemptsChart"></div>
-          </div>
-          <div class="progress-card">
-            <h3>Successful Exits</h3>
-            <div id="apSuccessNum" style="font-size:28px; font-weight:800; color:var(--accent)">0</div>
-            <div class="mini-chart" id="apSuccessChart"></div>
-          </div>
-          <div class="progress-card">
-            <h3>Average Prep Time</h3>
-            <div id="apAvgPrep" style="font-size:28px; font-weight:800; color:var(--accent)">0m</div>
-            <div style="color:var(--muted); font-size:12px">Based on last 10 sessions</div>
-          </div>
-        </div>
-      </div>
-    </section>
-  </main>
-</div>
-
-<!-- ===== Modals (Astral) ===== -->
-<div class="modal" id="apEntryModal" aria-hidden="true" style="position:fixed; inset:0; display:none; place-items:center; background:rgba(0,0,0,.4); z-index:100">
-  <div class="modal-card" style="background:#14161b; border:1px solid var(--border); border-radius:16px; padding:18px; width:min(960px,95vw); max-height:90vh; overflow:auto">
-    <h3 id="apEntryTitle" style="margin:0 0 10px">New Astral Entry</h3>
-    <div class="modal-grid" style="display:grid; grid-template-columns:1fr 2fr; gap:14px">
-      <div>
-        <div class="field"><label class="label">Title</label><input id="apE_Title" class="text" placeholder="e.g. Vibrational stage near-exit"/></div>
-        <div class="field"><label class="label">Date</label><input id="apE_Date" type="datetime-local" class="text"/></div>
-        <div class="field"><label class="label">Tags</label><input id="apE_TagsInput" class="text" placeholder="vibrations, rope, sleep-paralysis"/><div id="apE_Tags" class="tagbar"></div></div>
-        <div class="field"><label class="label">Outcome</label>
-          <select id="apE_Outcome" class="text">
-            <option value="attempt">Attempt</option>
-            <option value="partial">Partial Exit</option>
-            <option value="exit">Successful Exit</option>
-          </select>
-        </div>
-        <div class="field"><label class="label">Linked Goals</label><select id="apE_Goals" class="text" multiple style="height:90px"></select></div>
-      </div>
-      <div>
-        <div class="field"><label class="label">Narrative</label>
-          <div class="rte">
-            <div class="rtebar">
-              <button data-cmd="bold">B</button>
-              <button data-cmd="italic"><em>I</em></button>
-              <button data-cmd="underline"><u>U</u></button>
-              <button data-cmd="insertUnorderedList">• List</button>
-              <button data-cmd="insertOrderedList">1. List</button>
-            </div>
-            <div id="apE_Body" class="area" contenteditable="true" spellcheck="false" style="max-height:40vh; overflow:auto"></div>
-          </div>
-        </div>
-        <div class="actions" style="display:flex; gap:8px; justify-content:flex-end">
-          <button class="btn ghost" id="apE_Cancel">Cancel</button>
-          <button class="btn primary" id="apE_Save">Save Entry</button>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="modal" id="apGoalModal" aria-hidden="true" style="position:fixed; inset:0; display:none; place-items:center; background:rgba(0,0,0,.4); z-index:100">
-  <div class="modal-card" style="background:#14161b; border:1px solid var(--border); border-radius:16px; padding:18px; width:min(520px,95vw)">
-    <h3 id="apGoalModalTitle" style="margin:0 0 10px">New Astral Goal</h3>
-    <div class="field"><label class="label">Goal Title</label><input id="apG_Title" class="text" placeholder="e.g. Visit Avengers Tower"/></div>
-    <div class="field"><label class="label">Category</label>
-      <select id="apG_Cat" class="text">
-        <option value="explore">Exploration</option>
-        <option value="meet">Meet / Guide</option>
-        <option value="heal">Healing</option>
-        <option value="learn">Learning</option>
-        <option value="travel">Travel / Location</option>
-        <option value="other">Other</option>
-      </select>
-    </div>
-    <div class="field"><label class="label">Description</label><textarea id="apG_Desc" class="textarea" placeholder="Details, cues, success criteria..."></textarea></div>
-    <div class="field"><label class="label">Difficulty</label>
-      <select id="apG_Diff" class="text">
-        <option value="easy">Easy</option>
-        <option value="medium">Medium</option>
-        <option value="hard">Hard</option>
-      </select>
-    </div>
-    <div class="actions" style="display:flex; gap:8px; justify-content:flex-end">
-      <button class="btn ghost" id="apG_Cancel">Cancel</button>
-      <button class="btn primary" id="apG_Save">Save Goal</button>
-    </div>
-  </div>
-</div>
-
-<div class="modal" id="apPracticeModal" aria-hidden="true" style="position:fixed; inset:0; display:none; place-items:center; background:rgba(0,0,0,.4); z-index:100">
-  <div class="modal-card" style="background:#14161b; border:1px solid var(--border); border-radius:16px; padding:18px; width:min(640px,95vw)">
-    <h3 id="apPracticeModalTitle" style="margin:0 0 10px">Add Practice</h3>
-    <div class="field"><label class="label">Name</label><input id="apP_Name" class="text" placeholder="e.g. Rope Method"/></div>
-    <div class="field"><label class="label">Type</label>
-      <select id="apP_Type" class="text">
-        <option value="induction">Induction</option>
-        <option value="energy">Energy Work</option>
-        <option value="breath">Breathwork</option>
-        <option value="binaural">Audio (Binaural/ISO)</option>
-        <option value="grounding">Grounding</option>
-        <option value="other">Other</option>
-      </select>
-    </div>
-    <div class="field"><label class="label">Guide / Notes</label><textarea id="apP_Notes" class="textarea" placeholder="Steps, affirmations, cues..."></textarea></div>
-    <div class="field"><label class="label">Link (optional)</label><input id="apP_Link" class="text" placeholder="YouTube/MP3/etc."/></div>
-    <div class="actions" style="display:flex; gap:8px; justify-content:flex-end">
-      <button class="btn ghost" id="apP_Cancel">Cancel</button>
-      <button class="btn primary" id="apP_Save">Save Practice</button>
-    </div>
-  </div>
-</div>
-
-<div class="modal" id="apSessionModal" aria-hidden="true" style="position:fixed; inset:0; display:none; place-items:center; background:rgba(0,0,0,.4); z-index:100">
-  <div class="modal-card" style="background:#14161b; border:1px solid var(--border); border-radius:16px; padding:18px; width:min(640px,95vw)">
-    <h3 id="apSessionModalTitle" style="margin:0 0 10px">Plan Astral Session</h3>
-    <div class="field"><label class="label">Intent</label><input id="apS_Intent" class="text" placeholder="e.g. Exit using rope + roll-out"/></div>
-    <div class="field"><label class="label">Linked Practice</label><select id="apS_Practice" class="text"></select></div>
-    <div class="field"><label class="label">Timer (minutes)</label><input id="apS_Minutes" class="text" type="number" min="1" value="20"/></div>
-    <div class="field"><label class="label">Notes</label><textarea id="apS_Notes" class="textarea" placeholder="Setup, posture, constraints, disturbances..."></textarea></div>
-    <div class="actions" style="display:flex; gap:8px; justify-content:flex-end">
-      <button class="btn ghost" id="apS_Cancel">Cancel</button>
-      <button class="btn primary" id="apS_Save">Save Session</button>
-    </div>
-  </div>
-</div>
-
-<!-- ===== Script ===== -->
-<script>
-  // --- State bootstrap ---
-  const storeKey = 'drsb-data-v2';
-  let state = load() || {};
-  state.portals = state.portals || [];
-  state.waitingRooms = state.waitingRooms || [];
-  state.journal = state.journal || [];
-  state.playlists = state.playlists || [];
-  state.images = state.images || [];
-  state.dreams = state.dreams || [];
-  state.lucidGoals = state.lucidGoals || [];
-  state.techniques = state.techniques || [];
-  // NEW: Astral
-  state.astral = state.astral || { entries:[], goals:[], practices:[], sessions:[] };
-  state.sync = state.sync || { provider:null, appKey:'', accessToken:'', path:'/Apps/DR Script Builder/data.json', auto:false, intervalMins:5, lastSync:0 };
-
-  function save(){ localStorage.setItem(storeKey, JSON.stringify(state)); }
-  function load(){ try{ return JSON.parse(localStorage.getItem(storeKey)||''); }catch{return null} }
-  function uid(){ return Math.random().toString(36).slice(2)+Date.now().toString(36); }
-  const qs = s=>document.querySelector(s);
-
-  // --- Views registry (only adding astral here; existing app should register its own elsewhere) ---
-  const views = { astral: qs('#astral-view') };
-
-  // Hook up sidebar switching for this document instance
-  document.querySelectorAll('.nav button').forEach(btn=>{
-    btn.addEventListener('click',()=>{
-      document.querySelectorAll('.nav button').forEach(b=>b.classList.remove('active'));
-      btn.classList.add('active');
-      const view = btn.dataset.view;
-      // Hide/show any known sections in this DOM
-      document.querySelectorAll('main .view').forEach(v=> v.hidden = true);
-      const el = document.querySelector('#'+view+'-view');
-      if(el){ el.hidden = false; }
-      if(view==='astral') renderAstral();
-    });
-  });
-
-  // --- Astral: Tabs ---
-  const apTabs = ()=>Array.from(document.querySelectorAll('#astral-view .tab-btn'));
-  function switchApTab(id){
-    apTabs().forEach(b=> b.classList.toggle('active', b.dataset.tab===id));
-    ['ap-journal','ap-goals','ap-practices','ap-sessions','ap-progress'].forEach(t=>{
-      const el = qs('#'+t); if(el) el.hidden = (t!==id);
-    });
-    if(id==='ap-progress') renderApProgress();
-  }
-  apTabs().forEach(btn=> btn.addEventListener('click',()=> switchApTab(btn.dataset.tab)));
-
-  // --- Astral Journal ---
-  const apList = qs('#apList');
-  const apEmpty = qs('#apEmpty');
-  const apTagBar = qs('#apTagBar');
-  const apSearch = qs('#apSearch');
-  const apSort = qs('#apSort');
-  qs('#apNewEntry').onclick = openApEntry;
-  qs('#apExport').onclick = exportApJournal;
-  apSearch?.addEventListener('input', renderApJournal);
-  apSort?.addEventListener('change', renderApJournal);
-
-  function renderApTags(){
-    const tags = new Map();
-    (state.astral.entries||[]).forEach(e=> (e.tags||[]).forEach(t=> tags.set(t, (tags.get(t)||0)+1)) );
-    apTagBar.innerHTML = '';
-    Array.from(tags.keys()).sort().forEach(t=>{
-      const chip = document.createElement('div');
-      chip.className='tag';
-      chip.textContent = t;
-      chip.onclick = ()=>{ chip.classList.toggle('active'); renderApJournal(); };
-      apTagBar.appendChild(chip);
-    });
-  }
-
-  function renderApJournal(){
-    const filters = new Set(Array.from(apTagBar.querySelectorAll('.tag.active')).map(x=>x.textContent));
-    const q = (apSearch?.value||'').toLowerCase();
-    let items = [...(state.astral.entries||[])];
-    if(filters.size) items = items.filter(e=> (e.tags||[]).some(t=> filters.has(t)));
-    if(q) items = items.filter(e=> (e.title||'').toLowerCase().includes(q) || (e.html||'').toLowerCase().includes(q));
-    const sort = apSort?.value||'date_desc';
-    items.sort((a,b)=>{
-      if(sort==='date_asc') return (a.date||0)-(b.date||0);
-      if(sort==='title_asc') return (a.title||'').localeCompare(b.title||'');
-      if(sort==='title_desc') return (b.title||'').localeCompare(a.title||'');
-      return (b.date||0)-(a.date||0);
-    });
-
-    apList.innerHTML = '';
-    items.forEach(e=>{
-      const card = document.createElement('div');
-      card.className='entry';
-      card.innerHTML = `
-        <h4>${escapeHtml(e.title||'Untitled Entry')}</h4>
-        <div class="meta">${new Date(e.date||Date.now()).toLocaleString()} • ${escapeHtml(e.outcome||'attempt')}</div>
-        <div class="body" style="margin-top:8px">${e.html||''}</div>
-        <div class="tags">${(e.tags||[]).map(t=>`<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>
-        <div style="display:flex; gap:8px; margin-top:8px">
-          <button class="btn small" data-act="edit">Edit</button>
-          <button class="btn small" data-act="del">Delete</button>
-        </div>`;
-      card.querySelector('[data-act="edit"]').onclick = ()=> openApEntry(e);
-      card.querySelector('[data-act="del"]').onclick = ()=> delApEntry(e.id);
-      apList.appendChild(card);
-    });
-
-    apEmpty.style.display = items.length? 'none' : 'grid';
-  }
-
-  function openApEntry(existing){
-    const modal = qs('#apEntryModal');
-    const title = qs('#apEntryTitle');
-    const t = qs('#apE_Title');
-    const d = qs('#apE_Date');
-    const tagsInput = qs('#apE_TagsInput');
-    const tagsBox = qs('#apE_Tags');
-    const body = qs('#apE_Body');
-    const outcome = qs('#apE_Outcome');
-    const goalsSel = qs('#apE_Goals');
-
-    // goals options
-    goalsSel.innerHTML='';
-    (state.astral.goals||[]).forEach(g=>{
-      const o=document.createElement('option'); o.value=g.id; o.textContent=g.title||'Goal'; goalsSel.appendChild(o);
-    });
-
-    // populate
-    const data = existing || { id:null, title:'', date: Date.now(), tags:[], html:'', outcome:'attempt', goalIds:[] };
-    title.textContent = existing? 'Edit Astral Entry' : 'New Astral Entry';
-    t.value = data.title||'';
-    d.value = toLocalInput(data.date||Date.now());
-    tagsInput.value = '';
-    tagsBox.innerHTML = (data.tags||[]).map(x=>`<span class="tag">${escapeHtml(x)}</span>`).join('');
-    body.innerHTML = data.html||'';
-    outcome.value = data.outcome||'attempt';
-    Array.from(goalsSel.options).forEach(o=> o.selected = (data.goalIds||[]).includes(o.value));
-
-    // tag entry UX
-    tagsInput.onkeydown = (ev)=>{
-      if(ev.key==='Enter' || ev.key===','){
-        ev.preventDefault();
-        const raw = (tagsInput.value||'').trim().replace(/,+$/,'');
-        if(!raw) return; (data.tags=data.tags||[]).push(raw); tagsInput.value='';
-        tagsBox.innerHTML = (data.tags||[]).map(x=>`<span class="tag">${escapeHtml(x)}</span>`).join('');
-      }
-    };
-
-    qs('#apE_Cancel').onclick = ()=>{ modal.style.display='none'; };
-    qs('#apE_Save').onclick = ()=>{
-      data.id = data.id || uid();
-      data.title = t.value.trim()||'Untitled Entry';
-      data.date = new Date(d.value||Date.now()).getTime();
-      data.html = body.innerHTML;
-      data.outcome = outcome.value;
-      data.goalIds = Array.from(goalsSel.selectedOptions).map(o=>o.value);
-      const i = state.astral.entries.findIndex(x=>x.id===data.id);
-      if(i>-1) state.astral.entries[i]=data; else state.astral.entries.push(data);
-      save(); modal.style.display='none'; renderApTags(); renderApJournal();
-    };
-
-    modal.style.display='grid';
-  }
-
-  function delApEntry(id){
-    if(!confirm('Delete this entry?')) return;
-    const i = state.astral.entries.findIndex(e=>e.id===id);
-    if(i>-1){ state.astral.entries.splice(i,1); save(); renderApTags(); renderApJournal(); }
-  }
-
-  function exportApJournal(){
-    const blob = new Blob([JSON.stringify(state.astral.entries||[], null, 2)], {type:'application/json'});
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a'); a.href=url; a.download='astral_journal.json'; a.click(); URL.revokeObjectURL(url);
-  }
-
-  // --- Astral Goals ---
-  qs('#apNewGoal').onclick = ()=> openApGoal();
-  function renderApGoals(){
-    const activeBox = qs('#apActiveGoals');
-    const doneBox = qs('#apCompletedGoals');
-    activeBox.innerHTML=''; doneBox.innerHTML='';
-    (state.astral.goals||[]).forEach(g=>{
-      const card=document.createElement('div'); card.className='entry';
-      card.innerHTML = `
-        <h4>${escapeHtml(g.title||'Untitled')}</h4>
-        <div class="meta">${escapeHtml(g.category||'other')} • ${escapeHtml(g.difficulty||'medium')}</div>
-        <div style="margin-top:8px; color:var(--muted)">${escapeHtml(g.description||'')}</div>
-        <div style="display:flex; gap:8px; margin-top:8px">
-          <button class="btn small" data-act="done">${g.completed?'Mark Active':'Mark Done'}</button>
-          <button class="btn small" data-act="edit">Edit</button>
-          <button class="btn small" data-act="del">Delete</button>
-        </div>`;
-      card.querySelector('[data-act="done"]').onclick=()=>{ g.completed=!g.completed; save(); renderApGoals(); };
-      card.querySelector('[data-act="edit"]').onclick=()=> openApGoal(g);
-      card.querySelector('[data-act="del"]').onclick=()=>{ if(confirm('Delete goal?')){ const i=state.astral.goals.findIndex(x=>x.id===g.id); if(i>-1){ state.astral.goals.splice(i,1); save(); renderApGoals(); } } };
-      (g.completed? doneBox: activeBox).appendChild(card);
-    });
-  }
-
-  function openApGoal(existing){
-    const modal = qs('#apGoalModal');
-    const title = qs('#apGoalModalTitle');
-    const t = qs('#apG_Title');
-    const c = qs('#apG_Cat');
-    const d = qs('#apG_Desc');
-    const diff = qs('#apG_Diff');
-    title.textContent = existing? 'Edit Astral Goal' : 'New Astral Goal';
-    t.value = existing?.title||''; c.value = existing?.category||'other'; d.value = existing?.description||''; diff.value = existing?.difficulty||'medium';
-    qs('#apG_Cancel').onclick = ()=> modal.style.display='none';
-    qs('#apG_Save').onclick = ()=>{
-      const data = existing || { id:uid(), created:Date.now(), completed:false };
-      data.title = t.value.trim()||'Untitled'; data.category=c.value; data.description=d.value.trim(); data.difficulty=diff.value;
-      const i = state.astral.goals.findIndex(x=>x.id===data.id); if(i>-1) state.astral.goals[i]=data; else state.astral.goals.push(data);
-      save(); modal.style.display='none'; renderApGoals();
-    };
-    modal.style.display='grid';
-  }
-
-  // --- Astral Practices ---
-  qs('#apNewPractice').onclick = ()=> openApPractice();
-  function renderApPractices(){
-    const list = qs('#apPracticesList'); const empty=qs('#apPracticesEmpty');
-    list.innerHTML='';
-    (state.astral.practices||[]).forEach(p=>{
-      const card=document.createElement('div'); card.className='entry';
-      card.innerHTML = `
-        <h4>${escapeHtml(p.name||'Practice')}</h4>
-        <div class="meta">${escapeHtml(p.type||'other')}${p.link?` • <a href="${p.link}" target="_blank" rel="noopener">link</a>`:''}</div>
-        <div style="margin-top:8px; color:var(--muted)">${escapeHtml(p.notes||'')}</div>
-        <div style="display:flex; gap:8px; margin-top:8px">
-          <button class="btn small" data-act="edit">Edit</button>
-          <button class="btn small" data-act="del">Delete</button>
-        </div>`;
-      card.querySelector('[data-act="edit"]').onclick=()=> openApPractice(p);
-      card.querySelector('[data-act="del"]').onclick=()=>{ if(confirm('Delete practice?')){ const i=state.astral.practices.findIndex(x=>x.id===p.id); if(i>-1){ state.astral.practices.splice(i,1); save(); renderApPractices(); } } };
-      list.appendChild(card);
-    });
-    empty.style.display = (state.astral.practices||[]).length? 'none':'grid';
-  }
-  function openApPractice(existing){
-    const modal = qs('#apPracticeModal');
-    const title = qs('#apPracticeModalTitle');
-    const n = qs('#apP_Name'); const t = qs('#apP_Type'); const notes = qs('#apP_Notes'); const link = qs('#apP_Link');
-    title.textContent = existing? 'Edit Practice' : 'Add Practice';
-    n.value = existing?.name||''; t.value = existing?.type||'other'; notes.value = existing?.notes||''; link.value=existing?.link||'';
-    qs('#apP_Cancel').onclick = ()=> modal.style.display='none';
-    qs('#apP_Save').onclick = ()=>{
-      const data = existing || { id:uid(), created:Date.now() };
-      data.name = n.value.trim()||'Practice'; data.type=t.value; data.notes = notes.value.trim(); data.link=link.value.trim();
-      const i = state.astral.practices.findIndex(x=>x.id===data.id); if(i>-1) state.astral.practices[i]=data; else state.astral.practices.push(data);
-      save(); modal.style.display='none'; renderApPractices(); refreshApSessionPracticeOptions();
-    };
-    modal.style.display='grid';
-  }
-
-  // --- Astral Sessions (timer + plans) ---
-  let apTimer = null; let apTimerEnd = 0;
-  qs('#apNewSession').onclick = ()=> openApSession();
-  qs('#apStartTimer').onclick = startApTimer;
-
-  function renderApSessions(){
-    const list = qs('#apSessionsList'); const empty=qs('#apSessionsEmpty');
-    list.innerHTML='';
-    (state.astral.sessions||[]).forEach(s=>{
-      const card=document.createElement('div'); card.className='entry';
-      card.innerHTML = `
-        <h4>${escapeHtml(s.intent||'Session')}</h4>
-        <div class="meta">${new Date(s.created||Date.now()).toLocaleString()} • ${escapeHtml((findPractice(s.practiceId)||{}).name||'No practice')}</div>
-        <div style="margin-top:8px; color:var(--muted)">${escapeHtml(s.notes||'')}</div>
-        <div style="display:flex; gap:8px; margin-top:8px">
-          <button class="btn small" data-act="edit">Edit</button>
-          <button class="btn small" data-act="del">Delete</button>
-        </div>`;
-      card.querySelector('[data-act="edit"]').onclick=()=> openApSession(s);
-      card.querySelector('[data-act="del"]').onclick=()=>{ if(confirm('Delete session?')){ const i=state.astral.sessions.findIndex(x=>x.id===s.id); if(i>-1){ state.astral.sessions.splice(i,1); save(); renderApSessions(); } } };
-      list.appendChild(card);
-    });
-    empty.style.display = (state.astral.sessions||[]).length? 'none':'grid';
-  }
-
-  function openApSession(existing){
-    const modal = qs('#apSessionModal');
-    const title = qs('#apSessionModalTitle');
-    const intent = qs('#apS_Intent');
-    const practice = qs('#apS_Practice');
-    const mins = qs('#apS_Minutes');
-    const notes = qs('#apS_Notes');
-
-    title.textContent = existing? 'Edit Astral Session' : 'Plan Astral Session';
-    refreshApSessionPracticeOptions();
-    intent.value = existing?.intent||''; mins.value = existing?.minutes||20; notes.value=existing?.notes||'';
-    practice.value = existing?.practiceId || '';
-
-    qs('#apS_Cancel').onclick = ()=> modal.style.display='none';
-    qs('#apS_Save').onclick = ()=>{
-      const data = existing || { id:uid(), created:Date.now() };
-      data.intent = intent.value.trim()||'Session';
-      data.practiceId = practice.value||'';
-      data.minutes = parseInt(mins.value, 10) || 20;
-      data.notes = notes.value.trim();
-      const i = state.astral.sessions.findIndex(x=>x.id===data.id); if(i>-1) state.astral.sessions[i]=data; else state.astral.sessions.push(data);
-      save(); modal.style.display='none'; renderApSessions();
-    };
-
-    modal.style.display='grid';
-  }
-
-  function findPractice(id){ return (state.astral.practices||[]).find(p=>p.id===id); }
-  function refreshApSessionPracticeOptions(){
-    const sel = qs('#apS_Practice'); if(!sel) return; sel.innerHTML='';
-    const none = document.createElement('option'); none.value=''; none.textContent='— None —'; sel.appendChild(none);
-    (state.astral.practices||[]).forEach(p=>{ const o=document.createElement('option'); o.value=p.id; o.textContent=p.name||'Practice'; sel.appendChild(o); });
-  }
-
-  function startApTimer(){
-    const mins = parseInt(qs('#apTimerMins').value,10)||20;
-    apTimerEnd = Date.now() + mins*60*1000;
-    if(apTimer) clearInterval(apTimer);
-    apTimer = setInterval(()=>{
-      const left = Math.max(0, apTimerEnd - Date.now());
-      const m = Math.floor(left/60000); const s = Math.floor((left%60000)/1000);
-      qs('#apTimerDisplay').textContent = `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
-      if(left<=0){ clearInterval(apTimer); apTimer=null; alert('Astral timer complete. Return gently.'); }
-    }, 250);
-  }
-
-  // --- Astral Progress ---
-  function renderApProgress(){
-    const now = Date.now(); const monthAgo = now - 30*24*3600*1000;
-    const entries = (state.astral.entries||[]).filter(e=> (e.date||0)>=monthAgo);
-    const attempts = entries.length;
-    const successes = entries.filter(e=> e.outcome==='exit').length;
-    const preps = (state.astral.sessions||[]).slice(-10);
-    const avgPrep = Math.round(preps.reduce((a,s)=>a+(s.minutes||0),0)/Math.max(1,preps.length));
-    qs('#apAttemptsNum').textContent = attempts;
-    qs('#apSuccessNum').textContent = successes;
-    qs('#apAvgPrep').textContent = `${avgPrep}m`;
-
-    // simple bars
-    drawMini('#apAttemptsChart', attempts);
-    drawMini('#apSuccessChart', successes);
-  }
-
-  function drawMini(sel, val){
-    const el = qs(sel); if(!el) return; el.innerHTML='';
-    const bars = Math.max(5, Math.min(20, val||0));
-    for(let i=0;i<bars;i++){
-      const b=document.createElement('div'); b.className='chart-bar'; b.style.height = (4 + Math.random()*56)+'px'; el.appendChild(b);
-    }
-  }
-
-  // --- helpers ---
-  function escapeHtml(s){ return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
-  function toLocalInput(iso){ try{ const d=new Date(iso); const pad=n=>String(n).padStart(2,'0'); return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}`; }catch{ return ''; } }
-
-  // Initial render if user lands directly
-  function renderAstral(){ renderApTags(); renderApJournal(); renderApGoals(); renderApPractices(); renderApSessions(); }
-</script>
-</body>
-</html>
+diff --git a/testing2 b/testing2
+index 39f212bc2b855cd8ac537c15faaebc87544e5be1..e9ff8ef94aa4c5754a827e09eb398d84244dc519 100644
+--- a/testing2
++++ b/testing2
+@@ -293,72 +293,79 @@
+     <div class="field"><label class="label">Guide / Notes</label><textarea id="apP_Notes" class="textarea" placeholder="Steps, affirmations, cues..."></textarea></div>
+     <div class="field"><label class="label">Link (optional)</label><input id="apP_Link" class="text" placeholder="YouTube/MP3/etc."/></div>
+     <div class="actions" style="display:flex; gap:8px; justify-content:flex-end">
+       <button class="btn ghost" id="apP_Cancel">Cancel</button>
+       <button class="btn primary" id="apP_Save">Save Practice</button>
+     </div>
+   </div>
+ </div>
+ 
+ <div class="modal" id="apSessionModal" aria-hidden="true" style="position:fixed; inset:0; display:none; place-items:center; background:rgba(0,0,0,.4); z-index:100">
+   <div class="modal-card" style="background:#14161b; border:1px solid var(--border); border-radius:16px; padding:18px; width:min(640px,95vw)">
+     <h3 id="apSessionModalTitle" style="margin:0 0 10px">Plan Astral Session</h3>
+     <div class="field"><label class="label">Intent</label><input id="apS_Intent" class="text" placeholder="e.g. Exit using rope + roll-out"/></div>
+     <div class="field"><label class="label">Linked Practice</label><select id="apS_Practice" class="text"></select></div>
+     <div class="field"><label class="label">Timer (minutes)</label><input id="apS_Minutes" class="text" type="number" min="1" value="20"/></div>
+     <div class="field"><label class="label">Notes</label><textarea id="apS_Notes" class="textarea" placeholder="Setup, posture, constraints, disturbances..."></textarea></div>
+     <div class="actions" style="display:flex; gap:8px; justify-content:flex-end">
+       <button class="btn ghost" id="apS_Cancel">Cancel</button>
+       <button class="btn primary" id="apS_Save">Save Session</button>
+     </div>
+   </div>
+ </div>
+ 
+ <!-- ===== Script ===== -->
+ <script>
++(() => {
+   // --- State bootstrap ---
+-  const storeKey = 'drsb-data-v2';
+-  let state = load() || {};
++  const storeKey = window.storeKey || 'drsb-data-v2';
++  const save = window.save || function(){ localStorage.setItem(storeKey, JSON.stringify(state)); };
++  const load = window.load || function(){ try{ return JSON.parse(localStorage.getItem(storeKey)||''); }catch{return null} };
++  const uid = window.uid || function(){ return Math.random().toString(36).slice(2)+Date.now().toString(36); };
++  const qs = window.qs || (s=>document.querySelector(s));
++
++  let state = window.state || load() || {};
+   state.portals = state.portals || [];
+   state.waitingRooms = state.waitingRooms || [];
+   state.journal = state.journal || [];
+   state.playlists = state.playlists || [];
+   state.images = state.images || [];
+   state.dreams = state.dreams || [];
+   state.lucidGoals = state.lucidGoals || [];
+   state.techniques = state.techniques || [];
+   // NEW: Astral
+   state.astral = state.astral || { entries:[], goals:[], practices:[], sessions:[] };
+   state.sync = state.sync || { provider:null, appKey:'', accessToken:'', path:'/Apps/DR Script Builder/data.json', auto:false, intervalMins:5, lastSync:0 };
+-
+-  function save(){ localStorage.setItem(storeKey, JSON.stringify(state)); }
+-  function load(){ try{ return JSON.parse(localStorage.getItem(storeKey)||''); }catch{return null} }
+-  function uid(){ return Math.random().toString(36).slice(2)+Date.now().toString(36); }
+-  const qs = s=>document.querySelector(s);
++  window.state = state;
++  window.save = save;
++  window.load = load;
++  window.uid = uid;
++  window.qs = qs;
+ 
+   // --- Views registry (only adding astral here; existing app should register its own elsewhere) ---
+-  const views = { astral: qs('#astral-view') };
++  window.views = window.views || {};
++  window.views.astral = qs('#astral-view');
+ 
+   // Hook up sidebar switching for this document instance
+   document.querySelectorAll('.nav button').forEach(btn=>{
+     btn.addEventListener('click',()=>{
+       document.querySelectorAll('.nav button').forEach(b=>b.classList.remove('active'));
+       btn.classList.add('active');
+       const view = btn.dataset.view;
+       // Hide/show any known sections in this DOM
+       document.querySelectorAll('main .view').forEach(v=> v.hidden = true);
+       const el = document.querySelector('#'+view+'-view');
+       if(el){ el.hidden = false; }
+       if(view==='astral') renderAstral();
+     });
+   });
+ 
+   // --- Astral: Tabs ---
+   const apTabs = ()=>Array.from(document.querySelectorAll('#astral-view .tab-btn'));
+   function switchApTab(id){
+     apTabs().forEach(b=> b.classList.toggle('active', b.dataset.tab===id));
+     ['ap-journal','ap-goals','ap-practices','ap-sessions','ap-progress'].forEach(t=>{
+       const el = qs('#'+t); if(el) el.hidden = (t!==id);
+     });
+     if(id==='ap-progress') renderApProgress();
+   }
+   apTabs().forEach(btn=> btn.addEventListener('click',()=> switchApTab(btn.dataset.tab)));
+diff --git a/testing2 b/testing2
+index 39f212bc2b855cd8ac537c15faaebc87544e5be1..e9ff8ef94aa4c5754a827e09eb398d84244dc519 100644
+--- a/testing2
++++ b/testing2
+@@ -648,28 +655,29 @@
+     const preps = (state.astral.sessions||[]).slice(-10);
+     const avgPrep = Math.round(preps.reduce((a,s)=>a+(s.minutes||0),0)/Math.max(1,preps.length));
+     qs('#apAttemptsNum').textContent = attempts;
+     qs('#apSuccessNum').textContent = successes;
+     qs('#apAvgPrep').textContent = `${avgPrep}m`;
+ 
+     // simple bars
+     drawMini('#apAttemptsChart', attempts);
+     drawMini('#apSuccessChart', successes);
+   }
+ 
+   function drawMini(sel, val){
+     const el = qs(sel); if(!el) return; el.innerHTML='';
+     const bars = Math.max(5, Math.min(20, val||0));
+     for(let i=0;i<bars;i++){
+       const b=document.createElement('div'); b.className='chart-bar'; b.style.height = (4 + Math.random()*56)+'px'; el.appendChild(b);
+     }
+   }
+ 
+   // --- helpers ---
+   function escapeHtml(s){ return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
+   function toLocalInput(iso){ try{ const d=new Date(iso); const pad=n=>String(n).padStart(2,'0'); return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}`; }catch{ return ''; } }
+ 
+   // Initial render if user lands directly
+   function renderAstral(){ renderApTags(); renderApJournal(); renderApGoals(); renderApPractices(); renderApSessions(); }
++})();
+ </script>
+ </body>
+ </html>
