@@ -275,8 +275,7 @@ def shot7():
         d.line((0, y, W, y), fill=(96, 70, 48))
     d.rectangle((70, 10, 250, 172), fill=(242, 232, 206))  # parchment
     d.rectangle((70, 10, 250, 172), outline=(200, 184, 150))
-    for y in range(30, 160, 9):  # ruled suggestion of text the game will write
-        d.line((88, y, 232 - (y * 7) % 40, y), fill=(226, 214, 186))
+    # the page stays blank: the game writes the invitation onto it
     # broken seal halves
     d.pieslice((140, 2, 158, 20), 90, 270, fill=(170, 30, 40))
     d.pieslice((162, 2, 180, 20), 270, 90, fill=(170, 30, 40))

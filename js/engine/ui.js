@@ -12,7 +12,7 @@
   var DEFAULT_SETTINGS = {
     theme: "night", size: 1.125, spacing: "normal", font: "serif", width: "normal", motion: "full",
     steam: true, notices: true, showChanges: true, showHints: true, focusMode: false,
-    palette: "neon", backdrop: true, arrivals: true,
+    palette: (NB.config && NB.config.defaultPalette) || "neon", backdrop: true, arrivals: true,
     narration: "varied", backend: "claude", voice: "faithful", tier: "quick", model: "claude-opus-5", ownWords: false
   };
 
@@ -167,7 +167,7 @@
     if (!rail || !page || !ui.rt.state) return;
     clear(rail);
     var st = ui.rt.state, chapter = st.chapter || {};
-    rail.appendChild(el('div', { class: 'nb-rail-eyebrow', text: 'The unquiet city' }));
+    rail.appendChild(el('div', { class: 'nb-rail-eyebrow', text: cfg().railEyebrow || cfg().subtitle || '' }));
     rail.appendChild(el('div', { class: 'nb-rail-chapter', text: nightLabel(st.vars.ch) || 'Your story' }));
     if (chapter.title) rail.appendChild(el('h2', { class: 'nb-rail-title', text: chapter.title }));
     if (st.date) rail.appendChild(el('p', { class: 'nb-rail-date', text: cfg().fmtDate(st.date) }));
@@ -547,7 +547,8 @@
 
   function phone(texts) {
     var box = el("div", { class: "nb-phone", role: "group", "aria-label": "Messages" });
-    box.appendChild(el("div", { class: "bar" }, [el("span", { text: "4:52" }), el("span", { text: "Messages" }), el("span", { text: "●●●" })]));
+    var clock = (ui.rt && ui.rt.state && ui.rt.state.time) || "4:52";
+    box.appendChild(el("div", { class: "bar" }, [el("span", { text: clock }), el("span", { text: "Messages" }), el("span", { text: "●●●" })]));
     var last = null;
     texts.forEach(function (t) {
       var mine = t.who === "me";

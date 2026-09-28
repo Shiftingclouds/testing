@@ -212,6 +212,9 @@
     motto: "Some magic comes early. Yours came at midnight.",
     titleAlt: "Wrenfold castle on its island in a black lake at night, lanterns drifting over it",
     titleNote: "A branching novel of late magic, four houses, and the dark that comes for bright flames.",
+    titleFooter: "Keep your flame close.",
+    railEyebrow: "A school for late magic",
+    defaultPalette: "golden",
     // the chapters written so far (index.html loads them); the full book is ch01 … ch24
     get sceneList() { return ["ch01", "ch02", "ch03", "ch04", "ch05", "ch06", "ch07", "ch08", "ch09", "ch10", "ch11", "ch12", "ch13", "ch14", "ch15", "ch16", "ch17", "ch18", "ch19", "ch20", "ch21", "ch22", "ch23", "ch24"].filter(function (n) { return !NB.sources || NB.sources[n]; }); },
     startVars: PL.startVars,
