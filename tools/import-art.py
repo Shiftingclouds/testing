@@ -4,6 +4,7 @@
   art/masters/portraits/*.png     (1122 x 1402 RGBA)  -> art/portraits/*.png   256 x 320, shown at 128 x 160
   art/masters/environments/*.png  (1672 x 941 RGB)    -> art/places/*.png      640 x 360, shown at 640 x 360
   art/masters/snapshots/*.png     (any 16:9)          -> art/snapshots/*.png   640 x 360
+  art/masters/cinematic/*.png     (16:9 frames/layers) -> art/cinematic/*.png  640 x 360 (the opening film; replaces the concept frames)
 
 Portraits: downscaled with premultiplied alpha (no dark or light fringe), then the alpha is made binary (solid figure,
 fully transparent background: this also fixes the masters' 250-254 "almost opaque" interior pixels and the soft matte
@@ -54,9 +55,20 @@ def wide(src, dst):
     out.quantize(256, method=Image.MEDIANCUT, dither=Image.FLOYDSTEINBERG).save(dst, optimize=True)
 
 
+def film(src, dst):
+    """Film frames: whole frames are wide pictures; layers (intro-NN-name.png) keep their transparency."""
+    im = Image.open(src)
+    if im.mode in ("RGBA", "LA", "P") and "-" in os.path.basename(src)[len("intro-00"):]:
+        im = im.convert("RGBA").resize(WIDE, Image.NEAREST if im.width % 640 == 0 else Image.LANCZOS)
+        im.save(dst, optimize=True)
+    else:
+        wide(src, dst)
+
+
 def main():
     check = "--check" in sys.argv
-    jobs = [("portraits", "portraits", portrait), ("environments", "places", wide), ("snapshots", "snapshots", wide)]
+    jobs = [("portraits", "portraits", portrait), ("environments", "places", wide), ("snapshots", "snapshots", wide),
+            ("cinematic", "cinematic", film)]
     for sub, target, fn in jobs:
         files = pngs(os.path.join(M, sub))
         print(f"{sub}: {len(files)} master(s)")
