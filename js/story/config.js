@@ -149,6 +149,7 @@
     kindled: { title: "Kindled", desc: "Stepped through the doorway." },
     nested: { title: "Nested", desc: "Your lantern found its roost." },
     relit: { title: "Bare-Handed", desc: "Relit a snuffed candle without a wand." },
+    relit_toby: { title: "Course It Is", desc: "Gave Toby a piece of your own flame.", hidden: true },
     wren_song: { title: "The Wren's Song", desc: "Gathered a choir of your own.", hidden: true },
     house_lantern: { title: "The House Lantern", desc: "Won the House Lantern for your house.", hidden: true }
   };
