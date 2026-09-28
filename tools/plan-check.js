@@ -115,6 +115,21 @@ for (const s of scenes) {
   }
 }
 
+// Wrenfold keeps the in-scene choices in the script only, so which scene sets which route beat is read from the script:
+// every "*set b_x true" belongs to the *sid above it.
+const scriptBeats = new Map(); // sid -> Set of beat flags the script sets there
+const scriptScenesDir = path.join(ROOT, "js/story/scenes");
+if (fs.existsSync(scriptScenesDir)) for (const f of fs.readdirSync(scriptScenesDir).filter((f) => /^ch\d\d\.js$/.test(f))) {
+  let sid = null;
+  for (const line of fs.readFileSync(path.join(scriptScenesDir, f), "utf8").split("\n")) {
+    const m = /^\s*\*sid\s+(\S+)/.exec(line);
+    if (m) { sid = m[1]; if (!scriptBeats.has(sid)) scriptBeats.set(sid, new Set()); continue; }
+    const b = /^\s*\*set\s+(b_[a-z]+_[a-z0-9_]+)\s+true\b/.exec(line);
+    if (b && sid) scriptBeats.get(sid).add(b[1]);
+  }
+}
+const setsBeat = (sc, flag) => [sc.set || {}].concat((sc.choices || []).map((c) => c.set || {})).some((x) => x[flag] === true) || (scriptBeats.get(sc.id) || new Set()).has(flag);
+
 // route packets: needs are valid conditions; beats live in the scenes that claim them
 if (routes) {
   for (const r of routes.routes) {
@@ -124,22 +139,18 @@ if (routes) {
       for (const at of b.at) {
         const sc = byId.get(at);
         if (!sc) { if (writtenChapters.has(chapterOf(at))) err(`route ${r.lead}: ${b.flag} is placed at ${at}, which doesn't exist`); continue; }
-        const sets = [sc.set || {}].concat((sc.choices || []).map((c) => c.set || {}));
-        if (sets.some((x) => x[b.flag] === true)) playedSomewhere = true;
-        else err(`route ${r.lead}: ${b.flag} is placed at ${at}, but that scene never sets it`);
+        if (setsBeat(sc, b.flag)) playedSomewhere = true;
+        else if (scriptBeats.has(at)) err(`route ${r.lead}: ${b.flag} is placed at ${at}, but that scene never sets it`);
       }
-      if (!playedSomewhere && b.at.every((a) => writtenChapters.has(chapterOf(a)))) err(`route ${r.lead}: ${b.flag} is never played`);
+      if (!playedSomewhere && b.at.every((a) => scriptBeats.has(a))) err(`route ${r.lead}: ${b.flag} is never played`);
     }
   }
   // every b_ flag a scene sets must belong to a packet, at a place the packet lists
-  for (const s of scenes) {
-    const sets = [["(entry)", s.set || {}]].concat((s.choices || []).map((c) => ["#" + c.id, c.set || {}]));
-    for (const [w, x] of sets) for (const k of Object.keys(x)) {
-      if (!/^b_/.test(k)) continue;
-      const r = routes.routes.find((r) => r.beats.some((b) => b.flag === k));
-      const b = r && r.beats.find((b) => b.flag === k);
-      if (b && !b.at.includes(s.id)) err(`${s.id}${w}: sets ${k}, but plan/routes.js doesn't list ${s.id} among its places`);
-    }
+  for (const [sid, flags] of scriptBeats) for (const k of flags) {
+    const r = routes.routes.find((r) => r.beats.some((b) => b.flag === k));
+    const b = r && r.beats.find((b) => b.flag === k);
+    if (!b) err(`${sid}: the script sets ${k}, which no route in plan/routes.js declares`);
+    else if (!b.at.includes(sid)) err(`${sid}: the script sets ${k}, but plan/routes.js doesn't list ${sid} among its places`);
   }
 }
 

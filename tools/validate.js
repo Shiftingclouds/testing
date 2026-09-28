@@ -166,6 +166,12 @@ function main() {
           person(a, where);
           bump(sets, "met_" + a);
           break;
+        case "points": {
+          const m = /^(?:(\w+)\s+)?([+-]\d+)\s*$/.exec(a);
+          if (!m) errors.push(`${where}: bad *points '${a}'`);
+          else if (m[1] && !vars.has("pts_" + m[1])) errors.push(`${where}: *points for unknown house '${m[1]}'`);
+          break;
+        }
         case "portrait": {
           const [id, mood] = a.split(/\s+/);
           person(id, where);

@@ -65,7 +65,7 @@ const routes = [
     lead: "idris", id: "C06",
     wants: "To be trusted by the one person he can't stop studying.",
     beats: [
-      { flag: "b_idris_saw", stage: 2, at: ["CH05.NIGHT.01", "CH05.IDRIS.01"], needs: "", what: "He sees you relight the candle, and keeps it to himself." },
+      { flag: "b_idris_saw", stage: 2, at: ["CH05.NIGHT.01"], needs: "", what: "He sees you relight the candle, and keeps it to himself." },
       { flag: "b_idris_stacks", stage: 3, at: ["CH05.IDRIS.01", "CH09.MAP.01"], needs: "st_idris >= 2", what: "Night in the Long Stacks: what he knows about Kindlers, and what he doesn't say." },
       { flag: "b_idris_file", stage: 4, at: ["CH14.IDRIS.01", "CH16.FILE.01"], needs: "st_idris >= 3", what: "He shows you Morrow's file, and why he's been studying Kindlers." },
       { flag: "b_idris_suspect", stage: 4, at: ["CH10.ORDER.01", "CH18.TULLY.01"], needs: "st_idris >= 3", what: "Everyone suspects him. You don't, and you say so." },

@@ -12,7 +12,7 @@
     chapter: 1, heading: 1, ending: 1, achieve: 1, journal: 1, input_text: 1, rand: 1, vary: 1,
     bug: 1, line_break: 1, divider: 1, commit_stats: 1,
     meet: 1, portrait: 1, remember: 1, clue: 1, codex: 1, text: 1, art: 1, mood: 1, meter: 1, pips: 1,
-    effect: 1, node: 1, look: 1,
+    effect: 1, node: 1, look: 1, points: 1,
     date: 1, place: 1, present: 1, requires: 1, letter: 1, snapshot: 1, sid: 1, variant: 1
   };
 

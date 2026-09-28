@@ -287,6 +287,7 @@ The tape measure goes round your chest, and your waist, and your inside leg, rat
     *set heart +5
     @hask:neutral "Everybody wants that one by November," says Madame Hask, and stitches a pocket into the lining over your heart. It's warm immediately, like a hand held there.
   #"Whatever she's having." Point at Saoirse.
+    *set b_saoirse_bike true
     *set st_saoirse +1
     @saoirse:laugh Saoirse whoops. Madame Hask gives you both a look of deep, old, professional despair, and gives you a pocket in the lining big enough for a spanner.
 *page_break

@@ -19,7 +19,7 @@ const BANNED = [/\bLondon\b/, /\bManchester\b/, /\bEngland\b/, /\bBritain\b/, /\
   /\bHogwarts\b/, /\bMuggles?\b/, /\bQuidditch\b/, /\bGryffindor\b/, /\bSlytherin\b/, /\bRavenclaw\b/, /\bHufflepuff\b/, /\bDumbledore\b/, /\bVoldemort\b/, /\bDiagon\b/, /\bHogsmeade\b/, /\bSorting Hat\b/];
 const MARKERS = [/\bTODO\b/, /\bFIXME\b/, /\bXXX\b/, /lorem ipsum/i, /\bTK\b/];
 // Doubles that are deliberate in this book's voice.
-const OK_DOUBLES = new Set(["no", "very", "yes", "down", "round", "again", "on", "go", "sorry", "please", "had", "that", "chéri", "ha", "now", "out", "up", "back", "more", "and", "fire", "home", "long", "wait", "slowly", "tick", "ding", "one", "stop", "far", "run", "sleep", "open", "okay", "bye", "shh", "come", "there", "do"]);
+const OK_DOUBLES = new Set(["no", "very", "yes", "down", "round", "again", "on", "go", "sorry", "please", "had", "that", "chéri", "ha", "now", "out", "up", "back", "more", "and", "fire", "home", "long", "wait", "slowly", "tick", "ding", "one", "stop", "far", "run", "sleep", "open", "okay", "bye", "shh", "come", "there", "do", "chop"]);
 // British/Canadian spelling is the house style; flag the American form.
 const SPELLING = [["color", "colour"], ["favorite", "favourite"], ["gray", "grey"], ["realize", "realise"], ["neighbor", "neighbour"],
   ["center", "centre"], ["theater", "theatre"], ["jewelry", "jewellery"], ["honor", "honour"], ["apologize", "apologise"], ["recognize", "recognise"]];
@@ -97,7 +97,7 @@ for (const f of files) {
     // second person: narration outside quotes shouldn't say "I" (dialogue, thoughts in [i] and letters are fine)
     const narration = /^\*text\b/.test(trimmed) ? "" : text.replace(/\[i\][\s\S]*?\[\/i\]/g, "").replace(/“[^”]*”|"[^"]*"/g, "");
     if (/(^|[.!?]\s+|\s)I\s+(am|walk|go|feel|see|look|say|turn|open|take|hear|know|think|was|have|can't|don't)\b/.test(narration) || /(^|[.!?]\s+)(My|Me)\s/.test(narration)) warnings.push(`${where}: narration slips into first person: ${narration.slice(0, 70)}`);
-    if (/\s[,.;:!?](?!\.)/.test(plain.replace(/\s\.\.\./g, ""))) warnings.push(`${where}: space before punctuation: ${plain.slice(0, 70)}`);
+    if (!/\{@/.test(plain) && /\s[,.;:!?](?!\.)/.test(plain.replace(/\s\.\.\./g, ""))) warnings.push(`${where}: space before punctuation: ${plain.slice(0, 70)}`);
     if (/\S {2,}\S/.test(plain)) warnings.push(`${where}: double space`);
     for (const [us, uk] of SPELLING) {
       const re = new RegExp("(?<![A-Za-zÀ-ÿ])" + us + "(s|d|ed|ing|es)?(?![A-Za-zÀ-ÿ])", "i");

@@ -456,6 +456,19 @@
         st.pc++;
         return null;
 
+      case "points": {
+        // *points +10 (your house) or *points owlcombe -5 (any house). Shown as a notice.
+        var pm = /^(?:(\w+)\s+)?([+-]\d+)\s*$/.exec(args.trim());
+        if (!pm) throw RuntimeError(this, "Bad *points: " + args);
+        var ph = pm[1] || this.get("house");
+        if (!ph) { st.pc++; return null; }
+        var pv = "pts_" + ph;
+        if (!(pv in st.vars)) throw RuntimeError(this, "Unknown house '" + ph + "'");
+        this.put(pv, (Number(st.vars[pv]) || 0) + Number(pm[2]));
+        this.notices.push({ kind: "points", house: ph, delta: Number(pm[2]) });
+        st.pc++;
+        return null;
+      }
       case "achieve": {
         var id = args.trim();
         if (!this.config.achievements || !this.config.achievements[id]) {

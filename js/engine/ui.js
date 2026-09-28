@@ -705,6 +705,7 @@
         else if (n.kind === "codex") toast("Codex", cfg().codex[n.id].title, null, "key");
         else if (n.kind === "letter") toast("A letter", "Kept in your journal.", null, "clue");
         else if (n.kind === "snapshot") toast("Snapshot", cfg().snapshots[n.id].title, null, "clue");
+        else if (n.kind === "points" && ui.settings.notices) toast((n.delta > 0 ? "+" : "") + n.delta + " to " + ((cfg().houseNames || {})[n.house] || n.house), n.delta > 0 ? "House points" : "House points lost", null, "key");
       }, 350 + i * 700);
     });
   }

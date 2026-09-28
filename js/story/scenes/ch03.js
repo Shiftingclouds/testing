@@ -1,0 +1,421 @@
+NB.scene("ch03", String.raw`
+*mood dusk
+*set ch 3
+*chapter 3 The Lantern Hall
+*comment ---------------------------------------------------------------- CH03.TRAIN.01
+*sid CH03.TRAIN.01
+*date 2026-09-11 17:30
+*place P11 platform_nought
+*present toby rowan imogen saoirse cas familiar
+Platform Nought is under Kingsmere Central Station, through a door in the back of the left-luggage office marked [i]STAFF ONLY: NO REALLY[/i], and down a flight of iron stairs that goes on for longer than it should.
+
+At the bottom, it's the nineteenth century. Gaslamps hiss on iron pillars. The roof is a curve of glass and black iron so high it's lost in steam. And alongside the platform, breathing like a sleeping animal, is the Lantern Train: six long carriages painted deep green and lined in gold, with a wren on every door and brass lamps hanging from the roof of every compartment, already lit.
+
+The platform is full of grown-ups trying not to look lost. Forty-odd of them, you'd guess, from twenty-one to thirty-something, with trunks and rucksacks and cardboard boxes and one wheelie suitcase with a sticker on it saying [i]I'd Rather Be In Ibiza[/i]. A woman in scrubs. A man in a suit, still wearing his lanyard from work. Two people who are clearly a couple, holding hands so tightly their knuckles are white. There are familiars everywhere, in baskets and on shoulders and on leads, and a goat, which nobody seems to own.
+
+Nobody's parents are here to wave them off. That's the strangest thing about it. Just a few people, here and there, who've come to say goodbye: a man hugging his husband, a teenage girl holding her older sister's face in both hands. Everyone else is alone, and knows it, and is being very brave about it.
+
+You find the compartment at the end, because Saoirse bags it by throwing her rucksack through the window. There's room for six. There are five of you. You've just got Toby's trunk up onto the rack, with Rowan lifting it one-handed, when the door slides open.
+
+@cas:neutral "Oh," says a voice, with enormous disappointment. "It's a [i]full[/i] one."
+
+He's tall and narrow and very well-dressed, in a long black coat that cost more than your car would if you had one, with pale blond hair swept back from a long, elegant face, and cold grey eyes. He's somewhere in his late twenties. He's holding his ticket between two fingers as if it might be infectious. He looks at the five of you, and at the cauldron on Toby's knee, and at Saoirse's boots, and at the goggles, and something in his mouth sets in a way that looks like it's used to setting.
+
+@cas:neutral "Well," he says. "Needs must." And he sits down in the seat by the window, the one Toby has just stood up from to help with the trunk, and crosses one long leg over the other, and opens a newspaper.
+
+@toby:tense "That's... sorry, that's my seat," says Toby.
+
+@cas:neutral "Is it?" says the man, without looking up from the paper. "It hasn't got your name on it. Unlike everything else you own, I expect." He turns a page. "Casimir Drummond. You'll have heard of us. Or you won't, because you're late flames, and nobody tells late flames anything, which is rather the point of you." He glances up, once, at Toby, with contempt so polished it's almost beautiful. "My grandmother says you can smell it on people. The lateness. Like a pie that's been in the oven too long."
+*meet cas
+*set st_cas 1
+The compartment goes very quiet. Toby goes pink to the tips of his ears. Rowan's shimmer rolls off him in a wave you can feel on your face. Imogen has closed her handbook on one finger, and has the look of someone deciding which page to hit him with.
+
+And then you notice, because you're watching him, that Casimir Drummond's hands are shaking. Very slightly. On the edges of the newspaper. And that his ticket, which he's holding so contemptuously, is the same green first-year ticket as yours.
+*choice
+  #"Your grandmother smells pies? Must be why yours came out twenty-seven years late, then."
+    *set b_cas_spar true
+    *set st_cas 2
+    *set wit +5
+    There's a silence of about a second and a half, which is exactly how long it takes Saoirse to start laughing.
+
+    @cas:tense Casimir Drummond looks at you over the newspaper. For a moment his whole face is utterly still. Then, very slowly, one corner of his mouth goes up. Not much. But it goes.
+
+    @cas:amused "Fair," he says. And does not give Toby his seat back. But he folds the paper, and looks at you a little longer than he needs to, like someone reassessing a chess position.
+  #"That's his seat. Move, please." Say it the way you'd say it at work.
+    *set nerve +10
+    *set fr_toby +1
+    You say it the way you'd say it to a man at the front of a queue at nine in the morning who's decided the queue doesn't apply to him: flat, polite, and absolutely immovable. "That's his seat. Move, please."
+
+    @cas:guarded He looks at you for a long moment. You look back. You've done this a thousand times, with worse men than him, in worse coats.
+
+    @cas:neutral Then he stands up, precisely, and sits down on the other side of the window, and opens his paper again, as if that's where he meant to sit all along. Toby sits down in his seat and looks at you as if you've just slain a dragon.
+  #"You're late too, though. Same ticket as us. There's room. Sit down."
+    *set b_cas_spar true
+    *set st_cas 2
+    *set heart +10
+    "You're late too, though," you say, quite gently, and nod at his green ticket. "Same as us. It's fine. Toby, sit by the door, there's room."
+
+    @cas:hurt For a second, something goes across his face that isn't contempt at all. It's like watching someone who's been braced for a punch get handed a cup of tea. He doesn't know what to do with it.
+
+    @cas:guarded "I don't need your [i]room[/i]," he says, a beat too late, and much less smoothly. But he doesn't say anything else about pies, all the way to the hills.
+  #Nod to Imogen. Let her read him the regulations.
+    *set b_imogen_handbook true
+    *set st_imogen 2
+    @imogen:amused Imogen opens the handbook with the air of a woman drawing a sword. "Page three hundred and twelve," she says crisply. "[i]Seats on the Lantern Train are allocated by the Wren's Nest in order of arrival at the Row. A student found occupying another's seat...[/i]" She looks up. "Do you want the rest? There's a lot of it. There's a subsection."
+
+    @cas:guarded Casimir Drummond looks at her with pure loathing. Then he moves. Imogen closes the book with a small, satisfied snap, and catches your eye, and very nearly smiles.
+
+The train pulls out on the stroke of half past five with a long low whistle like an owl, and goes up. Not up a slope. Up. The platform drops away under the window, and the glass roof opens like a flower, and suddenly you're above Kingsmere in the violet dusk: streetlights coming on below you in long gold threads, the river black and full of lights, the whole city spread out like a map with the tram lines lit. Somebody in the next compartment screams, and then laughs. Toby grips your arm.
+
+Then the city's behind you, and there are hills.
+
+You fly over them for two hours. The lamps in the compartment warm to gold. A woman with a trolley comes by selling tea from an urn, and pies that are still hot, and chocolate wrens that flap their wings feebly in your hand until you bite their heads off, which feels awful and tastes wonderful. Saoirse teaches Rowan a card game with rules that change every hand. Imogen reads. Toby falls asleep on your shoulder, and dribbles. {fam_name} watches the hills going by below with an expression you can only call professional interest.
+
+Casimir Drummond stares out of the window the whole way, at the dark hills and the first stars, and doesn't say a word. Once, when he thinks nobody's looking, you see him take a folded letter out of his inside pocket, read it, and put it away again, and close his eyes.
+*page_break
+*comment ---------------------------------------------------------------- CH03.MERE.01
+*sid CH03.MERE.01
+*date 2026-09-11 20:30
+*mood night
+*place P12 mere_night
+*present toby tully rowan imogen saoirse familiar
+The train comes down at a little stone halt in a fold of the hills, with one gas lamp, a bench, and a sign that just says [i]MERE[/i]. The night is cold and smells of peat and pine and water. Stars everywhere: more than you've ever seen, so thick they look spilled.
+
+And at the bottom of the path, there's a lake.
+
+It's long and black and perfectly still, a mile of dark water between the hills, and it reflects the stars so exactly that for a second you can't tell where the sky stops. Along the shore, bobbing at a wooden jetty, are boats: twenty or so, small and wooden and painted green, each with a lantern on a pole at the bow. None of the lanterns is lit.
+
+@tully:warm "Evening, my loves," says a voice from the jetty. "Mind the step, it's slippy. Evening. Evening. Mind the step."
+*meet tully
+*set fr_tully 1
+He's old and a little stooped, with a long kind face, a magnificent white walrus moustache, and a flat cap, and he's holding a brass taper as long as a walking stick with a tiny flame at the end of it. He's wearing a patched brown coat with oil stains on the sleeves. As each of you goes past him down the jetty, he looks at you, and says your name. Your actual name. Every single time. Nobody's told him; he just knows.
+
+@tully:warm "Toby," he says. "Welcome home, lad. Rowan, mind your head. Imogen. Saoirse. No motorbikes on the boats, love, it's been tried." And then, to you: "{name}." He looks at you a moment longer than the others, with his pale-blue eyes creasing up. "Welcome home, {name}. You'll be all right."
+
+He lifts the taper and touches it to the lantern at the bow of your boat, and it lights, gold, and the boat moves off on its own, sliding out over the black water without a sound, with you and Toby and {fam_name} in it, and no oars at all.
+
+@tully:neutral "Absalom Tully," he calls after you. "Lanternwarden. Anything that's lit round here, I lit it. Anything that's gone out, you come and tell me!"
+
+The boats go out onto the Mere in a long line, each with its one gold lantern, and the reflections go down into the water beneath you like a second line of boats sailing upside down among the stars. Nobody talks. Even Toby. The only sound is water chuckling under the bows and, once, far off, something big surfacing and going down again.
+
+The boats go round a wooded headland.
+
+And there it is.
+
+It's on an island at the far end of the Mere, rising out of dark trees: a castle of pale stone, not huge, but tall, all towers and turrets and steep slate roofs, with lit windows in every wall, hundreds of them, gold. And above it, rising slowly from somewhere inside it, into a sky full of stars, are lanterns. Hundreds of little paper lanterns, then thousands, drifting up out of the roofs and towers: gold, and rose, and sea-green, and blue so deep it's nearly violet. They rise, and hang, and turn, like slow bright fish in the dark.
+
+It's your dream. It's exactly your dream, every night since June: the black lake, the island, the lit windows, the lanterns rising. You didn't know it was a place.
+
+Next to you, Toby makes a small sound, and wipes his face on his cardigan. In the next boat, Rowan Ashby, who walked out of a burning house, has both hands over his mouth. Saoirse, in the boat behind, has stopped grinning. Imogen, in the one behind that, has closed the handbook.
+
+@toby:warm "Oh," says Toby Quill. "Oh, it's [i]lovely[/i]."
+
+You can't answer. There's a thing in your chest, behind your breastbone, and it's turned towards the castle the way the basil turned towards you, and it's saying [i]home[/i].
+*page_break
+*comment ---------------------------------------------------------------- CH03.HALL.01
+*sid CH03.HALL.01
+*date 2026-09-11 21:00
+*place P13 lantern_hall
+*present toby rowan imogen saoirse cas kestrel bassani tully familiar
+You come up from the boathouse by a stair cut into the rock, through a door as tall as a house, across an entrance hall where suits of armour stand in niches with birds' nests in their helmets, and through a pair of doors so enormous that the man who opens them has to run.
+
+And you're in the Lantern Hall.
+
+The first thing is the light. It's warm and gold and alive, the light of ten thousand candles, and it moves: slow shadows turning on the walls. The lanterns fill the air. They hang over the long tables, over the stone floor, all the way up into a darkness so high you can't see the roof, if there is a roof, drifting very slowly in currents you can't feel: gold and rose and green and blue, paper and light, some as small as your fist and some the size of armchairs. There's a sound, under all the other sounds, very faint: a hum, sweet and low and many-voiced, like a choir humming in their sleep. It's the lanterns. They're humming. It's the exact opposite of the sound in the alley.
+
+The second thing is that, as the forty-odd of you come in through the doors, all ten thousand lanterns turn to look at you.
+
+They don't have faces. You can't tell how you know. But the whole Hall of light swings round towards the doorway, the way a room full of people turns when somebody new comes in, and brightens, all at once, like a crowd smiling.
+
+Four long tables run down the Hall, full of people in robes: robes in gold and rose, plum and silver, sea-green and pearl, black and copper. Second-years, you realise. The ones who stayed. They're cheering. Somebody's banging a spoon on a goblet. At the far end, raised on a dais under a great round window full of stars, is a high table where the teachers sit, and in the middle of it, a tall old woman stands up, and the Hall goes quiet.
+
+@kestrel:warm She's very tall and very straight, in midnight-blue robes stitched all over with tiny gold wrens, with a silver braid so long it touches her waist, wound round with a gold thread. Her face is long and brown and lined, and freckled across the nose with small bright points that look, from here, like stars. Her eyes are hazel, and even from the doors you can see they're laughing. "Welcome," she says, and doesn't raise her voice, and every one of you hears it. "Welcome home."
+*meet kestrel
+@kestrel:neutral "I'm Imelda Kestrel. I'm the Headmistress, which means that I will know your names by Tuesday and your secrets by Christmas. I kindled at thirty, in a greengrocer's in Hollin Cross, by making every apple in the shop explode at once. It was a Saturday. It was very busy. I'm told people still talk about it." A ripple of laughter through the Hall. "Every one of you has a story like that. Every one of you had a life last night, and a job, and rent, and people who'll miss you. Tonight you're first-years. Both of those things are true, and they'll go on being true all year, and that's all right." She smiles. "Now. Professor Bassani, if you would. Before the Hall gets impatient."
+
+@bassani:amused A round olive-skinned man with a magnificent curled grey moustache and a flower in his buttonhole bounces up from the high table with a scroll in one hand. "The Nesting!" he booms. "The [i]Nesting![/i]" He twirls the moustache. "I am Professor Aurelio Bassani, I teach Turning, I am Deputy Head, I am head of Larkspire House, and I am the finest singer in this castle, whatever anyone tells you." A groan from the gold-and-rose table. "When I call your name, come up, take a lantern from Mr Tully, let him light it, and let it go. It will fly to its roost." He points upwards, dramatically, four times. "Larkspire! Owlcombe! Heronmere! Rookhallow! And that is your house, for the whole of your time here, and there is nothing, [i]nothing[/i], you can do about it!"
+*meet bassani
+@kestrel:amused "That isn't quite true, Aurelio," says the Headmistress mildly.
+
+@bassani:amused "It is [i]mostly[/i] true," says Professor Bassani. "Which is the best kind of true."
+
+You look up. In each of the four high corners of the Hall, where the walls meet the dark, there's a roost: a great nest of woven branches, like a bird's nest the size of a room, and the lanterns that drift near each one are all one colour. Gold and rose, in the east corner, where the dawn will come. Plum and silver, in the north. Sea-green and pearl, in the west, where the Mere is. Black and copper, in the south, over the kitchens, where you can smell bread.
+
+Mr Tully stands at the foot of the dais by a stack of paper lanterns, folded flat, with his brass taper lit.
+
+They go alphabetically.
+
+@rowan:neutral "Ashby, Rowan!" Rowan goes up, and takes a lantern, and Tully lights it for him with a pat on the arm, and when Rowan lets it go it doesn't drift. It shoots, like a rocket, straight to the gold-and-rose roost in the east, and flares when it gets there. The Larkspire table stands up and cheers. Rowan comes back with his face scarlet and his shimmer back, and they pull him down onto their bench, slapping his back.
+
+A dozen others. A woman in scrubs goes to Heronmere. The man with the lanyard goes to Owlcombe. The goat, which nobody owns, is not called, and eats a tablecloth.
+
+@cas:neutral "Drummond, Casimir!" There's a murmur at that, from the tables of second-years. [i]A Drummond. A Drummond, late.[/i] He walks up as if he doesn't hear it, very straight, and takes his lantern without looking at Tully, and lets it go without looking at it either. It hangs in the air for a second, as if it's thinking. Then it goes, slowly, to the black-and-copper roost over the kitchens. The Rookhallow table claps, a bit uncertainly. He sits down at the end of it, by himself.
+
+@saoirse:laugh "Maddock, Saoirse!" Saoirse's lantern goes up, turns a complete loop-the-loop over the high table, and lands in the Rookhallow roost with a flourish, and the Rookhallow table roars. Professor Bassani says [i]well really[/i]. Saoirse bows.
+
+"Quill, Tobias!" Toby's lantern goes very nearly into the Larkspire roost, and changes its mind, and goes towards the kitchens, and stops in mid-air as if it can smell something, and then, as if with a sigh, drifts gently over to the sea-green roost in the west. The Heronmere table claps him down warmly. He sits among them with his cauldron on his knee, looking dazed and happy.
+
+@imogen:neutral "Sallow, Imogen!" Imogen's lantern doesn't hesitate at all. It goes to the plum-and-silver roost in the north in a perfectly straight line, like an arrow, and settles, and Imogen gives one small nod, as if a filing system has confirmed what she already knew.
+
+And then: "{name}!" says Professor Bassani, with a flourish. "Come along, come along!"
+
+The walk up the Hall is about a mile long.
+
+@tully:warm At the bottom of the dais, Mr Tully hands you a paper lantern, folded flat. It opens in your hands like a flower: pale, thin, ribbed with bamboo, the size of your head. "Hold it steady, love," he says, very quietly, so that only you can hear. "It'll take a spark from you. That's all. First bit of magic you'll ever do on purpose." He touches the taper to the wick.
+
+It lights. And then it [i]catches[/i]: something goes out of you and into it, a flicker from behind your breastbone, like a match struck in the dark, and the little lantern in your hands doesn't glow the soft gold that everyone else's did. It flares. White-gold, bright as a torch, so bright that Tully squints and steps back and the lanterns nearest you in the air all turn, all at once, towards it. Towards you. Leaning. Like the candles.
+
+The Hall goes quiet. You hear someone at a table say [i]oh[/i].
+
+@kestrel:neutral Up at the high table, the Headmistress has leaned forward in her chair.
+
+@tully:neutral "Well, now," says Mr Tully softly, blinking. "Well, now. Let it go, love. Go on."
+
+@kestrel:warm And then the Headmistress speaks, clearly, so the whole Hall hears, and her voice is light, almost amused, but her eyes aren't. "A lantern can be leaned," she says, "if you want something enough. The Hall lets it. Most people don't know that. You do now."
+
+You let go.
+
+The lantern rises, blazing, out of your hands, and hangs there above you, turning slowly, as if it's waiting to be told.
+*choice
+  #Lean it east, to the gold-and-rose roost. Larkspire: courage, dawn, and people who sing badly.
+    *set house "larkspire"
+    *goto nested
+  #Lean it north, to the plum-and-silver roost. Owlcombe: curiosity, stars, and secrets kept.
+    *set house "owlcombe"
+    *goto nested
+  #Lean it west, to the sea-green-and-pearl roost. Heronmere: stillness, care, and stubborn kindness.
+    *set house "heronmere"
+    *goto nested
+  #Lean it south, to the black-and-copper roost. Rookhallow: making things, mischief, and loyalty to your own.
+    *set house "rookhallow"
+    *goto nested
+  #Don't lean it. Let it go where it wants.
+    *if (nerve >= wit) and (nerve >= heart) and (nerve >= flame)
+      *set house "larkspire"
+    *elseif (wit >= heart) and (wit >= flame)
+      *set house "owlcombe"
+    *elseif heart >= flame
+      *set house "heronmere"
+    *else
+      *set house "rookhallow"
+    You don't lean it. You just open your hands wider, and let it choose.
+
+    It turns, very slowly, once all the way round, looking at every corner of the Hall. Then it goes.
+    *goto nested
+*label nested
+*if house = "rookhallow"
+  *set cas_house "owlcombe"
+It goes up through the lanterns like a comet, trailing white-gold light, and every lantern it passes turns to watch it, and it doesn't slow down until it reaches the {@house = "larkspire"|gold-and-rose roost in the east, and settles in the middle of it, and every lantern in the Larkspire corner flares at once, like a sunrise|}{@house = "owlcombe"|plum-and-silver roost in the north, and settles in the middle of it, and every lantern in the Owlcombe corner flares silver at once, like a sky full of stars coming out|}{@house = "heronmere"|sea-green-and-pearl roost in the west, and settles in the middle of it, and every lantern in the Heronmere corner flares green at once, like sunlight through deep water|}{@house = "rookhallow"|black-and-copper roost in the south, and settles in the middle of it, and every lantern in the Rookhallow corner flares copper at once, like a forge when the bellows go|}.
+
+The {@house = "larkspire"|Larkspire|}{@house = "owlcombe"|Owlcombe|}{@house = "heronmere"|Heronmere|}{@house = "rookhallow"|Rookhallow|} table goes mad.
+
+You walk back down the Hall in a roar of noise with your ears ringing and your face burning, and people are standing up at the {@house = "larkspire"|gold-and-rose|}{@house = "owlcombe"|plum-and-silver|}{@house = "heronmere"|sea-green|}{@house = "rookhallow"|black-and-copper|} table to pull you in, and when you look down at your plain black robe, the lining has changed. It's {@house = "larkspire"|gold, and the edges are rose|}{@house = "owlcombe"|deep plum, stitched with silver|}{@house = "heronmere"|sea-green, and pale as pearl at the hem|}{@house = "rookhallow"|black shot through with copper thread, warm as a forge|}. Your house.
+*if (house = "rookhallow")
+  Casimir Drummond's lantern, you notice, has moved. It's no longer in the copper roost. At some point while yours was flying, it slipped quietly out of the Rookhallow corner, drifted across the dark, and settled in the plum-and-silver one instead, and now he's at the Owlcombe table, looking furious and faintly relieved. [i]A lantern can be leaned,[/i] the Headmistress said. It seems it can be leaned twice.
+*achieve nested
+*page_break
+*comment ---------------------------------------------------------------- CH03.FEAST.01
+*sid CH03.FEAST.01
+*date 2026-09-11 21:45
+*present kestrel bassani toby noor idris familiar
+When the last of you is nested, Professor Bassani sweeps a bow to the Hall, and every plate on every table fills itself.
+
+Not with food appearing. Just with food, as if it had always been there and you'd somehow not noticed: roast chicken and roast potatoes and Yorkshire puddings the size of hats, pies, a whole salmon, bowls of peas and carrots and something purple that turns out to be delicious, gravy in boats that sail up and down the table on their own when anyone reaches for them, and bread, warm bread, everywhere. There are jugs of something gold and fizzing that tastes like apples and bonfires. A pudding at the end of your table is, as far as you can tell, singing.
+
+@kestrel:neutral Halfway through, the Headmistress stands, and the Hall goes quiet again, and the lanterns all turn to her. She waits until it's so quiet you can hear the gravy boats.
+
+@kestrel:warm "Three things," she says. "Then you can have pudding."
+
+@kestrel:neutral "One. You have been kindling for months, some of you for a year, and nobody told you what it was. You thought you were ill, or tired, or mad. I'm sorry. That's our fault, not yours. It's always been our fault. We only find you when the flame's bright enough to see, and by then you've been frightened for a long time." She looks down the tables slowly, as if she's looking at each of you. "You're not frightened here. Or if you are, you're not alone with it."
+
+@kestrel:neutral "Two. This is your Burning Year. For the next nine months your flame will be brighter than it will ever be again, and less steady. Things will explode. You will set fire to a lesson or two. Professor Moth has asked me to say that the Wordcraft Gallery was repainted in August and he would like it to survive until October." A laugh. "By June, your flame will settle. That's what we're here for. That's all we're really here for. Everything else, the wands and the robes and the Glimmerball..." Cheering from the Larkspire table. "...is to help it settle into something strong."
+
+She pauses. And when she speaks again, her voice is lighter, and it doesn't fool anyone.
+
+@kestrel:neutral "Three. Some of you met singers on Lamplight Row this morning. Grey robes. Humming." The Hall has gone absolutely still. Next to you, Toby's hand stops halfway to his mouth with a potato on the fork. "They're called the Grey Choir, and they're the reason you'll read Appendix F in your handbooks, if you haven't already." A glance at the Owlcombe table, where Imogen goes pink. "You're home now, and home is safe. The wards on this island are four hundred years old. The lanterns will tell us if anything's wrong. But I will ask you, as the letter asked you, and as I'll ask you every week until June: keep your flame close."
+
+@kestrel:warm She smiles, and it's like the sun coming out. "Now. Pudding."
+
+The pudding, which is singing, is treacle sponge.
+
+You turn back to your plate, and find you're not hungry anymore, and notice, down the table{@house != "heronmere"|, or rather across the aisle at the next table,|} that you're not the only one.
+*meet noor
+*meet idris
+She's a young woman about your age, in sea-green, with a long dark plait and strong dark brows and a calm, heavy-lidded face: the woman in scrubs from the platform. She hasn't eaten a thing. She's been cutting up her chicken into smaller and smaller pieces for twenty minutes, with the terrible neatness of someone who's used to eating in four minutes standing up, and now can't remember how to do it sitting down. There's a watch pinned upside down on her robe, the kind nurses wear.
+
+And further off, at the Owlcombe table, a lean man with a neat black beard and round wire glasses and soft old plum-and-silver robes, a second-year, is not eating either. He's watching you. He's been watching you, you realise, since your lantern flared. He doesn't look away when you catch him. He just tilts his head, very slightly, like a man looking at a word in a language he's been studying for years and has never actually seen written down.
+*choice
+  #Take the nurse a plate of bread, and sit down next to her.
+    *set b_noor_sit true
+    *set st_noor 2
+    *set heart +5
+    You get up, and take a plate of warm bread and butter from your end of the table, and cross over, and put it down in front of her, and sit.
+
+    @noor:tired She looks at the bread. She looks at you. "I'm not hungry," she says. Her voice is low and a bit dry and very calm, the voice of someone who has told a lot of people bad news kindly.
+
+    "Me neither," you say. "Eat the bread anyway."
+
+    @noor:amused Something moves at the corner of her mouth. "That's my line," she says. "I say that to people." She tears off a corner. "Noor Haddad. A and E, Kingsmere Royal. I kindled in May. Stopped a man bleeding out with my hands. Just... put my hands on it and it [i]stopped[/i]." She eats the corner of bread. "I haven't been back since."
+
+    @noor:warm "Thank you," she says, after a while, quite quietly. And eats the rest.
+  #Go over to the Owlcombe table and ask the bearded second-year what he's looking at.
+    *set st_idris 1
+    *set nerve +5
+    You get up and go over, before you can think better of it, and stand across the Owlcombe table from him, and say: "You're staring."
+
+    @idris:attentive "I am," he agrees. He doesn't seem remotely embarrassed. Up close he's older than most of the first-years, near thirty, with deep-set dark eyes behind the round glasses and a satchel on the bench beside him stuffed with notebooks. "I apologise. Your lantern. I've read about lanterns doing that. I've never seen it." He holds out a hand across the gravy. "Idris Penhallow. Second year. I study the history of flame-work, which is the dullest-sounding subject in this castle and the least dull." A pause. "May I ask how you feel?"
+
+    "Warm," you say, before you can think about it.
+
+    @idris:neutral He looks at you for a long moment. Then he nods, as if you've confirmed something, and writes a single word in a notebook, and closes it. "Welcome to Wrenfold," he says. "I suspect it's going to be interesting."
+  #Stay where you are. Eat the singing pudding. Let the Hall be wonderful for one night.
+    *set flame +5
+    You eat the singing pudding. It sings a little higher when you put your spoon in it, which is alarming, and then settles into a sort of hum, which is delicious. Across the table, Toby is on his third helping. Above you, ten thousand lanterns drift and hum, and every so often one of them turns and looks down at you, and brightens.
+
+    You decide, for tonight, not to think about what that means.
+*if st_noor < 1
+  *set st_noor 1
+*if st_idris < 1
+  *set st_idris 1
+*page_break
+*if house = "larkspire"
+  *goto lark
+*if house = "owlcombe"
+  *goto owl
+*if house = "heronmere"
+  *goto heron
+*goto rook
+*comment ---------------------------------------------------------------- CH03.LARK.01
+*label lark
+*sid CH03.LARK.01
+*date 2026-09-11 23:10
+*place P14 larkspire
+*present flick rowan marcus familiar
+*meet flick
+*meet marcus
+@flick:amused "Up with the lark!" says the Larkspire prefect, at the bottom of a spiral stair so tall you can't see the top. "Two hundred and twelve steps. You'll hate them till Christmas and then you'll have calves like a mountain goat. Felicity Barrow. Flick. I used to teach Year Two, so if anybody cries on the stairs, I've seen it, and I've got tissues." She has two neat blonde plaits and a clipboard and a prefect's badge polished so bright it's a light source of its own. "Come on, then. Chop chop."
+
+Two hundred and twelve steps later, gasping, you come out into the top of the east tower, and it's the warmest room you've ever been in.
+
+It's round, and full of cushions: on the floor, on the window seats, piled on sofas, gold and rose and every shade between. A fire roars in a grate shaped like a rising sun. There's a piano in the corner with a sign on it saying [i]PLEASE DON'T[/i]. Tall windows go all the way round, and one of them is a door onto a stone balcony, open to the night, and cold air comes in smelling of the Mere.
+
+@marcus:amused "You're the firefighter," says a big grinning man in a Glimmerball jersey, to Rowan, before Rowan's even got his breath back. "Marcus Oduya. Captain. We need a Keeper. You look like a Keeper. Do you fly?"
+
+@rowan:amused "Never," says Rowan.
+
+@marcus:amused "Perfect," says Marcus. "Nobody does. Trials are in two weeks."
+
+The dormitory is up a further little stair, a round room with six beds, each hung with gold curtains, and a round window over each one. Yours faces east. Flick tells you, with enormous satisfaction, that the dawn comes in through it first of anywhere in the castle, and there's no curtain, because Larkspire doesn't believe in them. {fam_name} inspects the bed and approves it.
+
+When the others have gone up, Rowan's still out on the balcony, alone, with his big hands on the stone rail, looking down at the black water a hundred feet below. The shimmer's coming off him again, very faintly, into the cold.
+*choice
+  #Go out and stand next to him. Say nothing. Look at the Mere.
+    *set st_rowan +1
+    You go out and stand beside him, and put your hands on the cold rail too, and don't say anything.
+
+    @rowan:warm After a while he says, "You can see the whole lake from here." And after a longer while: "I'm glad it was you on the Row. On the stairs, I mean. Next to me." He doesn't look at you. His hands on the rail are steaming slightly in the cold. "Night, {name}."
+  #Leave him be. He looks like he needs the air to himself.
+    *set heart +5
+    You leave him be. Some people need a balcony more than they need company. You go up to bed, and hear him, much later, come in quietly and say goodnight to nobody.
+*goto roosted
+*comment ---------------------------------------------------------------- CH03.OWL.01
+*label owl
+*sid CH03.OWL.01
+*date 2026-09-11 23:10
+*place P15 owlcombe
+*present mina imogen idris familiar
+*meet mina
+@mina:amused "Eyes open!" says a young woman with enormous headphones round her neck and a hundred badges on her robes, flinging open a door at the bottom of the Observatory tower. "That's the house greeting, you say it back, go on. [i]Eyes open![/i] Brilliant. Mina Achebe, second year, I run Wrenfold Wireless, which is the school radio, which is not strictly allowed, so you didn't hear that, but tune in, Tuesday nights, frequency's on the notice board under a picture of a duck. Come in, come in, come in."
+
+The Owlcombe Stacks are the best room in the world.
+
+It's a library. Or it's a common room built inside a library, or a library that grew round a common room: shelves on every wall and in rows across the floor, all the way up to a ceiling that isn't a ceiling at all but the actual night sky, stars and all, glittering, with a slow cloud going across it. Ladders on brass rails. Armchairs in plum velvet, worn soft, pulled into little islands by lamps. A fire. Somebody's left a telescope on the hearthrug. It smells of paper and woodsmoke and something like cloves.
+
+@imogen:warm Imogen is standing in the middle of it with her handbook clutched to her chest and the expression of a pilgrim who has arrived. "They have [i]the regulations[/i]," she says to you, faintly, pointing. "The full ones. All eleven volumes. In a glass case."
+
+@idris:neutral By the fire, the bearded second-year from the feast, Idris, is sitting in a deep armchair with his boots on the fender and a notebook on his knee. He glances up as you come in, and nods to you, once, as if you're a colleague, and goes back to writing.
+The dormitory is under the stars too: six beds with plum curtains, and the night sky over each one. You lie down and look up, and a shooting star goes over, and then another, as if the room's showing off.
+*choice
+  #Go and find Imogen, who's reading the regulations in the glass case by lamplight. Ask what Appendix F left out.
+    *set st_imogen +1
+    *set wit +5
+    @imogen:attentive She doesn't look up. "Everything," she says. "It leaves out everything. There's a whole volume here on the Choir, volume nine, and it's [i]locked[/i]." She turns to you. "Nobody locks the regulations. You don't lock rules. You lock things people aren't meant to know." A pause. "I'm going to find out what's in it."
+
+    "I'll help," you hear yourself say.
+
+    @imogen:warm She looks at you for a long moment. "Good," she says.
+  #Sleep. The sky's putting on a show; you may as well watch it.
+    *set flame +5
+    You lie on your back under the stars and watch them, and {fam_name} watches them too, and somewhere in the middle of the eleventh shooting star you fall asleep.
+*goto roosted
+*comment ---------------------------------------------------------------- CH03.HERON.01
+*label heron
+*sid CH03.HERON.01
+*date 2026-09-11 23:10
+*place P16 heronmere
+*present delphine toby noor jonty familiar
+*meet delphine
+*meet jonty
+@delphine:warm "Stand still," says the Heronmere prefect, at the bottom of a curving stone stair that goes down, and down, until you can hear water. "That's the house word. Everyone thinks it's boring. It isn't. It's the hardest thing in the world." She's elegant, with a long neck and violet-dyed hair cropped short, and dark amused eyes, and she holds a lantern up so you can all see the steps. "Delphine Arceneaux. Second year. I stayed on for the herbs, and the company. Mind the last step, it's wet."
+
+The Heronmere Cloister is under the Mere.
+
+Not all of it. Half. It's a long vaulted room with tall arched windows down one side, and outside the windows, instead of night, there's water: deep green water, lit from somewhere below, with weed moving in slow currents and a shoal of small silver fish turning all together past the glass like a flung handful of coins. The light in the room is green and gold and moving, like light at the bottom of a swimming pool. Sea-green cushions. A still pool in the floor, round and perfectly clear, with lilies on it. A fire at the dry end, and a huge teapot.
+
+@toby:warm "It's like being a fish," says Toby, with his face pressed to the glass. "I've always wanted to be a fish."
+
+@jonty:neutral A huge, gentle man with a bashed-in nose and a cauliflower ear is already sitting by the fire knitting something very small. He holds it up to show you: a tiny sea-green hat. "For your {familiar}," he says shyly. "I'm Jonty. I do hats."
+
+@noor:neutral Noor, the nurse from the feast, has sat down on the edge of the lily pool with a cup of Delphine's hot chocolate going cold in her hands, and is looking at the water. She looks, for a second, like someone who hasn't sat still in a very long time and doesn't know how to.
+
+@delphine:warm "First night's always strange," says Delphine, handing round the cups. "Everyone's tired and everyone's somebody else's. Sit by the water. It helps. The fish know what they're doing." She smiles at you. "You're the one with the lantern. The white one." It isn't a question. "We're very glad to have you."
+*choice
+  #Sit by the lily pool with Toby, and let him tell you everything about fish.
+    *set fr_toby +1
+    *set heart +5
+    Toby tells you everything about fish, most of it wrong, and you drink hot chocolate and watch the silver shoal go past the windows, and for the first time since midnight you stop being frightened.
+  #Ask Delphine what "stand still" really means.
+    *set wit +5
+    @delphine:warm "It means when everything's going wrong, and you want to run," says Delphine, "you stand still, and you look, and you see what's actually there. Instead of what you're afraid of." She looks out at the water. "It's harder than it sounds. I'm still learning it. Second year, and still learning." She taps your cup. "Drink that before it goes cold."
+*goto roosted
+*comment ---------------------------------------------------------------- CH03.ROOK.01
+*label rook
+*sid CH03.ROOK.01
+*date 2026-09-11 23:10
+*place P17 rookhallow
+*present hamish saoirse bram familiar
+*meet hamish
+*meet bram
+@hamish:amused "Mind your own!" bellows a gangly man with a ginger beard, a kilt under his robes and a ferret sitting on his head, at the bottom of a stair behind the kitchens that smells so strongly of bread you feel faint. "That's the house greeting, and a fine one it is, and it means [i]mind your own business[/i], so if you see me doing anything, you didn't. Hamish Galbraith. Second year. Welcome to the best house in this castle."
+
+The Rookhallow Undercroft is warm. It's the first thing you notice: warm as a kitchen, warm as a bakery, because it's right under them, and the great ovens' heat comes up through the flagstones. It's a long low vaulted space full of workbenches and forges and anvils and half-built things: a bicycle with wings, a teapot with legs, a clock that runs backwards and seems pleased about it. Copper pans hang from the beams. Black-and-copper banners. A fire in a forge that's never been let go out.
+
+@saoirse:laugh Saoirse's already found the workbenches. She has her goggles down and the back off the backwards clock, and she's laughing at something inside it. "It's a [i]clock[/i] with a [i]conscience[/i]," she tells you, delighted. "It's running backwards because it feels bad about the time."
+
+@bram:neutral "Oi," says a thickset young man by the fire, with a buzz cut and small eyes, to the room in general. "Anybody see the Drummond boy nip off to the owls? Couldn't even stay in the house his lantern picked." He laughs. Nobody else does, much. He looks at you. "What about you, then? White lantern. Show-off. What are you, then?"
+*choice
+  #Pull up a stool next to Saoirse and help her take the guilty clock apart.
+    *set st_saoirse +1
+    *set flame +5
+    You ignore him completely, which is the best thing to do with men like Bram, and pull up a stool beside Saoirse, and hold the torch while she takes the backwards clock to pieces. It keeps apologising. At one in the morning, you get it going forwards, and it chimes, very softly, sounding relieved.
+
+    @saoirse:warm "We make a good team," says Saoirse, pushing up her goggles, and grinning her chipped-tooth grin.
+  #Look Bram in the eye. "Tired," you say. "I'm tired. What are you?"
+    *set nerve +5
+    @bram:neutral Bram Hollis opens his mouth, and shuts it, and finds something very interesting to do with the fire.
+
+    @hamish:amused "Oh, I like [i]you[/i]," says Hamish Galbraith, with enormous glee, and the ferret on his head chatters agreement.
+*goto roosted
+*comment ----------------------------------------------------------------
+*label roosted
+You lie awake for a long time in your new bed, in your new house, in a castle on an island in a lake that isn't on any map, with {fam_name} warm against you and your wand under the pillow.
+
+You think about Wrexley. The kettle. The basil. The call-centre leaderboard{@job != "calls"|, or whatever it was they'd be doing at Harker's or the Pie & Pint or the library, without you|}. You think about Nana Pearl. You think about three grey hoods in an alley, and a hum that took hold of the warm thing in your chest and pulled.
+
+And then you think about ten thousand lanterns turning, all at once, to look at you.
+
+Somewhere far below, in the Lantern Hall, they're humming. You can feel it through the stone, very faint, like a cat purring in another room. You fall asleep to it.
+*journal [b]Chapter 3.[/b] The Lantern Train, the Mere, and the castle from your dreams. In the Lantern Hall, your lantern flared white when Mr Tully lit it, and every lantern near it turned towards you. It flew to {@house = "larkspire"|Larkspire|}{@house = "owlcombe"|Owlcombe|}{@house = "heronmere"|Heronmere|}{@house = "rookhallow"|Rookhallow|}. Casimir Drummond, from an old family, sneered on the train. The Headmistress, Imelda Kestrel, warned everyone about the Grey Choir: [i]keep your flame close.[/i]
+*page_break
+*goto_scene ch04
+`);
