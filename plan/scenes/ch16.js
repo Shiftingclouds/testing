@@ -19,6 +19,6 @@ module.exports = [
   {
     id: "CH16.JOURNAL.01", date: "2027-02-27", time: "21:00", place: "P25", cast: ["MC", "C08", "C45"], kind: "common",
     purpose: "Hester's journal by the fire: the Heartfire under the school; a Kindler can lift it out of the rock and carry it in their own body, and only a Kindler; the Wren's Song's voices kept in the four roosts. What Morrow wants, and why he needs you.",
-    next: "CH17.QUIET.01"
+    next: "CH17.EVE.01"
   }
 ];
