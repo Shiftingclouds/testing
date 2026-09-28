@@ -200,7 +200,7 @@ The hearthale comes in a pewter tankard, hot, foaming, the colour of dark honey.
     #"Tell me something you like. Not something you're guarding. Something you like."
       *set st_rowan +1
       *set heart +5
-      @rowan:shy He thinks about it for a long time. "Bread," he says finally. "Baking it. My dad used to. Before." He turns the tankard. "You get up at four and it's dark and the whole house is asleep and it's just you and the oven. Nobody needs you to be brave at four in the morning. They just need the bread." He looks up. "I haven't done it since. I think I'd like to again."
+      @rowan:shy He thinks about it for a long time. "Bread," he says finally. "Baking it. My dad taught me, Sundays, when I was a kid." He turns the tankard. "You get up at four and it's dark and the whole house is asleep, all four of my sisters, and it's just you and the oven. Nobody needs you to be brave at four in the morning. They just need the bread." He looks up. "I haven't done it since the fire. I'm frightened of ovens now. Isn't that stupid? I think I'd like to again."
     #"You'd get bored. You'd end up guarding the fireplace."
       *set wit +5
       @rowan:laugh He laughs, properly, the big startled laugh you don't hear often enough, and half the pub looks round. "Probably," he admits. "It does look like it's up to something."

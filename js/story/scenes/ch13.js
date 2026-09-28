@@ -225,7 +225,7 @@ The snow comes on the twenty-third and doesn't stop. It piles up on the battleme
 Forty people. Six Lamplighters, who take turns eating, with their greatcoats on. The Headmistress, at the head of the table in a paper crown, which is somehow the most frightening thing you've ever seen. Mr Tully, carving. And whoever else stayed, and why.
 @saoirse:laugh Saoirse, because she never goes home. "Home's my dad's flat in Cardiff and my dad's girlfriend's three terriers," she says, pulling a cracker with you so hard it explodes in a shower of sparks and a paper hat that's actually on fire. "I love my dad. I love him from a distance of about two hundred miles." She puts the burning hat on anyway.
 
-@idris:neutral Idris, because he doesn't have anyone to go home to. He says it quite simply, as a fact, passing the potatoes. "My parents died when I was nineteen. I spent last Christmas here. It's quieter than it sounds." And then, looking round the table at the forty of you in your paper hats: "This is the loudest one I've been to."
+@idris:neutral Idris, because he doesn't have anyone to go home to. He says it quite simply, as a fact, passing the potatoes. "My parents are both dead. I spent last Christmas here too. It's quieter than it sounds." And then, looking round the table at the forty of you in your paper hats: "This is the loudest one I've been to."
 
 @noor:tired Noor, because the Infirmary's still got three hum-sick first-years in it, and she won't leave them, and Matron's given up arguing. She comes to dinner for exactly forty minutes, in her uniform, and eats a whole plate of turkey without stopping, and falls asleep at the table with a sprout on her fork.
 *if b_cas_family
