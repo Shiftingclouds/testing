@@ -1,0 +1,479 @@
+NB.scene("ch02", String.raw`
+*mood night
+*set ch 2
+*chapter 2 Lamplight Row
+*comment ---------------------------------------------------------------- CH02.ROW.01
+*sid CH02.ROW.01
+*date 2026-09-11 02:11
+*place P05 lamplight_row
+*present toby
+The first thing that happens on the other side is that you nearly get run over by a wheelbarrow full of light.
+
+"Mind your feet, mind your feet, mind your [i]feet[/i]," says the woman pushing it, swerving round you without slowing down, and the barrow rattles off over the cobbles with its cargo of jam jars, each one holding something small and golden that pulses like a slow heart. You flatten yourself against a wall. The wall is warm and smells of cinnamon.
+
+You're standing in a narrow street at two in the morning, and it's the busiest place you've ever been.
+
+Every house leans. That's the first thing, once you've stopped watching the wheelbarrow. They lean over the cobbles towards each other like old women sharing a secret, gables almost touching, so that the sky is a crooked ribbon of stars far above, and every one of them is a shop, and every shop is open. There's a window full of hats that are breathing. There's one full of books stacked in towers that sway, very gently, whenever anyone walks past. There's a bakery with a queue out of the door, at two in the morning, and a shop that seems to sell nothing but clocks, all showing different times and all of them, somehow, right.
+
+And the lamps. Hundreds of them: on brackets, on chains, on poles, strung across the street on wires between the gables. Rose and sea-green and gold and that deep blue that's nearly violet. They sway without any wind. Every so often one of them turns, just slightly, towards someone walking under it, as if it's saying hello.
+
+You look back. Behind you, in the wall of what appears to be a tobacconist's, the doorway to your kitchen is still there: a tall arch of gold with your fridge on the other side of it and the basil on the windowsill, faint as a reflection. As you watch, it fades. Not all at once. Politely, like someone backing out of a room.
+
+It's gone. You're here.
+
+Something hits you in the back, hard, and you both go down on the cobbles.
+
+@toby:scared "Sorry! Oh no, sorry, sorry, I didn't see... I wasn't looking, I didn't know it'd be [i]steps[/i]..." The something is a person, and the person is scrambling off you and apologising and trying to help you up all at once, which means you both fall over again. "Sorry. Sorry. Oh, I've got flour on you. I've got flour on everything. Sorry."
+
+He's short and round-faced, about your age or a bit younger, with pink cheeks and blond hair sticking up at the back as if he's just got out of bed, and he's wearing a baker's apron over a cardigan three sizes too big, and he is covered, completely covered, in flour. Behind him, in the wall of the tobacconist's, another gold doorway is fading, and through it, briefly, you see a small shop kitchen with an oven door hanging open and smoke rolling out of it.
+
+In his hand, held very carefully, is a croissant. It's on fire.
+
+@toby:scared "It does that," he says, following your look, in despair. "Since April. I look at them and they go up. I've lost my job. I lost it three times, actually, because Mr Pargeter kept giving it back, but tonight he said..." He stops. He looks up at the street properly, at the lamps and the leaning houses and the barrow of lights rattling away round the corner, and his mouth falls open. "Oh," he says. "Oh. It's [i]real[/i]."
+*meet toby
+*set fr_toby 1
+You watch his face do the thing yours must have done a minute ago. It's quite something, from the outside.
+
+"I think so," you say. "Unless we're having the same dream."
+
+@toby:amused "I don't think I'd dream you," he says, and then goes pink. "I mean. Not in a... I mean I'd have dreamed someone taller. No. I mean..." He shuts his eyes. "I'm Toby. Toby Quill. I'm going to stop talking now."
+
+"{name}," you say. "Your croissant's still on fire."
+
+He looks at it. He blows on it, carefully, the way you'd blow on soup. It goes out, and then, with a small soft [i]whumph[/i], comes back on, blue.
+
+@toby:laugh And Toby Quill starts laughing, helplessly, on his knees in the flour on a magic street at two in the morning, and after a second, so do you.
+*page_break
+*comment ---------------------------------------------------------------- CH02.NEST.01
+*sid CH02.NEST.01
+*date 2026-09-11 02:40
+*place P06 wrens_nest
+*present toby fitch imogen rowan saoirse
+The Wren's Nest is exactly where the letter said it would be, three doors down between the breathing hats and a shop selling nothing but string, and it's the most harassed-looking building you've ever seen.
+
+It's tall and narrow and painted a faded blue, with a bay window stuffed so full of paper you can't see in. A sign over the door has a wren on it, cocked-tailed and cross, and underneath: [i]WRENFOLD. ENQUIRIES. Please Wipe Your Feet (This Means Magic Too).[/i] Inside it's one long room walled from floor to ceiling in pigeonholes, and every pigeonhole is stuffed with forms, and the forms are moving: sliding out, folding themselves into birds, flapping across the room and filing themselves somewhere else. The air is full of paper wings. A kettle on a gas ring is whistling and nobody is doing anything about it.
+
+@fitch:neutral "Name, date of kindling, method of arrival, any familiars, allergies, next of kin, do you have a middle name, is it hyphenated, we've had a lot of hyphens this year," says the man behind the counter, without looking up. He's thin and fussy, with a long nose and a pair of pince-nez balanced on the end of it, and a quill behind each ear, and a third in his mouth, which he takes out to say: "Well? Come on. The Lantern Train leaves at dusk and I have forty-one of you to equip by then and one of you has already turned my umbrella stand into a heron."
+*meet fitch
+"{name}," you say. "I'm here about the..."
+
+@fitch:neutral "Letter, yes, yes, everybody's here about the letter. Mr Ptolemy Fitch, Wrenfold's clerk on the Row. Sign here, and here, and here." A form slides across the counter under your hand, and a pen hops into your fingers. "Date of kindling?"
+
+"I don't know. This year? March?"
+
+@fitch:neutral "Everybody says March. It's always March. The equinox does something to people. Method of arrival?"
+
+"A door in the kitchen wall."
+
+@fitch:neutral "They're [i]all[/i] doors in the kitchen wall," says Mr Fitch, with enormous weariness. "Just once I'd like somebody to come through the bathroom." He stamps the form, which squeaks. "Next."
+
+There's a queue behind you now, and it's the strangest queue you've ever been part of, because every single person in it looks as confused as you feel, and none of them is a child.
+
+There's a young woman just behind Toby, small and very upright, with a severe black bob and thin gold glasses, reading a book so thick it has its own strap. She's reading fast. Her lips don't move, but her eyebrows do.
+
+@imogen:neutral "Page forty," she says, to nobody in particular, not looking up. "[i]The Hester Grant covers robes, a wand, a familiar, a cauldron, sundry supplies and one pastry.[/i] One pastry. It's in the regulations. Somebody fought for that pastry." She turns the page. "I'd like to meet them."
+
+"Where did you get that?" you ask.
+
+@imogen:attentive She looks up at you properly for the first time. She has quick dark eyes that look you over, file you, and come back. "It came with the letter," she says. "It was in the envelope. Didn't yours have a handbook?"
+
+"Mine had a P.S."
+
+@imogen:amused "Everybody's had a P.S.," she says. "It's a very good P.S." She holds out a hand, briskly, the way you'd hold it out in an interview. "Imogen Sallow. I was halfway through my second year of law, and I set fire to my contract-law notes by looking at them, which I'd been meaning to do anyway. The handbook's in your envelope if you look in the lining. It's fourteen hundred pages. I'm on page two hundred and six." A pause. "I've been on the train from my flat to here all night. The doorway put me in a bus shelter."
+*meet imogen
+*set st_imogen 1
+You shake her hand. It's cold, and very steady.
+
+That's when the fire alarm goes off.
+
+It isn't a bell. It's a brass bird the size of a crow, perched on a bracket over the door, which has suddenly opened its beak and started screaming, [i]HOT, HOT, HOT, HOT[/i], in a voice like a kettle with opinions. The paper birds scatter. Mr Fitch drops his quill. Everybody in the queue turns round.
+
+@rowan:tense There's a man in the doorway, a very big man, ducking under the lintel: tall and broad-shouldered, in a navy T-shirt and a jacket with a fire service badge on the shoulder, with short copper-red hair and freckles and a slightly crooked nose. He's standing absolutely still with his hands held away from his sides, the way you'd stand if someone had told you not to move near a wasps' nest. Faint shimmers rise off him into the cold air, the way they rise off a road in August.
+
+@rowan:tense "Sorry," he says, to the bird. To the room. "Sorry. It's me. It does that."
+
+@fitch:neutral "It certainly [i]does[/i]," says Mr Fitch, and says something short and sharp to the bird, which shuts its beak with a click and sulks. "Mr Ashby, I presume. Rowan Ashby. The Kingsmere house fire." He peers at a form. "Walked out of it."
+
+@rowan:neutral "Yeah," says the big man quietly. "Walked out of it."
+*meet rowan
+*set st_rowan 1
+The room goes quiet at that, the way rooms do. He looks as if he'd rather be anywhere else. The shimmer coming off him thickens for a second, and a paper bird that flies too close to his head goes brown at the edges and flutters down, smoking faintly.
+
+@toby:scared "Oh, you're like me," says Toby, before anyone can stop him. He holds up his croissant, which is still burning cheerfully, blue. "Look. Mine does that."
+
+@rowan:amused Rowan Ashby looks at the croissant. He looks at Toby. And then his whole big freckled face breaks into a grin, and he laughs, a deep startled laugh like he's forgotten he could. "Yeah, mate," he says. "Bit like that."
+
+The shimmer coming off him thins. The brass bird, grudgingly, stops glaring.
+
+Then there's a sound from the street like a lawnmower being strangled, and somebody shouts, "[i]Mind the door, mind the door, it's coming through[/i]," and the front wheel of a motorbike comes through the Wren's Nest's front window.
+
+Not through the glass. Through the window, as if the window were a curtain. The whole bike follows it, a big old black-and-chrome thing with mud on the mudguards, pushed by a wiry young woman with wild dark-auburn curls tied up with a bootlace and goggles pushed up on her forehead. She wheels it through the wall of paper in the bay window, which parts for her, into the middle of the room, and kicks the stand down, and grins at everybody. She has a chipped front tooth.
+
+@saoirse:amused "Sorry," she says, not sorry at all. "Doorway came out in the middle of the ring road. I wasn't leaving her."
+
+@fitch:neutral "You can't bring a motorbike to Wrenfold," says Mr Fitch faintly.
+
+@saoirse:amused "Page three hundred and one says [i]students may bring one mode of personal transport[/i]," says the woman with the bike.
+
+@imogen:tense "It [i]means broomsticks[/i]," says Imogen, from behind her handbook, with feeling. "It very clearly means broomsticks."
+
+@saoirse:laugh "It doesn't [i]say[/i] broomsticks, though, does it?" She wipes her hand on her jeans, which makes it oilier, and holds it out to the nearest person, who happens to be you. "Saoirse Maddock. I fix bikes. Fixed one in May without touching it, and then I couldn't stop. Every engine on the street. Every car in the car park at Tesco. Lost my licence over it, which was unfair, because I wasn't even [i]in[/i] them."
+*meet saoirse
+*set st_saoirse 1
+*choice
+  #Shake her hand, oil and all, and offer to help her keep the bike out of Mr Fitch's sight.
+    *set b_saoirse_bike true
+    *set st_saoirse 2
+    *set heart +5
+    "It's a good bike," you say, and take the oily hand. "If you park it behind the pigeonholes, I think he'll forget."
+
+    @saoirse:laugh She looks at you with sudden bright delight, like you've passed a test you didn't know you were sitting. "I like you," she says. "You're a bad influence. Help me with the back wheel."
+
+    Between you, you wheel it behind the last row of pigeonholes, where the paper birds fold themselves over it like a dust sheet. Mr Fitch sees. Mr Fitch pretends very hard not to see.
+  #"You parked a motorbike in a magic office. Brilliant." Laugh, and shake her hand.
+    *set b_saoirse_bike true
+    *set st_saoirse 2
+    @saoirse:amused "Didn't park it, just [i]stopped[/i] it," she says, pleased. "Parking's a commitment."
+
+    You laugh, and she laughs, and Mr Fitch puts his head in his hands.
+  #Shake her hand, but side with the handbook. It probably does mean broomsticks.
+    *set st_imogen +1
+    *set wit +5
+    "I think it probably means broomsticks," you say.
+
+    @saoirse:amused "Everyone's a lawyer," says Saoirse, cheerfully, and shakes your hand anyway, leaving a black thumbprint on your knuckle.
+
+    @imogen:warm Behind her, Imogen gives you a small, precise nod, like a judge noting a point in your favour.
+
+@fitch:neutral Mr Fitch, when he's recovered, hands every one of you a leather purse on a drawstring. It's heavier than it looks, and it clinks. "The Hester Grant," he says. "Twelve crowns, gold, to see you equipped. The list's inside. Wand from Pellow's, robes from Hask's, familiar from the Menagerie, and don't let Tick sell you anything with more than four legs, and there's your pastry, and you're to be at Platform Nought under Kingsmere Central by half past five this evening, which is dusk, not a minute later. Rooms at the Lamp and Ladle if you want to sleep. Most people don't. Next!"
+*page_break
+*comment ---------------------------------------------------------------- CH02.WAND.01
+*sid CH02.WAND.01
+*date 2026-09-11 03:30
+*place P07 wand_shop
+*present odile toby rowan
+Pellow & Daughters, Wandwrights, has a green door with a brass bell over it that rings about a second before you touch the handle, as if it's been expecting you.
+
+Inside, it's all drawers. Thousands of them, from the floor to a ceiling so high it's lost in shadow, long thin drawers of dark wood each with a small brass handle and a label in faded ink. Ladders on rails run along every wall. There's a workbench at the back, under a green lamp, heaped with shavings that glow faintly, like embers that don't burn. The whole shop smells of sawdust and resin and something underneath like the air before a thunderstorm. Candles burn in sconces on the drawer-ends, dozens of them, very still.
+
+@odile:neutral "Three of you at once," says a voice from the top of a ladder. "Fine. It's always busier on Letter Night. Don't touch anything. Especially you." A woman comes down the ladder, fast, like a sailor. She's striking, somewhere in her forties, with a strong face and dark knowing eyes and black curls shot with grey, tied up in a red scarf with a pencil stuck through the knot. Her leather apron is full of shavings. She points at Toby. "You. Your pastry's on fire."
+
+@toby:scared "It does that," says Toby, miserably.
+
+@odile:amused "I can see it does that. That's why you're first." She looks at him for about three seconds, the way you'd look at a horse you were thinking of buying. Then she goes up a ladder without looking, pulls a drawer, and comes back with a wand: pale, slightly crooked, about a foot long. "Birch. Heartspark of hearth-ash. Hold it. No, not like a pencil, like a spoon, you're a baker. Now think about bread."
+*meet odile
+Toby holds it like a spoon. He thinks about bread; you can see him doing it, frowning with effort.
+
+The drawer the wand came out of explodes.
+
+Not dangerously. Just thoroughly: the front of it bangs out across the shop in a shower of splinters and sawdust, and a cloud of what smells exactly like fresh bread rolls out over everyone.
+
+@odile:neutral "No," says Odile Pellow, without blinking, and takes the wand back. "Not birch." She goes up another ladder. Rowan, you notice, has quietly moved to stand between Toby and the rest of the drawers. He's still shimmering, very faintly.
+
+It takes Toby four wands. The fourth is short and plump and golden-brown, like a breadstick. When he picks it up, the burning croissant in his other hand goes out, softly, and stays out, and the whole shop smells of warm butter, and Toby Quill starts to cry.
+
+@odile:warm "Pear wood," says Odile, gently, "and a feather from a hearth-hen. That one's yours. It'll never let you burn anything you don't mean to." She pats his shoulder, twice, briskly. "Go and sit on the stool and have a little cry. Everybody does. Next."
+
+Rowan's is quick: she looks at him for one second, climbs one ladder, and hands him something long and dark and heavy. When his big hand closes on it the shimmer round him stops, completely, as if someone had turned off a tap. He looks down at it for a long time. He doesn't say anything. He doesn't have to.
+
+@odile:neutral "Oak, and a coal from a hearth that burned for a hundred years," she says. "It'll hold what you're holding. You'll still have to hold it." And then, to you: "Now you."
+
+She doesn't go up a ladder. She stands in front of you with her arms folded, and looks at you for a long time. Longer than Toby. Much longer than Rowan. Her dark eyes go over you like hands over a piece of wood, looking for the grain.
+
+@odile:attentive "Hm," she says. "No. I'm not going to choose for you. You're going to choose for yourself. Close your eyes and tell me which drawer's calling you."
+
+"Drawers don't call."
+
+@odile:amused "In here they do. Close your eyes."
+
+You close your eyes. And it's the strangest thing: she's right. With your eyes shut, the shop isn't quiet at all. It's full of little pulls and tugs, hundreds of them, like the feeling of someone looking at you from across a room. Most of them are faint. A few are stronger. And some of them are very strong indeed.
+*choice
+  #A drawer low down on the left that smells, impossibly, of bonfires and red berries.
+    *set wand_wood "rowan"
+    *set nerve +5
+    You open your eyes and go to it. The wand inside is reddish, straight, with a small knot near the handle. Odile nods as if she's heard something she expected. "Rowan. Protects. Stubborn as a mule."
+  #A black drawer with a thorn carved into the handle, cold to the touch.
+    *set wand_wood "blackthorn"
+    *set flame +5
+    You open your eyes and go to it. The wand inside is black and a little crooked, with a thorn still on it near the tip. Odile raises an eyebrow. "Blackthorn. Doesn't choose people who've had it easy."
+  #A drawer that's damp, somehow, and sounds when you get close to it like rain on a roof.
+    *set wand_wood "willow"
+    *set heart +5
+    You open your eyes and go to it. The wand inside is pale and supple, and bends very slightly in your hand like it's alive. "Willow," says Odile, softer. "Mends things. Mends people, if you let it."
+  #A plain pale drawer halfway up that nobody's dusted in years. It feels like home.
+    *set wand_wood "ash"
+    *set nerve +5
+    You open your eyes and climb for it. The wand inside is straight and pale-grey and very plain, and fits your hand as if it had grown there. "Ash," says Odile. "Honest wood. Doesn't lie to you, won't let you lie to it."
+  #One with a hazelnut shell for a handle, which you're sure just giggled.
+    *set wand_wood "hazel"
+    *set wit +5
+    You open your eyes and go to it. The wand inside is light and knotted and a warm nut-brown. "Hazel," says Odile, and something like a smile. "Clever wood. Curious. Gets you into things."
+  #A dark old drawer at the very top that you'd have to climb all the way up for.
+    *set wand_wood "yew"
+    *set wit +5
+    You open your eyes and climb for it, right to the top, with the whole shop swaying under you. The wand inside is old, dark red-brown, heavy, and cool. When you bring it down, Odile looks at it for a long moment. "Yew," she says. "Remembers. Lasts. I haven't sold one of those in six years."
+
+@odile:attentive "That's the wood," says Odile. "Now the heart. Every wand has one, a heartspark, and it's got to match what you do when you're frightened. So tell me. Honestly. When you're really frightened, what do you do?"
+*choice
+  #"Shout. I get loud."
+    *set wand_core "wren"
+    *set nerve +5
+    @odile:amused "Wren feather," she says, instantly, and goes up a ladder. "Smallest bird in the wood and the loudest. It'll never let you be quiet when you shouldn't be."
+  #"Move. Fast. Before I've thought about it."
+    *set wand_core "storm"
+    *set flame +5
+    @odile:neutral "Storm-glass," she says. "Lightning that hit sand and stayed. Quick. Volatile. Don't point it at anyone you like."
+  #"Go very still, and wait."
+    *set wand_core "pearl"
+    *set wit +5
+    @odile:warm "River pearl," she says. "Patient. Deep. It'll wait with you as long as you need."
+  #"Get angry. Hot. Like something's burning."
+    *set wand_core "ember"
+    *set flame +5
+    @odile:neutral "Ember-coal," she says, with a glance at Rowan. "Warm and fierce. You two will want to sit apart in exams."
+  #"Look for the light. Wherever it is. A window, a lamp, anything."
+    *set wand_core "moth"
+    *set heart +5
+    @odile:attentive She goes still for a second. "Moth-silk," she says, slowly. "Drawn to light. Quiet. Faithful." She looks at you a moment longer than she needs to. "Interesting."
+  #"Look up. At the sky, if I can. It helps."
+    *set wand_core "star"
+    *set wit +5
+    @odile:warm "Starlight thread," she says. "Spun from the first light of a star on a clear night. Dreamers' core. It'll show you further than you're ready to see."
+
+She fits the heartspark herself, at the workbench, under the green lamp, while you watch. It takes a minute and a half, and in that minute and a half you forget to breathe, because it's the most beautiful thing you've ever seen anyone do with their hands. When she's finished she polishes the wand on her apron and holds it out to you, handle first.
+
+You take it.
+
+It's warm. It gets warmer. And behind your breastbone, the restless thing that's been leaning towards candles all year turns over, like something waking up in a warm bed, and settles, and purrs.
+
+Every candle in the shop leans towards you.
+
+All of them. Dozens of flames in their sconces on the ends of the drawers, all the way up to the ceiling, bending at once in the same direction, the way they bent on Nana Pearl's birthday cake. Towards you. Holding it. Listening.
+
+@odile:attentive Odile Pellow looks at the candles. Then she looks at you. And her face does something complicated and very quick, like a door being opened and shut again.
+
+@odile:neutral "Well," she says, lightly. "That's not a thing I see every day." She takes a breath. "That's nine crowns. Wood's rare. Mind how you go, {name}."
+
+The candles straighten, one by one, as you walk to the door. You can feel her watching you all the way out.
+*set fr_odile 1
+*page_break
+*comment ---------------------------------------------------------------- CH02.ROBES.01
+*sid CH02.ROBES.01
+*date 2026-09-11 04:40
+*place P08 robe_shop
+*present hask saoirse
+Hask & Needle is a narrow shop full of mirrors that show you from behind, which is unsettling, and bolts of cloth in every colour, which is less so. The robes on the racks are plain: black wool, with a lining that's just grey.
+
+@hask:neutral "The colour comes when you're nested," says Madame Hask, round a mouthful of pins. She's tiny and elegant and very old, with a silver bob and a pointed face, and a tape measure round her neck that unwinds itself and begins measuring you without being asked. "Arms up."
+*meet hask
+The tape measure goes round your chest, and your waist, and your inside leg, rather too enthusiastically, and then hangs in the air in front of your face and says, in a thin papery voice: "[i]Thirty-eight, twenty-nine, needs to stand up straighter, has been eating toast in bed.[/i]"
+
+"I have not."
+
+"[i]Crumbs in the jumper,[/i]" says the tape, with satisfaction.
+
+@saoirse:laugh On the next stool, Saoirse is being measured too, and her tape has apparently already given up. It's hanging off her shoulder saying [i]I don't know, I don't know, she won't stand still[/i], and she's laughing so hard she's bent over.
+
+@saoirse:amused "Hey," she says, when she can breathe, and jerks her head at the back of the shop. "Hask does alterations. Pockets. Proper ones. I'm getting a pocket in the lining big enough for a spanner." She lowers her voice. "And one for a set of lock picks. Don't tell your handbook friend."
+
+"She's not my friend. I met her an hour ago."
+
+@saoirse:amused "You met me an hour ago," says Saoirse, "and I'm telling you about my lock picks. That's how it goes, here, I think. Everybody's new. Everybody's twenty-something and been thrown through a wall. You don't get to take it slow." She squints at you. "Want a pocket?"
+*choice
+  #"I want a pocket for my wand that nobody else can get into."
+    *set wit +5
+    @hask:neutral "Sensible," says Madame Hask, and does something with her needle that makes a pocket appear inside your sleeve, invisible and snug. "Nobody's fingers but yours."
+  #"I want a pocket that's always warm." It's going to be a cold castle.
+    *set heart +5
+    @hask:neutral "Everybody wants that one by November," says Madame Hask, and stitches a pocket into the lining over your heart. It's warm immediately, like a hand held there.
+  #"Whatever she's having." Point at Saoirse.
+    *set st_saoirse +1
+    @saoirse:laugh Saoirse whoops. Madame Hask gives you both a look of deep, old, professional despair, and gives you a pocket in the lining big enough for a spanner.
+*page_break
+*comment ---------------------------------------------------------------- CH02.MENAGERIE.01
+*sid CH02.MENAGERIE.01
+*date 2026-09-11 05:30
+*place P09 menagerie
+*present tick
+The Menagerie is at the dark end of the Row, down three worn steps, and it's warm inside the way a barn is warm: hay and animals and the slow breathing of a great many creatures asleep. Incense burns on a shelf. Lamps hang very low, turned down to a glow. There are cages everywhere, stacked to the ceiling, and none of them has a door that's shut.
+
+@tick:neutral "Come in, come in, come in," says a round bearded man, emerging from behind a stack of baskets with straw in his hair and something wriggling in his waistcoat pocket. "Ambrose Tick. Keeper. You'll be wanting a familiar. Everybody wants a familiar. Here's the thing nobody tells you: you don't pick 'em. They pick you. You just have to be standing somewhere they can see you when they decide." He beams. "So stand in the middle and look friendly."
+*meet tick
+You stand in the middle of the Menagerie and try to look friendly. It's harder than it sounds, at half past five in the morning with no sleep, holding a new wand that's still warm.
+
+All around you, in the dimness, eyes open. Dozens of them. Green and gold and black and red. Things shift in the straw. Something high up clicks its beak. There's a feeling in the room like the one in the wand shop, of being looked at from every side, and it goes on for a long time.
+
+And then one of them comes.
+*choice
+  #A black cat, who walks along the top of the cages, drops onto your shoulder, and sits there as if she's always lived there.
+    *set familiar "cat"
+    She's small and entirely black, with eyes like two coins, and she drops the last three feet onto your shoulder without asking and settles there, heavy and warm, and starts to purr loud enough to rattle your teeth. Mr Tick looks delighted. "Oh, she's never done that. She bit a bishop."
+  #A barn owl, who comes down out of the dark on silent wings and lands on your wrist.
+    *set familiar "owl"
+    She comes down out of the rafters without a sound, a pale heart-shaped face and wings like snow in the dark, and lands on your wrist, gripping hard, and turns her head all the way round to look at Mr Tick as if to say [i]well?[/i]. "Oh," says Mr Tick softly. "Oh, she's been waiting a while, that one."
+  #A brown hare, who lollops out from under a shelf and sits on your foot.
+    *set familiar "hare"
+    It comes out from under a shelf on long legs, a big brown hare with black-tipped ears and eyes like dark amber, and lollops across the floor and sits, deliberately, on your foot. Then it washes its face. "A hare," says Mr Tick. "They're very old magic, hares. They don't pick many."
+  #A fox kit, who noses out of a basket and chews your shoelace.
+    *set familiar "fox"
+    It's young, all ears and legs, russet and white with a black-socked paw, and it noses out of a basket of straw and grabs your shoelace in its teeth and pulls, growling happily, as if it's been waiting all its life to catch exactly this shoelace. "Well, that's that," says Mr Tick. "You're his now."
+  #A raven, who drops from a beam onto the cage in front of you and says your name.
+    *set familiar "raven"
+    It drops from a beam onto the cage in front of you, a big glossy raven with a beak like a knife, and looks at you with one eye and then the other. Then it opens its beak and says, in a voice like a door creaking, your name. Your actual name. "They pick up words," says Mr Tick, quickly. "Don't they. Mostly."
+  #A fat green toad, who's been sitting in your new robe's pocket this whole time.
+    *set familiar "toad"
+    You feel something heavy in your pocket, and put your hand in, and bring out a large, fat, magnificently green toad with golden eyes, who looks at you with enormous calm, as if you're the one who's turned up somewhere unexpected. "Oh, very good," says Mr Tick. "Toads are wise. Terrible at conversation, but wise."
+  #A luna moth the size of your hand, pale green and glowing, who lands on your wand.
+    *set familiar "moth"
+    It comes out of the dark like a lantern floating free: a moth the size of your spread hand, pale green, with long trailing tails on its wings and a faint glow all through it like moonlight in a leaf. It lands on the tip of your wand, and the wand warms, and the moth brightens. Mr Tick has gone very quiet. "Well," he says. "She's never chosen anybody."
+  #A ferret, who shoots out of Mr Tick's waistcoat, up your arm, and into your collar.
+    *set familiar "ferret"
+    The thing that's been wriggling in Mr Tick's waistcoat shoots out of it, a long cream-and-brown ferret with a bandit mask, and goes up your sleeve and round the back of your neck and out of your collar and back again, chattering, and finally settles round your neck like a scarf. "Oh, the cheek of him," says Mr Tick. "That's my ferret. Well. That's [i]your[/i] ferret."
+
+@tick:neutral "Now," says Mr Tick. "It'll need a name. A proper one. Not [i]Fluffy[/i]. Familiars can hear when you're not trying."
+*input_text fam_name Your familiar's name is:
+*meet familiar
+*present tick familiar
+@familiar:neutral {fam_name} looks at you when you say it. Just looks, for a long moment, with a gaze that doesn't seem entirely like an animal's. And then, very clearly, accepts it. You feel it happen: a small warm click, somewhere behind your breastbone, next to the restless thing that purred for the wand. Like two cogs meeting.
+
+@tick:neutral "That'll be two crowns," says Mr Tick. "And that's your familiar for life. They'll find you anywhere. They'll tell you when something's wrong before you know it yourself. And they'll steady that flame of yours when it gets away from you, which it will." He scratches his beard. "Feed it what it likes, not what you think it should like. And don't let it in the kitchens. Mrs Pettigrew has a goat."
+*page_break
+*comment ---------------------------------------------------------------- CH02.ALLEY.01
+*sid CH02.ALLEY.01
+*date 2026-09-11 06:20
+*place P05 lamplight_row
+*present toby rowan jory familiar
+By twenty past six the sky over the crooked roofline has gone from black to a deep dark blue, and the lamps on the Row are starting to look tired, the way lamps do at dawn.
+
+You've found the others by accident, or maybe not by accident, outside a shop selling nothing but spoons. Toby has a new wand in his cardigan pocket and a cauldron on his head, because it was easier than carrying it. Rowan has three bags and Toby's trunk under one arm. You have {fam_name}{@familiar = "cat"|, riding on your shoulder|}{@familiar = "owl"|, riding on your wrist|}{@familiar = "hare"|, loping at your heels|}{@familiar = "fox"|, loping at your heels and eating your shoelace|}{@familiar = "raven"|, riding on your shoulder muttering|}{@familiar = "toad"|, heavy and content in your pocket|}{@familiar = "moth"|, glowing softly on your collar|}{@familiar = "ferret"|, draped round your neck|}, and a wand in your sleeve, and no idea at all what you're doing, and you've never been happier.
+
+That's when the lamps go wrong.
+
+It starts at the far end of the Row. You notice it the way you'd notice a change in the weather: a darkening, a cold. One lamp, then the next, then the next, all the way down the street towards you, every flame shrinking in its glass and leaning away. Away from something. Like grass in a wind. The street goes dim in a long ripple, rose and green and gold all turning to the same dirty grey-orange, and every shop window seems to shrink into itself.
+
+And under it, so low you feel it in your teeth before you hear it, a sound.
+
+It isn't music. It's a hum. One long note, three voices, so low and so steady it seems to come up out of the cobbles, and it's the loneliest sound you have ever heard. It's the sound a house makes when everyone's gone. It goes into your chest and takes hold of the warm thing behind your breastbone, the thing that purred for the wand, and [i]pulls[/i].
+
+It hurts. It's like a hand closing on something that's yours.
+*if (familiar = "cat") or (familiar = "fox") or (familiar = "ferret")
+  @familiar:neutral {fam_name} goes rigid against you, every hair on end, and makes a sound you've never heard an animal make: a low, furious, frightened growl, pointed down the side alley on your left.
+*if (familiar = "owl") or (familiar = "raven")
+  @familiar:neutral {fam_name}'s claws dig into you so hard they nearly draw blood, and every feather goes flat and sleek, and the head turns, slowly, to stare down the side alley on your left.
+*if (familiar = "hare") or (familiar = "toad") or (familiar = "moth")
+  @familiar:neutral {fam_name} goes utterly still against you, the way small animals go still when a hawk goes over{@familiar = "moth"|, and the glow in its wings shrinks to almost nothing|}, and you follow where it's pointed: down the side alley on your left.
+
+There are three of them in the alley.
+
+They're standing in a row in the dark between two shops, not doing anything. Grey robes, hoods up, faces lost in shadow. Their hands are bare and grey and folded in front of them, very still. They aren't looking at you. They aren't looking at anything. They're just standing, humming, with their mouths closed, and the lamps on either side of the alley are leaning so far away from them the flames are nearly flat.
+
+You look at them, and you get the strangest feeling. As if, where they're standing, there's nothing there at all. Not people-shaped darkness. [i]Nothing.[/i] A hole in the world with robes on.
+
+@toby:scared "What is that," says Toby, very small. "What [i]is[/i] that."
+
+@rowan:tense Rowan doesn't say anything. He puts down the trunk. He steps in front of Toby, big and square, one hand going to his new wand, and the shimmer rolls off him again in a wave you can feel from a yard away, like standing in front of an open oven. The nearest lamp, leaning away from the singers, leans back towards him, just a little, as if it's glad he's there.
+*choice
+  #Step up beside Rowan. Two's harder to hum at than one.
+    *set b_rowan_lamp true
+    *set st_rowan 2
+    *set nerve +10
+    You don't decide to. Your legs do it. You're next to him, shoulder to shoulder, your new wand in your hand, pointing at a hole in the world, with absolutely no idea what you'd do with it.
+
+    @rowan:tense He glances down at you. Just once. "All right?" he says, very quietly, the way you'd say it to someone on a ladder.
+
+    "No."
+
+    @rowan:neutral "Me neither," says Rowan Ashby. And stays exactly where he is.
+  #Pull Toby back into a shop doorway, out of the line of the alley.
+    *set heart +10
+    *set fr_toby +1
+    You grab Toby by his cardigan and pull him back into the doorway of the spoon shop, out of the line of the alley, and hold on. He's shaking. So are you. He grips your arm with both hands.
+
+    @toby:scared "Thank you," he whispers. "Thank you, thank you."
+  #Look at them. Really look. Try to see what's under the hoods.
+    *set flame +10
+    You look at them. You don't know why. Something in you wants to understand.
+
+    It's like looking at a hole in ice: your eyes slide off it. But for a second, the thing behind your breastbone gives a sharp, painful lurch towards them, like a dog straining at a lead, and you see something. Not a face. A light. A tiny grey guttering light, deep inside the middle one, like the last ember in a grate. And around it, nothing. Cold. Nothing at all.
+
+    Then the hum rises, just a little, as if something in there has noticed you looking. And you look away, fast, with your heart going like a train.
+
+@jory:tense "Oi! [i]Oi![/i] Move along! Move [i]along![/i]" Someone's running up the Row towards you, boots loud on the cobbles: a young man, maybe your age, in a long dark greatcoat several sizes too big for him, with a brass lamp on the end of a pole held up in front of him like a torch. The lamp burns white, a hard steady white, and doesn't lean at all. "Move along, move along, nothing to see, it's buskers, it's just buskers..."
+
+He plants himself at the mouth of the alley with the lamp held out, and he's shaking so badly the light shakes with him.
+
+The humming stops.
+
+It doesn't fade. It stops, like a tap turned off. And when you look back into the alley, there's nobody there. Three grey robes, empty, fall softly onto the cobbles and lie there like shed skins. Then, as you watch, they crumble into ash, and blow away.
+
+All down the Row, the lamps sit up straight again, rose and gold and green, as if nothing happened.
+
+@jory:neutral "Right," says the young man with the lamp, breathing hard. He has a boyish open face, brown curls, and a brass badge on his coat in the shape of a lamp. "Right. Good. Buskers. All sorted." He looks at the four of you, and at the cauldron on Toby's head, and something in his face goes grim. "New students? Letter Night?"
+*meet jory
+"Yes," you say. "What was..."
+
+@jory:tense "Nothing. Buskers. Get off the street. Go to the Lamp and Ladle and stay inside till your train and don't go down any side alleys." He's already looking up and down the Row, lamp raised. "Jory Penrose. Order of the Lamp. Don't... just don't go down any side alleys." And he's gone, running, long coat flapping, the white light bobbing away between the leaning houses.
+
+The warm thing in your chest is still aching where the hum took hold of it. You put your hand flat on your breastbone, and feel it beating, like a second heart, frightened.
+*page_break
+*comment ---------------------------------------------------------------- CH02.LADLE.01
+*sid CH02.LADLE.01
+*date 2026-09-11 07:00
+*place P10 lamp_ladle
+*present toby rowan imogen saoirse familiar
+The Lamp & Ladle is the kind of place that has been open all night for three hundred years and sees no reason to stop now. The ceiling's low and black with smoke, the fire's roaring, every chair is different, and there's a cat asleep on every table, including, you notice, a table where somebody's eating. The soup comes in bowls the size of hubcaps. At seven o'clock in the morning, it's the best thing you've ever tasted.
+
+You didn't arrange to meet Imogen and Saoirse. They're just there, in the corner by the fire, as if the Row had put you all in the same pocket: Imogen with her handbook propped against the bread basket and Saoirse with her boots on the table and a plate of chips. When Toby tells them about the alley, all in one breath, Saoirse takes her boots off the table. Imogen goes pale and turns, without looking, to a page near the back.
+
+@imogen:tense "Appendix F," she says. "Hazards. Page nine hundred and twelve." She reads it out in a low, flat voice, like evidence. "[i]The Grey Choir is a proscribed association of practitioners of the Quiet Art: the extinguishing of another's flame by sustained vocal resonance. Its members are to be avoided and reported to the Order of the Lamp. Students in their Burning Year are at particular risk, as a late flame, being unset, may be taken entire. Keep your flame close.[/i]" She closes the book. "That's it. That's all it says. Half a page, in a fourteen-hundred-page book, and it's the only bit that isn't about uniform."
+
+Nobody says anything for a moment. The fire crackles. A cat on the next table rolls over in its sleep.
+
+@saoirse:tense "[i]Taken entire,[/i]" says Saoirse, eventually. For once, she isn't smiling. "What does that mean?"
+
+@rowan:neutral "It means they wanted what's in here," says Rowan quietly, and taps his chest. He doesn't look at any of you. "I felt it. They were pulling."
+
+@toby:scared "I felt it too," says Toby. "Like somebody pulling a thread."
+
+@imogen:neutral "Everyone felt it," says Imogen. She says it firmly, the way you'd say it to a jury, and turns the handbook face down on the table as if it has personally let her down. But under the table, you notice, her hand is holding her other wrist very tightly.
+
+There's a lot you could say. There's one person, you think, who needs someone to say it to them.
+*choice
+  #Sit by Rowan. Ask him how he knew to step in front of Toby.
+    *set b_rowan_lamp true
+    *set st_rowan 2
+    *set heart +5
+    "How did you know to do that?" you ask him, quietly, under the others' voices. "Step in front."
+
+    @rowan:neutral He looks at his soup for a while. "Eleven years in the fire service," he says. "You don't know. You just go where the heat's coming from and stand between it and whoever's smaller." He almost smiles. "Doesn't mean I wasn't bricking it."
+
+    @rowan:warm "You didn't run either," he adds, after a moment. "I noticed."
+  #Ask Imogen the next question. What does the Order of the Lamp actually do?
+    *set b_imogen_handbook true
+    *set st_imogen 2
+    *set wit +5
+    "What's the Order of the Lamp?" you ask her. "That boy said he was from it. What do they do? Where are they based? How many of them are there?"
+
+    @imogen:attentive She looks at you with sudden sharp interest, as if you've said something much cleverer than you have. "Page seven hundred and forty," she says. "Nobody else has asked. They're... everybody just asks about robes." She flips. "Founded 1703. Kingsmere. [i]The Lamplighters.[/i] Numbers not published." A pause. "I'm going to join them. When I leave. That's the plan." She says it as if she's never said it out loud to anyone.
+
+    @imogen:warm "You ask good questions," she says, a little stiffly, like someone giving a reference. "Keep doing that."
+  #Sit with Toby. He's shaking again, and pretending not to be.
+    *set fr_toby 2
+    *set heart +5
+    You sit down next to Toby, close enough that your shoulders touch, and don't say anything, and push your soup towards him because he hasn't touched his.
+
+    @toby:warm He looks at you. Then he eats your soup. Then he eats his. "I'm so glad I fell on you," he says, with his mouth full. "Out of everybody. I'm really glad it was you."
+  #Ask Saoirse how she's so calm. She's the only one of you still eating chips.
+    *set st_saoirse +1
+    *set nerve +5
+    "How are you so calm?" you ask her.
+
+    @saoirse:amused "I'm not," says Saoirse cheerfully, and holds up her hand. It's trembling. "I'm just eating through it. Chip?" You take one. She grins. "See. Better."
+
+@toby:neutral Eventually, full of soup, the four of you go upstairs to rooms Mr Fitch has paid for, under sloping ceilings with windows onto the Row. You lie down on a bed with a patchwork quilt, with {fam_name} {@(familiar = "owl") or (familiar = "raven")|on the bedpost|curled against your side}, and your wand under the pillow, and you think [i]I will never sleep, never, not after that[/i].
+
+You sleep for nine hours without dreaming, and wake to Toby knocking on the door at half past four in the afternoon, shouting that the train leaves at half five and he can't find his other shoe.
+*journal [b]Chapter 2.[/b] On Lamplight Row you met Toby Quill, a baker whose croissants catch fire; Imogen Sallow, who has read the handbook; Rowan Ashby, a firefighter who walked out of a fire; and Saoirse Maddock, who brought a motorbike. Your wand is {wand_wood}. Your familiar is {fam_name}. When you took your wand, every candle in Pellow's leaned towards you. At dawn, three grey hooded figures in an alley hummed, and every lamp on the Row leaned away from them.
+*page_break
+*goto_scene ch03
+`);
