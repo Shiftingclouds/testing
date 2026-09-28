@@ -132,7 +132,7 @@ There's an empty jar at the end of the counter with a label on it in curly writi
   @noor:tense Noor goes straight to the counter. "Has anybody who ate one been ill? Cold hands? Nightmares?" And when Mr Ombree, startled, says he doesn't think so, she makes him write down her name, and the Infirmary, in case.
 *if village_with = "cas"
   *present cas
-  @cas:neutral Cas, who's been looming by the liquorice pretending not to enjoy himself, puts down the bootlaces. "Good," he says, to Mr Ombree, surprisingly. "You did right." Mr Ombree blinks at him, and at his silver-and-black scarf, and at his face, and seems to decide not to ask.
+  @cas:neutral Cas, who's been looming by the liquorice pretending not to enjoy himself, puts down the bootlaces. "Good," he says, to Mr Ombree, surprisingly. "You did right." Mr Ombree blinks at him, and at his {@cas_house = "owlcombe"|plum-and-silver|black-and-copper} scarf, and at his face, and seems to decide not to ask.
 *if village_with = "idris"
   *present idris
   @idris:attentive Idris has his notebook out again before Mr Ombree has finished. "Which day last month?" he asks. "Please. It matters." And when Mr Ombree tells him, the fourteenth, the morning Bram was found on the Rookery stair, Idris writes it down, and underlines it twice, and doesn't say anything for a long time.
@@ -240,7 +240,7 @@ The hearthale comes in a pewter tankard, hot, foaming, the colour of dark honey.
       @noor:shy She wakes with a jerk, mortified. "I wasn't asleep." She was. "I was resting my eyes." But she smiles, and doesn't let go of your sleeve for a while.
 *if village_with = "cas"
   *present cas
-  @cas:guarded Cas sits with his back to the wall, in the corner, where he can see the door, and drinks his hearthale in small precise sips, and every few minutes someone at another table looks over at him, at his face, at his silver-and-black scarf, and whispers. He pretends not to notice. His jaw says he notices.
+  @cas:guarded Cas sits with his back to the wall, in the corner, where he can see the door, and drinks his hearthale in small precise sips, and every few minutes someone at another table looks over at him, at his face, at his {@cas_house = "owlcombe"|plum-and-silver|black-and-copper} scarf, and whispers. He pretends not to notice. His jaw says he notices.
   *choice
     #Move so you're sitting between him and the room.
       *set st_cas +1
