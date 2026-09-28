@@ -112,7 +112,7 @@ Imogen has been in the Long Stacks every night since Thimble Cross.
 
 You find her there on Saturday, at ten o'clock, in the music section, which you didn't know the Long Stacks had: three whole bays at the back of the second gallery, dusty, forgotten, stacked to the ceiling with songbooks and hymnals and old sheet music gone brown at the edges, and Imogen sitting on the floor in the middle of it all with a candle and six piles of books and a face like a knife.
 
-@imogen:tense "It's not here," she says, before you've said anything. "It's a song. It's a [i]song[/i], it's three hundred years old, it's the only thing that's ever pushed them back, and there's nothing. I've been through two hundred and eleven books. Carols. Hymns. Folk songs. Wordcraft chants. Sea shanties, for pity's sake." She puts the one she's holding down on a pile. "Odile Pellow's gran sang it in a wand shop. Somebody must have written it down."
+@imogen:tense "It's not here," she says, before you've said anything. "It's a song. It's a [i]song[/i], it's four hundred years old, it's the only thing that's ever pushed them back, and there's nothing. I've been through two hundred and eleven books. Carols. Hymns. Folk songs. Wordcraft chants. Sea shanties, for pity's sake." She puts the one she's holding down on a pile. "Odile Pellow's gran sang it in a wand shop. Somebody must have written it down."
 *choice
   #Sit down on the floor beside her and take a pile.
     *set heart +5
@@ -127,7 +127,7 @@ You read.
 It's slow, and dusty, and mostly hopeless. Hymns about the harvest. Carols about the Wren King. Fourteen different versions of a song about a sailor and a mermaid, none of them repeatable. Somewhere around midnight, Miss Dunne comes down the gallery with her own candle, tiny and birdlike, with pencils stuck through her white bun like pins in a pincushion, and looks at the two of you on the floor among her books, and doesn't tell you to leave. She stands and watches you for a while. Then she goes away, and comes back, with a book in her arms.
 
 *meet dunne
-@dunne:neutral "The Wrenfold Carol Book," she says, in her voice like a creaking door, and sets it down on the floor between you. It's enormous, and very old, bound in cracked green leather, with brass corners. "Seventeen hundred and two. The first choir of the school. It was never catalogued; I found it in the Old Cloisters when I was a girl, sixty years ago, and I've kept it in my office since, because nobody else wanted it." She sniffs. "Page ninety-one. Don't touch the margins with your fingers. The ink's older than the castle roof."
+@dunne:neutral "The Wrenfold Carol Book," she says, in her voice like a creaking door, and sets it down on the floor between you. It's enormous, and very old, bound in cracked green leather, with brass corners. "Seventeen hundred and two. The school choir copied it out from older books, some of them Hester's own. It was never catalogued; I found it in the Old Cloisters when I was a girl, sixty years ago, and I've kept it in my office since, because nobody else wanted it." She sniffs. "Page ninety-one. Don't touch the margins with your fingers. The ink's older than the castle roof."
 
 Imogen's already turning the pages. Her hands are shaking.
 

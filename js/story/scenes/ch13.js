@@ -316,7 +316,7 @@ It's warm. Warm as a hearthstone. Warm as a hand. And your flame goes up in you 
 
 And behind the door, far away, deep down, something is humming.
 
-Not the warm lantern-hum you've heard every day since September. Not quite. And not the Choir's hum either, the low long lonely one, not quite. Something in between. A great slow warm note, like a hive, like a heart, like a fire that's been burning for three hundred years. And, underneath it, very faint, so faint you'd miss it if you didn't know it, a thinner sound. Low. Long. Like a draught under a door.
+Not the warm lantern-hum you've heard every day since September. Not quite. And not the Choir's hum either, the low long lonely one, not quite. Something in between. A great slow warm note, like a hive, like a heart, like a fire that's been burning for four hundred years. And, underneath it, very faint, so faint you'd miss it if you didn't know it, a thinner sound. Low. Long. Like a draught under a door.
 
 As if something is getting in.
 *if (st_idris >= 2) and (hurt_idris < 2)
