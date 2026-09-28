@@ -65,6 +65,8 @@ def("final_rel", "string", "", "Who you end with", ["", "single", ...LEADS]);
 def("final_shape", "string", "", "Together or parting", ["", "together", "parting"]);
 def("promise7", "string", "", "Who you promised the evening of 10 October", ["", "rowan", "saoirse", "noor"]);
 def("kept7", "bool", false, "You kept that promise");
+def("ember_with", "string", "", "Who you walked down to the Mere with at Emberfall", ["", "toby", "alone", ...LEADS]);
+def("mask", "string", "", "Your Emberfall mask", ["", "fox", "stag", "moth", "leaves", "domino"]);
 def("dance", "string", "", "Who you went to the Longnight Dance with", ["", "toby", "alone", ...LEADS]);
 def("candle", "string", "", "Who you gave your Candlewake candle to", ["", "toby", "nana", "kestrel", "kept", ...LEADS]);
 

@@ -88,6 +88,8 @@
   "final_shape": "",
   "promise7": "",
   "kept7": false,
+  "ember_with": "",
+  "mask": "",
   "dance": "",
   "candle": "",
   "e01": false,
