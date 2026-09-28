@@ -16,6 +16,33 @@ const endings = [
 ];
 
 const passages = [];
+function passage(slot, id, when, summary) { passages.push({ slot, id, when, summary }); }
+const LEADS = ["rowan", "imogen", "saoirse", "cas", "noor", "idris"];
+// 1. the anchor: one per ending
+passage("anchor", "ANC_A", 'ending = "A"', "The Lantern Hall a year on: the Proving, the song sung by the new first-years, Morrow in the Order's keeping.");
+passage("anchor", "ANC_B", 'ending = "B"', "St Ide's a year on: you and Idris relighting the hollowed, one a week; an old man in a cottage who can light a candle.");
+passage("anchor", "ANC_C", 'ending = "C"', "The new Wrenfold, a year on, in a borrowed house: every lantern lit by hand.");
+passage("anchor", "ANC_D", 'ending = "D"', "Viaduct Street a year on, without magic, remembering everything, and your friends at the door.");
+passage("anchor", "ANC_E", 'ending = "E"', "A year on, alone, burning: Morrow was right about how it feels.");
+passage("anchor", "ANC_F", 'ending = "F"', "The Fen a year on, with the Lamplighters, still hunting.");
+passage("anchor", "ANC_GT", 'ending = "G_T"', "A year on: Toby, alive, and what the choice cost.");
+passage("anchor", "ANC_GM", 'ending = "G_M"', "A year on: Maisie and her father, alive, and what the choice cost.");
+passage("anchor", "ANC_GK", 'ending = "G_K"', "A year on: the Headmistress, alive, and what the choice cost.");
+passage("anchor", "ANC_H", 'ending = "H"', "A year on: the Fen, the paper, the letter, and the road not taken.");
+// 2. the relationship, or the life you chose
+for (const l of LEADS) {
+  passage("rel", "REL_" + l.toUpperCase() + "_TOGETHER", '(final_rel = "' + l + '") and (final_shape = "together")', l + ", together, a year on.");
+  passage("rel", "REL_" + l.toUpperCase() + "_PARTING", '(final_rel = "' + l + '") and (final_shape != "together")', l + ", apart, a year on.");
+}
+passage("rel", "REL_SINGLE", '(final_rel = "single") or (final_rel = "")', "The life you chose, a year on, with friends in it.");
+// 3. supporting consequences: two or three on every walk
+passage("conseq", "CON_TULLY", 'ending != "G_M"', "Mr Tully and Maisie, a year on.");
+passage("conseq", "CON_TOBY", 'ending != "G_T"', "Toby, a year on: awake, or waiting, or gone.");
+passage("conseq", "CON_NANA", 'told_nana', "Nana Pearl, who knew, a year on.");
+passage("conseq", "CON_DEV", 'not(told_nana)', "Dev, who never asked, a year on.");
+// 4. the last image
+passage("final", "FIN_LANTERN", 'ending != "D"', "One lantern, lit by your hand.");
+passage("final", "FIN_CANDLE", 'ending = "D"', "One candle, lit by somebody else's hand, for you.");
 const slots = ["anchor", "rel", "final"];
 
 module.exports = { endings, passages, slots };

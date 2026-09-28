@@ -73,7 +73,8 @@
     var p = PL.people[who];
     if (!p || !st.date) return "";
     var s = statusOn(p, st.date, st.vars);
-    if (s === "dead") return "dead on " + st.date;
+    // the dead walk at Emberfall and Midsummer, as ghosts
+    if (s === "dead" && ["10-31", "11-01", "06-20", "06-21"].indexOf(st.date.slice(5)) < 0) return "dead on " + st.date;
     return "";
   }
 

@@ -12,7 +12,7 @@ module.exports = [
     next: "CH14.CANDLE.02"
   },
   {
-    id: "CH14.CANDLE.02", date: "2027-02-02", time: "06:30", place: "P12", cast: ["MC", "C07"], maybe: ["C01", "C02", "C03", "C04", "C05", "C06"], kind: "common",
+    id: "CH14.CANDLE.02", date: "2027-02-02", time: "06:30", place: "P12", cast: ["MC", "C07"], maybe: ["C01", "C02", "C03", "C04", "C05", "C06", "C08"], kind: "common",
     purpose: "Dawn: four hundred candles carried across the frozen Mere. Who you walk beside, and what they tell you (Rowan admits he's afraid; Noor falls apart). Who you give your candle to.",
     next: "CH14.HALL.01"
   },

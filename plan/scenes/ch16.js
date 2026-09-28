@@ -12,7 +12,7 @@ module.exports = [
     next: "CH16.HONORIA.01"
   },
   {
-    id: "CH16.HONORIA.01", date: "2027-02-27", time: "14:00", place: "P36", cast: ["MC", "C04", "C46", "C08"], kind: "common",
+    id: "CH16.HONORIA.01", date: "2027-02-27", time: "14:00", place: "P36", cast: ["MC", "C04", "C46", "C08", "C40"], kind: "common",
     purpose: "Honoria Drummond won't set foot in Wrenfold; she meets her grandson in the back parlour of the Crooked Lantern. Lucius's confession, written before he died. Hester Wren's journal, which the Deputy took home in 1986. Cas learns what his grandfather did, with you beside him.",
     next: "CH16.JOURNAL.01"
   },

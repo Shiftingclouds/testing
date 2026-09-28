@@ -24,7 +24,7 @@ module.exports = [
   {
     id: "CH19.ROUTE.01", date: "2027-03-22", time: "21:00", place: "P21", cast: ["MC"], maybe: ["C01", "C02", "C03", "C04", "C05", "C06"], kind: "branch", when: 'order_offer = "stay"',
     purpose: "The Observatory roof on a clear spring night. Whoever you've come closest to comes up the stair after you and says what they want. You choose what you want back.",
-    choices: LEADS.map((l) => ({ id: l, text: "Say yes to " + l + ".", type: "relational", set: { ["st_" + l]: 5 }, to: "CH20.SONG.01" }))
+    choices: LEADS.map((l) => ({ id: l, text: "Say yes to " + l + ".", type: "relational", set: { ["st_" + l]: 5, final_rel: l }, to: "CH20.SONG.01" }))
       .concat([{ id: "none", text: "Not now.", type: "relational", to: "CH20.SONG.01" }]),
     next: "CH20.SONG.01"
   },

@@ -126,6 +126,8 @@
   "kit_lit": false,
   "odile_lit": false,
   "singers": 0,
+  "song_held": false,
+  "fought_morrow": false,
   "plan22": "",
   "heartfire_choice": "",
   "saved_one": "",

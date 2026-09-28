@@ -7,12 +7,12 @@ module.exports = [
     next: "CH11.SWEETS.01"
   },
   {
-    id: "CH11.SWEETS.01", date: "2026-12-05", time: "11:30", place: "P35", cast: ["MC", "C41"], maybe: ["C01", "C02", "C03", "C04", "C05", "C06", "C07"], kind: "common",
+    id: "CH11.SWEETS.01", date: "2026-12-05", time: "11:30", place: "P35", cast: ["MC", "C41"], maybe: ["C20", "C01", "C02", "C03", "C04", "C05", "C06", "C07"], kind: "common",
     purpose: "Sugar & Sorcery. Mr Ombree has stopped selling humming humbugs this year. A Longnight present, and for whom.",
     next: "CH11.LANTERN.01"
   },
   {
-    id: "CH11.LANTERN.01", date: "2026-12-05", time: "13:00", place: "P36", cast: ["MC", "C40", "C34"], maybe: ["C01", "C02", "C03", "C04", "C05", "C06", "C07"], kind: "common",
+    id: "CH11.LANTERN.01", date: "2026-12-05", time: "13:00", place: "P36", cast: ["MC", "C40", "C34"], maybe: ["C20", "C01", "C02", "C03", "C04", "C05", "C06", "C07"], kind: "common",
     purpose: "The Crooked Lantern, hearthale by the fire. Jory comes in blue with cold: six Lamplighters for the whole village; the Commander is at St Ide's with Bram. The Order can't be everywhere.",
     next: "CH11.CHOIR.01"
   },
@@ -22,7 +22,7 @@ module.exports = [
     next: "CH11.AFTER.01"
   },
   {
-    id: "CH11.AFTER.01", date: "2026-12-05", time: "18:00", place: "P36", cast: ["MC", "C30", "C33", "C08", "C40"], kind: "common", allowHollowed: true,
+    id: "CH11.AFTER.01", date: "2026-12-05", time: "18:00", place: "P36", cast: ["MC", "C30", "C33", "C08", "C40"], maybe: ["C01", "C02", "C03", "C04", "C05", "C06", "C07", "C20"], kind: "common", allowHollowed: true,
     purpose: "The Crooked Lantern turned into a first-aid post. Odile by the fire, hollowed and polite. The Headmistress names the song: the Wren's Song, Hester Wren's, which can't be sung alone.",
     next: "CH12.FROST.01"
   }
