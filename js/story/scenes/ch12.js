@@ -72,7 +72,7 @@ You get up. You look round the Frost Market: at the lanterns and the skaters and
       *set st_noor +1
       *present noor
       *if st_noor >= 4
-        @noor:shy She finishes strapping the ankle before she looks up. Then she looks up, and her face does something complicated and soft. "Nobody's asked me," she says quietly. "In four years. I think they think I'll be working." She tucks the end of the bandage in. "I'd like to not be working. With you. Yes."
+        @noor:shy She finishes strapping the ankle before she looks up. Then she looks up, and her face does something complicated and soft. "Nobody ever asks me to things," she says quietly. "I think they think I'll be working." She tucks the end of the bandage in. "I'd like to not be working. With you. Yes."
       *else
         @noor:surprised Noor looks up at you as if you've spoken a foreign language. "Me?" she says. "Oh. I'm usually on duty at the Dance. For the ones who have too much punch." She hesitates. "Matron did say I could have the night off. Yes. All right. Yes."
   *if (st_cas >= 2) and (hurt_cas < 2)
@@ -90,7 +90,7 @@ You get up. You look round the Frost Market: at the lanterns and the skaters and
       *set st_idris +1
       *present idris
       *if st_idris >= 4
-        @idris:shy He watches you come up the steps. He waits until you've asked, all the way to the end. Then he says, "I've never been. Four years, I've never been." He looks at you with his dark serious eyes. "I think I was waiting to be asked by the right person. I didn't know that until now. Yes."
+        @idris:shy He watches you come up the steps. He waits until you've asked, all the way to the end. Then he says, "Last year I didn't go. I sat in the Long Stacks and listened to it through the floor." He looks at you with his dark serious eyes. "I think I was waiting to be asked by the right person. I didn't know that until now. Yes."
       *else
         @idris:attentive "The Dance," says Idris, as if it's an interesting historical question. He looks at you. "I don't dance. I'd planned to use the evening to read." A pause. "Yes. All right. I'd rather that."
   #Go with Toby and Priya and the whole gang. Nobody's pairing off; everybody's dancing.
@@ -199,7 +199,7 @@ And the bands start again, all four at once, in the same tune for once, and the 
   @saoirse:laugh Saoirse is in black and copper with her dark hair full of tiny brass cogs that catch the light, and she dances like she flies: too fast, too close to the edges, laughing, spinning you under the hanging snow until you're dizzy. And then the Owlcombe strings start a slow one, and she says, "Oh no," and tries to go and get a drink, and you catch her hand. She looks at you. And stays. And for four whole minutes, Saoirse Maddock stands almost still, swaying, with her forehead on your shoulder, and doesn't say one word.
 *if dance = "noor"
   *present noor
-  @noor:shy Noor is in sea-green, with her plait pinned up and pearls in it, and when she walks into the Hall at least three people who've known her for four years don't recognise her. She keeps looking round for someone who needs her, out of habit. You keep turning her back. By the fourth dance she's stopped looking. By the sixth she's laughing, properly, with her head back, at something you said that wasn't even that funny, and Matron Holloway, on duty by the punch, sees her, and looks at you, and nods once, as if you've done something she's been trying to do for years.
+  @noor:shy Noor is in sea-green, with her plait pinned up and pearls in it, and when she walks into the Hall at least three people who've sat next to her every day since September don't recognise her. She keeps looking round for someone who needs her, out of habit. You keep turning her back. By the fourth dance she's stopped looking. By the sixth she's laughing, properly, with her head back, at something you said that wasn't even that funny, and Matron Holloway, on duty by the punch, sees her, and looks at you, and nods once, as if you've done something she's been trying to do for years.
 *if dance = "cas"
   *present cas
   @cas:guarded Cas walks into the Lantern Hall beside you in black velvet so severe it looks like armour, with his chin up and his jaw set, and the whole Hall turns and looks. He was right. It is a spectator sport. For about a minute. And then Rookhallow's drums start, and he says, through his teeth, "Well, we're here now," and takes your hand, and it turns out that Casimir Drummond can [i]dance[/i]. Properly. Old-fashioned, perfect, the kind somebody made him learn as a boy in a house with too many portraits. People stop staring at him and start staring at the two of you instead, which is different, and he notices, and something in his face comes unlocked.
@@ -294,7 +294,7 @@ The clock finishes striking. The blue goes on burning. Someone starts to sing an
   *set st_saoirse +1
 *if dance = "noor"
   *present noor
-  @noor:warm Noor falls asleep on your shoulder on a bench by the fire at half past twelve, in her pearls, and you let her. When Matron comes to fetch her, she looks at you both and says, "Leave her. First time in four years she's slept at a party instead of working one." And puts a blanket over both of you.
+  @noor:warm Noor falls asleep on your shoulder on a bench by the fire at half past twelve, in her pearls, and you let her. When Matron comes to fetch her, she looks at you both and says, "Leave her. First time since September she's slept at a party instead of working one." And puts a blanket over both of you.
   *set st_noor +1
 *if dance = "cas"
   *if not(b_cas_family)
