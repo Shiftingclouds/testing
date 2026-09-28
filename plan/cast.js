@@ -125,7 +125,7 @@ const cast = [
   { id: "C30", name: "Odile Pellow", age: 46, kind: "row", tier: "supporting",
     appearance: "Striking woman with a strong face, dark knowing eyes and a wide mouth. Black curly hair shot with grey, tied in a scarf; olive skin. Leather apron with wand-wood shavings, a pencil through her bun.",
     notes: "Wandwright. Hollowed at Thimble Cross, 5 December, singing the counter-song.",
-    status: [{ date: "2026-12-05", state: "hollowed", note: "Thimble Cross high street" }], moods: ["neutral", "warm", "hollowed"] },
+    status: [{ date: "2026-12-06", state: "hollowed", note: "Thimble Cross high street, the afternoon of 5 December" }], moods: ["neutral", "warm", "hollowed"] },
   { id: "C31", name: "Madame Hask", age: 70, kind: "row", tier: "minor",
     appearance: "Small, sharp, elegant old woman with a pointed face, a mouthful of pins and a measuring tape round her neck that moves by itself. Silver bob; pale skin.",
     notes: "Robe-maker at Hask & Needle.", moods: ["neutral"] },

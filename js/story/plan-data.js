@@ -89,6 +89,9 @@
   "promise7": "",
   "kept7": false,
   "ember_with": "",
+  "village_with": "",
+  "gift_for": "",
+  "sang_odile": false,
   "mask": "",
   "dance": "",
   "candle": "",
@@ -1005,9 +1008,9 @@
    "appearance": "Striking woman with a strong face, dark knowing eyes and a wide mouth. Black curly hair shot with grey, tied in a scarf; olive skin. Leather apron with wand-wood shavings, a pencil through her bun.",
    "status": [
     {
-     "date": "2026-12-05",
+     "date": "2026-12-06",
      "state": "hollowed",
-     "note": "Thimble Cross high street"
+     "note": "Thimble Cross high street, the afternoon of 5 December"
     }
    ],
    "moods": [
