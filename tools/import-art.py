@@ -4,6 +4,7 @@
   art/masters/portraits/*.png     (1122 x 1402 RGBA)  -> art/portraits/*.png   256 x 320, shown at 128 x 160
   art/masters/environments/*.png  (1672 x 941 RGB)    -> art/places/*.png      640 x 360, shown at 640 x 360
   art/masters/snapshots/*.png     (any 16:9)          -> art/snapshots/*.png   640 x 360
+  art/masters/cards/*.png         (any 16:9)          -> art/cards/*.png       640 x 360 (chapter and ending cards)
   art/masters/cinematic/*.png     (16:9 frames/layers) -> art/cinematic/*.png  640 x 360 (the opening film; replaces the concept frames)
 
 Portraits: downscaled with premultiplied alpha (no dark or light fringe), then the alpha is made binary (solid figure,
@@ -68,7 +69,7 @@ def film(src, dst):
 def main():
     check = "--check" in sys.argv
     jobs = [("portraits", "portraits", portrait), ("environments", "places", wide), ("snapshots", "snapshots", wide),
-            ("cinematic", "cinematic", film)]
+            ("cards", "cards", wide), ("cinematic", "cinematic", film)]
     for sub, target, fn in jobs:
         files = pngs(os.path.join(M, sub))
         print(f"{sub}: {len(files)} master(s)")

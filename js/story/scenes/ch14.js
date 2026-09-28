@@ -122,6 +122,7 @@ At half past six on the morning of the second of February, in the blue dark befo
 You'll remember it for the rest of your life. The cold, so sharp it makes your teeth ache. The ice under your boots, black and glassy and creaking, with the stars still showing in it. The breath of four hundred people going up in the dark. And the candles: four hundred small flames, gold and rose and green and blue, cupped in four hundred pairs of gloved hands, moving out across the black ice in a long loose river of light, from the boathouse towards the far shore, where the Candlestones jetty is, and the hill, and the sky just starting to go pale behind it.
 
 Nobody talks. It's a rule. You walk in silence, and you carry your candle, and you think about who it's for.
+*snapshot candlewake
 
 Yours is burning white. You relit it at the boathouse, with your thumb, when nobody was looking. You keep it cupped very close.
 

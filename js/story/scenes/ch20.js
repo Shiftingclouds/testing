@@ -242,6 +242,7 @@ And you sing.
 Up, and round, and back down, like a bird going round a chimney. And behind you, above you, all round you, the others come in, house by house: the lark, high and bright; the owl, low and patient; the heron, still water; the rook, hopping and doubling back. Five voices. Hundreds of throats. Going round the chimney in five directions at once.
 
 And where they cross, the Old Cloisters [i]ring[/i].
+*snapshot choir
 
 It's the kitchen at Viaduct Street. It's the high street at Thimble Cross. It's the note that isn't any of the voices, high and clear and bright, like a finger round the rim of a glass, but a thousand times bigger, so that the stone pillars ring with it and the carved wrens on them seem to shiver and the candles all lean towards the middle of the room at once. And behind you, through the wren door, far down, something enormous and warm and slow turns over in its sleep and [i]answers[/i].
 *if singers >= 12

@@ -59,6 +59,12 @@ Tall, broad-shouldered, open square face with a strong jaw and a slightly crooke
 - `c01-rowan-tense.png`: worried, jaw set
 - `c01-rowan-hurt.png`: wounded, eyes down
 - `c01-rowan-flare.png`: flame surging: eyes lit gold from inside, a heat-haze round the head
+- `c01-rowan-shy.png`: shy
+- `c01-rowan-grave.png`: serious, heavy news
+- `c01-rowan-surprised.png`: surprised
+- `c01-rowan-scared.png`: frightened
+- `c01-rowan-small.png`: small and shy
+- `c01-rowan-tired.png`: exhausted
 
 ### Imogen Sallow (C02, lead, owlcombe)
 
@@ -68,10 +74,15 @@ Slight, very upright, heart-shaped face with a sharp chin and quick dark eyes be
 - `c02-imogen-warm.png`: a soft real smile
 - `c02-imogen-amused.png`: a wry or delighted grin
 - `c02-imogen-tense.png`: worried, jaw set
-- `c02-imogen-hurt.png`: wounded, eyes down *(planned)*
+- `c02-imogen-hurt.png`: wounded, eyes down
 - `c02-imogen-attentive.png`: listening hard, head slightly tilted
 - `c02-imogen-angry.png`: furious
 - `c02-imogen-guarded.png`: closed, wary
+- `c02-imogen-tired.png`: exhausted
+- `c02-imogen-laugh.png`: laughing, eyes creased
+- `c02-imogen-grave.png`: serious, heavy news
+- `c02-imogen-shy.png`: shy
+- `c02-imogen-surprised.png`: surprised
 
 ### Saoirse Maddock (C03, lead, rookhallow)
 
@@ -83,17 +94,26 @@ Wiry, angular, freckled face with a wide grin that shows a chipped front tooth. 
 - `c03-saoirse-laugh.png`: laughing, eyes creased
 - `c03-saoirse-tense.png`: worried, jaw set
 - `c03-saoirse-hurt.png`: wounded, eyes down
+- `c03-saoirse-guarded.png`: closed, wary
+- `c03-saoirse-sad.png`: grieving
+- `c03-saoirse-tired.png`: exhausted
+- `c03-saoirse-scared.png`: frightened
+- `c03-saoirse-shy.png`: shy
 
 ### Casimir Drummond (C04, lead, rookhallow)
 
 Tall and narrow, long elegant face with high cheekbones, a straight nose and a mouth set in a sneer by default. Pale blond hair swept back; very fair skin; cold grey eyes. Immaculate black robes with a copper-thread collar, a signet ring he turns when he's nervous.
 
 - `c04-cas-neutral.png`: resting face, the default
-- `c04-cas-warm.png`: a soft real smile *(planned)*
+- `c04-cas-warm.png`: a soft real smile
 - `c04-cas-amused.png`: a wry or delighted grin
 - `c04-cas-tense.png`: worried, jaw set
 - `c04-cas-hurt.png`: wounded, eyes down
 - `c04-cas-guarded.png`: closed, wary
+- `c04-cas-surprised.png`: surprised
+- `c04-cas-grave.png`: serious, heavy news
+- `c04-cas-shy.png`: shy
+- `c04-cas-tired.png`: exhausted
 
 ### Noor Haddad (C05, lead, heronmere)
 
@@ -105,6 +125,9 @@ Medium height, soft oval face with strong dark brows and calm, heavy-lidded brow
 - `c05-noor-tense.png`: worried, jaw set
 - `c05-noor-hurt.png`: wounded, eyes down
 - `c05-noor-tired.png`: exhausted
+- `c05-noor-shy.png`: shy
+- `c05-noor-surprised.png`: surprised
+- `c05-noor-scared.png`: frightened
 
 ### Idris Penhallow (C06, lead, owlcombe)
 
@@ -114,9 +137,13 @@ Lean, long face with deep-set dark eyes, a strong nose and a neat short black be
 - `c06-idris-warm.png`: a soft real smile
 - `c06-idris-amused.png`: a wry or delighted grin *(planned)*
 - `c06-idris-tense.png`: worried, jaw set
-- `c06-idris-hurt.png`: wounded, eyes down *(planned)*
+- `c06-idris-hurt.png`: wounded, eyes down
 - `c06-idris-attentive.png`: listening hard, head slightly tilted
 - `c06-idris-guarded.png`: closed, wary
+- `c06-idris-shy.png`: shy
+- `c06-idris-grave.png`: serious, heavy news
+- `c06-idris-surprised.png`: surprised
+- `c06-idris-tired.png`: exhausted
 
 ### Toby Quill (C07, frequent, heronmere)
 
@@ -128,8 +155,12 @@ Short and round-faced with pink cheeks, a snub nose and big anxious blue eyes. F
 - `c07-toby-laugh.png`: laughing, eyes creased
 - `c07-toby-scared.png`: frightened
 - `c07-toby-sad.png`: grieving
-- `c07-toby-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster) *(planned)*
+- `c07-toby-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster)
 - `c07-toby-tense.png`: worried, jaw set
+- `c07-toby-hurt.png`: wounded, eyes down
+- `c07-toby-surprised.png`: surprised
+- `c07-toby-shy.png`: shy
+- `c07-toby-tired.png`: exhausted
 
 ### Imelda Kestrel (C08, frequent)
 
@@ -141,6 +172,8 @@ Tall, straight-backed old woman with a long lined face, bright hazel eyes and la
 - `c08-kestrel-grave.png`: serious, heavy news
 - `c08-kestrel-tired.png`: exhausted *(planned)*
 - `c08-kestrel-attentive.png`: listening hard, head slightly tilted
+- `c08-kestrel-surprised.png`: surprised
+- `c08-kestrel-hurt.png`: wounded, eyes down
 
 ### Absalom Tully (C19, frequent)
 
@@ -150,14 +183,20 @@ Stooped, gentle old man with a long kind face, a white walrus moustache and sad 
 - `c19-tully-warm.png`: a soft real smile
 - `c19-tully-sad.png`: grieving
 - `c19-tully-tense.png`: worried, jaw set
+- `c19-tully-hurt.png`: wounded, eyes down
+- `c19-tully-scared.png`: frightened
+- `c19-tully-surprised.png`: surprised
+- `c19-tully-grave.png`: serious, heavy news
 
 ### Aldric Morrow (C35, frequent)
 
 Tall, gaunt old man with a long, once-beautiful face gone grey as ash, sunken cheeks and pale colourless eyes. Long white hair; skin with a grey tint. Grey hooded robes, bare grey hands, a wick-shaped iron pendant.
 
 - `c35-morrow-neutral.png`: resting face, the default
-- `c35-morrow-hungry.png`: the hunger: gaunt, eyes too bright *(planned)*
-- `c35-morrow-warm.png`: a soft real smile *(planned)*
+- `c35-morrow-hungry.png`: the hunger: gaunt, eyes too bright
+- `c35-morrow-warm.png`: a soft real smile
+- `c35-morrow-surprised.png`: surprised
+- `c35-morrow-hurt.png`: wounded, eyes down
 
 ### Aurelio Bassani (C09, supporting, larkspire)
 
@@ -166,6 +205,7 @@ Round, theatrical, olive-skinned man with a magnificent curled grey moustache, b
 - `c09-bassani-neutral.png`: resting face, the default
 - `c09-bassani-amused.png`: a wry or delighted grin
 - `c09-bassani-grave.png`: serious, heavy news *(planned)*
+- `c09-bassani-sad.png`: grieving
 
 ### Vesna Kovač (C10, supporting, owlcombe)
 
@@ -180,7 +220,7 @@ Thin, pale, angular face with sharp cheekbones and pale grey eyes that don't bli
 Sturdy, weathered, rosy-cheeked woman with a broad smile and crinkled green eyes. Grey-streaked brown hair under a battered wide-brimmed hat with a live snail on it; ruddy white skin. Earth under her nails, sea-green apron.
 
 - `c11-rhys-neutral.png`: resting face, the default
-- `c11-rhys-warm.png`: a soft real smile *(planned)*
+- `c11-rhys-warm.png`: a soft real smile
 - `c11-rhys-sad.png`: grieving
 
 ### Tamsin Crook (C12, supporting, rookhallow)
@@ -198,6 +238,7 @@ Big, heavy, silent man with a craggy grey-stubbled face, a broken nose and deep-
 - `c13-grey-grave.png`: serious, heavy news
 - `c13-grey-warm.png`: a soft real smile *(planned)*
 - `c13-grey-attentive.png`: listening hard, head slightly tilted
+- `c13-grey-ghost.png`: translucent silver-blue
 
 ### Dunstan Moth (C14, supporting)
 
@@ -212,6 +253,11 @@ Tall, graceful, long face with a wide smile and bright dark eyes. Glossy black h
 
 - `c20-priya-neutral.png`: resting face, the default
 - `c20-priya-warm.png`: a soft real smile
+- `c20-priya-amused.png`: a wry or delighted grin
+- `c20-priya-laugh.png`: laughing, eyes creased
+- `c20-priya-hurt.png`: wounded, eyes down
+- `c20-priya-sad.png`: grieving
+- `c20-priya-tense.png`: worried, jaw set
 
 ### Felicity Barrow (C21, supporting, larkspire)
 
@@ -240,6 +286,8 @@ Bright, fast-talking woman with a round face, huge headphones round her neck and
 
 - `c27-mina-neutral.png`: resting face, the default
 - `c27-mina-amused.png`: a wry or delighted grin
+- `c27-mina-scared.png`: frightened
+- `c27-mina-warm.png`: a soft real smile
 
 ### Odile Pellow (C30, supporting)
 
@@ -247,7 +295,7 @@ Striking woman with a strong face, dark knowing eyes and a wide mouth. Black cur
 
 - `c30-odile-neutral.png`: resting face, the default
 - `c30-odile-warm.png`: a soft real smile
-- `c30-odile-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster) *(planned)*
+- `c30-odile-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster)
 - `c30-odile-amused.png`: a wry or delighted grin
 - `c30-odile-attentive.png`: listening hard, head slightly tilted
 
@@ -256,7 +304,8 @@ Striking woman with a strong face, dark knowing eyes and a wide mouth. Black cur
 Hard, handsome woman with a scar through one eyebrow, a strong jaw and steady dark eyes. Close-cropped grey hair; brown skin. Long lamp-black greatcoat with a brass lamp badge.
 
 - `c33-arkwright-neutral.png`: resting face, the default
-- `c33-arkwright-grave.png`: serious, heavy news *(planned)*
+- `c33-arkwright-grave.png`: serious, heavy news
+- `c33-arkwright-attentive.png`: listening hard, head slightly tilted
 
 ### Jory Penrose (C34, supporting)
 
@@ -264,6 +313,8 @@ Earnest young man with a boyish open face, big brown eyes and a nervous smile. C
 
 - `c34-jory-neutral.png`: resting face, the default
 - `c34-jory-tense.png`: worried, jaw set
+- `c34-jory-scared.png`: frightened
+- `c34-jory-laugh.png`: laughing, eyes creased
 
 ### Nana Pearl (C37, supporting)
 
@@ -272,13 +323,15 @@ Tiny, sharp-eyed grandmother with a round face, a pouf of white hair, big red-fr
 - `c37-nana-neutral.png`: resting face, the default
 - `c37-nana-warm.png`: a soft real smile
 - `c37-nana-amused.png`: a wry or delighted grin
+- `c37-nana-scared.png`: frightened
 
 ### Dev Mistry (C38, supporting)
 
 Lanky, cheerful young man with a long face, big grin and messy black hair. Brown skin. A lanyard and a hoodie.
 
 - `c38-dev-neutral.png`: resting face, the default
-- `c38-dev-amused.png`: a wry or delighted grin *(planned)*
+- `c38-dev-amused.png`: a wry or delighted grin
+- `c38-dev-warm.png`: a soft real smile
 
 ### Ines Solano (C15, minor)
 
@@ -324,7 +377,7 @@ Elegant woman with a long neck, fine features and dark amused eyes. Short natura
 Thickset, sullen young man with a heavy brow, small eyes and a buzz cut. Ruddy white skin. Rookhallow black robes worn untidily.
 
 - `c26-bram-neutral.png`: resting face, the default
-- `c26-bram-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster) *(planned)*
+- `c26-bram-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster)
 
 ### Jonty Farthing (C28, minor, heronmere)
 
@@ -373,20 +426,23 @@ Plump, dapper old sweetshop owner with a pink bald head, a waxed white moustache
 A translucent young woman in 1980s school robes, with a round sweet face, big grey eyes and a frizzy perm. Silvery-blue and see-through.
 
 - `c42-lettice-neutral.png`: resting face, the default
+- `c42-lettice-ghost.png`: translucent silver-blue
 
 ### Maisie Tully (C43, minor)
 
 Thin young woman with her father's long face and pale blue eyes gone foggy, fair hair in a hospital plait. Grey-tinged skin. A hospital cardigan.
 
 - `c43-maisie-neutral.png`: resting face, the default
-- `c43-maisie-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster) *(planned)*
+- `c43-maisie-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster)
+- `c43-maisie-tired.png`: exhausted
 
 ### Kit Sallow (C44, minor)
 
 Imogen's older brother: the same sharp chin and dark eyes, gone blank. Black hair grown out; light olive skin with a grey cast.
 
 - `c44-kit-neutral.png`: resting face, the default
-- `c44-kit-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster) *(planned)*
+- `c44-kit-hollowed.png`: hollowed: grey-tinged skin, eyes like fogged glass, a polite empty half-smile (same face, not a monster)
+- `c44-kit-tired.png`: exhausted
 
 ### Hester Wren (C45, minor)
 
@@ -456,16 +512,156 @@ Each place has a main picture and, where the story needs them, variants (a seaso
 | `st-ides.png` | St Ide's (Kingsmere) | The hospital for the hollowed: a quiet Victorian building, long pale wards, patients sitting very still by the windows, visitors' chairs nobody uses. |
 | `fen-chapel.png` | The drowned chapel, Saltmarrow Fen (The Fen) | A half-sunk chapel in the marshes: grey reeds, black water, a roof open to the sky, candles that burn grey. The Choir's gathering place. |
 
-## 5. The opening film
+## 5. The opening film (pixel-art animation)
 
-The storyboard is `docs/04-intro-storyboard.md`: 11 shots, with parallax layers named there (`intro-01-sky.png` and so on, transparent PNGs, 640 × 360 or a 1920 × 1080 master). My rough concept frames for composition are in `art/concept/`. Put finished frames in `art/masters/cinematic/`.
+A Stardew-Valley-style opening: about 67 seconds, 11 shots, played the first time you press **Begin** (skippable, replayable from the menu). The full storyboard is `docs/04-intro-storyboard.md`; my rough concept frames for composition are in `art/concept/intro-01.png` … `intro-11.png` (the game plays those until yours arrive).
 
-## 6. House crests and the title
+**How it's built.** The game animates by sliding **layers** at different speeds (parallax) and by swapping **frames**. So for each shot, draw either one still (`intro-NN.png`) or a set of transparent layers (`intro-NN-sky.png`, `intro-NN-town.png` …), all the same canvas size (640 × 360, or a 1920 × 1080 master). Where a shot has a small looping motion (the fox, the steam, the flame), draw the extra frames as `intro-NN-<layer>-f1.png`, `-f2.png` … and I'll play them in order. No text in any image. The player is never seen from the front.
+
+| # | Duration | Picture | Movement | Caption (set by the game) |
+|---|---|---|---|---|
+| 1 | 6 s | **Night sky.** Deep violet to indigo, a scatter of stars, one bright one. A thin crescent moon. | Slow tilt *down* (layers: `sky`, `clouds`). Clouds drift left. | *Most people's magic comes early.* |
+| 2 | 7 s | **Wrexley from the hill.** Rooftops and chimneys in blue-black, a church spire, the canal catching moonlight, and the long stone **railway viaduct** across the valley. A lit train crosses it left to right. | Slow pan right (layers: `sky`, `hills`, `town`, `viaduct`, `train`). The train moves faster than the pan. | *Some people's comes late.* |
+| 3 | 6 s | **Viaduct Street.** A terraced street under one arch of the viaduct, wet cobbles, a streetlamp, a fox on a wall, a chip-shop sign dark for the night. One upstairs window lit yellow: yours. | Slow push in towards the window (layers: `street`, `fox`, `rain`). The fox turns its head. Light rain. | *(none)* |
+| 4 | 7 s | **Your kitchen.** Small, warm, a bit shabby: a table with a laptop showing a work spreadsheet, a microwave meal, a birthday card with a **25** balloon, a mug, a plant on the sill, the wall calendar. You, seen from behind at the table, head in one hand. The kitchen clock says 11:58. | Still, with a slow breathing zoom. | *Thursday. Half past everything.* |
+| 5 | 5 s | **The same kitchen, wrong.** The ceiling bulb flickers; the kettle is steaming although it's not switched on; the plant has turned its leaves towards you; a candle on the sill leans your way. The clock: 11:59. | Quick flicker cuts (the game animates the bulb and steam). A slight shake. | *(none)* |
+| 6 | 5 s | **The hallway floor, from low down.** Bare boards, the doormat, the draught gap under the front door. A cream **envelope** slides under the door on its own, edges faintly glowing, sealed in red wax with a wren. No one is on the other side (just streetlight under the gap). | The envelope slides in (the game moves it). Then stillness. | *Midnight.* |
+| 7 | 9 s | **The letter, open, in your hands.** Close-up from above: your two hands (any skin tone: drawn as simple silhouettes lit warm, or in the six tones as variants), heavy cream parchment, a wren seal broken in half. The page is blank in the art; **the game writes the invitation onto it** line by line. | Very slight drift. Text types in. | *(the invitation, abridged)* |
+| 8 | 6 s | **The kitchen wall ripples.** The wallpaper (a faded flower print) bends like water; a thin gold line draws the outline of a **tall arched doorway** in the wall, as if by an invisible pen; papers lift off the table, the birthday card flaps, the candle flame streams towards the wall. | The line draws (the game reveals it with a mask), then light swells. | *(none)* |
+| 9 | 6 s | **The doorway open.** Through the arch: a glimpse of **Lamplight Row** at night (crooked gables, hanging lamps in every colour, a lamp-lit cobbled street, an owl on a gutter). The kitchen is lit gold by it. You stand in front of it, a silhouette from behind, one hand on the frame. | Slow push towards the doorway (layers: `kitchen`, `you`, `beyond`). Warm light pulses. | *The doorway will hold until dawn.* |
+| 10 | 5 s | **Through.** Pure light, and in it, drifting up, dozens of small paper **lanterns** in gold, rose, green and blue. | Lanterns rise (layer: `lanterns` over `glow`). Fade to white. | *(none)* |
+| 11 | 5 s + hold | **Title.** Night over Wrenfold: the castle on its island in a black lake, towers and slate roofs, windows lit, lanterns drifting over it into the stars. The game writes **WRENFOLD** and *A School for Late Magic* over the sky. | Slow drift. Holds under the title until you press Begin. | **WRENFOLD** |
+
+Total about 67 seconds. Any key or click advances a shot; **Skip** jumps to the title.
+
+### Animation frames wanted, shot by shot
+
+| Shot | Files | Notes |
+|---|---|---|
+| 1 | `intro-01-sky.png`, `intro-01-clouds.png` | clouds layer wider than the frame (960 px) so it can drift; 2–3 star twinkle frames optional (`intro-01-sky-f1..f3`) |
+| 2 | `intro-02-sky`, `-hills`, `-town`, `-viaduct`, `-train` | the **train** is a separate strip with lit windows, about 200 × 24 px, on transparent; town layer 960 px wide for the pan |
+| 3 | `intro-03-street`, `-fox`, `-rain` | **fox**: 4 frames (sitting, ear flick, head turning, looking at you); **rain**: 3 frames of diagonal streaks, tileable |
+| 4 | `intro-04.png` | one still; optional 2-frame laptop-screen flicker |
+| 5 | `intro-05.png` + `intro-05-bulb-f1..f2`, `intro-05-steam-f1..f4`, `intro-05-candle-f1..f3` | bulb on/off; kettle steam curling; candle flame leaning towards the viewer |
+| 6 | `intro-06.png`, `intro-06-envelope.png` | envelope separate, on transparent, faint gold edge glow; 2-frame glow pulse optional |
+| 7 | `intro-07.png` | hands and blank parchment; the game types the letter on it |
+| 8 | `intro-08.png`, `intro-08-line.png` | the gold doorway outline as its own transparent layer (the game reveals it); 4 frames of the wallpaper rippling (`intro-08-wall-f1..f4`) |
+| 9 | `intro-09-kitchen`, `-you`, `-beyond` | **beyond** = Lamplight Row through the arch; 3-frame warm light pulse optional |
+| 10 | `intro-10-glow`, `intro-10-lanterns` | lanterns layer 360 px **taller** than the frame so it can rise; or a lantern sprite sheet (see §10) |
+| 11 | `intro-11.png` (+ optional `intro-11-lanterns`) | also the title screen; leave the upper third of sky clear for the title |
+
+## 6. Chapter title cards (24)
+
+Shown full-width when each chapter begins, with the chapter number and title set by the game (no text in the art). 16:9, same style and size as the places (1672 × 941 masters, exported to 640 × 360). Put them in `art/masters/cards/`. Until they exist, the game borrows a place picture for each.
+
+| File | Chapter | Picture |
+|---|---|---|
+| `ch01.png` | 01. The Letter | Your kitchen at 11:58 pm, from behind: the letter on the mat, the doorway beginning to glow in the wall. |
+| `ch02.png` | 02. Lamplight Row | Lamplight Row at night: crooked gables, lamps in every colour, a bus-shelter door standing open onto it. |
+| `ch03.png` | 03. The Lantern Hall | The Lantern Hall on the first night: ten thousand paper lanterns drifting under a roof you can't see; one lantern burning white. |
+| `ch04.png` | 04. First Lessons | The Wordcraft Gallery: rows of candles all lit at once, a tiny professor on a stack of books, astonished. |
+| `ch05.png` | 05. The Burning Year | A castle corridor at night; one snuffed candle on a sconce, and a bare hand reaching for it. |
+| `ch06.png` | 06. The Hollowed Girl | The Glasshouses at dawn, rain on the glass; a girl in sea-green sitting very still among the ferns. |
+| `ch07.png` | 07. An Evening Already Promised | The Glimmer pitch at dusk: stands on stilts over the shallows, lantern-hoops in the air, a glowing ball. |
+| `ch08.png` | 08. Emberfall | Emberfall: the Hall's lanterns burning red; masks; hundreds of lanterns floating out on the black Mere. |
+| `ch09.png` | 09. Under Wrenfold | Under Wrenfold: the Old Cloisters, carved wrens on every pillar, a sealed door, a faint figure of light. |
+| `ch10.png` | 10. The Lamplighters | The Rookery tower at dawn: hundreds of familiars on perches, a spiral stair, a black crow sitting very still. |
+| `ch11.png` | 11. Thimble Cross | Thimble Cross in the snow: crooked high street, market cross, a striped wand-stall; the snowflakes hanging frozen in the air. |
+| `ch12.png` | 12. Longnight | Longnight: the Lantern Hall in frost-white, snow falling from the roof and stopping a foot above the dancers. |
+| `ch13.png` | 13. Home Between | Viaduct Street at night under the railway arches, streetlights going grey one by one. |
+| `ch14.png` | 14. Candlewake | Candlewake: a river of candles crossing the frozen Mere in the blue dark before dawn. |
+| `ch15.png` | 15. The Glimmer Cup | The Glimmer pitch in snow: one lantern-hoop gone dead grey among the gold. |
+| `ch16.png` | 16. What the Founders Hid | A small brown leather journal with a tooled wren, open by a fire, a sheet of five-line music beside it. |
+| `ch17.png` | 17. The Quiet | The Quiet: the Heronmere cloister at night, the iron lake door standing open, grey light, a hare alone on the stones. |
+| `ch18.png` | 18. The Lanternwarden | The Lanternwarden's cottage by the boathouse: lamp over the door, photographs on every wall, a stove drawer open. |
+| `ch19.png` | 19. The Greening | The Greening: the Winter Garden glasshouse thrown open, rows of seeds in black soil, spring light. |
+| `ch20.png` | 20. The Wren's Song | Five sheets of music with a wren, a lark, an owl, a heron and a rook drawn at the top, spread on a library table. |
+| `ch21.png` | 21. Brightfire | Brightfire: a great bonfire in a ring of standing stones on a hill, sparks rising into a violet May sky. |
+| `ch22.png` | 22. Midsummer Eve | Midsummer Eve: the Lantern Hall with every lantern lit, and one white lantern at the very top. |
+| `ch23.png` | 23. The Heartfire | The Heartfire: a flame the size of a person hanging in a black rock cave, threads of light rising from it like harp strings. |
+| `ch24.png` | 24. The Last Lantern | The last lantern: one paper lantern rising alone into a summer night sky over the Mere. |
+
+## 7. Ending cards (10)
+
+Shown on the ending screen. Same size and style as the chapter cards; put them in `art/masters/cards/`.
+
+| File | Ending | Picture |
+|---|---|---|
+| `end-A.png` | The Heartfire Holds | The Lantern Hall at dawn, every lantern gold, one white one at the top; students asleep on the benches. |
+| `end-B.png` | Every Lantern Lit | An old man's thin hands cupping a single small blue candle flame, in a dark window. |
+| `end-C.png` | The Cold Hall | The castle across the Mere completely dark; a line of hand-held candles coming down the lawn at dawn. |
+| `end-D.png` | The Last Lantern | A small terraced-house kitchen, yellow light, a white candle in a jam jar on the table, a kettle that isn't boiling. |
+| `end-E.png` | The Grey Road | A lone figure on a hilltop among standing stones, burning with every colour at once; every candle in the valley below leaning towards them. |
+| `end-F.png` | The Order's Oath | The Fen at dusk: reeds, black water, a drowned chapel tower, a lamp on a boat, and a grey figure far off on a causeway. |
+| `end-G_T.png` | What We Could Save: Toby | The jetty at dawn: a round-faced young man asleep under a blanket, a brown hare beside him, the castle's lanterns burning low and blue. |
+| `end-G_M.png` | What We Could Save: Maisie | The Lanternwarden's cottage door: a young woman lighting the lamp over it with her bare hand, her father watching. |
+| `end-G_K.png` | What We Could Save: the Headmistress | The Weathervane Room: maps of the Fen pinned over every wall, a white-haired woman at the window. |
+| `end-H.png` | The Road Not Taken | A newspaper folded on a windowsill on the Fen, a letter on top, rain on the glass. |
+
+## 8. Illustrated moments (snapshots, 18)
+
+Full-width pictures shown at the story's biggest moments and kept in the journal. 16:9, same size as places, people drawn in (in the pixel style, small enough that faces are suggestion). Put them in `art/masters/snapshots/`, named exactly as below. The story plays a place picture in their slot until they exist.
+
+| File | Chapter | The moment |
+|---|---|---|
+| `snap-01-doorway.png` | 01 | You, from behind, one hand on the frame of a glowing arched doorway in a kitchen wall; Lamplight Row beyond. |
+| `snap-02-wandshop.png` | 02 | Pellow & Daughters: ladders, drawers to the ceiling, a woman with a pencil in her bun holding out a wand; glowing shavings. |
+| `snap-03-nesting.png` | 03 | The first night: one paper lantern burning white, rising out of cupped hands towards ten thousand gold ones. |
+| `snap-04-candle.png` | 05 | A corridor at night: a hand on a snuffed candle, the wick catching white; a bearded man in round glasses half-hidden at the corner. |
+| `snap-05-emberfall.png` | 08 | Masks and lanterns on the black Mere at night; the castle glowing red behind; a translucent girl in old school robes by the water. |
+| `snap-06-rookery.png` | 10 | The Rookery stair at dawn: a grey young man sitting on a step, a crow pressed to his neck, hundreds of screaming birds above. |
+| `snap-07-odile.png` | 11 | Thimble Cross in the snow: a woman in a leather apron singing, boots planted, in front of six huddled students; grey hooded figures coming down the hill; snowflakes frozen in the air. |
+| `snap-08-longnight.png` | 12 | Midnight on Longnight: the Hall's lanterns rippling from gold to deep blue, dancers looking up, snow hanging in the air. |
+| `snap-09-candlewake.png` | 14 | Two figures stopped in the middle of the frozen Mere at dawn, candles in their hands, the procession flowing round them. |
+| `snap-10-hoop.png` | 15 | A snowy Glimmer pitch: a lantern-hoop gone dead grey, a big man in gold and rose falling from his broom. |
+| `snap-11-toby.png` | 17 | The Heronmere cloister: a round young man in jam-stained pyjamas singing, wand shaking, in front of frightened first-years; grey hoods in the green light. |
+| `snap-12-stair.png` | 17 | A narrow spiral stair: a scarred man in dark robes holding it with his bare hands, a shimmer of heat round them, six grey hoods below. |
+| `snap-13-maisie.png` | 18 | St Ide's: a pale young woman in a pink cardigan by a tall window, an old man in a flat cap holding her hand, daffodils. |
+| `snap-14-choir.png` | 20 | The Old Cloisters full of students with candles, singing; carved wrens on the pillars; a small black door glowing at the end. |
+| `snap-15-brightfire.png` | 21 | Two figures among standing stones at night, the bonfire behind them, the lake and the lit castle below. |
+| `snap-16-song.png` | 22 | The Lantern Hall ringing: hundreds singing, lanterns flaring back to gold from one white lantern at the top. |
+| `snap-17-heartfire.png` | 23 | A gaunt grey old man with long white hair before the Heartfire, a figure facing him from the cave mouth. |
+| `snap-18-ghosts.png` | 23 | Midsummer dawn: silvery ghosts walking home across the Mere towards the sun; one tall man looking back. |
+
+## 9. Crests, title and icons
 
 - `crest-larkspire.png`, `crest-owlcombe.png`, `crest-heronmere.png`, `crest-rookhallow.png`: a lark, an owl, a heron, a rook, each on a small shield in the house colours, pixel style, transparent, 256 × 256.
 - `crest-wrenfold.png`: the school crest: a cocked-tailed wren in the middle, the four birds at the corners.
-- The **title screen** uses film shot 11 (the castle at night under lanterns).
+- `icon.png`: the app and browser icon, 512 × 512: the red wax seal with the wren, pixel style, readable at 32 × 32.
+- `seal.png`: the wax wren seal on its own, transparent, 128 × 128 (the invitation letter and the save screen use it).
+- The **title screen** uses film shot 11.
+
+## 10. Animated loops (optional, and lovely)
+
+Small sprite animations the game can play over pictures. Each is a horizontal strip of frames on a transparent background; frame size given. Nice to have, not needed to ship.
+
+| File | Frames | Size per frame | What |
+|---|---|---|---|
+| `anim-lantern.png` | 8 | 32 × 48 | one paper lantern drifting and turning, candle flicker inside (tinted by the game for house colours; draw it warm gold) |
+| `anim-lantern-white.png` | 8 | 32 × 48 | the same, burning white (yours) |
+| `anim-candle.png` | 6 | 24 × 48 | a candle flame flickering |
+| `anim-heartfire.png` | 8 | 160 × 200 | the Heartfire turning slowly through every colour |
+| `anim-hum.png` | 6 | 640 × 360 | grey ripples washing across the frame (the Choir's hum), transparent |
+| `anim-snow.png` | 4 | 640 × 360 | falling snow, tileable |
+| `anim-rain.png` | 3 | 640 × 360 | rain streaks, tileable |
+| `anim-ghost.png` | 4 | 64 × 96 | a translucent silver-blue figure shimmering |
+| `anim-fam-<kind>.png` | 4 | 64 × 64 | an idle loop for each familiar (cat, owl, hare, fox, raven, toad, moth, ferret): blink, ear flick, feather ruffle, wing twitch |
+
+## Where to put everything
+
+| Folder | What |
+|---|---|
+| `art/masters/portraits/` | you, the familiars, the cast (§1–3) |
+| `art/masters/environments/` | places and variants (§4) |
+| `art/masters/cinematic/` | the film: stills, layers and frames (§5) |
+| `art/masters/cards/` | chapter and ending cards (§6–7) |
+| `art/masters/snapshots/` | illustrated moments (§8) |
+| `art/masters/ui/` | crests, icon, seal, animated loops (§9–10) |
+
+Then `python3 tools/import-art.py` exports them all to game size.
 
 ## Totals
 
-- You: 12 portraits · familiars: 8 · the cast: 45 people, 127 expressions · places: 49 pictures · film: 11 shots (plus layers) · crests: 5.
+- You: 12 portraits · familiars: 8 · the cast: 45 people, 183 expressions · places: 49 pictures
+- Film: 11 shots (plus layers and loop frames) · chapter cards: 24 · ending cards: 10 · illustrated moments: 18
+- Crests: 5 · icon and seal: 2 · animated loops: 9 kinds (optional)

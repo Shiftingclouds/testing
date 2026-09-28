@@ -84,6 +84,7 @@ And between them and a huddle of Heronmere first-years in the corner by the fire
 The wren's line. The first voice. Up, and round, and back down, like a bird going round a chimney. Off-key. Flat. Wavering. Like a goose being sat on.
 
 And the Choir is standing still.
+*snapshot toby
 
 It's working. It's working a little. He's holding them, the way Odile held them in the high street: eight of them, just standing there, humming, unable to take the last step, because one terrible off-key voice is singing the wren's line in their faces. The first-years are crawling behind him, one by one, along the wall, towards the passage, towards you. Priya's pushing them. Two gone. Three.
 
@@ -146,6 +147,7 @@ And on the stair, three steps below the top landing, between the six and the for
 @grey:neutral He's in his dark robes. He's got no wand out; he doesn't seem to need one. He's standing with his feet planted on the narrow step and his scarred hands held out in front of him, palms forward, and there's something coming off them, a shimmer, a heat-haze, like the air over a road in summer, and the Choir's hum is hitting it and breaking round it, the way water breaks round a stone. They can't get past him. Six of them, and they can't get past him.
 
 But his hands are shaking. And the scars on them, the old scars, the frost-and-burn scars that go up past his wrists, are going grey.
+*snapshot stair
 
 @grey:neutral He hears you on the landing behind him. He doesn't turn round. "Take them down," he says. His voice is perfectly calm. "The back stair. Behind the tapestry of the heron. It opens if you tell it [i]stille[/i]. Take them all down to the Hall. The Headmistress is there." A pause. "Now, please."
 *choice

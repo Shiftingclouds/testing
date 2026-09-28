@@ -14,6 +14,7 @@ They're worn into a ramp, and then into a slope, and then they're not steps at a
 And then the passage opens, and you're in the root of the rock, and there it is.
 
 The Heartfire.
+*snapshot heartfire
 
 It's not a fire, exactly. It's not like anything. It's a light, in the middle of a round cave of black rock, hanging in the air a foot above the floor: the size of a person, the shape of a flame, and so bright and so warm and so [i]alive[/i] that your eyes water and your own flame leaps up in you like a dog that's seen its master after a long time away. It's gold and white and rose and green and blue and copper, all of them, every colour, turning slowly round each other. It's been burning here for four hundred years. It's the oldest thing you've ever seen. It's Hester Wren, what's left of her: the fisherwoman who took in Tom Brack and Old Nell from the ferry. And every lantern in Wrenfold, all ten thousand, has a thread going up from it, up through the rock, thin and bright as spider silk, so that the whole cave is full of threads of light going up into the dark like the strings of an enormous harp.
 
@@ -229,6 +230,7 @@ You're sitting on the end of the jetty. You don't remember how you got there. So
 Out on the Mere, in the first light, you see them: the ghosts, going home. Silvery-blue shapes walking out across the water towards the rising sun, the way they came. Lettice Crane, with her frizzy hair. And a tall man in dark robes, with whole hands, who stops, out on the water, and turns round, and looks back at the castle, and at you on the jetty. And inclines his head, very slightly, the way you'd greet a colleague across a staffroom.
 
 And walks on, into the sun.
+*snapshot ghosts
 *journal [b]Chapter 23.[/b] The Heartfire, in the root of the rock: Hester Wren's own flame, and Aldric Morrow, asking you to carry a piece of it for him. {@ending = "A"|You stood between him and the fire and sang, and the song came down through the rock, and the stolen flames went home, and the Order took him.|}{@ending = "B"|You relit Aldric Morrow's own flame: small, blue, his. The stolen flames went home. It cost you most of your fire.|}{@ending = "C"|You let Hester's fire go out, so there would be nothing for him to take. Wrenfold is dark, and everyone lives.|}{@ending = "D"|You gave your whole flame to mend the Heartfire. Wrenfold stands. You have no magic left.|}{@ending = "E"|You took the Heartfire yourself.|}{@ending = "F"|You tried to relight him and failed, and he tore a piece of your flame out of you and escaped into the Fen.|}{@ending = "G_T"|You couldn't stop him. You brought Toby out.|}{@ending = "G_M"|You couldn't stop him. You brought Maisie Tully out.|}{@ending = "G_K"|You couldn't stop him. You brought the Headmistress out.|} At dawn the ghosts walked home across the Mere, and Magnus Grey looked back once.
 *page_break
 *goto_scene ch24

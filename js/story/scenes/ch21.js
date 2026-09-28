@@ -32,6 +32,7 @@ You dance. Round and round the fire, in the great ring, with your garland fallin
 *mood night
 *present familiar
 Later, when the fire's burned down to a great red heart of embers and the band's playing slow, you walk out between the standing stones, away from the light, where it's dark and cool and the grass is wet, and the whole valley's spread out below you: the Mere, silver under the moon, and the castle on its hill beyond, every window lit.
+*snapshot brightfire
 *if final_rel = "rowan"
   *present rowan
   @rowan:warm Rowan finds you. He was always going to. He comes out between the stones with his garland crooked and his shirt smelling of woodsmoke and stands beside you, warm as the fire behind you, and looks at the castle.

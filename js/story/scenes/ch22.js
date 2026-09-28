@@ -174,6 +174,7 @@ And where they cross, the Lantern Hall [i]rings[/i].
   It rings like the Old Cloisters rang in April, like the kitchen at Viaduct Street, but vaster, so vast you feel it in your teeth and your bones and the soles of your feet: a note that isn't any of the voices, high and clear and bright, a finger round the rim of a glass the size of the sky. And the hum can't find the gap. There isn't one. Every house, every voice, every throat, so many notes and one heart that there's nowhere for the Choir's note to get in.
 
   And the lanterns come back.
+  *snapshot song
 
   From the top. From one white lantern at the very top of the Hall, a ripple of gold going out, like a stone dropped in water, like Longnight, gold and gold and gold, ten thousand lanterns flaring back to life, and the grey going out of the Hall like a tide going out, and the hum [i]breaking[/i]. You hear it break. All through the castle, in every corridor, on every stair, the Grey Choir's one note shattering into a hundred voices that don't know what to do, faltering, stopping, and grey-robed people standing still in the passages with their hoods falling back and their faces bewildered, like people waking up.
   *if plan22 = "cloisters"

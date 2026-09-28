@@ -302,6 +302,7 @@ You put your hand flat on the edge of the light.
 It's like putting your hand into warm water. It's like the first sip of tea on a cold morning, if the tea were inside your ribs. Something behind your breastbone that's been restless all year, all year, leaning towards candles and blowing out streetlights, turns towards the door the way the basil turns towards you, and goes [i]yes[/i].
 
 You step through.
+*snapshot doorway
 *achieve kindled
 *journal [b]Chapter 1.[/b] At midnight on the tenth of September, a letter came under your door in Wrexley: your magic has begun, late, and a place has been kept for you at Wrenfold, the school for the late-kindled. {@told_nana|You told Nana Pearl. Her own mother, your great-gran Ivy, had the same letter in 1953.|You didn't tell anyone but Dev, and not even him, really.} At ten past two in the morning, you stepped through a doorway of light in your kitchen wall.
 *page_break

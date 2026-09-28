@@ -111,20 +111,175 @@ for (const p of places) {
   }
 }
 
+// ---------------------------------------------------------------- 5. the film, with the storyboard folded in
+const board = fs.readFileSync(path.join(ROOT, "docs/04-intro-storyboard.md"), "utf8");
+const shots = board.slice(board.indexOf("## The shots"), board.indexOf("## Handover")).replace("## The shots", "").trim();
 out += `
-## 5. The opening film
+## 5. The opening film (pixel-art animation)
 
-The storyboard is \`docs/04-intro-storyboard.md\`: 11 shots, with parallax layers named there (\`intro-01-sky.png\` and so on, transparent PNGs, 640 × 360 or a 1920 × 1080 master). My rough concept frames for composition are in \`art/concept/\`. Put finished frames in \`art/masters/cinematic/\`.
+A Stardew-Valley-style opening: about 67 seconds, 11 shots, played the first time you press **Begin** (skippable, replayable from the menu). The full storyboard is \`docs/04-intro-storyboard.md\`; my rough concept frames for composition are in \`art/concept/intro-01.png\` … \`intro-11.png\` (the game plays those until yours arrive).
 
-## 6. House crests and the title
+**How it's built.** The game animates by sliding **layers** at different speeds (parallax) and by swapping **frames**. So for each shot, draw either one still (\`intro-NN.png\`) or a set of transparent layers (\`intro-NN-sky.png\`, \`intro-NN-town.png\` …), all the same canvas size (640 × 360, or a 1920 × 1080 master). Where a shot has a small looping motion (the fox, the steam, the flame), draw the extra frames as \`intro-NN-<layer>-f1.png\`, \`-f2.png\` … and I'll play them in order. No text in any image. The player is never seen from the front.
+
+${shots}
+
+### Animation frames wanted, shot by shot
+
+| Shot | Files | Notes |
+|---|---|---|
+| 1 | \`intro-01-sky.png\`, \`intro-01-clouds.png\` | clouds layer wider than the frame (960 px) so it can drift; 2–3 star twinkle frames optional (\`intro-01-sky-f1..f3\`) |
+| 2 | \`intro-02-sky\`, \`-hills\`, \`-town\`, \`-viaduct\`, \`-train\` | the **train** is a separate strip with lit windows, about 200 × 24 px, on transparent; town layer 960 px wide for the pan |
+| 3 | \`intro-03-street\`, \`-fox\`, \`-rain\` | **fox**: 4 frames (sitting, ear flick, head turning, looking at you); **rain**: 3 frames of diagonal streaks, tileable |
+| 4 | \`intro-04.png\` | one still; optional 2-frame laptop-screen flicker |
+| 5 | \`intro-05.png\` + \`intro-05-bulb-f1..f2\`, \`intro-05-steam-f1..f4\`, \`intro-05-candle-f1..f3\` | bulb on/off; kettle steam curling; candle flame leaning towards the viewer |
+| 6 | \`intro-06.png\`, \`intro-06-envelope.png\` | envelope separate, on transparent, faint gold edge glow; 2-frame glow pulse optional |
+| 7 | \`intro-07.png\` | hands and blank parchment; the game types the letter on it |
+| 8 | \`intro-08.png\`, \`intro-08-line.png\` | the gold doorway outline as its own transparent layer (the game reveals it); 4 frames of the wallpaper rippling (\`intro-08-wall-f1..f4\`) |
+| 9 | \`intro-09-kitchen\`, \`-you\`, \`-beyond\` | **beyond** = Lamplight Row through the arch; 3-frame warm light pulse optional |
+| 10 | \`intro-10-glow\`, \`intro-10-lanterns\` | lanterns layer 360 px **taller** than the frame so it can rise; or a lantern sprite sheet (see §10) |
+| 11 | \`intro-11.png\` (+ optional \`intro-11-lanterns\`) | also the title screen; leave the upper third of sky clear for the title |
+`;
+
+// ---------------------------------------------------------------- 6. chapter cards
+const { chapters } = require(path.join(ROOT, "plan/calendar.js"));
+const CARD = {
+  CH01: "Your kitchen at 11:58 pm, from behind: the letter on the mat, the doorway beginning to glow in the wall.",
+  CH02: "Lamplight Row at night: crooked gables, lamps in every colour, a bus-shelter door standing open onto it.",
+  CH03: "The Lantern Hall on the first night: ten thousand paper lanterns drifting under a roof you can't see; one lantern burning white.",
+  CH04: "The Wordcraft Gallery: rows of candles all lit at once, a tiny professor on a stack of books, astonished.",
+  CH05: "A castle corridor at night; one snuffed candle on a sconce, and a bare hand reaching for it.",
+  CH06: "The Glasshouses at dawn, rain on the glass; a girl in sea-green sitting very still among the ferns.",
+  CH07: "The Glimmer pitch at dusk: stands on stilts over the shallows, lantern-hoops in the air, a glowing ball.",
+  CH08: "Emberfall: the Hall's lanterns burning red; masks; hundreds of lanterns floating out on the black Mere.",
+  CH09: "Under Wrenfold: the Old Cloisters, carved wrens on every pillar, a sealed door, a faint figure of light.",
+  CH10: "The Rookery tower at dawn: hundreds of familiars on perches, a spiral stair, a black crow sitting very still.",
+  CH11: "Thimble Cross in the snow: crooked high street, market cross, a striped wand-stall; the snowflakes hanging frozen in the air.",
+  CH12: "Longnight: the Lantern Hall in frost-white, snow falling from the roof and stopping a foot above the dancers.",
+  CH13: "Viaduct Street at night under the railway arches, streetlights going grey one by one.",
+  CH14: "Candlewake: a river of candles crossing the frozen Mere in the blue dark before dawn.",
+  CH15: "The Glimmer pitch in snow: one lantern-hoop gone dead grey among the gold.",
+  CH16: "A small brown leather journal with a tooled wren, open by a fire, a sheet of five-line music beside it.",
+  CH17: "The Quiet: the Heronmere cloister at night, the iron lake door standing open, grey light, a hare alone on the stones.",
+  CH18: "The Lanternwarden's cottage by the boathouse: lamp over the door, photographs on every wall, a stove drawer open.",
+  CH19: "The Greening: the Winter Garden glasshouse thrown open, rows of seeds in black soil, spring light.",
+  CH20: "Five sheets of music with a wren, a lark, an owl, a heron and a rook drawn at the top, spread on a library table.",
+  CH21: "Brightfire: a great bonfire in a ring of standing stones on a hill, sparks rising into a violet May sky.",
+  CH22: "Midsummer Eve: the Lantern Hall with every lantern lit, and one white lantern at the very top.",
+  CH23: "The Heartfire: a flame the size of a person hanging in a black rock cave, threads of light rising from it like harp strings.",
+  CH24: "The last lantern: one paper lantern rising alone into a summer night sky over the Mere."
+};
+out += `
+## 6. Chapter title cards (24)
+
+Shown full-width when each chapter begins, with the chapter number and title set by the game (no text in the art). 16:9, same style and size as the places (1672 × 941 masters, exported to 640 × 360). Put them in \`art/masters/cards/\`. Until they exist, the game borrows a place picture for each.
+
+| File | Chapter | Picture |
+|---|---|---|
+`;
+for (const ch of chapters) if (CARD[ch.id]) out += `| \`${ch.id.toLowerCase()}.png\` | ${ch.id.slice(2)}. ${ch.title} | ${CARD[ch.id]} |\n`;
+
+// ---------------------------------------------------------------- 7. ending cards
+const { endings } = require(path.join(ROOT, "plan/endings.js"));
+const END = {
+  A: "The Lantern Hall at dawn, every lantern gold, one white one at the top; students asleep on the benches.",
+  B: "An old man's thin hands cupping a single small blue candle flame, in a dark window.",
+  C: "The castle across the Mere completely dark; a line of hand-held candles coming down the lawn at dawn.",
+  D: "A small terraced-house kitchen, yellow light, a white candle in a jam jar on the table, a kettle that isn't boiling.",
+  E: "A lone figure on a hilltop among standing stones, burning with every colour at once; every candle in the valley below leaning towards them.",
+  F: "The Fen at dusk: reeds, black water, a drowned chapel tower, a lamp on a boat, and a grey figure far off on a causeway.",
+  G_T: "The jetty at dawn: a round-faced young man asleep under a blanket, a brown hare beside him, the castle's lanterns burning low and blue.",
+  G_M: "The Lanternwarden's cottage door: a young woman lighting the lamp over it with her bare hand, her father watching.",
+  G_K: "The Weathervane Room: maps of the Fen pinned over every wall, a white-haired woman at the window.",
+  H: "A newspaper folded on a windowsill on the Fen, a letter on top, rain on the glass."
+};
+out += `
+## 7. Ending cards (10)
+
+Shown on the ending screen. Same size and style as the chapter cards; put them in \`art/masters/cards/\`.
+
+| File | Ending | Picture |
+|---|---|---|
+`;
+for (const e of endings) out += `| \`end-${e.id}.png\` | ${e.name} | ${END[e.id] || e.core} |\n`;
+
+// ---------------------------------------------------------------- 8. snapshots (illustrated moments)
+const SNAPS = [
+  ["doorway", "CH01", "You, from behind, one hand on the frame of a glowing arched doorway in a kitchen wall; Lamplight Row beyond."],
+  ["wandshop", "CH02", "Pellow & Daughters: ladders, drawers to the ceiling, a woman with a pencil in her bun holding out a wand; glowing shavings."],
+  ["nesting", "CH03", "The first night: one paper lantern burning white, rising out of cupped hands towards ten thousand gold ones."],
+  ["candle", "CH05", "A corridor at night: a hand on a snuffed candle, the wick catching white; a bearded man in round glasses half-hidden at the corner."],
+  ["emberfall", "CH08", "Masks and lanterns on the black Mere at night; the castle glowing red behind; a translucent girl in old school robes by the water."],
+  ["rookery", "CH10", "The Rookery stair at dawn: a grey young man sitting on a step, a crow pressed to his neck, hundreds of screaming birds above."],
+  ["odile", "CH11", "Thimble Cross in the snow: a woman in a leather apron singing, boots planted, in front of six huddled students; grey hooded figures coming down the hill; snowflakes frozen in the air."],
+  ["longnight", "CH12", "Midnight on Longnight: the Hall's lanterns rippling from gold to deep blue, dancers looking up, snow hanging in the air."],
+  ["candlewake", "CH14", "Two figures stopped in the middle of the frozen Mere at dawn, candles in their hands, the procession flowing round them."],
+  ["hoop", "CH15", "A snowy Glimmer pitch: a lantern-hoop gone dead grey, a big man in gold and rose falling from his broom."],
+  ["toby", "CH17", "The Heronmere cloister: a round young man in jam-stained pyjamas singing, wand shaking, in front of frightened first-years; grey hoods in the green light."],
+  ["stair", "CH17", "A narrow spiral stair: a scarred man in dark robes holding it with his bare hands, a shimmer of heat round them, six grey hoods below."],
+  ["maisie", "CH18", "St Ide's: a pale young woman in a pink cardigan by a tall window, an old man in a flat cap holding her hand, daffodils."],
+  ["choir", "CH20", "The Old Cloisters full of students with candles, singing; carved wrens on the pillars; a small black door glowing at the end."],
+  ["brightfire", "CH21", "Two figures among standing stones at night, the bonfire behind them, the lake and the lit castle below."],
+  ["song", "CH22", "The Lantern Hall ringing: hundreds singing, lanterns flaring back to gold from one white lantern at the top."],
+  ["heartfire", "CH23", "A gaunt grey old man with long white hair before the Heartfire, a figure facing him from the cave mouth."],
+  ["ghosts", "CH23", "Midsummer dawn: silvery ghosts walking home across the Mere towards the sun; one tall man looking back."]
+];
+out += `
+## 8. Illustrated moments (snapshots, 18)
+
+Full-width pictures shown at the story's biggest moments and kept in the journal. 16:9, same size as places, people drawn in (in the pixel style, small enough that faces are suggestion). Put them in \`art/masters/snapshots/\`, named exactly as below. The story plays a place picture in their slot until they exist.
+
+| File | Chapter | The moment |
+|---|---|---|
+`;
+SNAPS.forEach(([slot, ch, text], i) => { out += `| \`snap-${String(i + 1).padStart(2, "0")}-${slot}.png\` | ${ch.slice(2)} | ${text} |\n`; });
+
+// ---------------------------------------------------------------- 9. crests, title and icons
+out += `
+## 9. Crests, title and icons
 
 - \`crest-larkspire.png\`, \`crest-owlcombe.png\`, \`crest-heronmere.png\`, \`crest-rookhallow.png\`: a lark, an owl, a heron, a rook, each on a small shield in the house colours, pixel style, transparent, 256 × 256.
 - \`crest-wrenfold.png\`: the school crest: a cocked-tailed wren in the middle, the four birds at the corners.
-- The **title screen** uses film shot 11 (the castle at night under lanterns).
+- \`icon.png\`: the app and browser icon, 512 × 512: the red wax seal with the wren, pixel style, readable at 32 × 32.
+- \`seal.png\`: the wax wren seal on its own, transparent, 128 × 128 (the invitation letter and the save screen use it).
+- The **title screen** uses film shot 11.
+
+## 10. Animated loops (optional, and lovely)
+
+Small sprite animations the game can play over pictures. Each is a horizontal strip of frames on a transparent background; frame size given. Nice to have, not needed to ship.
+
+| File | Frames | Size per frame | What |
+|---|---|---|---|
+| \`anim-lantern.png\` | 8 | 32 × 48 | one paper lantern drifting and turning, candle flicker inside (tinted by the game for house colours; draw it warm gold) |
+| \`anim-lantern-white.png\` | 8 | 32 × 48 | the same, burning white (yours) |
+| \`anim-candle.png\` | 6 | 24 × 48 | a candle flame flickering |
+| \`anim-heartfire.png\` | 8 | 160 × 200 | the Heartfire turning slowly through every colour |
+| \`anim-hum.png\` | 6 | 640 × 360 | grey ripples washing across the frame (the Choir's hum), transparent |
+| \`anim-snow.png\` | 4 | 640 × 360 | falling snow, tileable |
+| \`anim-rain.png\` | 3 | 640 × 360 | rain streaks, tileable |
+| \`anim-ghost.png\` | 4 | 64 × 96 | a translucent silver-blue figure shimmering |
+| \`anim-fam-<kind>.png\` | 4 | 64 × 64 | an idle loop for each familiar (cat, owl, hare, fox, raven, toad, moth, ferret): blink, ear flick, feather ruffle, wing twitch |
+`;
+
+// ---------------------------------------------------------------- totals
+out += `
+## Where to put everything
+
+| Folder | What |
+|---|---|
+| \`art/masters/portraits/\` | you, the familiars, the cast (§1–3) |
+| \`art/masters/environments/\` | places and variants (§4) |
+| \`art/masters/cinematic/\` | the film: stills, layers and frames (§5) |
+| \`art/masters/cards/\` | chapter and ending cards (§6–7) |
+| \`art/masters/snapshots/\` | illustrated moments (§8) |
+| \`art/masters/ui/\` | crests, icon, seal, animated loops (§9–10) |
+
+Then \`python3 tools/import-art.py\` exports them all to game size.
 
 ## Totals
 
-- You: 12 portraits · familiars: 8 · the cast: ${people.length} people, ${count} expressions · places: ${views} pictures · film: 11 shots (plus layers) · crests: 5.
+- You: 12 portraits · familiars: 8 · the cast: ${people.length} people, ${count} expressions · places: ${views} pictures
+- Film: 11 shots (plus layers and loop frames) · chapter cards: 24 · ending cards: ${endings.length} · illustrated moments: ${SNAPS.length}
+- Crests: 5 · icon and seal: 2 · animated loops: 9 kinds (optional)
 `;
 
 fs.writeFileSync(path.join(ROOT, "docs/05-art-handoff.md"), out);

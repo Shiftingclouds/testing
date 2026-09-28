@@ -100,6 +100,7 @@ The humming goes on along the wall, fainter, fainter, and is gone. The lantern a
 You don't think about it. You stand up on the stair and reach up and put your fingers round the wick of the dead lantern, the way you'd pinch out a candle, except the other way round.
 
 It's cold. Colder than it should be. And then, under your fingers, something catches, a flicker from behind your breastbone going down your arm like a match struck in the dark, and the wick lights. White-gold. The lantern swells with it and turns in its bracket, and the thin bright thread from it goes down, down, into the dark, and finds the great glow in the root of the rock, and holds.
+*snapshot candle
 
 Your fingers aren't burned. They tingle, and they're very cold, and your whole arm aches to the shoulder as if you've carried something heavy up a hill.
 *set relit_candle true

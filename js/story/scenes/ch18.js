@@ -210,6 +210,7 @@ It's full of the hollowed. That's the thing nobody tells you. You knew they were
 @maisie:hollowed "They're pretty," says Maisie, politely, and looks out of the window.
 
 You sit down on the edge of the bed. You look.
+*snapshot maisie
 
 It's not like Toby. That's the first thing. Toby's flame is gone: not guttered, not low, gone, taken whole, nothing left to hold. Maisie's is gone too, almost. But not quite. Down in the very bottom of her, so deep and so faint that you have to close your eyes and hold your breath and look for a long, long time, there's something. A spark. Grey, and cold, and tiny, like the last coal in a grate that's been out all night, when you put your hand over it and feel, very faintly, that it's still warm.
 

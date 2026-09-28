@@ -331,6 +331,7 @@ And Odile Pellow steps out from under her striped awning, and walks down the hil
 It's the tune. The one she was humming this morning over your wand. Her gran's tune, for keeping out the cold. But she's not humming it now; she's [i]singing[/i] it, in a big rough strong voice that fills the high street from one end to the other, in words you don't know, old words, words that sound like the Wordcraft ones: [i]lume[/i] in them somewhere, and [i]hald[/i]. Up, and round, and back down, like a bird going round a chimney.
 
 And the hum [i]falters[/i].
+*snapshot odile
 
 You feel it go. The cold thumb on your chest lifts, a little. All down the street, students gasp, and blink, and look at their hands. The snow in the air trembles. Mina Achebe, behind Odile's back, grabs the first-year next to her and starts pulling.
 

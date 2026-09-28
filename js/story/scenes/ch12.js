@@ -232,6 +232,7 @@ At twenty to midnight, the bands stop.
 The whole Hall goes quiet, and everyone looks up. Four hundred faces, turned up to the ceiling, under the hanging snow. You can hear the fires crackling. You can hear someone's familiar purring. You can hear, very faintly, the ten thousand lanterns humming, the way they always do: that warm low candle-hum you stopped noticing in September.
 
 And at midnight, exactly, as the castle clock strikes the first stroke somewhere far above, every lantern in Wrenfold turns blue.
+*snapshot longnight
 
 Not all at once. From the middle. From one lantern, high up, in the very centre of the Hall, a ripple of blue goes out, like a stone dropped in water: blue, and blue, and blue, spreading out through the ten thousand in rings, the deep clear blue of the sky just after sunset, the blue of the longest night, until the whole roof of the Hall is blue light and the hanging snow is blue and every upturned face is blue.
 

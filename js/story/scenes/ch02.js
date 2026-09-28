@@ -247,6 +247,7 @@ You take it.
 It's warm. It gets warmer. And behind your breastbone, the restless thing that's been leaning towards candles all year turns over, like something waking up in a warm bed, and settles, and purrs.
 
 Every candle in the shop leans towards you.
+*snapshot wandshop
 
 All of them. Dozens of flames in their sconces on the ends of the drawers, all the way up to the ceiling, bending at once in the same direction, the way they bent on Nana Pearl's birthday cake. Towards you. Holding it. Listening.
 

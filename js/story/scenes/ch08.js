@@ -96,6 +96,7 @@ At the water's edge, Mr Tully is waiting with his brass taper. He's not wearing 
 You kneel at the edge of the black water and set your lantern on it, and let it go.
 
 It drifts out. They're all drifting out: four hundred small lights on the black Mere, gold and rose and green and blue, turning slowly, spreading out across the water towards the dark middle of the lake, where the dead are supposed to be. People have written names on them, in ink, on the paper. Some people are crying. Most people are just quiet, kneeling on the stones, watching their light go. Up on the hill behind you, the castle windows glow red.
+*snapshot emberfall
 
 @tully:sad Mr Tully floats one last. It's lopsided, and old, and the paper's gone yellow, and you recognise it: the one from the photograph over his stove. Maisie's first lantern. He kneels on the wet stones with his bad knees and sets it on the water as gently as if it were a sleeping bird. "She's not dead," he says, to nobody. "I know that. But she's gone somewhere I can't follow." He watches it drift. "Same thing, some nights."
 *if ember_with = "rowan"

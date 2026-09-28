@@ -206,6 +206,7 @@ The lantern rises, blazing, out of your hands, and hangs there above you, turnin
 *if house = "rookhallow"
   *set cas_house "owlcombe"
 It goes up through the lanterns like a comet, trailing white-gold light, and every lantern it passes turns to watch it, and it doesn't slow down until it reaches the {@house = "larkspire"|gold-and-rose roost in the east, and settles in the middle of it, and every lantern in the Larkspire corner flares at once, like a sunrise|}{@house = "owlcombe"|plum-and-silver roost in the north, and settles in the middle of it, and every lantern in the Owlcombe corner flares silver at once, like a sky full of stars coming out|}{@house = "heronmere"|sea-green-and-pearl roost in the west, and settles in the middle of it, and every lantern in the Heronmere corner flares green at once, like sunlight through deep water|}{@house = "rookhallow"|black-and-copper roost in the south, and settles in the middle of it, and every lantern in the Rookhallow corner flares copper at once, like a forge when the bellows go|}.
+*snapshot nesting
 
 The {@house = "larkspire"|Larkspire|}{@house = "owlcombe"|Owlcombe|}{@house = "heronmere"|Heronmere|}{@house = "rookhallow"|Rookhallow|} table goes mad.
 

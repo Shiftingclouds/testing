@@ -50,6 +50,7 @@ The second Chaser goes through after it, and gutters, and drops.
 You see his flame. You see it go. Not out. Down. His big hot furious golden flame, the one that frightens him, the one that walked him through a burning house, sucked down to a blue flicker like a pilot light in a draught.
 
 And he falls.
+*snapshot hoop
 
 Forty feet, through the cold blue air, towards the white frozen pitch, with his broom tumbling away above him, not trying to catch himself. Not moving at all.
 *choice

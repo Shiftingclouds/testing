@@ -25,6 +25,7 @@ There's a hole in him. You don't want to look, and you look. Where his flame was
 @crook:neutral "Right," says Professor Crook, very quietly, round her pipe. She stands up. "Right." And then, to the tower full of screaming animals, in a voice that could stop a charging bull: "[i]QUIET.[/i]"
 
 The Rookery goes silent.
+*snapshot rookery
 
 In the silence, from high up in the dark, where the tower's windows are, you hear the last faint echo of something going away. Low. Long. Lonely. A hum.
 

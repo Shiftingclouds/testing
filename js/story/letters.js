@@ -20,7 +20,26 @@
     }
   };
 
-  NB.SNAPSHOTS = {};
+  NB.SNAPSHOTS = {
+    doorway: { title: "The doorway in the kitchen wall", bg: "home_kitchen" },
+    wandshop: { title: "Pellow & Daughters", bg: "wand_shop" },
+    nesting: { title: "Your lantern, burning white", bg: "lantern_hall" },
+    candle: { title: "Bare-handed", bg: "corridor_night" },
+    emberfall: { title: "Lanterns on the Mere", bg: "mere_night" },
+    rookery: { title: "The Rookery stair", bg: "rookery" },
+    odile: { title: "Odile Pellow sings", bg: "thimble_cross_snow" },
+    longnight: { title: "Midnight on Longnight", bg: "lantern_hall_longnight" },
+    candlewake: { title: "Candlewake", bg: "mere_frozen" },
+    hoop: { title: "The grey hoop", bg: "glimmer_pitch_snow" },
+    toby: { title: "Toby sings the wren's line", bg: "heronmere" },
+    stair: { title: "The east stair", bg: "corridor_night" },
+    maisie: { title: "Sunday at St Ide's", bg: "st_ides" },
+    choir: { title: "The first rehearsal", bg: "old_cloisters" },
+    brightfire: { title: "Among the Candlestones", bg: "candlestones" },
+    song: { title: "The Wren's Song", bg: "lantern_hall" },
+    heartfire: { title: "The Heartfire", bg: "heartfire" },
+    ghosts: { title: "Midsummer dawn", bg: "mere_day" }
+  };
 
   NB.ENDING_TEXT = {};
 })(typeof window !== "undefined" ? window : globalThis);
