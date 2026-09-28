@@ -1,4 +1,4 @@
-// Calder desktop wrapper: opens the single-file game in its own window.
+// Wrenfold desktop wrapper: opens the single-file game in its own window.
 const { app, BrowserWindow, shell, Menu } = require("electron");
 const path = require("path");
 
@@ -8,13 +8,13 @@ function createWindow() {
     height: 850,
     minWidth: 420,
     minHeight: 500,
-    title: "Calder",
-    backgroundColor: "#120f1f",
+    title: "Wrenfold",
+    backgroundColor: "#0e0b1d",
     icon: path.join(__dirname, "build", "icon.png"),
     autoHideMenuBar: true,
     webPreferences: { contextIsolation: true, nodeIntegration: false, sandbox: true }
   });
-  win.loadFile(path.join(__dirname, "app", "calder.html"));
+  win.loadFile(path.join(__dirname, "app", "wrenfold.html"));
   // Links to websites open in the normal browser, not inside the game.
   win.webContents.setWindowOpenHandler(({ url }) => {
     if (/^https?:/.test(url)) shell.openExternal(url);

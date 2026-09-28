@@ -267,7 +267,7 @@
       "<p><b>Your house</b> earns and loses points from what you do. The House Lantern goes to the winner at the Leaving Feast.</p>",
       "<p><b>The Journal</b> holds everyone you've met, with hearts for how close you've become, the clues you've gathered, letters, and snapshots.</p>",
       "<p><b>Four ways to play.</b> Settings → Narration: <i>Classic</i> (the text as written), <i>Varied</i> (fresh hand-written phrasings each time), or <i>Living</i> (Claude retells each page in a voice you pick). Or choose <b>Sandbox</b> on the title screen: no written choices at all. You type what you do, and Claude plays Wrenfold. Living and Sandbox need Claude (in the Claude app, or your own API key) and an internet connection.</p>",
-      "<p>There are eight endings. After your first, the Story Map and New Game+ open up.</p>"
+      "<p>There are ten endings. After your first, the Story Map and New Game+ open up.</p>"
     ].join("")
   };
 })(typeof window !== "undefined" ? window : globalThis);

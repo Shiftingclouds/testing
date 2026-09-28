@@ -1,18 +1,18 @@
 {
-  "name": "calder",
-  "productName": "Calder",
+  "name": "wrenfold",
+  "productName": "Wrenfold",
   "version": "1.0.0",
-  "description": "Calder: The Unquiet City, an interactive novel",
+  "description": "Wrenfold: A School for Late Magic, an interactive novel",
   "author": "shiftingclouds",
   "main": "main.js",
   "scripts": {
-    "sync": "node ../tools/build.js && node -e \"require('fs').copyFileSync('../dist/calder.html','app/calder.html')\"",
+    "sync": "node ../tools/build.js && node -e \"require('fs').copyFileSync('../dist/wrenfold.html','app/wrenfold.html')\"",
     "start": "npm run sync && electron .",
     "dist:win": "npm run sync && electron-builder --win portable --x64"
   },
   "build": {
-    "appId": "com.shiftingclouds.calder",
-    "productName": "Calder",
+    "appId": "com.shiftingclouds.wrenfold",
+    "productName": "Wrenfold",
     "files": [
       "main.js",
       "app/**",
@@ -27,7 +27,7 @@
       "signAndEditExecutable": false
     },
     "portable": {
-      "artifactName": "Calder.exe"
+      "artifactName": "Wrenfold.exe"
     },
     "afterPack": "./afterPack.js",
     "compression": "maximum",

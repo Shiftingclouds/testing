@@ -1,11 +1,11 @@
-// Sets the pixel-art icon on the packaged Calder.exe without needing Wine.
+// Sets the pixel-art icon on the packaged Wrenfold.exe without needing Wine.
 const fs = require("fs");
 const path = require("path");
 exports.default = async function (context) {
   if (context.electronPlatformName !== "win32") return;
   const ResEdit = await import("resedit");
   const PE = await import("pe-library");
-  const exePath = path.join(context.appOutDir, "Calder.exe");
+  const exePath = path.join(context.appOutDir, "Wrenfold.exe");
   const exe = PE.NtExecutable.from(fs.readFileSync(exePath), { ignoreCert: true });
   const res = PE.NtExecutableResource.from(exe);
   const iconFile = ResEdit.Data.IconFile.from(fs.readFileSync(path.join(__dirname, "build", "icon.ico")));

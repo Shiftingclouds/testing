@@ -2,7 +2,9 @@
 
 A branching interactive novel in 24 chapters, told in the second person. You're twenty-five and your magic came late. A letter slides under your door at midnight, a doorway of light opens in your kitchen wall, and you spend a year at Wrenfold, the only school for the late-kindled: four houses, wands, familiars, festivals, ten thousand floating lanterns, and the Grey Choir, who hum people's magic out of them.
 
-**Work in progress.** Design and plan are complete; chapters are being written in order.
+**Complete draft.** All 24 chapters (about 115,000 words), ten endings, six optional romances, and a year-later epilogue. The art is placeholder until ChatGPT's pictures arrive: everything to draw is listed in `docs/05-art-handoff.md`.
+
+**Windows:** `downloads/Wrenfold.exe` is a portable app; double-click to play, no installer.
 
 ## Play
 

@@ -1,11 +1,11 @@
-# Calder desktop app (Windows)
+# Wrenfold desktop app (Windows)
 
-Wraps `dist/calder.html` in its own window with Electron.
+Wraps `dist/wrenfold.html` in its own window with Electron.
 
 ```bash
 npm install
 npm start          # run it in a window (Linux/Mac/Windows)
-npm run dist:win   # build release/Calder.exe (portable, no installer)
+npm run dist:win   # build release/Wrenfold.exe (portable, no installer)
 ```
 
 The .exe is unsigned, so Windows SmartScreen will warn the first time:
