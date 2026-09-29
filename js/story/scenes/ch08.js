@@ -126,7 +126,15 @@ He stays kneeling after it's gone out among the others, with the taper burning l
   *if st_imogen >= 3
     "Who's Kit?" you ask. Very quietly.
 
-    @imogen:hurt She doesn't answer at first. The lantern drifts out among the others. "My brother," she says at last. "He's not dead. That's the stupid thing. You're supposed to write the names of the dead." Her voice doesn't shake. Her hands do. "Three years ago. He kindled late, like us. He was twenty-four. It was his first term. He'd gone home to Kingsmere for his birthday, and he was walking back from the tram, and they took him. In a subway. Hollowed. He's at St Ide's." She takes her mask off and holds it in her lap. "I visit him every month. He says [i]hello, Immy[/i], like I'm someone he met once at a party."
+    @imogen:hurt She doesn't answer at first. The lantern drifts out among the others. "My brother," she says at last. "He's not dead. That's the stupid thing. You're supposed to write the names of the dead." Her voice doesn't shake. Her hands do.
+
+    You wait. Out on the water, a lantern bumps against another and they turn together, slowly, like two people dancing.
+
+    @imogen:guarded "He kindled late," she says. "Like us. Twenty-four. It was his first term, three years ago. He'd gone home for his birthday. I made him a cake. It was a bad cake." She stops, and starts again somewhere else, the way you'd step round a hole. "He was walking back from the tram. There's a subway under the ring road. He always went through it. I always told him not to."
+
+    "Imogen..."
+
+    @imogen:hurt "They took him in the subway." Very flat. As if she's reading it off a form. "Hollowed. He's at St Ide's." She takes her mask off, and holds it in her lap, and looks at it instead of at you. "I visit him every month. He's very polite. He says [i]hello, Immy[/i]." Her mouth does something. "Like I'm someone he met once at a party. Somebody's friend. He's always pleased to see me. He's never once asked who I am."
 
     You don't say anything. You don't think there's anything to say. You kneel next to her on the cold stones and wait.
 
@@ -219,7 +227,23 @@ It's like the candles in Pellow's shop, leaning towards you. The whole bonfire b
 
 You can see it in the flame-sight, too: the bonfire on the shingle and the bonfire in his chest, leaning towards each other, red-gold and red-gold, like two people who recognise each other across a room.
 *if (st_rowan >= 3) and not(b_rowan_fire)
-  @rowan:hurt And there, in front of the apple-fire, with half the school watching and not hearing, he tells you about the house on Tanner's Row. The little girl in the wardrobe. The stairs that weren't there. Walking through the fire like rain. The commendation, and the sheets smoking in the night, and his sister's baby crying because he was too hot to hold. "One day it's going to get out," he says, "and it's going to be somebody I love, and I won't be able to walk it back."
+  @rowan:hurt He doesn't take his hand out of the flame. He looks at it, curled round his fingers, gold and blue. "Last time I was this close to a fire," he says, "it was a house."
+
+  You wait. Behind you the fiddle has found its tune again, and somebody whoops, and the dancing starts back up, round the far side of the fire, where the heat's bearable.
+
+  @rowan:tense "Tanner's Row. June. Top floor gone up by the time we got there." He says it the way you'd give an address to a taxi, flat, all the facts in a line, as if that's the only way it'll come out. "Mum on the pavement in her nightie. Screaming. She'd got the baby out and she'd got the boy out and she couldn't find the girl." He swallows. "Seven. She was seven."
+
+  "Rowan. You don't have to..."
+
+  @rowan:hurt "I know." He still doesn't look at you. "Ladder was two minutes out. She didn't have two minutes. So I went in the front door." A breath. "It should've killed me. The hall was fire, floor to ceiling. I walked through it. It parted. Like I was..." He shakes his head. "Like walking through a bead curtain. It didn't want to touch me."
+
+  "Where was she?"
+
+  @rowan:small "In the wardrobe." Very quietly. "They always hide. Kids. You learn that, first year on the job: check the wardrobes, check under the beds, they think it's safe in there. She had her hands over her ears." His fingers close, slowly, and the flame in them closes too, like a flower at dusk. "I carried her down the stairs. Only there weren't any stairs by then. I just walked down where they'd been. And the fire got out of our way the whole way down, and she didn't get a mark on her. Not one."
+
+  The bonfire leans closer. He doesn't seem to notice.
+
+  @rowan:hurt "They gave me a medal," he says. "I've never taken it out of the box. I couldn't go back to work. I kept waking up with the sheets smoking." He laughs, not really a laugh. "My sister's baby screamed when I held him. At the christening. I was too hot. Everyone laughed. I went and sat in the car." Now he looks at you, and his eyes in the firelight are wet and very frightened. "It came into me in that house, and it never went out. One day it's going to get out. And it's going to be somebody I love. And I won't be able to walk it back."
   *set b_rowan_fire true
   *set st_rowan 4
 *choice
@@ -273,15 +297,29 @@ One of the ghosts stops walking.
 
 You can't speak. The whole cloister has gone quiet, the students in the doorways and the ghosts on the grass. Everyone's looking at you. {fam_name} has gone rigid against your legs, but not, you notice, with fear. With attention.
 
-@lettice:ghost "Lettice," she says. "Lettice Crane. I was here in nineteen eighty-six. Heronmere." She smiles, sadly. "He's coming back, you know. For what he lost. And you have it."
+"Who are you?" It comes out as a whisper. It's all you've got.
+
+@lettice:ghost "Lettice," she says, as if she's pleased to be asked; as if nobody has, for a long time. "Lettice Crane. Heronmere." She looks round at the cloister, the arches, the lit windows, the way you'd look round a kitchen you grew up in. "I was here in nineteen eighty-six. I had a room over the water. You could hear the fish at night, if you were quiet." Her smile goes, slowly, like a lamp being turned down. "Is it still cold, the Heronmere corridor? It was always cold."
+
+You nod. You can't do anything else.
+
+@lettice:ghost "Good," she says. "Some things should stay." Then her grey eyes come back to yours, and hold, and the cold coming off her deepens, as if a door has opened somewhere behind her onto winter. "He's coming back, you know," she says. "For what he lost." A pause, very gentle. "And you have it."
 *clue e05
 *choice
   #"Who's coming back?"
     *set wit +5
-    @lettice:ghost "Aldric," she says. The name falls into the cold like a stone into a well. "Aldric Morrow. The boy with the light in his hands. Like yours." Her grey eyes are very far away. "We were in the same year. He was the brightest thing I'd ever seen. And they put him out, in the Warding Hall, one Thursday in February, and sent him home in the dark, and told us all not to talk about it." She looks at you. "He came back for me first. Years after. I was the first one he took. Because I was there, and I didn't say anything." Her face flickers, like a picture on a bad television. "He's been hungry ever since. For forty years."
+    @lettice:ghost She opens her mouth to tell you, and nothing comes. You watch her try. Her lips shape the start of something, and stop, and shape it again. "We weren't to say it," she says, at last, puzzled, like someone patting their pockets for a key. "They told us. Don't talk about it, don't say his name, it'll only upset people. And I didn't. I never did." Her face flickers, like a picture on a bad television. "Forty years of not saying it, and now I can't find it."
+
+    "What was he like?"
+
+    @lettice:ghost That, she can find. "He lit the candles at dinner," she says. "By looking at them. Every night, the whole Hall, to make the new ones gasp. The brightest thing I ever saw." Her hand drifts up towards your chest and stops short. "Like yours. The light in the hands." Then, lower: "He came for me first. After they sent him home. I was walking back from the village, and it went so cold, and there was a humming, and he was so [i]sorry[/i]." She looks at you, and her grey eyes are very far away. "He's been hungry ever since."
   #"What did he lose?"
     *set heart +5
-    @lettice:ghost "His light," she says. "His flame. Everything. They took it from him in the Warding Hall, in our first year, by accident, and they were so ashamed they sent him home and pretended he'd never been. He was the brightest thing I ever saw." Her voice drops to almost nothing. "And he never stopped wanting it back. He's been taking other people's, ever since, to keep warm. He took mine."
+    @lettice:ghost "His light," she says. "All of it. They put it out." She says it simply, the way you'd say someone lost a glove.
+
+    "Who did?"
+
+    @lettice:ghost Her eyes slide away from yours, across the frosted garden, towards the dark arches on the far side of the cloister, and stay there. "I was there," she says. "We all were. The whole year. And nobody said anything, afterwards, and they sent him home, and we let them." She's very faint now. You can see an arch through her shoulder. "He never stopped wanting it back. He's been taking other people's ever since, to keep warm." She touches her own chest, where the silver shimmer is. "He took mine. I think he thought it was fair."
   #"What do I have? What does he want?"
     *set nerve +5
     @lettice:ghost She reaches out one faint silver hand and holds it over your chest, not touching, just where your flame is, and you feel the cold of her go right through you. "The same thing he had," she says. "The light in your hands. The thing that can put a flame back." She takes her hand away. "He can't do it anymore. He needs someone who can." Her grey eyes fix on yours. "Keep it close, little light. Keep it very, very close."
@@ -314,7 +352,17 @@ The lanterns in the Hall turn back to gold at half past midnight, slowly, from t
 
 @toby:neutral "She did it from the cloister doorway. Into a jam jar. I don't know how the jam jar works." He peers at you. "You've gone a funny colour. You're freezing. Here." He puts his cardigan round your shoulders, damp hem and all. It smells of cider and lake water and, underneath, very faintly, of bread.
 *if told_toby
-  You tell him. Low, with your heads together, while the lanterns turn from red to gold above you. Lettice Crane, and the light in your hands, and [i]he's coming back for what he lost, and you have it[/i].
+  You tell him. You don't mean to, and then you do, low, with your heads together over the end of the bench, while the red drains out of the lanterns above you.
+
+  "She came straight across the grass. Right up to me. She said she could see it. The light in my hands."
+
+  @toby:tense He goes still. "In front of everyone?"
+
+  "She said we all can. She meant all of them. The ghosts." You rub your cold hands together, and they don't warm. "And then she said somebody's coming back. For what he lost. And that I've got it."
+
+  @toby:tense "Who? Who's coming back?"
+
+  "She didn't say. She couldn't, or she wouldn't. Then the clock struck, and she went."
 
   @toby:scared His face goes from pink to white. "That's you," he says. "She means you. The flame thing. She knows." He grabs your hand. His fingers are cold and wet from the Mere, and holding on hard. "You have to tell the Headmistress. Right now. Tonight."
 

@@ -74,7 +74,19 @@ By Sunday morning it's a headquarters. There are maps pinned to the scorched wal
     @arkwright:neutral "For now," says the Commander. "Drink some tea on your way out. You look like you need it."
   #"Following a humming in the walls." It's true, and it's the part that matters.
     *set nerve +5
-    @arkwright:attentive Her eyes sharpen. "Humming," she says. "In the walls. Where?" You tell her: along the lantern brackets, from one to the next, faint, like a wire singing in the wind. She writes it all down, fast, in small hard capitals, and underlines something twice. "How long did it last?"
+    @arkwright:attentive Her eyes sharpen. She puts the mug down. "Humming," she says. "In the walls. Where?"
+
+    "Along the brackets. The lantern brackets. It went from one to the next, like..." You look for it. "Like a wire singing. In the wind. You know when you're under a telegraph pole on a windy day."
+
+    @arkwright:attentive "Which way was it going?"
+
+    Nobody's asked you that. You didn't know you knew, until you think about it. "Down," you say. "Down the stair. Towards the Hall."
+
+    @arkwright:neutral She writes that down, fast, in small hard capitals, and underlines something twice. "High or low? Sing it."
+
+    "What?"
+
+    @arkwright:neutral "Sing it. Hum it. Whatever you heard. Nobody's listening." Everybody's listening. You do it anyway, badly, under your breath: one low note, long, the way it went along the stone. She watches your mouth while you do it, and something in her scarred face goes still and flat. "How long did it last?"
 
     "Until I lost it. Near the main stair."
 
@@ -202,7 +214,19 @@ It's supposed to make you feel safer. Mostly it makes the castle feel like somew
   You don't answer. You don't have to. She sees it in your face, and something in hers goes very quiet, the way it does when she gets a question right that she was hoping to get wrong.
 @imogen:tense "If I tell the Commander what you are," says Imogen, very quietly, "she'll take me. I know she will. And I'll be in, and I'll be able to find out why nobody's ever tried to relight anyone, and I'll be able to do something, for Kit, for all of them." Her hands are shaking on the book. "I'm asking. I'm not going to do it without asking. I'm asking you."
 *if (st_imogen >= 3) and not(b_imogen_kit)
-  @imogen:hurt Then, before you can answer, she tells you about Kit: her brother, hollowed three years ago in a subway on his way home, in his first term, before his letter came. St Ide's. [i]Hello, Immy,[/i] like she's someone he met at a party. It comes out all at once, flat and fast, like evidence, and at the end of it she takes her glasses off and puts her face in her hands.
+  You open your mouth. She holds up one hand, not looking at you, the way you'd stop traffic.
+
+  @imogen:tense "Wait. I haven't said why. You should know why before you answer. It's only fair." She lines the book up with the table edge again, though it hasn't moved. "I have a brother. Had. Have." A small, furious breath through her nose. "Kit. He kindled late too. Twenty-four. Everybody at home said [i]well, that's Kit, never on time for anything[/i]."
+
+  "Imogen, you don't..."
+
+  @imogen:hurt "He was in his first term." She's talking faster now, flat and quick, like somebody giving evidence who's afraid of being stopped before she gets to the end. "He went home for his birthday. He was walking back from the tram, through the subway, the one I always told him not to use. They were waiting in it." Her hands have come apart on the book. "Hollowed. Three years ago. He's at St Ide's."
+
+  At the next table, Jory Penrose has stopped pretending to turn his pages.
+
+  @imogen:hurt "I go every month. He's very nice to me." Her voice wobbles on [i]nice[/i] and she steadies it. "He says [i]hello, Immy[/i]. Like I'm a friend of a friend. Like somebody he met once at a party and can't quite place." She takes her glasses off. "He used to call me that to annoy me. Now he just says it. It's the only thing left over." And she puts her face in her hands, there at the table under the green lamp, and doesn't make a sound.
+
+  You put your hand on her arm. She lets it stay there.
   *set b_imogen_kit true
   *set st_imogen 4
 *choice
@@ -314,11 +338,21 @@ They both stop when you come in. The weathervanes are all spinning, wildly, in e
 
 You sit down. Nobody offers you cake.
 
-@arkwright:grave "Your lantern flared white on the first night," says Commander Arkwright. "Every candle in the Wordcraft Gallery lit at once. A ghost walked straight to you at Emberfall and said [i]you have it[/i]. The Headmistress sees you on your own every Friday." She takes a breath. "Forty years ago, a boy's lantern flared white on his first night in this castle. His name was Aldric Morrow. He was a Kindler. He's the man who leads the Grey Choir." She looks at you, steadily. "And I think he's coming here, to this castle, for you."
+@arkwright:grave "Your lantern flared white on the first night," says Commander Arkwright. She says it without hurry, the way she'd read out charges. "Every candle in the Wordcraft Gallery lit at once. A ghost walked straight to you at Emberfall, in front of four hundred people, and said [i]you have it[/i]. And the Headmistress sees you on your own every Friday, with the door shut." She lets that sit. "I'm not a fool. Nor are you. So we'll skip the part where we pretend."
+
+You don't say anything. Your hands have gone cold in your lap. On its perch, the hawk shifts its grip.
+
+"The ghost said somebody was coming back," you say, at last. "For what he lost. She wouldn't say who."
+
+@arkwright:neutral "No. She'll have been told not to, forty years ago, and the dead are very obedient about that sort of thing." The Commander glances at the window, at the Headmistress's straight back. Nobody at the window turns round. "Forty years ago," she says, "a first-year's lantern flared white on his first night in this castle. Just like yours. His name was Aldric Morrow."
 
 The weathervanes stop spinning, all at once.
 
 In the silence, you can hear the fire, and the hawk shifting on its perch, and your own heart. Aldric Morrow. It's only a name. It sits in the room like a third person.
+
+"Who is he?" Your voice comes out smaller than you meant. "Now, I mean. Where is he?"
+
+@arkwright:grave "He was a Kindler," says the Commander. "The last one anyone knew of. Until you." She watches that land, and doesn't soften it. "Now he leads the Grey Choir. Every flame they've taken in forty years, he's had the use of. Delphine Arceneaux's. Bram Hollis's." She puts one hand flat on the mantelpiece, very precisely, as if she's afraid of what it would do otherwise. "And I think he's coming here. To this castle. For you."
 *if told_arkwright
   She doesn't say how she knows. You think of Imogen standing outside the Commander's door with her hand raised, not knocking. You think of Jory Penrose at the next table, reading about Glimmerball upside down. Somebody has told her something, or nobody has and she's simply added it up; either way, from the easy, certain way she says [i]Kindler[/i], you think she's known for days.
 *set told_arkwright true
@@ -332,15 +366,25 @@ In the silence, you can hear the fire, and the hawk shifting on its perch, and y
 *choice
   #"What happened to him? To Morrow? Forty years ago. I want to know."
     *set wit +5
-    @kestrel:grave The Headmistress turns from the window. She looks at the Commander, and then at you, and something in her gives, a very little. "He was in my year," she says quietly. "A Warding exercise, our first February. Another student panicked and cast something he didn't understand, and it put Aldric's flame out. All of it. Like snuffing a candle." She closes her eyes. "The school was frightened, and ashamed, and the other boy's family was important. They sent Aldric home. They told him he'd recover. They told us not to talk about it." She opens her eyes. "I didn't talk about it. For forty years. That's my part in it."
+    @kestrel:grave The Headmistress turns from the window. She looks at the Commander, and then at you, and something in her gives, a very little. "He was in my year," she says quietly.
+
+    You stare at her. The Commander doesn't; she knew.
+
+    @kestrel:neutral "We came the same September. All of us late, all of us somebody's surprise." She comes and sits down, finally, in the chair across from you, as if her legs have decided for her. "What do you want to know?"
+
+    "What happened to him?"
+
+    @kestrel:grave She's quiet long enough that the Commander shifts her weight by the fire. "Our first February," she says, "something went wrong in the Warding Hall. And when it was over, Aldric's flame was out. All of it." She pinches finger and thumb together, very gently, in the air between you, the way you'd put out a candle. "Like that. They sent him home. They told him he'd recover. They told the rest of us not to talk about it." She lowers her hand into her lap. "I didn't. For forty years. That's my part in it."
 
     "What was he like? Before?"
 
-    @kestrel:warm Something happens to her face that you've never seen there: a sort of young, helpless tenderness, gone as fast as it came. "Kind," she says. "Clever. Showed off. Made us all laugh. He could light a candle across the Lantern Hall by looking at it, and he did, at dinner, every night, to make the first-years gasp." She looks at the fire. "He was the best of us. That's what nobody ever says."
+    @kestrel:warm Something happens to her face that you've never seen there: a sort of young, helpless tenderness, gone as fast as it came. "Kind," she says. "Clever. Showed off. Made us all laugh. He could light a candle across the Lantern Hall by looking at it, and he did, at dinner, every night, to make the new ones gasp." She looks at the fire. "He was the best of us. That's what nobody ever says."
 
-    "Who was the other boy?"
+    "What went wrong? In the Warding Hall. Who..."
 
-    @kestrel:grave "That," says Imelda Kestrel, "isn't mine to tell. Not yet."
+    @kestrel:grave "That," says Imelda Kestrel, "isn't mine to tell. Not yet." And the way she says it, very quietly, looking at her own hands, you understand that it isn't a matter of not knowing.
+
+    @arkwright:neutral By the fire, the Commander says nothing at all, which from her is a great deal.
   #"All right. Let the Order watch me. If he's coming anyway, I'd rather it was somewhere with people."
     *set nerve +10
     *set fr_arkwright +1

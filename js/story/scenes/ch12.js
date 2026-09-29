@@ -143,7 +143,15 @@ It's slow, and dusty, and mostly hopeless. Hymns about the harvest. Carols about
 Somewhere around midnight, Miss Dunne comes down the gallery with her own candle, tiny and birdlike, with pencils stuck through her white bun like pins in a pincushion, and looks at the two of you on the floor among her books, and doesn't tell you to leave. She stands and watches you for a while. Then she goes away, and comes back, with a book in her arms.
 
 *meet dunne
-@dunne:neutral "The Wrenfold Carol Book," she says, in her voice like a creaking door, and sets it down on the floor between you. It's enormous, and very old, bound in cracked green leather, with brass corners. "Seventeen hundred and two. The school choir copied it out from older books, some of them Hester's own. It was never catalogued; I found it in a chest in the bell-tower when I was a girl, sixty years ago, and I've kept it in my office since, because nobody else wanted it." She sniffs. "Page ninety-one. Don't touch the margins with your fingers. That page isn't a copy. Somebody bound it in, loose, from something older. The ink on it's older than the castle roof."
+@dunne:neutral "The Wrenfold Carol Book," she says, in her voice like a creaking door, and sets it down on the floor between you with a thump that raises dust. It's enormous, and very old, bound in cracked green leather, with brass corners. "Seventeen hundred and two. The school choir copied it out from older books."
+
+@imogen:tense Imogen stares at it. "It's not in the catalogue. I've been through the catalogue. Twice."
+
+@dunne:neutral "No," says Miss Dunne, with some satisfaction. "It isn't. I found it in a chest in the bell-tower when I was a girl, sixty years ago, under a dead pigeon, and I've kept it in my office ever since, because nobody else wanted it." She sniffs. "Nobody ever asked."
+
+"Is it in there? The song?"
+
+@dunne:neutral She doesn't answer that. She bends, stiffly, and opens the book herself, and turns the thick pages with the side of one finger, the way you'd turn over something that might still be hot. "Page ninety-one," she says. "Don't touch the margins. That page isn't a copy. Somebody sewed it in, loose, from something older." She straightens up, one hand on the small of her back. "The ink on it's older than the castle roof."
 
 Imogen's already turning the pages. Her hands are shaking.
 
@@ -165,7 +173,29 @@ When you lean close, your fingers not quite touching the page, something happens
 
 "Miss Dunne. What's the Heartfire?"
 
-@dunne:neutral The old librarian doesn't answer at once. She lowers herself, carefully, onto a stool, with her candle in her lap. "When I was a girl," she says, "it was a story. A founders' story, the kind the prefects told first-years in the dark. It went like this." She closes her sharp black eyes. "Hester Wren built this school to keep late flames safe from the Choir. And when she was old, and dying, she didn't want to leave it unguarded. So she went down, under the castle, as deep as she could go, and she took her own flame out of herself, and she left it there. Burning. For ever." She opens her eyes. "And every lantern in Wrenfold is lit from it. And every ward is held by it. And the day it goes out, the school goes dark, and the Choir walks in." She sniffs. "That was the story. Prefects' nonsense."
+@dunne:neutral The old librarian doesn't answer at once. She lowers herself, carefully, onto a stool, with her candle in her lap, and looks at the page for a while as if it's somebody she used to know. "A story," she says at last. "When I was a girl, it was a story. The prefects told it to the first-years in the dark, to frighten them. They told it to me. I was very frightened. I was also," she adds, "sixty years younger and a great deal more gullible."
+
+"Will you tell it?"
+
+@dunne:neutral She sniffs. "Hester Wren built this school to keep late flames safe from the Choir. You know that much; everybody does. And when she was old, and dying, so the story goes, she couldn't bear to leave it unguarded." She stops there, and turns her candle a little in her lap.
+
+@imogen:attentive "So what did she do?" Imogen's pencil has stopped moving.
+
+@dunne:neutral "She went down," says Miss Dunne. "Under the castle. As deep as the stone goes." A pause. "And she left something there."
+
+"Left what?"
+
+@dunne:neutral "Herself. The part that mattered." Her sharp black eyes come up to yours. "Her flame. Took it out of herself, the prefects said, like taking a coal out of a grate with the tongs, and left it down there in the dark. Burning. For ever." She sniffs again. "They used to say you could hear it on quiet nights, if you put your ear to the floor of the Lantern Hall. Half my year went about with dusty ears."
+
+"But why? Why leave it?"
+
+@dunne:neutral "Ah. That was the good part. The part they saved for when the candle was low." Her voice drops, not quite despite herself, into the voice of a girl telling it in a dormitory sixty years ago. "Every lantern in Wrenfold is lit from it. Every ward round the island is held by it. And the day it goes out..."
+
+She stops.
+
+@imogen:tense "The day it goes out?"
+
+@dunne:neutral "The school goes dark," says Miss Dunne, "and the Choir walks in. That was how it ended. Always. Somebody blew out the candle on that line, and everybody screamed." She folds her hands on her candle-holder. "Prefects' nonsense."
 
 @imogen:grave Imogen has stopped copying. "Is it?" she says. "Nonsense?"
 
@@ -225,7 +255,9 @@ The bands start again, all four at once, in the same tune for once, and the floo
   @cas:guarded Cas walks into the Lantern Hall beside you in black velvet so severe it looks like armour, with his chin up and his jaw set, and the whole Hall turns and looks. He was right. It is a spectator sport. For about a minute. Then Rookhallow's drums start, and he says, through his teeth, "Well, we're here now," and takes your hand, and it turns out that Casimir Drummond can dance. Properly. Old-fashioned, perfect, the kind somebody made him learn as a boy in a house with too many portraits. People stop staring at him and start staring at the two of you instead, which is different, and he notices, and something in his face comes unlocked.
 *if dance = "idris"
   *present idris
-  @idris:attentive Idris doesn't dance. He told you. He stands at the edge of the floor with you, in plum and silver, watching, and tells you things about everybody who goes past, quiet and dry and precise, until you're laughing so much you have to hold onto a pillar. Then, at the start of a slow one, without any warning, he says, "I'll try one," and holds out his hand, and dances badly and seriously and without once looking away from your face, as if he's studying you, which he is, and as if he's found something, which you think he has.
+  @idris:attentive Idris doesn't dance. He told you. He stands at the edge of the floor with you, in plum and silver, watching, and tells you things about everybody who goes past, quiet and dry and precise. "Hamish Galbraith," he murmurs, as Hamish whirls by with a Larkspire girl who looks as if she's been kidnapped. "Four refusals at lunch. He's since asked a portrait. The portrait said maybe." A Rookhallow couple goes past, stepping on each other. "Those two have been pretending to hate each other since September. Somebody should tell them it isn't working." Professor Bassani sweeps by with enormous flourishes. "And he," says Idris, "has been practising that turn in the Turning classroom every evening for a week. I've heard him through the floor." By then you're laughing so much you have to hold onto a pillar.
+
+  @idris:shy Then, at the start of a slow one, without any warning, he says, "I'll try one," and holds out his hand, and dances badly and seriously and without once looking away from your face, as if he's studying you, which he is, and as if he's found something, which you think he has.
 *if dance = "toby"
   @toby:laugh It's the gang. Toby and Priya and you, and Hamish Galbraith, who everybody said no to and came anyway, with his ferret in a bow tie, and half of Heronmere, in a great loose laughing crowd at the heart of the floor, dancing with everyone and no one, in a big messy circle, Toby leading it and getting every single step wrong. It's the best night of your life so far. You'll think that later, and be surprised, and not be sure it's not true.
 *if dance = "alone"
@@ -288,7 +320,19 @@ The clock finishes striking. The blue goes on burning. Someone starts to sing an
 
       "What happened when you didn't?"
 
-      @cas:grave "Nothing happened. That's the point." He turns the letter over. "I was eight. Nine. Ten. Nothing. They took me to healers. They took me abroad, to a man who put me in a bath full of lightning. At twelve my father stopped speaking to me at dinner. Not cruelly. He just... stopped. As if I'd already gone." His breath goes up white. "At fourteen my younger brother kindled, and they moved his portrait into my place in the long gallery. At twenty, my grandmother had my name taken out of the family book. In ink. I watched her do it." He smiles, a terrible small smile. "And at twenty-six, on a Tuesday, in a train toilet somewhere outside Kingsmere, I set the mirror on fire by looking at it. And the next morning there was a letter from my grandmother, saying the family would be delighted to reconsider."
+      @cas:grave "Nothing happened. That's the point." He turns the letter over. "I was eight. Nine. Ten. Nothing. They took me to healers. They took me abroad, to a man who put me in a bath full of lightning."
+
+      "Lightning?"
+
+      @cas:amused "It tickled." It isn't a smile. "At twelve my father stopped speaking to me at dinner. Not cruelly. He just... stopped. As if I'd already gone." His breath goes up white, and hangs, and goes.
+
+      You wait. He's looking out at the black Mere, not at you, and you have the feeling that if you move he'll stop.
+
+      @cas:grave "At fourteen my younger brother kindled, and they moved his portrait into my place in the long gallery. At twenty, my grandmother had my name taken out of the family book. In ink."
+
+      "In front of you?"
+
+      @cas:grave "She asked me to hold the inkwell." He smiles, a terrible small smile. "And at twenty-six, on a Tuesday, in a train toilet somewhere outside Kingsmere, I set the mirror on fire by looking at it. And the next morning there was a letter from my grandmother, saying the family would be delighted to reconsider."
 
       @cas:hurt "I went back," he says. "That's the worst thing. I went home and let them put my portrait back up and I sat at dinner and my father talked to me as if the last fourteen years hadn't happened. Because I wanted it that much." He puts the letter back in his pocket, still unopened. "That's what a late flame costs, in a family like mine. Not the years. The going back afterwards."
       *choice

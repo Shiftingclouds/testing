@@ -11,7 +11,13 @@ You spend the weekend getting lost.
 
 Everybody does. Wrenfold is not a building that wants to be understood by Monday. Its staircases have opinions. One of them goes up on weekdays and down at weekends; one of them has a step missing that isn't missing if you're carrying something; one of them, in the north-west corner, simply doesn't go anywhere, and ends in a blank wall with a painting of a very smug heron on it. Doors that were there on Saturday aren't there on Sunday. Corridors go round corners and come back to where they started, looking pleased with themselves. On Sunday afternoon you and Toby set out from breakfast to find the Glasshouses and arrive, two hours later, in the kitchens, where a large red-faced woman in an apron, who can only be Mrs Pettigrew, gives you each a scone and points you firmly back the way you came, past a goat.
 
-It doesn't matter. It's the best weekend of your life. The sun comes out on Saturday and lies on the Mere like a sheet of hammered gold, and half the first-years end up sprawled on the grass by the boathouse in their new robes, comparing wands and familiars and lives. You find out that the woman who was nested just before you ran a nail bar, and the man who can't stop floating used to be a scaffolder, and the quiet girl with the owl was a vet. You find the owlery, and the old walled garden, and a bench on the east wall where you can see the whole length of the Mere to the hills. You eat too much. You sleep like a stone.
+It doesn't matter. It's the best weekend of your life. The sun comes out on Saturday and lies on the Mere like a sheet of hammered gold, and half the first-years end up sprawled on the grass by the boathouse in their new robes, comparing wands and familiars and lives.
+
+[i]What did you do? Before?[/i] It's the question everybody asks, lying on their backs with their eyes shut against the sun, and it's the one everybody wants to be asked. [i]Nails[/i], says the woman who was nested just before you, holding up ten perfect coral fingertips. [i]Twelve years. I did a bride's the morning I kindled and every one of her nails came out a different colour, and she loved it, and I cried in the stockroom.[/i] A man a few yards off, who is lying on the grass mainly because if he stands up he drifts, says [i]scaffolder[/i], and everybody laughs, and then stops, and he says [i]yeah, I know[/i], a bit sadly, and holds on to a tussock. The quiet girl with the owl says [i]vet[/i], and nothing else, and her owl turns its head right round to glare at anyone who asks a follow-up question.
+
+When they get to you, you say {@job = "calls"|[i]insurance, on the phones[/i]|}{@job = "nurse"|[i]A&E reception[/i]|}{@job = "cook"|[i]pub kitchen[/i]|}{@job = "shop"|[i]returns desk, at a department store[/i]|}{@job = "library"|[i]the library[/i]|}{@job = "courier"|[i]bike courier[/i]|}, and it sounds so strange out loud, here, on the grass, with the castle behind you and a stranger's toad sunning itself on your shoe, that you have to say it twice. Somebody says [i]oh, I bet you've got stories[/i], and you find, to your surprise, that you have, and that for the first time in years you want to tell them.
+
+You find the owlery, and the old walled garden, and a bench on the east wall where you can see the whole length of the Mere to the hills. You eat too much. You sleep like a stone.
 
 Then it's Monday, and there's a timetable.
 
@@ -354,7 +360,15 @@ You drink it. It tastes of burnt sugar and ice, and the headache you didn't know
 
     @noor:warm She laughs, properly, a short surprised laugh, and goes to get toast. Matron, at her desk, gives you a very small nod.
 
-    @noor:amused She comes back with a whole rack of it, and a pot of tea, and two cups, and sits on the end of your bed, and you eat it together. She eats four slices. She doesn't seem to notice she's doing it. Halfway through the fourth she starts telling you about the worst night shift she ever did, which involved a swan, and by the end of it you're both laughing so hard Matron has to come over and tell you to keep it down, for the sake of the boy with no eyebrows.
+    @noor:amused She comes back with a whole rack of it, and a pot of tea, and two cups, and sits on the end of your bed, and you eat it together. She eats four slices. She doesn't seem to notice she's doing it. Halfway through the fourth she stops, with the toast in the air, and says, "Have I told you about the swan?"
+
+    "You've known me for a week."
+
+    @noor:amused "Christmas Eve," says Noor, as if you hadn't spoken. "Three in the morning. Sliding doors open, and in walks a man in a Santa hat, perfectly calm, with a swan under his arm." She takes a bite. "A live swan. Furious. And he walks up to the desk and says, [i]I think it's broken its wing, and I think it's broken my nose[/i], and they both had, as it turned out, and the triage nurse says [i]which of you is the patient[/i], and the swan..." She has to stop. Her shoulders are shaking. "The swan [i]answers her[/i]."
+
+    "What did it say?"
+
+    @noor:laugh "What do you think a swan says?" says Noor, and does it, a honk so loud and so exactly right that the boy with no eyebrows sits bolt upright in his sleep, and you're both laughing so hard that Matron has to come over and tell you to keep it down, for his sake.
   #"How did you kindle? Tell me, if you don't mind."
     *set wit +5
     *set st_noor +1
@@ -381,13 +395,19 @@ You drink it. It tastes of burnt sugar and ice, and the headache you didn't know
 *present toby priya rowan imogen saoirse cas noor marcus familiar
 By Friday night, you've been at Wrenfold one week, and you've stopped getting lost on the stairs, mostly, and started getting lost on purpose.
 
-It's been the longest week of your life, and the shortest. You've lit a chandelier and flown over a lake and made a button walk. You've learned four words, one of which works. You've had your pulse taken by a nurse who forgets to eat and your cauldron marked by a woman who never blinks. Your hands smell permanently of Stillwater tonic. You've fallen asleep every night the moment your head touched the pillow, and woken every morning, for a second, not knowing where you were, and then remembering, and lying there grinning at the ceiling like an idiot.
+This morning you woke up and, for a second, didn't know where you were: a strange window, a strange ceiling, a weight on your feet that turned out to be {fam_name}. Then you remembered, all at once, the way you remember it's your birthday, and lay there grinning at the ceiling like an idiot until the bell went. It's happened every morning. You're starting to hope it never stops.
+
+You sniff your hands on the way down to dinner. They still smell of Stillwater tonic. You think they may always smell of Stillwater tonic.
 
 The Lantern Hall after dinner on a Friday is the best room in the world. The tables have been cleared, and people have pulled benches into clumps and stayed. Somebody's playing cards. Somebody's doing homework. Somebody's familiar, a peacock, is stalking up and down the Owlcombe table being rude to people. The lanterns drift low and warm, humming, and every so often one comes down to hover over someone's shoulder, like a reading lamp that wants to see what they're doing.
 
 Rowan is at the Larkspire table, arm-wrestling a second-year and losing on purpose. Saoirse has taken the back off something that was probably a clock. Imogen is reading with her feet up on the bench, which is the most relaxed you've ever seen her. Across the Hall, Noor is sitting with the Heronmere crowd, a cup of tea in both hands and, you notice with a small glow of satisfaction, a plate with crumbs on it at her elbow. Casimir Drummond sits alone at the end of his house table, reading, and doesn't look up, and turns a page every so often, much too fast to be reading it.
 
-High over the High Table hang the four House Lanterns: huge paper globes, one in each house's colours, and they burn brighter or dimmer according to the points. Under each, in floating gold numbers that look like writing on the air, is the week's total. {@house = "larkspire"|Larkspire's lantern is|}{@house = "owlcombe"|Owlcombe's lantern is|}{@house = "heronmere"|Heronmere's lantern is|}{@house = "rookhallow"|Rookhallow's lantern is|} burning a little brighter than it did on Monday. You're fairly sure a candle-end in a drawer in the Wordcraft Gallery had something to do with it.
+High over the High Table hang four huge paper globes, one in each house's colours, with gold numbers floating under each of them like writing on the air. You've been looking at them all week without knowing what they were. Tonight, as you watch, the Rookhallow globe gives a small pleased pulse, and its number ticks up by one, and somebody at the Rookhallow table cheers and somebody at the Larkspire table boos.
+
+@imogen:neutral "Points," says Imogen, without looking up from her book, as if you'd asked out loud. "Each house's lantern burns by its points. Somebody in Rookhallow's just handed in homework." She turns a page. "{@house = "owlcombe"|Ours|Yours} went up on Monday. After the chandelier."
+
+You look up at {@house = "larkspire"|Larkspire's|}{@house = "owlcombe"|Owlcombe's|}{@house = "heronmere"|Heronmere's|}{@house = "rookhallow"|Rookhallow's|} globe, burning a little brighter than it did on Monday, and feel absurdly, childishly proud of it.
 
 *meet marcus
 @marcus:amused "Trials, Saturday week!" booms Marcus Oduya, standing on the Larkspire bench with a sheaf of paper. "House Glimmer teams! Every house, every position! If you can stay on a broom and throw a ball, sign up! If you can't, sign up anyway, we need people to fall on!"
@@ -406,9 +426,31 @@ High over the High Table hang the four House Lanterns: huge paper globes, one in
 
 You write to Nana Pearl that night, on a sheet of thick cream paper from the Owlcombe stationery drawer that Imogen swears is free, with a pen that corrects your spelling as you go.
 
-{@told_nana|You start with [i]Dear Nana, you were right about the owls[/i], and then have to stop for a minute, because your eyes have gone blurry.|She doesn't know where you are. She doesn't even know you've gone. You start at the beginning, with the letter and the door, and you tell her you're sorry you didn't ring, and that you'll explain everything properly as soon as you can, and that you're safe, and happy, and fed.}
+{@told_nana|[i]Dear Nana,[/i] you write, [i]you were right about the owls.[/i] Then you have to stop for a minute, because your eyes have gone blurry, and the pen waits, tapping very slightly against the paper.|[i]Dear Nana,[/i] you write, and then sit with the pen over the paper until the ink dries on the nib, because she doesn't know where you are. She doesn't even know you've gone. In the end you write: [i]I'm sorry I didn't ring. I'm safe. I'm going to start at the beginning, and it's going to sound mad, and it isn't.[/i]}
 
-You tell her about the train, and the Mere, and the lanterns, and the singing pudding, and {fam_name}. You tell her about Toby, who falls off things, and Rowan, who walked out of a fire, and Saoirse, and Imogen, and a nurse called Noor who forgets to eat. You tell her you lit forty-three candles and a chandelier by accident, and got ten points for it. You don't tell her about three grey hoods in an alley, or a hum that took hold of the thing in your chest and pulled, or a teacher with scarred hands who could hum it too.
+[i]There's a castle,[/i] you write. [i]I know. I KNOW. It's on an island at the end of a long black lake they call the Mere, and you get there on a train that flies. Actually flies, up, over Kingsmere, over the cathedral, I saw pigeons asleep on it. They gave us pies on the train. The pies were very good but not as good as yours.[/i]
+
+The pen underlines [i]flies[/i] on its own. You let it.
+
+[i]There are lanterns everywhere. Paper ones, thousands, all colours, floating about under the roof of the big hall like fish, and they hum when they're happy. When I came in they all turned round to look at me. I'm not making that up. There's a pudding that sings. It's treacle sponge. You'd have words with it.[/i]
+
+[i]{fam_name} sends love.[/i] You look across at {fam_name}, who is watching the pen with deep suspicion. [i]That's a lie,[/i] you add. [i]{fam_name} is looking at this letter as if it owes money. But I'm sending the love anyway.[/i]
+
+You stop, and chew the end of the pen, which doesn't like it, and think about how to explain the people.
+
+[i]There's a boy called Toby who fell on me in the street on the first night and hasn't really got off since. He was a baker. His croissants caught fire. He falls off things and he's the kindest person I've ever met, and you'd like him, because he'd eat everything you put in front of him and ask for the recipe. There's Rowan, who was a firefighter, and is about the size of your wardrobe, and very gentle. There's Saoirse, who brought a motorbike, and Imogen, who's read all the rules, and a nurse called Noor who forgets to eat.[/i]
+
+[i]On Monday I lit a candle. On purpose, with a word. Then I lit all the others as well, by accident. Forty-three of them. And a chandelier nobody's lit since 1974. We got ten points. I'm not sure what points are for yet but everyone was very pleased.[/i]
+
+You start a new paragraph. [i]On the first morning, on the street where we bought our things, there were three[/i]...
+
+You stop. You look at it. The ink sits there, wet, waiting to find out what there were three of. You think about Nana Pearl reading this in her chair with her feet on the pouffe, and her hand going to her mouth.
+
+You cross it out, so thoroughly that the pen makes a small offended noise, and write instead: [i]The food is very good.[/i]
+
+{@thimble|[i]I wear Ivy's thimble every day. It's warm. I think it likes it here.[/i] You look at it on your finger, the little wren catching the lamplight, and add: [i]I think she did too.[/i]|[i]I keep wondering what Great-gran Ivy would think of it all.[/i] You look at that for a while. [i]I think she'd have liked it,[/i] you add.}
+
+[i]I'm happy, Nana,[/i] you write, at the very end, and then sit and look at the words, because you hadn't known you were going to write them until they were there. [i]I didn't know I wasn't, before. Lots of love, and more love, {name}.[/i] Underneath, because you can hear exactly what she'll say if you don't: [i]P.S. I am wearing a vest.[/i]
 
 You read it through when you've finished. It's four pages long and the pen has corrected [i]definitely[/i] three times, rather smugly. It sounds like a letter from somebody on holiday. It sounds like somebody happy. You sit and look at it for a while, surprised.
 

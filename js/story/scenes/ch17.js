@@ -29,7 +29,15 @@ The Heronmere cloister is half underwater: the lake laps against the lower arche
 
 @toby:laugh "That was a [i]different[/i] thing."
 
-He cuts it with a bread knife, far too carefully, measuring each slice with his eye as if it's an exam. You eat the cake. It's the best cake you've ever eaten. It tastes of butter and strawberries and the kitchens at Wrenfold, and something else, very faint, like the warm air over a hearth. You tell him so, and he goes pinker, and has two slices himself, and gets jam on his jumper, and doesn't notice, and Priya doesn't tell him, and neither do you.
+He cuts it with a bread knife, far too carefully, measuring each slice with his eye as if it's an exam. You eat the cake. It tastes of butter and strawberries and the kitchens at Wrenfold, and something else, very faint, like the warm air over a hearth. He watches you chew, not breathing.
+
+"Toby. That's the best cake I've ever had."
+
+@toby:shy "You're only saying that." He's gone pinker. "Are you only saying that? You can say if you're only saying that."
+
+"I'm not only saying that. Give me another bit."
+
+@toby:laugh He gives you another bit, a bigger one, and has two slices himself, and gets jam on his jumper, and doesn't notice, and Priya doesn't tell him, and neither do you.
 *if candle = "toby"
   On the mantelpiece, in a jam jar, your white Candlewake candle is still burning. It's been burning for a month. He hasn't let it go out once. He moves it to the back of the mantelpiece when he puts the cake plate down, carefully, as if the plate might hurt its feelings.
 
@@ -49,7 +57,13 @@ He looks up at you in the green lamplight. His round face is serious, for once, 
 *choice
   #"Course it is. Eat another slice of your cake."
     *set fr_toby +1
-    @toby:laugh "Someone stole the last slice," he says, outraged, and then finds the crumbs of it in the tin, and eats those instead, with his fingers, one at a time, making them last. He gets jam on his jumper again. He tells you about the bakery at home, the one he was apprenticed to, and the ovens that took two men to open, and the old baker who used to sing to the bread to make it rise. "Not this song," he says. "Rude songs, mostly. The bread didn't mind."
+    @toby:laugh "Someone stole the last slice," he says, outraged, and then finds the crumbs of it in the tin, and eats those instead, with his fingers, one at a time, making them last. He gets jam on his jumper again.
+
+    @toby:warm "The old baker would've liked this," he says, licking his thumb. "At home. Where I was apprenticed. He'd have said the crumb was too close and then eaten half of it standing up." He looks into the tin as if the old man might be at the bottom of it. "The ovens there took two of us to open. Great iron doors. And he used to sing to the bread. First thing, four in the morning, with the dough on the table. Said it made it rise."
+
+    "What did he sing?"
+
+    @toby:laugh "Not this song." He grins. "Rude ones, mostly. About a sailor and a vicar's bicycle. The bread didn't mind."
 
     It's the last thing you'll remember clearly about that night, before everything: Toby Quill, laughing, with jam on his jumper and a sleeping hare at his feet, in the green light at the bottom of the lake.
   #"Toby. If they come. Don't stand in front. Promise me."
@@ -305,7 +319,19 @@ You stay there on the top step with him until somebody comes. It takes a while. 
 *present noor toby priya kestrel familiar
 In the morning, it rains.
 
-Not hard. A thin grey steady rain that doesn't seem to fall so much as hang, over the Mere and the lawns and the broken ice, so that the whole world outside the windows looks as if it's been rubbed out with a dirty eraser. You haven't slept. You don't think anyone has. You told the Headmistress what Professor Grey said on the stair, at four in the morning, in the wreck of the Lantern Hall, word for word, and she listened with her eyes closed and said [i]thank you[/i] and nothing else. Then you walked for a while. Then you came here, because there was nowhere else to go.
+Not hard. A thin grey steady rain that doesn't seem to fall so much as hang, over the Mere and the lawns and the broken ice, so that the whole world outside the windows looks as if it's been rubbed out with a dirty eraser. You haven't slept. You don't think anyone has.
+
+At four this morning you found the Headmistress in the wreck of the Lantern Hall, sitting on an overturned bench with Matron strapping her arm, and stood in front of her in your nightclothes, with your bootlaces trailing and stair-dust on your knees, and couldn't start. She waited. Matron tied off the bandage and went away.
+
+"Professor Grey said to tell you." Your voice came out wrong, too high. You tried again. "He said it was the boathouse ward. The old one. Under the water."
+
+@kestrel:grave She didn't move. "Go on."
+
+"Opened from inside. On the round." You had to stop. The Hall was very quiet; somebody was sweeping glass, a long way off. "And he said he was sorry he didn't see who. He said he was watching the wrong man."
+
+@kestrel:grave The Headmistress closed her eyes. She sat like that while the broom went on at the far end of the Hall, swish and tinkle, swish and tinkle. "Say it again," she said. "Exactly as he said it." You did. She moved her lips with you on [i]the round[/i], without sound, as if she was learning it by heart. Then she opened her eyes and looked at you, at your knees, at your trailing laces, and said, "Thank you, {name}. Go and find something warm to put on," and that was all.
+
+You didn't find anything warm. You walked for a while. Then you came here, because there was nowhere else to go.
 
 The Infirmary is full of the hollowed.
 
@@ -385,23 +411,65 @@ Professor Grey's chair is empty. Somebody's put a candle in front of it, grey-wh
 
 @arkwright:grave Commander Arkwright stands up. She's not wearing her greatcoat. She's in a plain black jacket, with the brass lamp badge on it, and she looks older than she did on Friday. She stands with one hand on the back of the empty chair, not speaking, until the last scrape of the last bench has stopped.
 
-@arkwright:grave "Magnus Grey," she says, and her voice carries to the back of the Hall without trying, "was a Lamplighter." A murmur, all round the Hall. She waits for it to stop. "For six years, from nineteen ninety-eight to two thousand and four, he lived inside the Grey Choir. He learned their note. He sang in their choir. He took nobody. Every week, he sent us everything they knew. Most of what the Order knows about the Choir, we know because of him."
+@arkwright:grave "I've been asked to say something," she says. Her voice carries to the back of the Hall without trying; it's a voice built for yards and rooftops and wind. "I told the Headmistress I'm no good at it. She said nobody is." She looks down at the chair under her hand. "So."
 
-@arkwright:grave She looks at the empty chair. "They found out. They did that to his hands. He never talked about it. He came here, afterwards, to teach you to ward yourselves against the thing he'd learned." Her jaw works. "Some of you thought he was one of them. So did some of mine. He knew. He let you think it. He thought it made him more useful."
+She stops. You watch her decide how to begin, and throw it away, and decide again.
+
+@arkwright:grave "Magnus Grey," she says, "was a Lamplighter."
+
+A sound goes round the Hall, not quite a murmur: four hundred people breathing in at once. At the Rookhallow table somebody says [i]what?[/i] out loud, and is shushed. The Commander waits for it to settle. She doesn't hurry it.
+
+@arkwright:grave "He'd been a Lamplighter for years when I joined. I was seventeen, in a barracks in Kingsmere with a roof that leaked, and he swapped bunks with me the first night so I'd have the dry one, and he never once let me forget it." Something moves at the corner of her mouth and is put away. "In nineteen ninety-eight, the Order needed someone to go where none of us could go. Inside. Into the Choir itself. To learn their note, and sing it, and stand among them, and come back out every week with what they knew." She looks up, round the tables. "He put his hand up. Nobody else did. I didn't."
+
+At the Owlcombe table a girl has both hands over her mouth.
+
+@arkwright:grave "Six years," says the Commander. "He sang with them for six years. He never took anybody. Not one. He'd go out onto the moors with them, and hum, and come back to a safe house at dawn, and sit at a kitchen table and write it all down, every name, every road, in that dreadful handwriting of his." She takes a breath. "Most of what the Order knows about the Grey Choir, we know because Magnus Grey sat in the dark with them and listened."
+
+"Then what happened to his hands?" It's a first-year, a Heronmere boy, and he says it too loud, the way you do when you haven't meant to say it at all. The people round him go rigid. He goes scarlet.
+
+@arkwright:grave The Commander doesn't mind. She looks straight at him, down the length of the Hall, and answers him as if he's the only one there. "They found out," she says. "In the winter of two thousand and four. We got him back. We didn't get him back quickly." She lets that sit. "He never talked about it. Not to me, not to anybody. He came here, when the healers had done what they could, and asked Imelda for the Warding post, so he could teach you to stand against the thing he'd learned." Her jaw works. "Some of you thought he was one of them."
+
+Nobody moves. Nobody at all.
+
+@arkwright:grave "So did some of mine," she says, more quietly. "He knew. He let you think it. He told me once that a man people are afraid of gets left alone to do his work, and that it was the most useful thing the Choir ever gave him." She looks at the candle on the table in front of his place. "He was wrong about that. It wasn't the most useful thing. It was just the loneliest."
 *if accused_grey
-  You think of what you said about him. You can't look at the candle.
+  You think of what you said about him, out loud, when you thought it was him. You can't look at the candle.
 
-@arkwright:grave "He held the east stair on Friday night against six of them," she says, "for twenty-five minutes, without a wand, while forty first-years went down the back stair to safety. Every one of those forty is sitting in this Hall tonight." She looks round at them, at the first-years at every table, small and scrubbed and wide-eyed in their house colours. One of them, a boy at the Larkspire table, still has a sticking plaster on his chin from the back stair. "He was the bravest man I ever served with. I'd like you to stand."
+@arkwright:grave "On Friday night he held the east stair against six of them," she says. "For twenty-five minutes. Without a wand. While forty first-years went down the back stair behind the heron tapestry." She turns and looks at the first-years, at every table, small and scrubbed and wide-eyed in their house colours. One of them, a boy at the Larkspire table, still has a sticking plaster on his chin from the back stair. He sits up very straight when her eyes reach him. "Every one of those forty is sitting in this Hall tonight. I've counted. So has the Headmistress. So, I'm told, did he."
+
+She stops again. Longer, this time. Her hand has tightened on the back of the chair.
+
+@arkwright:grave "He was the bravest man I ever served with," says Commander Arkwright. "And I never once told him so, because I thought there'd be time." She lets go of the chair. "I'd like you to stand."
 
 Four hundred people stand up, in the half-dark Hall, in silence.
 
 Nobody says anything. Nobody's told what to do next. You all just stand there, benches pushed back, hands at your sides, under the dark patches in the roof, for a minute, two, three. Somebody at the Heronmere table is crying, very quietly. At the staff table, Professor Moth has taken off his huge round spectacles and is holding them in both hands. Up in the roof, one lantern, just one, drifts down out of the lit part of the Hall, slow and gold, and hangs over Professor Grey's empty chair, and then drifts up again.
 
-@kestrel:grave After, when everyone's sitting again, the Headmistress gets up. Slowly, with her arm strapped across her chest, one hand on the table. Her hair is back in its braid, and the gold thread's been wound through it, crooked, as if she did it herself with one hand. "The Choir came in through the boathouse ward," she says. "The old one, under the water. It was opened." She pauses. "From inside."
+When everyone's sitting again, nobody picks up a spoon. The Commander has gone back to her place at the end of the staff table, and sits with her hands folded on the cloth, looking at nothing.
 
-She doesn't say anything else. She doesn't need to. The Hall goes cold, table by table, the way a room goes cold when somebody opens a door onto the night.
+@kestrel:grave Then the Headmistress gets up. Slowly, with her arm strapped across her chest and one hand flat on the table to push herself upright. Her hair is back in its braid, and the gold thread's been wound through it, crooked, as if she did it herself with one hand. She stands there longer than she needs to. You think, at first, that she's gathering her strength. Then you see her glance down the table at Commander Arkwright, and the Commander, very slightly, shake her head, and the Headmistress look away from her and back at the Hall.
 
-Someone inside Wrenfold opened a door, and Toby Quill went grey, and Magnus Grey died on a stair. And whoever it was is sitting in this Hall tonight.
+@kestrel:grave "You are owed the truth," she says. "Some of it, at least. I've been advised to keep this to the staff." She doesn't look at the Commander again. "I don't intend to. You're the ones who have to sleep here."
+
+A bench creaks somewhere. Nobody else makes a sound.
+
+@kestrel:grave "The Choir did not break in on Friday," she says. "They didn't need to. They came in through the boathouse ward: the old one, down under the water, from the days when the students came to Wrenfold by boat and nobody thought to wonder who else might." She takes a breath. You can see it cost her; her strapped arm moves with it. "That ward has held for four hundred years. On Friday night, it was open."
+
+"Open how?" Somebody at the Larkspire table. A second-year, you think. The voice cracks on it. "Did they break it?"
+
+@kestrel:grave The Headmistress looks at the girl who asked. She takes her time. When she answers, she says it very plainly, the way you'd set something heavy down on a table.
+
+@kestrel:grave "No," she says. "It was opened from inside."
+
+She sits down.
+
+That's all. She doesn't explain it and she doesn't soften it. At the end of the staff table, Commander Arkwright closes her eyes.
+
+The cold starts at the front of the Hall and goes back, table by table, the way a room goes cold when somebody has opened a door onto the night and you can't see who. People don't look at each other. Then they do, quickly, and look away. At the Heronmere table, a boy moves a few inches along the bench from the boy beside him, without seeming to know he's done it, and then sees what he's done, and goes red, and moves back. Priya doesn't look up at all. At the Rookhallow table someone's knife slides off a plate and rings on the stone floor, and forty people flinch.
+
+From inside. Somebody who walks these corridors. Somebody who knows where the old ward lies under the black water, and how to open it, and when. Somebody opened a door on Friday, and Toby Quill went grey, and Magnus Grey sat down on a stair and didn't get up.
+
+And whoever it was is in this Hall tonight. They stood up with everyone else for him.
 
 You look along the staff table. You can't help it. Everybody is.
 

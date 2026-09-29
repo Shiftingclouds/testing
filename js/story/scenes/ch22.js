@@ -9,25 +9,42 @@ NB.scene("ch22", String.raw`
 *present kestrel arkwright lettice grey familiar
 Midsummer Eve is the shortest night of the year, and the Proving is the oldest thing Wrenfold does.
 *if order_offer = "returned"
+  *present jory
   You spend the seven weeks before it on the Fen, learning to lead a song for four hundred people with an audience of one Lamplighter and a cat.
 
-  May goes by in wind. Then June comes in hot and still, and the reeds grow taller than your head, and the dykes go green and sluggish and full of frogs. Every afternoon you walk out along the bank to where the drowned chapel's tower stands up out of the water, and sing the wren's line at it, up and round and back down, until the bell answers you on its own, very faintly, without any wind at all. Jory sits on an upturned boat with his greatcoat off and his sleeves rolled up and tells you when you're flat. You're flat less often. By June you can feel the reeds lean when you sing, the way candles lean, and you don't tell Jory that, because it would frighten him, and it frightens you.
+  The afternoon you'll remember is a hot one in June. The reeds are taller than your head by then, and the dykes have gone green and sluggish and loud with frogs, and the air over the water shakes with heat. You walk out along the bank to where the drowned chapel's tower stands up out of the marsh, as you've done every afternoon for a month, and you sing the wren's line at it. Up, and round, and back down.
 
-  Letters come from Wrenfold by owl. Exams, rehearsals, who fell in the Mere. You read them in the upstairs window and try to hear the castle in them.
+  @jory:neutral Jory's sitting on an upturned boat with his greatcoat off and his sleeves rolled up and a handkerchief knotted on his head, eyes shut. "Flat," he says. "Third note."
 
-  On the nineteenth you lock the house, and leave the cat a week's worth of food and an apology, and take the slow train from the Fen halt to Kingsmere, and sleep badly at the Lamp & Ladle on Lamplight Row, with Jory snoring on the chair by the door. In the morning Platform Nought is almost empty. Everyone who's going to Wrenfold is already there.
+  You sing it again. The reeds along the bank lean, all together, the way candles lean, towards you. You stop. They straighten, slowly.
+
+  @jory:tense Jory hasn't opened his eyes. "Better," he says. "What was that noise?"
+
+  "Wind," you tell him. There isn't any wind.
+
+  Then, out in the water, very faintly, with nothing to move it, the bell in the drowned tower rings once, as if it's answering. Jory's eyes open. He looks at the tower, and at you, and at the reeds, and doesn't say anything at all. That evening he goes into Saltmarrow on his bicycle and comes back with a timetable for the slow train to Kingsmere, and pins it to the kitchen wall, and neither of you mentions the bell again.
+
+  On the nineteenth you lock the house, leave the cat a week's worth of food and an apology, and take that train, and sleep badly at the Lamp & Ladle on Lamplight Row with Jory snoring on the chair by the door. In the morning Platform Nought is almost empty. Everyone who's going to Wrenfold is already there.
 *else
-  The seven weeks before it go by the way the last weeks of anything do: slowly, and then all at once.
+  *present imogen idris
+  You'll remember the seven weeks before it afterwards in pieces, the way you remember a summer.
 
-  May is rehearsals. Every night at eleven in the Old Cloisters, and then, as more people come, every night in every roost, until you can't go up a staircase without hearing somebody practising the heron's line under their breath or two Rookhallows arguing about the fourth bar of the rook's. The song gets better. Then it gets worse, because everyone's tired. Then it gets better again. Imogen draws up a rota. Idris annotates the rota. Somebody pins a copy on every common-room door, and somebody else draws a moustache on the wren.
+  A Tuesday in May, half past midnight, in the Rookhallow Undercroft, with sixty people in dressing gowns packed between the workbenches and the smell of engine oil and candle-smoke. The rook's line has just come apart for the fourth time.
 
-  June is exams. The written papers are in the Lantern Hall, at long desks under the lanterns, four hundred pens scratching, with the lanterns drifting low overhead as if they're trying to read over your shoulder. Professor Kovač's practical in the Brewing Cellars, where she watches you stir and says nothing, once. Professor Bassani's Turning, where you turn a teapot into a tortoise and it comes out with a spout, and he says, "Almost! Almost!" Professor Moth squeaks at your Wordcraft. Coach Okoro sends you out over the Mere on a broom in a crosswind and shouts encouragement from a rowing boat. The Headmistress's Hearth exam is ten minutes in the Weathervane Room, sitting across the fire from her, breathing, while she watches your flame, and at the end she just nods.
+  @imogen:tense "Again," says Imogen, from the top of a crate, with the rota in one hand and a pencil in her teeth. She takes the pencil out. "From the fourth bar. Rookhallow, you're doubling back too early. You're a rook. Not a... whatever that was."
 
-  And in between, the castle in summer. You've never seen it like this. Every window open. Swifts screaming round the towers at dusk. People revising on the lawns in their shirtsleeves with their robes rolled up for pillows, and swimming off the jetty at night, which is forbidden, and which the prefects do too. It's light till after ten. The Glasshouses have their doors propped open and the smell of tomato leaves and jasmine comes all the way up to the Hall. {@toby_lit|Toby revises in the kitchens, where it's hot, because he says it's the only place he can think, and brings you a rock bun every evening that is, very nearly, not burnt.|Priya reads Toby her revision notes in the Infirmary every evening, and he listens with his hands folded, and tells her she's got a kind face, and she keeps reading.} Every night Mr Tully goes up his ladder into the dark patches under the roof, one lantern at a time.
+  Somebody at the back says, "A pigeon," and sixty people laugh, and the stones of the Undercroft laugh with them, very faintly, in the rook's line.
 
-  In the last week, the Lamplighters come. Forty of them, in their greatcoats, in the heat, sweating, not complaining, quartered in the Warding Hall. People stop swimming off the jetty. The rehearsals get quieter, and more serious, and better.
+  @idris:neutral Idris, beside you, writes something small in the margin of the rota. "Have you noticed," he says, low, "that the gaps close when they're laughing?" You have noticed. "I'm writing it down," he says. "I don't know what it means. I'm writing it down."
 
-Every student who came through a doorway of light this year lights a lantern of their own, in the Lantern Hall, as the sun goes down, and lets it go up to join the ten thousand under the roof. That's all. That's the whole ceremony. You've been here a year; you've kept your flame; you're proven. And your lantern stays up there, among all the others, for as long as the school stands.
+  A morning in June, in the Lantern Hall, at long desks under the lanterns, with four hundred pens scratching and the lanterns drifting low overhead as if they're trying to read over your shoulder. Warding, paper two. [i]Describe three counters to a sustained hum.[/i] You write the first one and then find you've written a name in the margin, [i]M. Grey[/i], and you look at it for a while and don't cross it out. At the next desk somebody is crying quietly and still writing. Professor Bassani's Turning practical is that afternoon; your teapot becomes a tortoise with a spout, and he throws up both hands and writes on his clipboard, twice, and you never find out what.
+
+  @kestrel:neutral The Headmistress's Hearth exam is ten minutes in the Weathervane Room, across the fire from her, with the clocks ticking. "Breathe," she says. You breathe. She watches your flame, not your face. The weathervanes creak round. At the end she sits back. "You'll do," she says, and that's the result, and it's the one you'll keep.
+
+  An evening in the last week, light till after ten, with the swifts screaming round the towers and the Glasshouse doors propped open so the smell of tomato leaves and jasmine comes all the way up the lawns. Half your year is swimming off the jetty, which is forbidden, and which the prefects are doing too. {@toby_lit|Toby's sitting on the end of the jetty with his trousers rolled up and a tin of rock buns, very nearly not burnt, handing them down to people in the water.|Priya's sitting on the end of the jetty with her feet in the water, reading her revision notes aloud to nobody, the way she reads them to Toby in the Infirmary every evening.} You're halfway out of your shoes when the boats come round the point: four of them, low in the water, full of greatcoats.
+
+  The Lamplighters climb out onto the jetty in the heat, sweating, not complaining, forty of them, and walk up the lawn to the castle past a row of dripping students in their underclothes. Nobody says anything. Nobody swims off the jetty again. That night, in the Old Cloisters, the song is quieter than it's ever been, and better.
+
 *if order_offer = "returned"
   *present jory imogen
   You nearly miss it. The Lantern Train was late out of Kingsmere, and the boat was slow, and you come into the Hall at a run at ten past eight with Jory Penrose behind you in his too-big greatcoat, both of you soaked from the spray, and four hundred heads turn.
@@ -41,6 +58,8 @@ Every student who came through a doorway of light this year lights a lantern of 
   You're there as the sun goes down, with everyone. You've been there all day, really. You couldn't have been anywhere else.
 
 The Hall has never been like this. Every lantern lit: the ten thousand, and the dark patches from the night of the Quiet relit at last, one by one, by Mr Tully on his ladder, so the whole roof is one great drifting ceiling of warm gold light, low and close. The long west windows are open, and the evening comes in through them, warm, smelling of cut grass and the Mere. The four tables are full, and everyone's in their best robes, and nobody's eating much. Every face is turned up. And along the walls, in their greatcoats, stand forty Lamplighters, not looking up at all.
+
+@kestrel:warm The Headmistress stands at the top table and doesn't make a speech. "You light one," she says, "and you let it go, and it stays. That's the Proving. That's all it has ever been. Four hundred years, and nobody's thought of anything better." She sits down. You've been here a year. You've kept your flame. Tonight you find out what it feels like to be proven.
 
 One by one, the first-years go up to the front and light their lanterns. Some of them with wands. Some of them with a word. One Rookhallow boy with a spark off a flint, because it's how he did it the first time. Each lantern flares its house colour, and rises, and goes up among the others, and the Hall cheers for every single one.
 *if toby_lit
@@ -244,7 +263,7 @@ Where they cross, the Lantern Hall [i]rings[/i].
 
   You feel it happen. Three flames, somewhere in the castle, snatched up in grey threads and pulled away down through the stone, towards the root. You know all three.
   *if toby_lit
-    Toby, from the Heronmere table, in the middle of singing the heron's line off-key, stops, and goes grey, and is gone from his seat, and Priya screams.
+    Toby, from the Heronmere table, halfway through the heron's line, off-key, stops, and goes grey, and is gone from his seat, and Priya screams.
   *else
     Toby, from his bed in the Infirmary, where he's been sitting by the window with the hare on his knees, not knowing there's anything to be afraid of.
   *if maisie_lit

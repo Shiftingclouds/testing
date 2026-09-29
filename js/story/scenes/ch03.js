@@ -179,15 +179,21 @@ Four long tables run down the Hall, full of people in robes: robes in gold and r
 
 @bassani:amused "It is [i]mostly[/i] true," says Professor Bassani. "Which is the best kind of true."
 
-You look up. In each of the four high corners of the Hall, where the walls meet the dark, there's a roost: a great nest of woven branches, like a bird's nest the size of a room, and the lanterns that drift near each one are all one colour. Gold and rose, in the east corner, where the dawn will come. Plum and silver, in the north. Sea-green and pearl, in the west, where the Mere is. Black and copper, in the south, over the kitchens, where you can smell bread.
+You look up, because he did. High in the corners of the Hall, where the walls go up into the dark, there are shapes you hadn't noticed: huge, rounded, woven, like the nests of birds the size of houses. Lanterns cluster round them the way moths cluster round a porch light. You can't make out much more than that from down here. Just that each corner seems to glow a different colour, and that the second-years at the tables keep glancing up at them, and then at you, with the expressions of people waiting to see how a film they've already seen is going to go for someone else.
+
+@toby:tense "Which one's which?" whispers Toby, next to you.
+
+@imogen:neutral "Page ninety," whispers Imogen, on your other side, without taking her eyes off the corners. "It has a diagram." A pause. "The diagram is wrong. The diagram's got them the other way round."
 
 Mr Tully stands at the foot of the dais by a stack of paper lanterns, folded flat, with his brass taper lit.
 
 They go alphabetically.
 
-@rowan:neutral "Ashby, Rowan!" Rowan goes up, and takes a lantern, and Tully lights it for him with a pat on the arm, and when Rowan lets it go it doesn't drift. It shoots, like a rocket, straight to the gold-and-rose roost in the east, and flares when it gets there. The Larkspire table stands up and cheers. Rowan comes back with his face scarlet and his shimmer back, and they pull him down onto their bench, slapping his back.
+@rowan:neutral "Ashby, Rowan!" Rowan goes up, and takes a lantern, and Tully lights it for him with a pat on the arm, and when Rowan lets it go it doesn't drift. It shoots, like a rocket, straight up into the east corner, and as it reaches the great nest there every lantern round it turns gold and rose at once, like a window catching the sunrise. A table near the front stands up and cheers, and you see their robes: gold and rose, the same. [i]Larkspire[/i], someone shouts, and it's the first time the word means anything. Rowan comes back with his face scarlet and his shimmer back, and they pull him down onto their bench, slapping his back.
 
-A dozen others. A woman in scrubs goes to Heronmere. The man with the lanyard goes to Owlcombe. The two who were holding hands on the platform go to different houses, gold and green, and stand for a second in the middle of the floor looking at each other, and then laugh, and go to their tables, and wave at each other across the aisle all through the rest of it. One lantern goes up so slowly it takes a full minute to reach Heronmere, and the whole Hall holds its breath the whole way and cheers when it lands. The goat, which nobody owns, is not called, and eats a tablecloth.
+A dozen others, and you learn the corners the way you'd learn a new town, by watching people go into them. A young man with a pierced eyebrow sends his lantern north, and the nest there flares plum and silver, like a sky full of stars coming out, and a quieter table claps, precisely, as if they've been counting. A woman in scrubs sends hers west, into sea-green and pearl, and the table under it doesn't cheer so much as murmur, warmly, and shuffle up to make room. A girl with a nose ring and a toolbelt goes south, over the kitchens, and the nest there glows black and copper like a forge and the table under it bangs its cups. The man with the lanyard goes north.
+
+The two who were holding hands on the platform go to different houses, gold and green, and stand for a second in the middle of the floor looking at each other, and then laugh, and go to their tables, and wave at each other across the aisle all through the rest of it. One lantern goes up so slowly it takes a full minute to reach Heronmere, and the whole Hall holds its breath the whole way and cheers when it lands. The goat, which nobody owns, is not called, and eats a tablecloth.
 
 @cas:neutral "Drummond, Casimir!" There's a murmur at that, from the tables of second-years. [i]A Drummond. A Drummond, late.[/i] He walks up as if he doesn't hear it, very straight, and takes his lantern without looking at Tully, and lets it go without looking at it either. It hangs in the air for a second, as if it's thinking. Then it goes, slowly, to the black-and-copper roost over the kitchens. The Rookhallow table claps, a bit uncertainly. He sits down at the end of it, by himself.
 
@@ -254,7 +260,7 @@ The {@house = "larkspire"|Larkspire|}{@house = "owlcombe"|Owlcombe|}{@house = "h
 
 You walk back down the Hall in a roar of noise with your ears ringing and your face burning, and people are standing up at the {@house = "larkspire"|gold-and-rose|}{@house = "owlcombe"|plum-and-silver|}{@house = "heronmere"|sea-green|}{@house = "rookhallow"|black-and-copper|} table to pull you in, and when you look down at your plain black robe, the lining has changed. It's {@house = "larkspire"|gold, and the edges are rose|}{@house = "owlcombe"|deep plum, stitched with silver|}{@house = "heronmere"|sea-green, and pale as pearl at the hem|}{@house = "rookhallow"|black shot through with copper thread, warm as a forge|}. Your house.
 
-Hands clap you on the back. Somebody you've never met hugs you. Somebody else puts a goblet in your hand and says [i]drink that, you've gone white[/i], and it's something hot and sweet that tastes of apples. You sit down on a bench between two strangers who both, instantly, start telling you things about the house, over each other, and you don't take in a word, and you don't mind at all.
+Hands clap you on the back. Somebody you've never met hugs you. Somebody else puts a goblet in your hand and says [i]drink that, you've gone white[/i], and it's something hot and sweet that tastes of apples. You sit down on a bench between two strangers who both, instantly, start telling you things about the house, over each other. [i]You'll want to get your name down for the good bath.[/i] [i]Don't listen to him, there isn't a good bath.[/i] [i]The stairs are the worst thing, you'll get used to the stairs.[/i] [i]You never get used to the stairs.[/i] [i]Did you see it go? Did you see how bright it was? Nobody's does that.[/i] You nod, and nod, and don't take in a word of it, and you don't mind at all.
 *if (house = "rookhallow")
   Casimir Drummond's lantern, you notice, has moved. It's no longer in the copper roost. At some point while yours was flying, it slipped quietly out of the Rookhallow corner, drifted across the dark, and settled in the plum-and-silver one instead, and now he's at the Owlcombe table, looking furious and faintly relieved. [i]A lantern can be leaned,[/i] the Headmistress said. It seems it can be leaned twice.
 *achieve nested
@@ -273,13 +279,29 @@ You didn't know how hungry you were. Nobody did. For ten minutes the Lantern Hal
 
 @kestrel:warm "Three things," she says. "Then you can have pudding."
 
-@kestrel:neutral "One. You have been kindling for months, some of you for a year, and nobody told you what it was. You thought you were ill, or tired, or mad. I'm sorry. That's our fault, not yours. It's always been our fault. We only find you when the flame's bright enough to see, and by then you've been frightened for a long time." She looks down the tables slowly, as if she's looking at each of you. "You're not frightened here. Or if you are, you're not alone with it."
+@kestrel:neutral "One." She lets it sit for a moment. "You have been kindling for months, some of you for a year, and nobody told you what it was."
 
-@kestrel:neutral "Two. This is your Burning Year. For the next nine months your flame will be brighter than it will ever be again, and less steady. Things will explode. You will set fire to a lesson or two. Professor Moth has asked me to say that the Wordcraft Gallery was repainted in August and he would like it to survive until October." A laugh. "By June, your flame will settle. That's what we're here for. That's all we're really here for. Everything else, the wands and the robes and the Glimmerball..." Cheering from the Larkspire table. "...is to help it settle into something strong."
+Somewhere down the table, someone laughs, once, too loudly, the way people laugh when a thing they've been carrying for months is suddenly named. Nobody looks round.
+
+@kestrel:neutral "You thought you were ill," she says. "Or tired. Or mad." She looks down the tables, slowly, and you have the feeling, as everyone in the Hall must have it, that she's looking at you. "I'm sorry. That's our fault, not yours. We only find you when the flame's bright enough to see, and by then you've been frightened for a long time." A pause. "You're not frightened here. Or if you are, you're not alone with it."
+
+You think of the bathroom mirror, and the glass in the sink like frost, and searching [i]why do lights flicker when I'm angry[/i] at two in the morning. You find you have to look down at your plate for a bit.
+
+@kestrel:amused "Two. This is your Burning Year." She says it like the name of a season, which you suppose it is. "Things will explode. You will set fire to a lesson or two. Professor Moth has asked me to say that the Wordcraft Gallery was repainted in August and he would like it to survive until October." A laugh goes round, relieved. At the high table a very small man with enormous white eyebrows puts his face in his hands.
+
+@kestrel:neutral "Your flame will be brighter this year than it will ever be again," she goes on, "and less steady. By June, it will settle." The smallest pause. "That's what we're here for. That's all we're really here for. Everything else, the wands and the robes and the Glimmerball..." Cheering from the Larkspire table. "...is to help it settle into something strong."
+
+[i]Or burn you out[/i], says the letter, in your head, in its neat calm hand. You look up at the high table. She isn't going to say that part, you realise. Not tonight. Not to forty-odd frightened people with gravy on their chins. You find you don't blame her.
 
 She pauses. When she speaks again, her voice is lighter, and it doesn't fool anyone.
 
-@kestrel:neutral "Three. Some of you met singers on Lamplight Row this morning. Grey robes. Humming." The Hall has gone absolutely still. {@house = "heronmere"|Next to you|Over at the Heronmere table}, Toby's hand stops halfway to his mouth with a potato on the fork. "They're called the Grey Choir, and they're the reason you'll read Appendix F in your handbooks, if you haven't already." A glance at the Owlcombe table, where Imogen goes pink. "You're home now, and home is safe. The wards on this island are four hundred years old. The lanterns will tell us if anything's wrong. But I will ask you, as the letter asked you, and as I'll ask you every week until June: keep your flame close."
+@kestrel:neutral "Three. Some of you met singers on Lamplight Row this morning." The Hall has gone absolutely still. {@house = "heronmere"|Next to you|Over at the Heronmere table}, Toby's hand stops halfway to his mouth with a potato on the fork. "Grey robes. Humming."
+
+You feel it again, just hearing the words: the ache behind your breastbone where the hum took hold. Up in the dark, a few of the lanterns have drawn in closer together.
+
+@kestrel:grave "They're called the Grey Choir," says the Headmistress. "They're the reason you'll read Appendix F in your handbooks, if you haven't already." A glance at the Owlcombe table, where Imogen goes pink. She doesn't say what they want. She doesn't say what [i]taken entire[/i] means. You wait for her to, and she doesn't, and the not-saying fills the Hall like cold air from an open door.
+
+@kestrel:warm "You're home now, and home is safe," she says. "The wards on this island are four hundred years old. The lanterns will tell us if anything's wrong. But I will ask you, as the letter asked you, and as I'll ask you every week until June." She lets the quiet stretch. "Keep your flame close."
 
 @kestrel:warm She smiles, and it's like the sun coming out. "Now. Pudding."
 
@@ -348,13 +370,19 @@ Further off, at the Owlcombe table, a lean man with a neat black beard and round
 *meet marcus
 @flick:amused "Up with the lark!" says the Larkspire prefect, at the bottom of a spiral stair so tall you can't see the top. "Two hundred and twelve steps. You'll hate them till Christmas and then you'll have calves like a mountain goat. Felicity Barrow. Flick. I used to teach Year Two, so if anybody cries on the stairs, I've seen it, and I've got tissues." She has two neat blonde plaits and a clipboard and a prefect's badge polished so bright it's a light source of its own. "Come on, then. Chop chop."
 
-The stair winds up inside the east tower like the inside of a shell. There are windows every so often, narrow slits in the thick stone, and through each one you get a glimpse of the night: the Mere, then the stars, then the dark hills, then the Mere again, a little further down each time. Flick keeps up a cheerful running commentary the whole way. This is the step that creaks. This is the step that [i]sings[/i], if you tread on it right, and the whole house knows you're coming in late. This is the landing where Larkspire keeps the post, and this one's where somebody's pet tortoise lives, don't step on him, he's called Mr Ponsonby and he's ninety.
+The stair winds up inside the east tower like the inside of a shell. There are windows every so often, narrow slits in the thick stone, and through each one you get a glimpse of the night: the Mere, then the stars, then the dark hills, then the Mere again, a little further down each time. Flick keeps up a cheerful running commentary the whole way, like a tour guide on an open-top bus.
+
+@flick:amused "That one creaks," she says, stamping on a step to prove it. "This one..." She treads on the next very precisely, off-centre, and it lets out a clear, sweet note, like a finger run round a wine glass. "...sings. If you get it right. Which means the whole house knows when you've come in late. Which means, if you're coming in late, don't." A landing, with a row of pigeonholes. "Post." Another landing, with a saucer of lettuce on it. "Mr Ponsonby. Don't step on him. He's ninety."
+
+"Who's Mr Ponsonby?" says someone behind you, breathless.
+
+@flick:amused "A tortoise," says Flick, as if that should have been obvious. "Keep up."
 
 Two hundred and twelve steps later, gasping, you come out into the top of the east tower, and it's the warmest room you've ever been in.
 
 It's round, and full of cushions: on the floor, on the window seats, piled on sofas, gold and rose and every shade between. A fire roars in a grate shaped like a rising sun. There's a piano in the corner with a sign on it saying [i]PLEASE DON'T[/i]. Tall windows go all the way round, and one of them is a door onto a stone balcony, open to the night, and cold air comes in smelling of the Mere.
 
-It's noisy. Larkspire is noisy, you're going to learn; it's a house that says everything out loud. Somebody's toasting crumpets on a fork. Two second-years are arguing, happily, about Glimmerball. A pair of first-years who were nested ten minutes before you are already asleep in a heap of cushions by the fire, still in their robes, like puppies.
+It's noisy. Nobody in here seems to have an inside voice, or to want one. Somebody's toasting crumpets on a fork. Two second-years are arguing, happily, about Glimmerball. A pair of first-years who were nested ten minutes before you are already asleep in a heap of cushions by the fire, still in their robes, like puppies.
 
 @marcus:amused "You're the firefighter," says a big grinning man in a Glimmerball jersey, to Rowan, before Rowan's even got his breath back. "Marcus Oduya. Captain. We need a Keeper. You look like a Keeper. Do you fly?"
 
@@ -396,13 +424,15 @@ When the others have gone up, Rowan's still out on the balcony, alone, with his 
 *meet mina
 @mina:amused "Eyes open!" says a young woman with enormous headphones round her neck and a hundred badges on her robes, flinging open a door at the bottom of the Observatory tower. "That's the house greeting, you say it back, go on. [i]Eyes open![/i] Brilliant. Mina Achebe, second year, I run Wrenfold Wireless, which is the school radio, which is not strictly allowed, so you didn't hear that, but tune in, Tuesday nights, frequency's on the notice board under a picture of a duck. Come in, come in, come in."
 
-She talks the whole way up the tower stair, walking backwards, without once tripping. The best armchair is the one by the globe, but it's haunted, a bit, not badly, it just sighs. The kitchens will do you toast after midnight if you ask nicely and bring your own jam. Don't borrow Petra Lindqvist's pens, not ever, she counts them. The observatory's on the roof and it's open to everybody, and on a clear night you can see about halfway to the end of the world.
+She talks the whole way up the tower stair, walking backwards, without once tripping.
+
+@mina:amused "Best armchair's the one by the globe. It's haunted. A bit. Not badly. It just sighs when you sit down, like an old dog, you'll get used to it." A turn of the stair. "Kitchens do toast after midnight if you ask nicely and bring your own jam. Don't borrow Petra Lindqvist's pens. Not ever. She counts them." Another turn. "Observatory's on the roof, open to everybody. On a clear night you can see about halfway to the end of the world." She stops, one foot on the next step, and grins down at you all. "The other half's cloudy."
 
 The Owlcombe Stacks are the best room in the world.
 
 It's a library. Or it's a common room built inside a library, or a library that grew round a common room: shelves on every wall and in rows across the floor, all the way up to a ceiling that isn't a ceiling at all but the actual night sky, stars and all, glittering, with a slow cloud going across it. Ladders on brass rails. Armchairs in plum velvet, worn soft, pulled into little islands by lamps. A fire. Somebody's left a telescope on the hearthrug. It smells of paper and woodsmoke and something like cloves.
 
-It's quiet in here, but not silent: the kind of quiet that's made of lots of small sounds. Pages turning. A pen scratching. Somebody at a table in the corner whispering a word under their breath, over and over, trying to get it right. A clock ticking somewhere in the shelves. Owlcombe, you're going to learn, is a house that thinks before it speaks, and then speaks for a very long time.
+It's quiet in here, but not silent: the kind of quiet that's made of lots of small sounds. Pages turning. A pen scratching. Somebody at a table in the corner whispering a word under their breath, over and over, trying to get it right. A clock ticking somewhere in the shelves.
 
 @imogen:warm Imogen is standing among the shelves with her handbook clutched to her chest and the expression of a pilgrim who has arrived. "They have [i]the regulations[/i]," she says to you, faintly, pointing. "The full ones. All eleven volumes. In a glass case."
 
@@ -463,7 +493,17 @@ He's made it, you realise, in the time since your lantern landed. It's perfect. 
   #Sit by the lily pool with Toby, and let him tell you everything about fish.
     *set fr_toby +1
     *set heart +5
-    Toby tells you everything about fish, most of it wrong, and you drink hot chocolate and watch the silver shoal go past the windows, and for the first time since midnight you stop being frightened.
+    You sit on the cool stone rim of the lily pool with your hot chocolate, and Toby sits next to you with his, and the silver shoal goes past the windows again, turning all together like a single thought.
+
+    @toby:amused "Those are herring," says Toby, with total confidence.
+
+    "It's a lake, Toby."
+
+    @toby:amused "Lake herring." He blows on his chocolate. "They're very rare. That's why you've never heard of them. My grandad used to catch them. He used to say you can tell a herring by its eyebrows."
+
+    "Fish don't have eyebrows."
+
+    @toby:laugh "That's how you can tell," says Toby, and you both start laughing, and can't stop, and a second-year in the hammock opens one eye and shuts it again. He tells you about his grandad's allotment, and the carp in the ornamental pond at the garden centre who used to come up when he whistled, and a trout he once cooked for Mr Pargeter that was so good Mr Pargeter shook his hand. Most of it, you suspect, is wrong about fish and right about everything else. For the first time since midnight you stop being frightened.
 
     @toby:warm "They all turn at once," he says, dreamily, watching. "Did you see? Nobody tells them. They just know." He rests his chin on his knees. "I'd like to be like that. Knowing when to turn."
 

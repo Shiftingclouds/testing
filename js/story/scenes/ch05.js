@@ -9,9 +9,9 @@ NB.scene("ch05", String.raw`
 *present kestrel toby familiar
 The second week goes faster than the first, the way second weeks do.
 
-You learn where the stairs like to go on a Tuesday, and which door into the Brewing Cellars sticks, and that if you sit at the far end of your house's table at breakfast you get the toast first and the sun last. Professor Kovač sets you a Stillwater tonic and walks along the benches without speaking, and when she stops at yours and looks into your cauldron for three whole seconds, you understand from the rest of the room that this is praise. Professor Bassani turns a teapot into a tortoise and back again, twice, so everybody can see the join. The weather turns. One morning the Mere is steaming like a bath, and the next it's grey and choppy, with rain coming across it in curtains, and the whole castle smells of wet wool and toast.
+On Tuesday morning the Brewing Cellars door sticks, and you put your shoulder to it without thinking, and it opens, and you realise you knew it was going to stick. On Wednesday Professor Bassani turns a teapot into a tortoise and back again, twice, crying [i]watch the join, watch the join![/i], and the tortoise, on its second outing, looks deeply fed up. On Thursday morning the Mere is steaming like a bath under a white sky, and you stand at a window on the stairs with your hands round a cup of tea and watch the mist come off it in long slow ribbons, and forget, for nearly a minute, that you're going to be late for Herbwork.
 
-{fam_name} learns the castle faster than you do. {fam_name} has opinions about the Rookery, a favourite radiator, and a feud with Mrs Pettigrew's goat.
+{fam_name} learns the castle faster than you do. You come back from lunch on Wednesday to find {fam_name} asleep on the one good radiator on the second floor, in a small circle of admirers, and on Thursday there's a note pinned to the door of your dormitory in large angry capitals, [i]WOULD THE OWNER OF[/i], followed by a detailed description of {fam_name}, [i]KINDLY KEEP IT AWAY FROM MY GOAT. MRS PETTIGREW (KITCHENS).[/i]
 
 Hearth isn't on the timetable as a lesson. It's on the timetable as [i]Hearth (Thursdays, the Hall, bring nothing)[/i]. It turns out to mean the Headmistress, and forty-three first-years, the same forty-three you share Wordcraft with, lying on their backs on the floor of the Lantern Hall at five o'clock on a Thursday, looking up.
 
@@ -216,37 +216,157 @@ You look at him, and you can't help it: you see his flame. It's small, and a sof
 *present kestrel hester familiar
 You don't have to go and see the Headmistress. A note arrives at breakfast, folded into the shape of a small bird, which glides down the length of the table and lands on your porridge: [i]Five o'clock. The Weathervane Room. Bring your familiar and a good appetite for cake. I.K.[/i]
 
+You read it three times. It doesn't say [i]why[/i]. It doesn't need to.
+
 It's the longest Friday of your life. You sit through Starreading without seeing a single star. In Wordcraft you set fire to a feather you were meant to be levitating, and Professor Moth says "Oh, splendid," and puts it out with his hat. Every time you pass a wall you're afraid to look at it, and every time you look at it, it's only a wall, and you can't decide which is worse. Idris, crossing the courtyard at lunch with his satchel, catches your eye once and gives you the smallest nod in the world, and walks on.
 
 At a quarter to five, you climb.
 
-The Weathervane Room is at the very top of the central tower, up a stair so narrow you go sideways. It's round, and full of weather. That's the only way to describe it. Barometers and thermometers and rain gauges on every wall. Clocks, dozens of them, all ticking, none of them quite together. And weathervanes, indoors, on posts and on shelves and hanging from the ceiling: iron cockerels and brass ships and a copper wren, all of them turning, slowly, this way and that, as if they're feeling the moods of the castle below instead of the wind. There's a fire. There's a perch by the window with a small hawk asleep on it, a kestrel, grey-headed and rust-backed. The windows look out over the whole Mere, gone pewter in the dusk, and the dark line of the hills beyond. There's cake.
+The central tower has more stairs than anywhere else in the castle, and they get narrower as they go, as if the tower were drawing itself in to keep a secret. By the last flight you're going sideways, one shoulder brushing the stone, {fam_name} {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|riding close against you because there's no room to fly|picking a way up the steps ahead of you and looking back, every few, to check you haven't lost your nerve}. There are no windows. There's only the sound, getting louder as you climb: ticking. Dozens of clocks, all ticking, none of them together, like rain on a tin roof.
 
-Over the fireplace there's a painting: a weather-beaten old woman in an oilskin coat, with a broad, wind-browned face, a crooked smile and bright brown eyes, painted in oils so old the varnish has gone the colour of tea.
+The door at the top is small and very old, and has a knocker in the shape of a wren. You stand in front of it for a while. You wipe your palms on your robe. You think, for no reason at all, of standing outside Glossop's office on the day of your appraisal, and nearly laugh.
 
-@kestrel:warm "Sit," says the Headmistress, pouring tea. "Have cake. It's lemon. The kitchens make it for me every Friday, and I can never finish it, and Mrs Pettigrew tells me off for wasting it." She hands you a plate. "Idris Penhallow came to see me at seven o'clock this morning. He was very correct about it. He wouldn't tell me why. He just said you'd be coming, and that I should see you, and that he hoped he was wrong." She sits down opposite you, with her own cup, and looks at you over it. "He isn't wrong. I saw it in Hearth. You looked at Toby Quill with your eyes shut."
+You knock.
 
-"I saw his..." You don't know what to call it.
+@kestrel:warm "It's open," says a voice from inside. "It's always open. It just likes to be knocked."
 
-@kestrel:neutral "His flame," she says. "Yes. Everyone has one. Most of us can learn to glimpse them, if we're very still, after years of practice. A warmth. A shape." She puts her cup down. "You see them plainly, don't you. Through walls. And last night, I'm told, a lantern on the main stair went out, and when Mr Tully came up at midnight it was burning white."
+The Weathervane Room is round, and full of weather.
 
-You nod. Your hands, you find, are shaking round the cup. You put it down on the saucer, carefully, and it rattles anyway.
+That's the only way you can describe it, afterwards. It comes at you in pieces while you stand in the doorway. The clocks first, because you've been hearing them all the way up: on every wall, on every shelf, grandfather clocks and carriage clocks and a cuckoo clock with no cuckoo. Then the barometers and the rain gauges and the thermometers, and a glass tube of something blue that's gone cloudy, as if it's expecting a storm. Then the weathervanes, which is when you stop noticing anything else: weathervanes, indoors, on posts and on shelves and hanging from the beams, iron cockerels and brass ships and a copper wren, all of them turning, slowly, this way and that, although there isn't a breath of wind in the room. As you step in, one by one, they swing round to point at you, and then, as if they've seen what they needed, drift away again.
 
-@kestrel:warm She notices. She reaches over without a word and puts another slice of cake on your plate, as if that were the obvious remedy, and waits until you've eaten some of it. It helps more than it should.
+The windows look out over the whole Mere, gone pewter in the dusk, and the dark line of the hills beyond. There's a fire. On a perch by the window there's a small hawk, grey-headed and rust-backed, eating something off the Headmistress's fingers.
 
-@kestrel:grave "The word," she says, when you've finished, "is [i]Kindler[/i]. Someone who can see flames, and steady them, and, if they're very rare, and very foolish, and very lucky, relight one that's gone out." She's watching you closely. "It's the rarest gift there is. Hester Wren was one." She nods at the painting over the fire. "That's her. She founded this school because a Kindler's the only person who can see a late flame before it catches, and she saw hundreds of them, all over the country, burning in people who had no idea, with nobody to tell them. So she built a place to tell them."
+@kestrel:amused "She's called Kestrel," says the Headmistress, without turning round. "Before you ask. Everybody asks. She was here when I came, with the name already, and I've always felt that if one of us ought to change, it's me." She wipes her fingers on a handkerchief. "She's eleven, and she bites. Sit down. There's cake."
 
-You look at the painting. The painted old woman looks back.
+There's cake. There's a whole lemon cake on a stand by the fire, and a pot of tea under a knitted cosy, and two chairs, one each side of the hearth. You sit in the one that isn't hers. It's old and deep and saggy, and it takes you in like a hand, and you perch on the front edge of it anyway, because you're not sure yet that you're allowed to lean back.
+
+@kestrel:warm "It's lemon," she says, cutting you a slice. "The kitchens make it for me every Friday, and I can never finish it, and Mrs Pettigrew tells me off for wasting it. You'll be doing me a kindness." She hands you the plate, and pours the tea, and sits down in her own chair opposite, and stretches her long feet out to the fire, and doesn't say anything else.
+
+You wait. She drinks her tea. The clocks tick. The weathervanes turn. Over the fireplace, you notice now, there's a painting: an old woman in an oilskin coat with a broad, wind-browned face and a crooked smile, painted in oils so old the varnish has gone the colour of tea. The painted eyes are bright and brown and seem to be looking at the cake.
+
+"Headmistress..."
+
+@kestrel:neutral "How are you sleeping?"
+
+It takes you by surprise. "Badly."
+
+@kestrel:warm "Yes. Everybody does, the first month." She looks into the fire. "Some of us for rather longer." Then she looks at you, over her cup, and her hazel eyes are kind and very, very sharp. "Idris Penhallow came to see me at seven o'clock this morning. He was very correct about it. He wouldn't tell me why. He said you'd be coming, and that I should see you, and that he hoped he was wrong." She puts her cup down in its saucer, without a sound. "He isn't wrong, is he. I saw you in Hearth. You looked at Toby Quill with your eyes shut."
+
+You open your mouth. Nothing comes out.
+
+@kestrel:neutral "Tell me," she says. "From the beginning. Take as long as you like. The cake's not going anywhere."
+
+"I saw his..." You don't know what to call it. You try again. "In Hearth. When you said to picture it. Mine was just there, it was easy, and then I turned my head, and Toby..." You stop. It sounds mad. It sounds like the sort of thing you'd have searched for at two in the morning, and closed the laptop.
+
+@kestrel:attentive "What colour was it?"
+
+It's such a practical question that it steadies you. "Orange. Small. Like..." You feel your face go warm. "Like the light in an oven door. When something's baking."
+
+@kestrel:warm Something in her face softens. "Yes," she says, very quietly. "That sounds like Toby."
+
+"And there was a little one. Next to his. Brown, and quick."
+
+@kestrel:amused "Custard," says the Headmistress, and almost laughs. "Of course." Then, not laughing: "And last night?"
+
+So you tell her about last night. It comes out badly, in the wrong order, and she lets it. The stair, and the wall, and the six sleeping flames behind it, and one of them turning over. The whole castle full of lights, like a city from an aeroplane. You tell her about the steady lamp in the tower that you think was Professor Kovač, and she makes a small sound that might be a laugh, and says [i]marking, I expect[/i]. You tell her about the tall silver-white one at the top of the central tower, turning slowly, and you watch her understand that it was her, and she doesn't say anything to that at all.
+
+"And there was something under the castle," you say. "Right down. Under the kitchens, under everything. Huge. White-gold. Like the sun through your eyelids. All the lanterns had threads going down to it."
+
+@kestrel:grave The Headmistress closes her eyes. Just for a moment. When she opens them again her face is exactly the same as before, pleasant and attentive, and you have the strangest feeling you've just watched a door being closed very gently in a house you'll be living in for a while.
+
+@kestrel:neutral "Yes," she says. "We'll come to that. Not tonight." She nods at you. "Go on."
+
+You'd like to ask. You look at her face and decide not to. You go on.
+
+"Then there was humming."
+
+@kestrel:grave The cup, which she's just picked up again, stops halfway to her mouth.
+
+"In the walls. Not the lanterns. The other kind. Low. It went along the wall from one lantern to the next, like..." You don't know what it was like. You move your finger through the air, along a line that isn't there. "And the one over my head went out. Just went out. And I could see where its thread should have been, and there wasn't one. It had been cut."
+
+@kestrel:neutral "Did anyone else hear it?"
+
+"I don't know. Idris, maybe. He said he did." You look down at your hands. "I didn't think. I just reached up and put my fingers on the wick. And it lit. White."
+
+@kestrel:attentive "Was it cold?" she says. "The wick. When you touched it."
+
+You stare at her. "Yes. Like a key that's been left outside all night. How do you..."
+
+@kestrel:neutral She doesn't answer. She puts her cup down, carefully, on the little table by her chair, and folds her long hands in her lap, and looks at the fire. Behind her, all round the room, the weathervanes have gone still.
+
+You find your own hands are shaking. You put your cup down on its saucer, carefully, and it rattles anyway.
+
+@kestrel:warm She notices. She reaches over without a word and puts another slice of cake on your plate, as if that were the obvious remedy, and waits until you've eaten some of it. It helps more than it should. The lemon is sharp and the sponge is warm and your hands have something to do.
+
+@kestrel:neutral "Would you do something for me?" she says, when you've finished. "Would you look at me? The way you looked at Toby."
+
+"That feels rude."
+
+@kestrel:amused "It is rude," says the Headmistress. "I'm asking you to be rude. It's a very rare invitation from a headmistress, and I shouldn't waste it."
+
+So you look.
+
+You don't have to close your eyes, this time. It's there almost before you've asked it to be, the way a word comes when you stop trying to remember it. Behind the midnight-blue robes, behind the little gold wrens, behind her breastbone: a flame. Tall, and narrow, and silver-white, burning so straight it might be standing to attention. It's the one from the top of the tower. It's very bright, and very old, and you can tell, you don't know how, that she's holding it perfectly still on purpose, the way you'd hold your breath to let someone listen to your heart.
+
+"Silver," you say. Your voice has gone odd. "It's silver. Very tall. You're keeping it still."
+
+@kestrel:tired The Headmistress breathes out. It's a long breath, and she lets it go slowly, and when it's gone she looks, for a second, every one of her seventy-one years. "Silver," she says. "Somebody told me that once. A long time ago." She smiles, a little, not at you. "I'd forgotten."
+
+"Who?"
+
+@kestrel:neutral She doesn't answer that either. She gets up instead, and goes to the window, and stands with her back to you, looking out over the Mere, where the last of the light is going out of the water. Kestrel on her perch shifts from foot to foot. You wait. You've got the feeling she's deciding something, and that she's been deciding it since seven o'clock this morning, and that she's only now decided.
+
+"Headmistress. What am I?"
+
+@kestrel:grave She takes a long time to turn round.
+
+@kestrel:grave "There's a word for it," she says. "An old one. It's not in the handbook, and it's not in any lesson you'll be taught, and I want you to understand before I say it that it's not a thing to be frightened of. It's only a word. It's what you do with it that matters." She comes back to the fire and sits down, and leans forward, with her elbows on her knees, so that her face is level with yours. "[i]Kindler.[/i]"
+
+The weathervanes turn, all together, very slowly, and point at you.
 
 [i]Kindler.[/i] You say it in your head. It sounds like something out of a story Nana Pearl would have told you at bedtime, and then, on the way out of the room, told you not to repeat.
 
-@kestrel:neutral "There have been a handful since. Six or seven, in four hundred years. We don't really know; they don't always come to us." A pause. "The last one was a long time ago."
+"What does it mean?"
+
+@kestrel:neutral "Someone who sees flames." She holds up one finger, like someone counting. "As you do. Plainly. Through walls." A second finger. "Someone who can steady them, when they flare. With a hand. With a thought." She looks at you. "You've done that already, I think, or you will soon."
+
+"And?"
+
+@kestrel:grave She hesitates. It's only for a second. But you see it, and she sees you see it. "And, if they're very rare," she says, "and very foolish, and very lucky, someone who can relight one that's gone out."
+
+You think of the wick on the stair. Cold as a key. White-gold under your fingers.
+
+"Like the lantern."
+
+@kestrel:grave "Like the lantern."
+
+She lets that sit. The fire settles in the grate. Somewhere on the shelves a carriage clock chimes the half hour, and three others argue with it.
+
+@kestrel:neutral "It's the rarest gift there is." She nods at the painting over the fire. "Hester Wren was one."
+
+You look up at the painted old woman in her oilskin coat. She looks back at you, with her crooked smile.
+
+"The founder?"
+
+@kestrel:warm "The founder. That's her. Painted when she was sixty, by a man who owed her money, and she said afterwards that he'd got the coat right and nothing else." Her eyes crinkle. "She was a fisherwoman, before. She kindled late. Like you. Like all of you."
+
+"Why did she build a school?"
+
+@kestrel:neutral "Because she could see them," says the Headmistress simply. "Late flames. Before they catch, a Kindler can see them coming, the way you'd see a light come on in a window a long way off. She saw hundreds. All over the country. Burning in people who had no idea what was happening to them, with nobody to tell them, blowing bulbs and frightening their families and thinking they were going mad." She looks at you steadily. "You know how that feels."
+
+You do. You think of the bathroom mirror, and the glass like frost in the sink. You nod.
+
+@kestrel:warm "So she built a place to tell them." She picks up her cup again. It's gone cold. She drinks it anyway. "That's all Wrenfold is, really. A place to tell people. Everything else came afterwards."
+
+"How many have there been? Kindlers?"
+
+@kestrel:neutral "A handful since Hester. Six or seven, in four hundred years. We don't really know; they don't always come to us." A pause, and something in the pause that makes you look up. "The last one was a long time ago."
 *choice
   #"Who was the last one?"
     *set wit +5
     @kestrel:grave She's quiet. The weathervanes turn. One of the clocks, somewhere behind you, strikes a quarter-hour that none of the others agree with. "Someone I was at school with," she says at last. "Here. A long time ago." Her hands are very still in her lap. "He lost his flame. It was an accident, and it was dealt with badly, and I've regretted it every day for forty years."
 
-    You wait. The fire settles in the grate.
+    You wait. The fire settles in the grate. You think of the tall silver flame, held so perfectly still, and of [i]somebody told me that once[/i], and you don't ask. You can see it would be like pressing on a bruise.
 
     @kestrel:tired "That's all I'm going to say about it tonight," she says, and looks up. "I'm sorry. One day I'll tell you properly. Not today. Today I'd like you to eat your cake."
   #"Why me?"
@@ -260,15 +380,33 @@ You look at the painting. The painted old woman looks back.
     *set flame +5
     @kestrel:grave The whole room seems to go still. Even the weathervanes pause, all together, pointing nowhere. "In theory," says the Headmistress, very quietly. "It's been done. Twice, that anyone wrote down, in four hundred years. And it cost the Kindler who did it, both times, a great deal." She leans forward. "Promise me you will never try it. Not until you know exactly what it costs. Not until I've taught you. Promise."
 
-    You promise. You mean it, sitting there with the cake on your knee and the fire warm on one side of your face. You'll remember, later, how much you meant it.
+    "What does it cost?"
 
-@kestrel:neutral "Every Friday at five, then," she says, briskly, sitting back. "Here. Cake. I'll teach you what I know, which isn't much, and Hester's journals, which are more, and together we'll work out the rest. You'll learn to see without being dazzled. To steady without hurting yourself. And you'll learn [i]not[/i] to relight things, which is the most important lesson of all." She fixes you with a look over her cup. "And you'll tell no one. Not because it's shameful. Because it's precious. And precious things get taken."
+    @kestrel:grave "Promise me first."
 
-"Tell no one at all?"
+    You promise. You mean it, sitting there with the cake on your knee and the fire warm on one side of your face. You'll remember, later, how much you meant it. You notice, too, that she hasn't answered, and that she isn't going to.
+
+@kestrel:neutral "Every Friday at five, then," she says, briskly, sitting back, as if the worst of it were over. Perhaps, for tonight, it is. "Here. Cake. I'll teach you what I know, which isn't much, and Hester's journals, which are more, and together we'll work out the rest." She counts it off on her fingers, the way she did before. "You'll learn to see without being dazzled. To steady without hurting yourself. And you'll learn [i]not[/i] to relight things, which is the most important lesson of all."
+
+"Is it dangerous? For me?"
+
+@kestrel:neutral She considers you over her cup for a moment, as if deciding how much of an answer you can carry down the stairs. "Yes," she says. That's all. She doesn't soften it, and she doesn't explain it, and somehow that's more frightening than anything she could have added.
+
+@kestrel:grave "And you'll tell no one," she says. "Not because it's shameful. Because it's precious. And precious things get taken."
+
+"Taken by who?"
+
+@kestrel:neutral She looks past you, at the window, where the dark has come right down over the hills now and the first lanterns are drifting up from the castle roofs below, gold against the black. For a second you think she's going to answer. You can see the answer in her face, very close to the surface.
+
+@kestrel:warm "Eat your cake," she says.
+
+It's all the answer you're going to get. You eat your cake.
+
+"Tell no one at all?" you say, eventually, with your mouth full.
 
 @kestrel:warm "That's up to you, in the end. It's yours," she says. "But be careful whom you give it to. Once it's said, it can't be unsaid."
 
-@kestrel:neutral She lets you finish your tea after that, and talks about ordinary things: the weather-glasses, which were Hester's, and the clocks, which were not, and the kestrel on the perch, who is eleven and bites. It's so ordinary it makes your eyes sting. By the time the sky outside has gone from pewter to ink, your hands have stopped shaking.
+@kestrel:neutral She lets you finish your tea after that, and talks about ordinary things: the weather-glasses, which were Hester's and still work, and the clocks, which were not and don't, and Kestrel on her perch, who once took the spectacles off a visiting inspector from the Order and dropped them in the Mere. It's so ordinary it makes your eyes sting. You laugh at the spectacles, and she laughs with you, and by the time the sky outside has gone from pewter to ink, your hands have stopped shaking.
 *set kindling +10
 *set fr_kestrel 2
 *meet hester
@@ -280,7 +418,7 @@ You stare. The painted brown eyes look back at you, very much alive, and then, s
 
 @kestrel:neutral "She doesn't do that often," says the Headmistress quietly, behind you. She's gone rather pale. "Once or twice a year. Usually to me." She opens the door for you. "Goodnight, {name}. Go carefully."
 
-You go down the narrow stair sideways, holding the cake, with your heart going hard. At the bottom you realise you've been holding your breath all the way down, and you let it out. For six.
+You go down the narrow stair sideways, holding the cake, with your heart going hard, and the clocks ticking behind you fainter and fainter until they're gone. At the bottom you realise you've been holding your breath all the way down, and you let it out. For six.
 *page_break
 *comment ---------------------------------------------------------------- CH05.TELL.01
 *sid CH05.TELL.01
@@ -290,7 +428,7 @@ You go down the narrow stair sideways, holding the cake, with your heart going h
 *present toby okoro familiar
 Saturday morning is bright and blowy and blue, the kind of September day that feels like the last day of summer and knows it. The wind's coming off the Mere smelling of weed and cold water, and the flags on the stands are cracking like washing on a line.
 
-The Glimmer Pitch isn't a field. It's the Mere itself: a long stretch of shallow water off the south shore, with the stands built out over it on tall wooden stilts, and the lantern-hoops hung in the air at either end, three to a side, swinging in the wind. This morning it's noisy with trials: brooms whizzing, whistles, Coach Okoro standing on the water at the heart of it all, actually standing on it, bellowing encouragement, and the stands full of people with flasks and blankets and opinions.
+The last time you were down here it was a lesson, and half-empty. This morning the stands on their tall wooden stilts are full, people with flasks and blankets and opinions, and the lantern-hoops at either end are swinging in the wind, and the water under them is thick with trials: brooms whizzing, whistles, somebody shrieking with laughter as they go in. Coach Okoro is out in the thick of it all, standing on the Mere as if it were a car park, bellowing encouragement at everyone and no one.
 *if glimmer
   You try out for {@house = "larkspire"|Larkspire|}{@house = "owlcombe"|Owlcombe|}{@house = "heronmere"|Heronmere|}{@house = "rookhallow"|Rookhallow|}. It's the most fun you've ever had while being terrified. You throw the Glim, a ball of warm white light the size of a grapefruit that pulls in your hand like a live thing, through a lantern-hoop from forty feet, and the hoop flares your house's colour, and a noise comes out of you that you didn't know you could make.
 
@@ -307,7 +445,7 @@ The Glimmer Pitch isn't a field. It's the Mere itself: a long stretch of shallow
 
 You eat. He eats. Down on the water somebody falls off, and there's a splash and a cheer. Toby watches it without seeing it.
 
-@toby:tense "You were out on Thursday night," he says. "I heard you go. And you went to the Headmistress's tower yesterday, everyone saw, Mina had it on the Wireless last night, [i]mystery first-year summoned to the Weathervane Room[/i]. She didn't say your name, but she did a sound effect." He fiddles with his roll. "You don't have to tell me. I just want to know if you're all right."
+@toby:tense "You were out on Thursday night," he says. "{@house = "heronmere"|I heard you go.|Somebody saw you on the main stair.} And you went to the Headmistress's tower yesterday, everyone saw, Mina had it on the Wireless last night, [i]mystery first-year summoned to the Weathervane Room[/i]. She didn't say your name, but she did a sound effect." He fiddles with his roll. "You don't have to tell me. I just want to know if you're all right."
 
 You look at him. Toby Quill, who fell on you on Lamplight Row, and sits next to you in every lesson, and brings you bacon rolls without being asked, and has a small orange flame like an oven light that you could see through his cardigan if you let yourself.
 
@@ -319,9 +457,25 @@ You don't let yourself. It feels like reading someone's letters.
     *set told_toby true
     *set fr_toby 3
     *set heart +5
-    You tell him. Low, under the noise of the trials, with your heads together. The flames through the walls, and the great glow under the castle, and the lantern on the stair, and the Weathervane Room, and the word.
+    You don't know how to start. You look at your roll. You look at the water. In the end you say, "You know in Hearth, when she told us to picture it? Our flame?"
 
-    @toby:scared He listens with his bacon roll forgotten and his mouth open. When you've finished he's quiet for so long you start to worry. Down on the water somebody scores, and the stand erupts round you, and Toby doesn't even look. Then he says, "Can you see mine?"
+    @toby:neutral "Mm." He's watching you, not the trials.
+
+    "I could see mine. And then I turned my head, and I could see yours."
+
+    @toby:neutral Toby doesn't say anything. He's stopped chewing.
+
+    "Not your face. Your..." You put your hand on your own breastbone. "In there. And then on Thursday night I went down the stairs, and I could see everyone's. Through the walls. The whole castle. Like being in an aeroplane over a town at night."
+
+    @toby:scared "Through the [i]walls[/i]?" It comes out as a squeak. Somebody in the row in front turns round, and Toby waves at them, weakly, and they turn back. He leans in until your heads are nearly touching, and says it again in a whisper. "Through the walls?"
+
+    "Through the walls." You keep your voice low, under the whistles and the shouting, and tell him the rest. The great white-gold glow deep under the castle. The humming in the stone, going from lantern to lantern. The lantern on the stair going out right over your head, and you reaching up without thinking, and the wick lighting under your fingers, white.
+
+    @toby:scared "With your [i]hand[/i]."
+
+    "With my hand. And Idris saw. And he sent me to the Headmistress. And she said..." You stop. [i]Once it's said, it can't be unsaid.[/i] Toby waits, the bacon roll going cold in his fingers, his round face perfectly serious. "She said there's a word for it. [i]Kindler.[/i]"
+
+    @toby:scared He says it back, under his breath, the way you'd try out a word in a foreign language. His bacon roll is forgotten. He's quiet for so long you start to worry. Down on the water somebody scores, and the stand erupts round you, and Toby doesn't even look. Then he says, "Can you see mine?"
 
     "Yes."
 
@@ -354,9 +508,19 @@ You don't let yourself. It feels like reading someone's letters.
             *present toby okoro familiar rowan
             *set told_rowan true
             *set st_rowan +1
-            You find him on the shingle below the stands, sitting on an upturned boat with his sleeves rolled up in the cold, and you sit next to him and tell him, all of it, low, while the brooms go past overhead.
+            You find him on the shingle below the stands, sitting on an upturned boat with his sleeves rolled up in the cold, and you sit next to him. For a while you just watch the brooms go over.
 
-            @rowan:warm He listens without saying anything. When you've finished, he looks at his own big hands, turning them over, as if they belong to someone else. "That's what you did," he says. "With your hand on my arm." He breathes out. "You saw it. What's in me."
+            "Rowan. Can I tell you something mad?"
+
+            @rowan:neutral "Go on."
+
+            "I can see what's inside people. The fire. Your flame, or whatever it is. I can see it like a light." You make yourself keep going, while he's still listening and before you lose your nerve. "I saw the whole castle's, on Thursday night, through the walls. And a lantern went out on the stairs and I lit it again with my fingers. The Headmistress says there's a name for it. Kindler. She says I'm not to tell anyone."
+
+            @rowan:neutral "And you're telling me."
+
+            "I'm telling you."
+
+            @rowan:warm He listens to the rest without saying anything, his elbows on his knees. When you've finished, he looks at his own big hands, turning them over, as if they belong to someone else. "That's what you did," he says. "With your hand on my arm." He breathes out. "You saw it. What's in me."
 
             "It's a bonfire," you say. "It's too big for you. It's frightened."
 
@@ -370,7 +534,15 @@ You don't let yourself. It feels like reading someone's letters.
             *present toby okoro familiar imogen
             *set told_imogen true
             *set st_imogen +1
-            You find her in the Owlcombe stand with a volume of the regulations on her knee, making notes in the margin in pencil, which is presumably not allowed. You sit down beside her and tell her, low. She doesn't interrupt once. At one point she puts her pencil down, and doesn't pick it up again.
+            You find her in the Owlcombe stand with a volume of the regulations on her knee, making notes in the margin in pencil, which is presumably not allowed. You sit down beside her.
+
+            "Imogen. If I told you something, would you want it in order, or all at once?"
+
+            @imogen:attentive She finishes the note she's writing. Then she looks at you. "In order," she says. "With dates."
+
+            So you give it to her in order, with dates, low, under the noise. Thursday, Hearth, Toby's flame through your eyelids. Thursday night, twenty to twelve, the main stair, every flame in the castle. The humming. The lantern. Friday, five o'clock, the Weathervane Room. She doesn't interrupt once. At [i]relit it[/i] she puts her pencil down, and doesn't pick it up again.
+
+            "She called it Kindler," you finish. "She says it's the rarest thing there is."
 
             @imogen:attentive When you've finished, she sits very still. "A Kindler," she says. "Volume nine. The locked one." Her eyes are very bright behind her glasses. "Could you see... could you see someone who'd been hollowed? Could you see if there was anything left?"
 
@@ -384,7 +556,15 @@ You don't let yourself. It feels like reading someone's letters.
             *present toby okoro familiar saoirse
             *set told_saoirse true
             *set st_saoirse +1
-            You find her upside down on a broom under the stands, tightening something with a spanner held in her teeth, and tell her. She's so surprised she falls off.
+            You find her upside down on a broom under the stands, tightening something with a spanner held in her teeth.
+
+            "Saoirse. I can see people's flames."
+
+            @saoirse:neutral "Mm-hm," says Saoirse, round the spanner, not listening.
+
+            "Through walls. The whole castle. And I relit a lantern with my bare hand. The Headmistress says I'm a Kindler."
+
+            @saoirse:surprised There's a short pause. Then Saoirse takes the spanner out of her mouth, says "You [i]what[/i]," and is so surprised she falls off.
 
             @saoirse:laugh "You can see [i]inside people[/i]," she says, from the shingle, delighted, with seaweed on her shoulder. "That's the best thing I've ever heard. That's better than my beetle. What's mine like? No, don't tell me. Yes, tell me."
 
@@ -398,9 +578,17 @@ You don't let yourself. It feels like reading someone's letters.
             *present toby okoro familiar noor
             *set told_noor true
             *set st_noor +1
-            You find her in the Heronmere stand, not watching the trials, reading a book on anatomy that looks older than the castle, with her feet up on the bench in front and her plait over her shoulder. You sit down and tell her, low.
+            You find her in the Heronmere stand, not watching the trials, reading a book on anatomy that looks older than the castle, with her feet up on the bench in front and her plait over her shoulder. You sit down.
 
-            @noor:neutral She listens the way she listens to patients: completely still, completely calm, her eyes on your face and not on the book. When you've finished, she says, "Does it hurt? When you relight something?"
+            @noor:neutral She glances at you, and then looks properly, and closes the book on her finger. "What's happened?"
+
+            "How do you know something's happened?"
+
+            @noor:neutral "You've got a face like a relative in a corridor." She moves her feet off the bench. "Go on."
+
+            So you go on, low. The flames. The stair. The lantern going cold and dark over your head, and your fingers on the wick, and the white light. The word.
+
+            @noor:neutral She listens the way she listens to patients: completely still, completely calm, her eyes on your face and not on the book. She asks two questions while you're talking, both of them short: [i]what time?[/i] and [i]did anybody else see?[/i] When you've finished, she says, "Does it hurt? When you relight something?"
 
             Nobody's asked you that. Not even the Headmistress. "My arm aches," you say. "And I'm cold. For hours."
 
@@ -414,7 +602,15 @@ You don't let yourself. It feels like reading someone's letters.
             *present toby okoro familiar cas
             *set told_cas true
             *set st_cas +1
-            You find him alone, as always, at the far end of the {@cas_house = "owlcombe"|Owlcombe|Rookhallow} stand, in an immaculate coat, with nobody within ten feet of him. You sit down next to him, and he looks at you as if you're a wasp that has landed on his sleeve. You tell him anyway.
+            You find him alone, as always, at the far end of the {@cas_house = "owlcombe"|Owlcombe|Rookhallow} stand, in an immaculate coat, with nobody within ten feet of him. You sit down next to him, and he looks at you as if you're a wasp that has landed on his sleeve.
+
+            @cas:guarded "The seats are free," he says. "The company isn't obligatory."
+
+            "Have you heard of a Kindler?"
+
+            @cas:tense The ring on his little finger stops turning.
+
+            You tell him anyway. The flames through the walls, and the lantern on the stair, and what the Headmistress called it. You keep it short, because you can see him getting stiller and stiller with every sentence, the way an animal goes still in long grass.
 
             @cas:guarded He listens with his face perfectly blank. When you've finished, he says, "Why on earth would you tell [i]me[/i]?"
 

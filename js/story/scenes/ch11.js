@@ -247,7 +247,17 @@ The hearthale comes in a pewter tankard, hot, foaming, the colour of dark honey.
 
       "What was the song?"
 
-      @imogen:amused She tells you. It's terrible. She sings the three lines, very quietly, under the noise of the pub, badly, and then puts her hand over her mouth, and laughs again, and for a moment looks about fifteen.
+      @imogen:amused "It's terrible," she warns you. "It's genuinely terrible. It's about a ferry." She looks round the pub, at the squeezebox and the steaming coats and the dog with its legs in the air, and decides nobody's listening, and leans in, and sings it, very quietly, badly, under the noise:
+
+      [i]Oh, the ferry's late and the tide's come in,[/i]
+
+      [i]and I've lost my hat and I've lost my pin,[/i]
+
+      [i]so it's down to the quay to wait again...[/i]
+
+      "And then?"
+
+      @imogen:laugh "And then nothing! And then back to the ferry! For an [i]hour[/i]!" She puts her hand over her mouth, and laughs again, helplessly, into her glove, and for a moment looks about fifteen. "I used to bang on the door. I used to shout [i]learn the second verse or drown[/i]." She wipes her eyes with the heel of her hand. "I've looked for it since. The rest of it. It isn't in any book. I think he made it up."
     #"Then sit. I'll time you. Five minutes, no plans."
       *set wit +5
       *set st_imogen +1
@@ -467,11 +477,23 @@ Moll Dunmore has pushed all the tables against the walls and put every blanket i
 
 @kestrel:grave The Headmistress is sitting on the bench beside Odile. She's been there an hour. She's holding Odile's hand, the one without the mug, and Odile's letting her, courteously, the way you'd let a stranger on a train.
 
-@kestrel:grave "Her gran was a Pellow too," says Imelda Kestrel, when you sit down on Odile's other side. "They've made wands on Lamplight Row for three hundred years. Her gran taught her the song. I used to hear her humming it in the shop, when I went in for repairs." She looks at the fire. "I didn't think anyone still knew it all the way through."
+@kestrel:grave "Her gran was a Pellow too," says Imelda Kestrel, when you sit down on Odile's other side. "They've made wands on Lamplight Row for three hundred years." She doesn't take her eyes off the fire. "I used to hear her humming it in the shop when I went in for repairs. The old lady first, and then Odile. I never asked what it was. I thought it was a lullaby."
 
-"What is it? The song."
+"It isn't, is it."
 
-@kestrel:grave "The Wren's Song." She says it quietly. "Hester Wren wrote it. The founder. Not in the histories; there's hardly anything of Hester in the histories. But she wrote it. The Choir had a note, even then, even four hundred years ago; this was the answer to it. A counter-song." She turns Odile's cold grey hand over in hers, and looks at the palm, scarred and calloused from thirty years of wand-wood. "It doesn't work if you sing it alone. It was never meant to. That's the whole point of it. Hester wrote it for a lot of voices, singing together, so that the Choir's note can't find the gap between them." She closes her eyes. "Odile knew that. She sang it anyway."
+@kestrel:grave "No." She's quiet for a moment. Odile, between you, lifts her mug, looks into it, and puts it down again without drinking. "It's called the Wren's Song."
+
+"Wren. As in Hester Wren?"
+
+@kestrel:neutral "As in Hester Wren. She wrote it. You won't find that in the histories; there's hardly anything of Hester in the histories, which I've always thought was the way she wanted it." A log shifts in the grate. "The Choir had its note even then. Four hundred years ago. This was her answer to it."
+
+"An answer to a note?"
+
+@kestrel:grave "A counter-song." She turns Odile's cold grey hand over in hers, and looks at the palm, scarred and calloused from thirty years of wand-wood. "You heard it work. For a moment, in the street, you heard it push them back." Her thumb moves once across Odile's knuckles. "And then you heard it fail."
+
+"She was so loud. She was louder than all of them. Why didn't it..."
+
+@kestrel:grave "Because she was on her own." The Headmistress says it very gently, as if it's you who needs the gentleness. "It doesn't work alone. It was never meant to. Hester wrote it for a great many voices, singing together, so the Choir's note can't find the gap between them. One voice is all gap." She closes her eyes. "Odile knew that. She sang it anyway."
 *clue e13
 *if sang_odile
   @kestrel:warm She opens her eyes, and looks at you. "Jory says you sang with her," she says. "And Toby Quill, and a first-year from Heronmere nobody can name, and some others. For about five bars." Her mouth moves. "I've been Headmistress of this school for eleven years. Nobody has sung that song in the high street of Thimble Cross in my lifetime." She lets go of Odile's hand, and puts hers, for a moment, on your shoulder. "Five bars. Remember what it felt like. You may need it again."
@@ -495,7 +517,13 @@ Nobody at the fire can look at anybody else for a while after that. Moll Dunmore
   @noor:tired Noor comes over to you at the end, when the last hum-sick student has been sent down to the boats, and stands in front of you, and looks at you, and then very quietly puts your scarf back round your neck, the one you put round her in the afternoon. "You'll get cold," she says. Then her face crumples, just for a second, and she smooths it out again, and goes to help Matron with the blankets.
 *if village_with = "cas"
   *present cas
-  @cas:grave Cas stays by the door all evening, where he can see the high street, with his wand in his hand, not saying anything. When people look at him now, it's different. Somebody saw him, in the street, get between the Choir and a Larkspire second-year he's never spoken to. You didn't see it. You hear about it, three times, before the boats. He doesn't mention it at all.
+  @cas:grave Cas stays by the door all evening, where he can see the high street, with his wand in his hand, not saying anything. When people look at him now, it's different, and it takes you a while to work out why.
+
+  At about seven, a Larkspire second-year you don't know, with a bandaged hand and a blanket round her shoulders, comes across the room and stops in front of him. "You got in front of me," she says. "In the street. When they turned round." She sounds as if she's still working it out. "You just stepped in front. I don't even know your name."
+
+  @cas:guarded Cas looks at her for a long second, as if she's handed him something and he isn't sure it's his. "Drummond," he says. Then, after a pause, as though it costs him something to put it down on the counter: "Cas."
+
+  She says thank you. He says nothing at all. She goes back to her friends by the fire, and they all look over at him, and he goes back to watching the high street as if nothing has happened. You didn't see it, out there in the grey. You can picture it exactly. He doesn't mention it, then or ever.
 *if village_with = "idris"
   *present idris
   @idris:grave Idris sits on the other side of the fire with his notebook open on his knee and doesn't write anything in it, all evening. When you go over, he shows you the page. It's the one he started this morning, about the birds. At the bottom, in his neat cramped hand, he's written: [i]Humbugs hummed wrong 14 Nov. = Bram. Birds stopped today. They know before we do.[/i] And under it, crossed out, and then written again: [i]Should have told someone.[/i]

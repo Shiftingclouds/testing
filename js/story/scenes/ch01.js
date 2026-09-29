@@ -127,13 +127,27 @@ Nothing else has changed. The doorway is still there, humming. The kettle has st
 
 You sit down at the kitchen table, because your knees would like you to, and you read the letter again, properly this time, out loud and very quietly, the way you'd read something from the council to make sure it really said what you thought it did.
 *letter invitation
+You stop at [i]You are not. You are kindling.[/i] and have to put the letter down for a second, flat on the table, with both hands on it, as if it might get up and leave.
+
+Kindling. You say it out loud, to the kitchen, to see what it sounds like. It sounds like something you'd buy in a net bag at a garage in November. It sounds like the start of a fire.
+
+You pick the letter up again. [i]It will burn very brightly for a year and then either settle or burn you out.[/i] You read that line three times, and each time the words stay exactly as they are, and don't shimmer, and don't offer to be more specific. [i]Burn you out.[/i] They don't say what that means. You notice that they don't say. You notice, too, that the next sentence is [i]We would like it to settle[/i], written in the same neat hand, as calmly as someone saying they'd like it to stay dry for the weekend, and that it helps, a bit, more than it should.
+
+A place kept for you since the day you were born. You think of a coat peg with your name over it in some cold corridor you've never seen, empty for twenty-five years, waiting. You don't know whether that's a lovely thought or a terrible one.
+
 You read the last paragraph twice. Then a third time, with your finger under the words, like a child.
 
 [i]What you have noticed this year, and how it has made you feel.[/i]
 
 Well.
 
-It started in January, you think, although you only noticed in March. The bulbs, first. Three in a week in the hall, then the one over the bathroom mirror, which exploded while you were brushing your teeth and left glitter-fine glass in the sink. The kettle, from March: switched off at the wall and boiling anyway, whenever you were upset about something, until you started unplugging it before you rang your landlord. The basil plant on the windowsill that turned its leaves to follow you round the kitchen like a dog. Clocks stopping at midnight. Your hands warm in December, so warm that people you shook hands with looked down at them.
+It started in January, you think, although you only noticed in March.
+
+You remember the exact moment you noticed. You were brushing your teeth, late, cross about something at work you can't even remember now, glaring at yourself in the mirror, and the bulb over it went [i]tink[/i], very quietly, like a spoon on a glass. Then it went white. Then it burst. Not with a bang: with a sigh, and a fine glittering fall of glass into the sink, all over your toothbrush and the soap, like frost. You stood there in the dark with your mouth full of toothpaste and your heart going, and the first thing you thought, absurdly, wasn't [i]that's dangerous[/i]. It was [i]did I do that?[/i]
+
+You'd laughed at yourself. You'd hoovered up the glass and bought a new bulb.
+
+Then the kettle, a week later, switched off at the wall and boiling anyway while you were on the phone to your landlord, rattling on its base as if it were as angry as you were. You'd started unplugging it before you rang him, which is the kind of thing you can't tell anyone without sounding mad. Then the basil, which began, round about Easter, to turn its leaves to follow you round the kitchen, like a dog watching you get its lead.
 
 You'd searched for it once, at two in the morning: [i]why do lights flicker when I'm angry[/i]. The internet had suggested your wiring, your blood pressure, and a prayer group. You'd closed the laptop and not tried again.
 
@@ -218,13 +232,27 @@ There's a silence on the line, so long you check the screen to see if she's stil
 
 "How do you know it's a wren?"
 
-@nana:neutral "Because my mother had one," she says. "Your great-gran Ivy. In nineteen fifty-three, when she was twenty-eight, a letter came under her door at midnight with a wren on it, and she went away for a year, and she came back quieter. She could make the kettle sing, after. Actually sing, a little tune. She used to do it to make me laugh." A pause. "She told me they'd come for one of us again one day. I always thought it'd be your mother. It never was. Then this year, the candles on my cake..." Another pause. "I've been waiting for you to ring."
+@nana:neutral "Because my mother had one," she says.
+
+That's all, for a moment. You wait for the rest of it, and it doesn't come. On her end you can hear the gas fire ticking, and the budgie shifting under his cover, and her breathing, which has gone careful, the way it goes when she's threading a needle.
+
+"Great-gran Ivy?" you say. "Nana. Great-gran Ivy worked at the mill."
+
+@nana:neutral "She did. Before, and after." A pause. "Nineteen fifty-three. She was twenty-eight. I was nine. I never saw the letter, love. I only remember she wasn't there, for months and months, and my dad doing my hair wrong for school." Another pause. "And then she was. She came back at midsummer with a suitcase and a sunburn, and she was quieter. That's the only word for it. As if she'd been somewhere very loud and was still listening to it."
 
 You sit down on the kitchen floor with your back against the cupboards, because it's where your legs take you.
 
-"You knew?"
+"What did she do? After?"
 
-@nana:warm "I didn't [i]know[/i]. I hoped. And I worried, a bit, because Mum never said much about it, only that it was hard and it was worth it, and that you came back different." Her voice goes softer. "Is there a door?"
+@nana:warm "Oh, she went back to the mill." You can hear her smile. "But she could make the kettle sing. Actually sing, a little tune, when it boiled. She used to do it when I was poorly, to make me laugh." Her voice changes. "She told me, once, when I was grown, that they'd come for one of us again. One day. I thought it'd be your mother. I watched your mother like a hawk for thirty years, and it never was." A breath. "And then this year. My birthday. The candles."
+
+"You [i]knew[/i]?"
+
+@nana:warm "I didn't [i]know[/i]. I hoped." She stops. "And I worried. I'm not going to pretend I didn't worry."
+
+"Why? What did she say about it? What's it like?"
+
+@nana:neutral There's a pause long enough that you hear a snooker ball drop into a pocket, somewhere in Nana Pearl's front room. "She never said much," she says at last. "I asked her, when I was older. I asked her all sorts. She'd only ever tell me two things. That it was hard. And that it was worth it." Another pause. "And that you came back different. I used to think she meant it like a warning. I'm not sure now she did." Her voice goes softer. "Is there a door?"
 
 You look at it. The gold line, the lamplit street, the rain still falling softly on the other side. "There's a door."
 
@@ -273,7 +301,17 @@ You sit on the sofa. She sits in her chair. You give her the letter, and she rea
 
 The gas fire ticks. On the telly, somebody pots a long red to no applause at all. You find you're holding your breath, the way you did when you were small and had brought her a school report.
 
-@nana:neutral "My mother had one of these," she says. "Your great-gran Ivy. Nineteen fifty-three. She was twenty-eight and she worked at the mill, and it came under the door at midnight with a wren on it, and she went away for a year. When she came back she was quieter. She never talked about it. But she could make the kettle sing, after. A little tune. She'd do it to make me laugh when I was poorly."
+@nana:neutral "My mother had one of these," she says.
+
+She says it to the letter, not to you. She's running her thumb along the edge of it, the way she runs her thumb along the edge of a photograph.
+
+"Great-gran Ivy?"
+
+@nana:neutral "Nineteen fifty-three." She folds the letter along its creases, carefully, and doesn't give it back yet. "She was twenty-eight and she worked at the mill. It came under the door at midnight, with a wren on it. I was nine. I remember the wax. I remember her sitting at the kitchen table in her coat, reading it, and my dad saying [i]Ivy, what is it, Ivy[/i], and her not answering." She looks at the gas fire. "Then she was gone for a year."
+
+"Where?"
+
+@nana:warm "She never said, love. Not properly. Not to me." Her mouth goes wry. "When she came back she was quieter. And she could make the kettle sing. A little tune. She'd do it to make me laugh when I was poorly, and then look over her shoulder, as if somebody might tell her off."
 
 "You never told me."
 

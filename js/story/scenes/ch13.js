@@ -33,7 +33,23 @@ At half past seven, someone bangs on the front door with the flat of their hand 
 
 He comes in. He sits on the wobbly chair, which you let him have because he's the guest, and it wobbles, and he says "still?" in a wounded voice, as if it's personally let him down. He opens two cans. He tips the chips out onto their paper on the table, the way you always used to, and plants the little wooden fork in the middle like a flag.
 
-@dev:amused "Right," he says. "Four months. Where do I start." He tells you everything. Glossop's divorce, which is going badly, for Glossop. The new girl who cried in the stationery cupboard, and who turned out to be crying because she'd won forty quid on a scratchcard and didn't know who to tell. The Christmas party, at which somebody did something to the photocopier that is currently being investigated by head office. "They've sent a man," says Dev, darkly. "From head office. With a clipboard. Nobody's confessed."
+@dev:amused "Right," he says. "Four months. Where do I start." He points a chip at you. "Glossop's divorce."
+
+"No."
+
+@dev:amused "Yes. She's kept the house. He's kept the caravan. The caravan is on her drive." He lets that sink in. "He's living in it. In December. He comes into work with a flask and a cardigan and he's never been so cheerful in his life. I think it's the best thing that's ever happened to him."
+
+"What else?"
+
+@dev:amused "New girl cried in the stationery cupboard her second week. Everyone was dead worried. Glossop did a whole talk about wellbeing, with slides." He takes a long pull on his can. "Turns out she'd won forty quid on a scratchcard and didn't know who to tell. She bought the whole floor a sausage roll." He's quiet for a moment, respectfully. "Good sausage rolls."
+
+"And the Christmas party?"
+
+@dev:amused Dev puts his can down on the table, very carefully, and folds his hands. "I can't talk about the Christmas party."
+
+"Dev."
+
+@dev:amused "Somebody did something to the photocopier. That's all I'm prepared to say. It's under investigation." He lowers his voice, though there's nobody in the house but you and {fam_name}. "They've sent a man. With a clipboard. He's been in three days. Nobody's confessed."
 
 "Was it you?"
 
@@ -92,11 +108,37 @@ The turkey is, in fact, the size of a small dog. Nana has cooked it anyway, and 
 
 @nana:amused "Better than a moat," says Nana, satisfied, and passes you the bread sauce. "Go on, then."
 
-You tell her everything.
+You start with the lanterns, because you have to start somewhere.
 
-Not quite everything. You tell her about the castle and the Lantern Hall and the ten thousand lanterns, and she makes you describe them twice: the colours, the humming, the way they turn to whoever's speaking. About your house, and the Nesting, and the lantern that flew to the roost. About Toby, and his burnt croissants and his hare called Custard. About flying, which makes her put her knife and fork down and say "you never" in a voice of pure delight. About the Frost Market, and the Longnight Dance under the hanging snow. About {fam_name}, who is at that moment trying to look as if it has never in its life considered eating a budgie.
+"There's a hall. The Lantern Hall. You can't see the roof; nobody's ever seen it. And there are lanterns floating about under it, paper ones, ten thousand of them, and they hum a bit at mealtimes. And when somebody stands up to speak, they all turn round to look at them."
 
-She laughs so much at Professor Bassani that she has to take her glasses off. She wants to know what they feed you and whether you're warm enough in bed and whether the Headmistress is a nice woman or just a clever one. She cries, a bit, at the lanterns floated on the Mere at Emberfall, for the dead. "Your grandad would have liked that," she says, and blows her nose on a cracker hat.
+@nana:amused "Turn round? Like sunflowers?"
+
+"Like sunflowers. Gold and pink and green and blue."
+
+@nana:warm She's put her knife and fork down. She hasn't touched her sprouts. "Go on."
+
+So you go on. You tell her about the first night: lighting a lantern from an old man's taper and letting it go, and watching it wobble up into the dark and fly across the Hall to one of the four roosts, as if it knew the way. She wants to know which roost, and what the colours are, and whether they've given you a scarf. They have. She wants to see it. You haven't brought it. She tuts.
+
+@nana:neutral "And friends? You've got friends? Proper ones, not just people you sit next to?"
+
+"Toby. He was a baker. He kept setting the croissants on fire. He's got a hare called Custard."
+
+@nana:amused "A hare." She considers this. "Is he nice to you? The boy, not the hare."
+
+"He makes me toast. When I've had a bad day he just turns up with toast."
+
+@nana:warm "Then I like him," says Nana Pearl, as if that settles a matter of law, and it does.
+
+She makes you tell her about flying twice. The first time she says "you never," in a voice of pure delight. The second time, when you get to the bit where you went over the lake with the water black underneath, she says "at your age," and you say "I'm twenty-five, Nana," and she says "that's what I said." She wants to know about the teachers. You do Professor Bassani for her, both arms out, everything twice, [i]magnificent, magnificent[/i], and she laughs so much she has to take her glasses off and wipe them on her napkin, and Admiral shrieks in sympathy.
+
+@nana:neutral "And the headmistress," she says, when she's got her breath back. "Is she a nice woman or just a clever one?"
+
+You think about it. Hazel eyes, and the silver plait, and the room full of weather, and a face that never quite stops being tired. "Both. I think she's both. She doesn't sleep much."
+
+@nana:neutral "The good ones don't," says Nana.
+
+You tell her about Emberfall last, the lanterns floated out on the black water for the dead, hundreds of them, going away across the Mere in the dark. She goes quiet at that, and turns her glass round on the tablecloth. "Your grandad would have liked that," she says, and blows her nose on a cracker hat. {fam_name}, meanwhile, is trying very hard to look as if it has never in its life considered eating a budgie.
 
 You don't tell her about the Choir. Or Delphine, or Bram, or Odile Pellow standing in the high street singing.
 
@@ -105,9 +147,33 @@ You don't tell her about the Choir. Or Delphine, or Bram, or Odile Pellow standi
   #Tell her the truth. All of it. She's the only person you've never lied to.
     *set heart +10
     *set told_nana true
-    You tell her. It takes a long time, and it comes out in the wrong order. The grey people and the humming. Delphine in the Glasshouses. Odile in the snow. The hole where a flame should be. What you are, and what you can do, and what the Headmistress said in the room full of weather. The name: Aldric Morrow.
+    You put your fork down. You don't know how to begin, so you begin in the wrong place.
 
-    @nana:neutral She listens to all of it without interrupting, with her small hands folded on the tablecloth. When you've finished, she doesn't say anything. The telly murmurs. Admiral shuffles on his cage. Outside, a child goes past on a new scooter, shouting to somebody to wait.
+    "There's a girl called Delphine. Was. Is." You stop. "She's still alive. That's the thing. She's alive."
+
+    @nana:neutral Nana doesn't say anything. She waits, the way she used to wait when you were small and had broken something and were working up to it.
+
+    "They found her in the Glasshouses. In October. Walking about. Awake. She said hello to everyone, very nicely, and she didn't know her own name. She's grey, Nana. Her skin's gone grey. It's like somebody came along and blew her out."
+
+    @nana:neutral "Blew her out," says Nana Pearl, very quietly. "Who did?"
+
+    "They're called the Grey Choir. They wear hoods. They don't talk; they hum. They stand somewhere near you and hum, and your..." You haven't got a word she'd know. "Your magic. Everybody's got a sort of flame, inside, if they've got magic at all. It leans towards the humming, like a candle in a draught. And then it goes."
+
+    Admiral shuffles on his perch. The telly murmurs about the weather in the north.
+
+    "In December they came to the village near the school. In the daytime. There was a woman there, Odile, who makes wands. She stood in the road in front of a load of first-years and sang at them. On her own. To hold them back while everyone ran." Your voice goes, and you wait for it to come back. "It worked. For a bit. She's grey now too."
+
+    @nana:neutral Nana reaches over and moves the gravy boat out of the way, so there's nothing on the tablecloth between her hands and yours. "And you," she says. "Where are you in all this, love?"
+
+    Here it is. You look at her flame without meaning to: small and bright and stubborn in the middle of her.
+
+    "I can see them. The flames. Everyone's. You've got one. It's little, and it's very bright." Her eyebrows go up above her red glasses and stay there. "And when one's gone out, I can light it again. Not easily. It costs something. But I can. There's an old word for it. Kindler. There's hardly ever been one."
+
+    @nana:neutral "Hardly ever," she repeats.
+
+    "There was one at the school forty years ago. Somebody put his flame out, in a lesson. By accident, they said. And now he..." You don't know how to finish it. "The Headmistress thinks he's the one the Choir sing for. His name's Aldric Morrow."
+
+    @nana:neutral She doesn't say anything. The telly murmurs. Admiral shuffles on his cage. Outside, a child goes past on a new scooter, shouting to somebody to wait.
 
     @nana:warm "Right," she says, at last. "Well." She reaches across the table and takes your hand in both of hers, the way she did when you were six and had nightmares. "Then I'm glad you're there, and not here. Because there's a whole castle round you, and a headmistress, and a lake, and all those lanterns. And here, there'd only be me and Admiral." She squeezes. "And I'd fight them, love. You know I would. But I'm eighty-two."
 
@@ -246,7 +312,21 @@ The streetlights come back on. Orange. The reindeer at number twelve starts flas
 
 @jory:tense "Er," says Jory Penrose, Lamplighter of the Order of the Lamp.
 
-@nana:warm She makes him a bacon sandwich at midnight in her dressing gown, and he eats it in four bites, and she makes him another. Then she sits down across the table from him, and folds her hands, and asks him how old he is, and where his mother lives, and whether his mother knows what he does at night, and he answers every question like a boy in front of a headmaster.
+@nana:warm She makes him a bacon sandwich at midnight in her dressing gown, and he eats it in four bites, and she makes him another. Then she sits down across the table from him, and folds her hands.
+
+@nana:neutral "How old are you?"
+
+@jory:neutral "Twenty-four, madam."
+
+@nana:neutral "Twenty-four." She lets that sit. "And where's your mother?"
+
+@jory:neutral "Porthallow. It's by the sea. It's... quite a long way."
+
+@nana:neutral "And does she know you're out in the middle of the night, in the rain, running at... whatever that was, with a lamp?"
+
+@jory:neutral Jory looks into his tea. "She thinks I work for the council," he says. "In lighting."
+
+@nana:amused "Well," says Nana Pearl, after a moment. "You're not lying to her." And she pushes the plate with the second sandwich an inch closer to him, which from her is a medal.
 
 You stand at the sink with your hands still tingling, and your fingers still warm, and watch them.
 
@@ -259,7 +339,13 @@ You stand at the sink with your hands still tingling, and your fingers still war
 *present nana toby familiar
 The last few days of the holiday go quietly, and nobody at 7 Viaduct Street sleeps very well.
 
-There's a Lamplighter at the end of the road every night after that, in a greatcoat, pretending to wait for a bus that doesn't run past midnight. A different one each night; Jory comes back on New Year's Eve, and Nana makes him come in at midnight for a sherry and the fireworks on the telly, and he falls asleep in the armchair with his lamp on his knee. Dev comes round on New Year's Day with a hangover and a box of leftover chocolates and sits with Nana for two hours discussing snooker, and doesn't ask why there's a man in a long coat standing under the viaduct, and doesn't ask why your nan keeps humming the same four bars under her breath.
+There's a Lamplighter at the end of the road every night after that, in a greatcoat, pretending to wait for a bus that doesn't run past midnight. A different one each night, until New Year's Eve, when it's Jory again.
+
+At ten to midnight Nana sends you out to fetch him. He's standing under the streetlight with his collar up and his lamp turned low, stamping his feet, and when you tell him he's to come in for a sherry he says he's on duty, and when you tell him Nana says he can be on duty in the front room, where it's warm, with the curtains open, he thinks about it for about a second and a half and asks whether it's sweet sherry. It is very sweet sherry. He comes.
+
+He sits bolt upright in the armchair by the window with his lamp on his knee and a tiny glass in his hand, and watches the fireworks on the telly and the street outside by turns, and at a quarter past twelve, while Nana is telling him about your grandad's allotment, he falls asleep sitting up. She puts a blanket over him and takes the glass out of his hand. "Poor lamb," she says, to you, very low. "Leave him. Somebody's got to be on duty for him, for once."
+
+Dev comes round on New Year's Day with a hangover and a box of leftover chocolates and sits with Nana for two hours discussing snooker, and doesn't ask why there's a man in a long coat standing under the viaduct, and doesn't ask why your nan keeps humming the same four bars under her breath.
 
 Nana won't sleep with the light off now. She doesn't say why. She just leaves the landing light on, and you leave it on too.
 
@@ -320,7 +406,7 @@ Forty people. Six Lamplighters, who take turns eating, with their greatcoats on.
 
 @idris:neutral Idris, because he doesn't have anyone to go home to. He says it quite simply, as a fact, passing the potatoes. "My parents are both dead. I spent last Christmas here too. It's quieter than it sounds." He looks round the table at the forty of you in your paper hats, at Saoirse's hat smoking, at a Lamplighter trying to eat a mince pie without taking off his gauntlets. "This is the loudest one I've been to," he says, and something at the corner of his mouth might be a smile. "I don't mind it."
 
-@noor:tired Noor, because the Infirmary's still got three hum-sick first-years in it, and she won't leave them, and Matron's given up arguing. She comes to dinner for exactly forty minutes, in her uniform, with her watch pinned to her front, and eats a whole plate of turkey without stopping, and tells you, between mouthfuls, that one of the first-years has started to laugh again, which is the best sign there is. Then she falls asleep at the table with a sprout on her fork.
+@noor:tired Noor, because the Infirmary's still got three hum-sick first-years in it, and she won't leave them, and Matron's given up arguing. She comes to dinner for exactly forty minutes, in her uniform, with her watch pinned to her front, and eats a whole plate of turkey without stopping, and says, between mouthfuls, "One of mine laughed today. The Larkspire boy. Toby's hare got into the ward and sat on his feet, and he laughed." She stabs a potato. "That's the best sign there is. Better than anything on a chart." Then she falls asleep at the table with a sprout on her fork.
 
 @noor:tired Nobody wakes her. Saoirse very gently takes the fork out of her hand. Somebody puts a paper hat on her head, and she sleeps in it, upright, until a quarter to nine, when she wakes with a start and says "I'm not asleep," and goes back to the Infirmary, still wearing it.
 *if b_cas_family
@@ -401,7 +487,19 @@ You're at the boathouse in four minutes, with your coat on over your pyjamas and
 
       @saoirse:hurt "You waited," she says. Her voice cracks. "You just... waited. You didn't come after me. You didn't shout. You just sat there in the freezing cold and waited." She gets off the bike and comes up the jetty steps and stands in front of you, shaking. "Nobody's ever done that. Nobody's ever been the one standing still when I went. I always made sure I was the one going." She sits down beside you in the snow, hard, and puts her head on your shoulder. "It's my mam," she says. "She wants to meet me. I'll tell you. Give me a minute. I'll tell you everything."
 
-      She does. It takes till one in the morning, on the end of the jetty, with the stars going round overhead and your feet long past feeling. When she's finished, she says, "Your lips have gone blue," and drags you up to the kitchens by the sleeve, and makes you cocoa on the big range, and watches you drink every drop.
+      @saoirse:sad She doesn't tell you everything. Nobody could. But after a while, looking out at the ice, she starts.
+
+      @saoirse:sad "She had nice hands," she says. "That's what I remember. She used to do my hair for school. Two plaits, really tight, so it pulled." She touches the side of her head, where the bootlace is holding her curls up. "The Tuesday she went, she did them tighter than usual. I thought I'd done something wrong."
+
+      You don't say anything. The ice booms, a long way out.
+
+      @saoirse:hurt "Dad never said a bad word about her. Not once. Twenty-one years. He just kept her side of the wardrobe empty for about ten of them, in case." She laughs, not really a laugh. "He's lovely. I'm going to have to tell him. He'll be lovely about it. That's the worst bit."
+
+      "What does the letter say?"
+
+      @saoirse:hurt She takes it out of her pocket. It's been folded so many times the creases have gone soft. She doesn't open it; she doesn't need to. "[i]I saw your name. I'm sorry. I'd like to see you, if you'll let me. I'll understand if not.[/i]" She puts it away. "Four lines. Twenty-one years and she's sent me four lines." A pause. "And I read it about a hundred times today. Up in the Rookery. Trying to find the fifth line. The one where she says why."
+
+      It's one in the morning before she stops talking, and the stars have gone a long way round overhead, and your feet are long past feeling. When she's finished, she says, "Your lips have gone blue," and drags you up to the kitchens by the sleeve, and makes you cocoa on the big range, and watches you drink every drop.
 *else
   But she's already gone. The headlamp's a spark on the far shore, and then it's gone over the rise towards Thimble Cross, and there's nothing on the black ice but a thin bright track in the frost.
 

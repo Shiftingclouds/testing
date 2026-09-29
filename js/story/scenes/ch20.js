@@ -22,11 +22,25 @@ Lessons have gone on, because the Headmistress says they must. Professor Bassani
 
 On the second Saturday, after supper, Imogen spreads the Wren's Song out across the long table in the Long Stacks, all five voices, under the green lamps, with the rain starting again on the high windows, and says, "Right."
 
-She's copied it out five times, once for each voice, on five long sheets of paper, in her precise pencil hand, with Hester's little drawings at the top of each. The wren. The lark. The owl. The heron. The rook. Idris has annotated them in the margins, in his cramped tiny writing: what the old Wordcraft words mean, where the breaths go, which notes Hester crossed out and wrote again. In one margin, beside a bar where the heron's line goes down very low, he's written [i]is this possible?[/i] and underneath, in Imogen's hand, [i]find out[/i].
+There are five long sheets of paper, in her precise pencil hand, with one of Hester's little birds copied at the top of each. The wren. The lark. The owl. The heron. The rook.
 
-@imogen:grave "Five voices," says Imogen. "The wren's line leads. That's the one Odile sang, and Toby.{@ch13_way = "home"| And your nan, in her kitchen, you said.|}" She looks at you. "That's yours. It has to be. Whoever leads it has to be able to hear flames, Hester says, so they know when to push and when to hold."
+Only the first is full. The wren's line runs across it in square old notes, copied from the last page of Hester's journal, with Idris's cramped annotations crowding the margins: what the old Wordcraft words mean, where the breaths go, which notes Hester crossed out and wrote again. The other four are mostly empty staves, ruled carefully, the way Hester left them. Mostly. Here and there on them, in pencil, there are scraps: three notes on the lark's, then a gap, then five more. Most of a line on the owl's. Two bars on the heron's, going down so low that beside them Idris has written [i]is this possible?[/i] and underneath, in Imogen's hand, [i]find out[/i]. On the rook's, nothing at all but a question mark.
 
-@idris:neutral "And the other four are the houses," says Idris. "One voice each. And Hester's very clear." He puts his finger on a line of the journal, which is lying open between the sheets like a sleeping animal. "[i]Every house must sing its own, in its own roost, before it can sing it anywhere else. The voices are kept in the stones.[/i]" He looks up. "I think she means it literally. I think if you stand in the Larkspire roost and sing the lark's line, the stones sing it back. I think that's how you learn it. And I think you can only learn it if the house lets you."
+"Where did those come from?" You put your finger on the scraps of the lark's. "Hester left them blank. We saw."
+
+@imogen:shy Imogen goes faintly pink. It's so unusual that Idris looks up from the journal to watch.
+
+@imogen:shy "I've been sitting in the roosts," she says. "At night. Well. Outside them, mostly." She straightens a sheet that doesn't need straightening. "The stones hum, when it's quiet enough. Very faintly. You have to put your ear right on them. I sat outside the Larkspire door three nights running before a prefect found me, and I told her I'd lost an earring."
+
+"You haven't got pierced ears."
+
+@imogen:amused "She didn't know that." Then, back to business, tapping each sheet with her pencil: "Eleven notes of the lark's. Most of the owl's, because it's my house and they let me sit in the common room with my head against the chimney breast. Two bars of the heron's; Priya's got more than me, she says she hears it through the floor of the window seat. The rook's, nothing. The Undercroft's too loud. Saoirse says she's got it already, but Saoirse says that about everything."
+
+@idris:neutral "And I don't think it matters," says Idris. He puts his finger on a line of the journal, which is lying open between the sheets like a sleeping animal, and reads it out in his quiet exact voice: "[i]The other four are kept in the four roosts, one to a house, and every house must sing its own.[/i]" He looks up. "[i]Kept.[/i] Not written. Kept. I don't think the stones were ever going to give it to one girl with her ear to a wall at two in the morning, however clever she is."
+
+@imogen:tense "Thank you," says Imogen, "I think."
+
+@idris:neutral "I think you stand in the roost," says Idris, "and sing what you've got, and the house sings it with you, and then the stones sing it back. All of it. That's how you learn it. And I think you can only learn it if the house lets you."
 
 "How does a house let you?"
 
@@ -34,9 +48,21 @@ She's copied it out five times, once for each voice, on five long sheets of pape
 
 @imogen:tense "Which means," says Imogen, "we need people. From all four houses. As many as we can get. Not ten. Not twenty. As many as will come." She sits back. "And we've got ten weeks till Midsummer, and half the school thinks we're mad, and the other half is too frightened to sing in the bath."
 
-@imogen:neutral She's already made a list, of course. She slides it across to you. [i]Mon: Larkspire. Tues: Owlcombe. Weds: Heronmere. Thurs: Rookhallow.[/i] Underneath, heavily underlined: [i]Sat 24th: everyone. Old Cloisters. 11 p.m.[/i] "Four nights," she says. "One house a night. You go in, you ask, you sing. Then two weeks to practise, and then all of us, together, where Hester first sang it."
+"And the wren's line?" You look at the full sheet, the only one. "Who sings that?"
 
-You look at the five sheets of paper on the table. At the little drawn birds.
+@imogen:grave Imogen and Idris look at each other across the table. It's a short look. They've obviously had this conversation already, without you.
+
+@imogen:grave "The wren's line leads," says Imogen. "That's the one Odile sang, and Toby.{@ch13_way = "home"| And your nan, in her kitchen, you said.|}" She turns the sheet round, so it faces you. "Hester says whoever leads it has to be able to hear the flames. So they know when to push and when to hold. So they can hear where a voice is going thin, and go and stand by it." She doesn't look away. "There's one person in this castle who can do that."
+
+You look down at the square old notes. Up, and round, and back down.
+
+"Me."
+
+@idris:warm "You," says Idris, gently. "Sorry."
+
+@imogen:neutral Imogen has already made a list, of course. She slides it across to you. [i]Mon: Larkspire. Tues: Owlcombe. Weds: Heronmere. Thurs: Rookhallow.[/i] Underneath, heavily underlined: [i]Sat 24th: everyone. Old Cloisters. 11 p.m.[/i] "Four nights," she says. "One house a night. You go in, you ask, you sing. Then two weeks to practise, and then all of us, together, where Hester first sang it."
+
+You look at the five sheets of paper on the table. At the little drawn birds, and all the white space under four of them, waiting.
 
 [i]The Choir has one note and many throats. We must have many notes and one heart.[/i]
 *if (st_imogen >= 3) and (hurt_imogen < 2)
@@ -53,7 +79,7 @@ You walk back through the dark Stacks afterwards with the wren's sheet folded in
 *date 2027-04-12 20:00
 *place P14 larkspire
 *present marcus flick familiar
-Monday is blue and blowing, with clouds going over the Mere so fast their shadows race each other across the water. You spend the day not quite listening in lessons, with the lark's sheet folded in your pocket, taking it out between bells to look at it. The lark's line is high and quick and bright. It goes up where the others go down. It sounds, when you hum it under your breath on the stairs, like somebody laughing on a hill.
+Monday is blue and blowing, with clouds going over the Mere so fast their shadows race each other across the water. You spend the day not quite listening in lessons, with the lark's sheet folded in your pocket, taking it out between bells to look at it. The lark's line, what there is of it, is high and quick and bright. It goes up where the others go down. Imogen's eleven notes sound, when you hum them under your breath on the stairs, like somebody laughing on a hill and then stopping to listen.
 
 At eight o'clock you climb Larkspire Tower.
 
@@ -128,9 +154,23 @@ Every pretence of reading stops.
     #Tell them what Hester wrote. Exactly. Owlcombes like a primary source.
       *set singers +3
       *set wit +5
-      You read it to them, from the journal, in the starlight: Tom Brack the smith, and Old Nell from the ferry who sang the fish up, and the Choir at Martinmas, and [i]we sang them off; lost two panes of glass[/i]. And [i]many notes and one heart[/i]. You read it slowly. Owlcombes listen the way other people eat: with their whole attention, not wasting a crumb.
+      You take Hester's journal out of your satchel. Somebody on a ladder draws in a breath at the sight of it: the cracked brown leather, the wren in faded gold. You open it where the ribbon is, and hold it up to the starlight, and read.
 
-      When you finish, the room's silent. Then a woman on the top of a ladder says, "Four hundred years ago, and nobody's checked if it works?", in a voice of deep professional outrage, and comes down the ladder.
+      "[i]Tom Brack, a smith, forty, set his forge alight with a look. He weeps at night. I have told him he may stay.[/i]"
+
+      Nobody moves. You turn a page.
+
+      "[i]Old Nell from the ferry, sixty-one, sings the fish up.[/i]"
+
+      A snort, from a reading nook. Someone else says [i]shh[/i]. You go on, and your voice steadies as you do, because it's easier to read somebody else's words than to find your own.
+
+      "[i]The Choir came for her at Martinmas. We sang them off. Lost two panes of glass.[/i]"
+
+      "Sang them off," somebody repeats, very quietly, from the long table. "Sang them [i]off[/i]."
+
+      You find the last page. The empty staves, the little drawn birds. You read that too, slowly, all of it, to the end. "[i]The Choir has one note and many throats; we must have many notes and one heart.[/i]"
+
+      Owlcombes listen the way other people eat: with their whole attention, not wasting a crumb. When you close the book the room's silent. Then a woman at the top of a ladder says, "Four hundred years ago, and nobody's [i]checked[/i] if it works?", in a voice of deep professional outrage, and comes down the ladder.
 
       Somebody else wants to see the journal. Somebody wants to compare Imogen's copy against the original. Somebody has questions about the Wordcraft in the second bar, and somebody else has answers, and they're wrong, and there's an argument. By one in the morning you've got twenty-five Owlcombes under the stars, arguing about breath marks, singing the owl's line, and the shelves are singing it back, low and slow, from every book in the house.
   *if heart >= 60
@@ -261,7 +301,11 @@ On the third Sunday in April, you go to St Ide's with Mr Tully again.
 
 He asked on Friday, at the bottom of the east stair, with his cap in his hands, as if he were asking a favour he had no right to. You said yes before he'd finished. So at one o'clock you take the boat across the Mere together, him in the stern with a bunch of daffodils wrapped in newspaper across his knees, and catch the Lantern Train at the Halt, and sit opposite each other all the way to Kingsmere with the fields going by, green now, full of lambs and rain.
 
-He's been different since March. Quieter. He does his round every night, and lights every lantern, and when Morrow's letters come to the stove drawer, he brings them straight to {@tully_fate = "exposed"|the Commander|}{@tully_fate = "kestrel"|the Headmistress|}{@(tully_fate = "st_ides") or (tully_fate = "silent")|you|} without opening them. He's got thinner. He sits in the Lantern Hall at meals and doesn't eat, and looks at the dark patches in the roof where the lanterns went out on the night of the Quiet and still won't light. On the train he talks about the weather, and the ducks on the Mere, and a new kind of wick he's trying. He doesn't talk about the song. He must know. The whole castle knows. He doesn't ask.
+He's been different since March. Quieter. He does his round every night, and lights every lantern, and when Morrow's letters come to the stove drawer, he brings them straight to {@tully_fate = "exposed"|the Commander|}{@tully_fate = "kestrel"|the Headmistress|}{@(tully_fate = "st_ides") or (tully_fate = "silent")|you|} without opening them. He's got thinner. He sits in the Lantern Hall at meals and doesn't eat, and looks up at the dark patches in the roof where the lanterns went out on the night of the Quiet and still won't light.
+
+@tully:neutral On the train he talks about the weather. "Wet April," he says, watching the fields go by. "Good for the Glasshouses. Rhys'll be pleased." A mile later: "Eleven ducklings on the Mere. Did you see? Eleven, and the mother's lost two to the pike already, and she doesn't seem to mind; she just keeps counting the rest." A mile after that, he takes something out of his coat pocket and shows it to you on his palm: a wick, plaited, white, very fine. "Trying a new sort," he says. "Linen and cotton. Burns cleaner. I've done the whole of the north corridor with it." He looks at it. "They never used to go grey, the old ones. Not on their own."
+
+He puts it away. He doesn't talk about the song. He must know about it; the whole castle knows, and hums it on the stairs as he goes past with his taper. He doesn't ask. Once, near Kingsmere, you catch him looking at you, and he looks away quickly at the window, as if he's been caught at something, and says, "Rain's coming on again," although it isn't.
 
 St Ide's is just the same. The long red front, the crocuses gone over now along the railings and tulips coming up instead, the long pale corridors, the radio somewhere playing to nobody. The fourth ward, the end bed.
 
@@ -291,7 +335,9 @@ The spark is still there. Grey, cold, tiny, the last coal in the grate. You know
 
       @maisie:tired She puts her hand on his head, on his thin white hair, not like a stranger's dog this time. She strokes it. She looks at you over the top of him, wide-eyed, lost, six years gone out from under her. "Who are you?" she whispers. "What's happened? Where's my lantern?"
 
-      You don't know where to start. You tell her your name. It seems like the right place.
+      You don't know where to start. Six years. A lantern. A father with white hair. You open your mouth and all of it is there at once, and none of it will come.
+
+      "I'm {name}," you say, in the end. It seems like the right place. "You're safe. You're at St Ide's, in Kingsmere. Your dad's been coming every Sunday." Your voice nearly goes. "He's been telling you about the ducks."
   *if (kindling < 45) or (chill >= 3)
     #Try. You have to try.
       *set chill +1
@@ -331,7 +377,15 @@ The week before the rehearsal, Wrenfold practises.
 
 It practises everywhere. Imogen has drawn up a rota, of course, and pinned it to every house noticeboard in the castle, and nobody follows it, and it doesn't matter. The Larkspires sing on their balcony at dawn, when the tower gets the sun, and wake half the east side. The Owlcombes sing in the Long Stacks after ten, and Miss Dunne, who has shushed people in the Long Stacks for sixty years, sits at her desk with her eyes closed and doesn't shush anybody. The Heronmeres sing at the bottom of the lake, and the ducks on the Mere swim round and round above the cloister windows as if they're trying to find where the sound is coming from. The Rookhallows sing in the Undercroft, in four parts, and argue.
 
-You go from house to house every night, leading the wren's line, listening. You're learning to hear it: not the notes, the flames. When a house sings, the flames in it lean together, all the colours of it, and you can feel where they're strong and where they're thin, and where somebody's voice is wavering and needs somebody next to them. By Thursday you can do it with your eyes shut. By Friday you can do it across a room. On Friday night you dream the song, all five voices, going round the chimney in five directions, and wake up with your throat sore and {fam_name} staring at you as if you've been singing in your sleep. You probably have.
+You go from house to house every night, leading the wren's line, listening. Not to the notes. To the flames.
+
+It comes to you properly on the Wednesday, at the bottom of the lake. Thirty Heronmeres are singing the heron's line in the green light, and you're singing the wren's over the top of it, with your eyes shut, because it's easier to hear that way. And you can feel them: thirty flames, sea-green and pearl and gold, leaning together as they sing, the way candles lean when a door opens. Most of them are steady. One isn't. Somewhere on your left, low down, near the lake door, one small flame is flickering badly, going thin on every long note, as if it's being blown on.
+
+You open your eyes. A first-year, a girl with a plait and a cardigan over her pyjamas, is sitting on the floor by the lake door with her knees pulled up, singing in a whisper, looking at the new iron bars. She was in the huddle by the fireplace in March, behind Toby. You'd know her anywhere.
+
+You don't stop singing. You go across the cloister, still singing, and sit down on the flagstones next to her, close, with your shoulder against hers. She glances at you. You nod at her to keep going. She does. And under your shoulder you feel her flame steady, and lift, and lean in with the others, and her whisper turns into a voice.
+
+After that you can do it every night, and by Friday you can do it across a room without opening your eyes. On Friday night you dream the song, all five voices, going round and round the chimney in five directions, and wake up with your throat sore and {fam_name} staring at you as if you've been singing in your sleep. You probably have.
 
 The first full rehearsal is on the last Saturday in April, at eleven at night, in the Old Cloisters, because Hester says the song should first be sung where she first sang it.
 
@@ -363,11 +417,33 @@ When it ends, nobody moves. The last note goes on ringing in the pillars for a l
 
 @tully:tense "Came tonight," he says. "In the drawer. Same as always." He holds it out. His hand's shaking. "I haven't opened it. I never do, now."
 
-You open it.
+You take it. The envelope is thin and grey and faintly damp, and it smells, when you bring it close, of marsh. On the back, the little grey wick. Behind you, the last of the candles are going up the stair, and the voices with them, still humming bits of the song, and the Old Cloisters are getting darker by the minute.
 
-[i]Absalom. Midsummer Eve. The Proving. When every lantern in the Hall is lit and every student is sitting beneath them and the Heartfire is burning at its brightest to feed them all. Leave the boathouse ward open at eleven. Then take the Kindler down to the root. Tell them I only want to talk. Tell them Maisie will wake by morning. A.M.[/i]
+@kestrel:grave The Headmistress has come down from the back of the room. She stops beside you and doesn't say anything, and doesn't take it from you. She just waits.
+
+You open it. There are only a few lines. You read the first one aloud without meaning to, the way you'd read out a label in a strange shop.
+
+"[i]Absalom. Midsummer Eve. The Proving.[/i]"
+
+@tully:tense Mr Tully shuts his eyes.
+
+"[i]When every lantern in the Hall is lit and every student is sitting beneath them and the Heartfire is burning at its brightest to feed them all.[/i]"
+
+@kestrel:grave "Go on," says the Headmistress quietly.
+
+"[i]Leave the boathouse ward open at eleven.[/i]" Your voice has gone thin. You clear your throat. "[i]Then take the Kindler down to the root.[/i]"
+
+You stop. You didn't mean to stop. The word sits there on the paper, meaning you. You think of the door in the Old Cloisters with the wren carved on it, warm as a hand, and the thing behind it that turned over in its sleep tonight when you sang.
+
+@tully:sad "He means the Heartfire," says Mr Tully, very low. "Down past the wren door. I've lit my taper at that door every night for forty years, off what comes through the cracks of it." He's turning his cap round and round. "I've never been past it. Not once."
+
+There are two more lines. You make yourself read them.
+
+"[i]Tell them I only want to talk. Tell them Maisie will wake by morning. A.M.[/i]"
 *clue e16
-@kestrel:grave The Headmistress reads it over your shoulder. She's quiet for a while. "Midsummer," she says. "Of course. Every lantern lit, and the whole school in one room." She folds the letter up and gives it back. "Eight weeks," she says. "Keep singing."
+@kestrel:grave The Headmistress holds out her hand then, and you give her the letter, and she reads it herself, all through, twice, with her lips pressed together. When she's finished she looks up, not at you, at the pillars, where the last of the note is still faintly ringing in the carved stone.
+
+@kestrel:grave "Midsummer," she says. "Of course. Every lantern lit, and the whole school in one room." She folds the letter along its creases, precisely, and gives it back to you. "Aldric always did like an audience." Then, more gently: "That's eight weeks. Eight weeks of this." She looks round the emptying cloister, at the wax drips on the flagstones, the scuffs, a forgotten house scarf hanging off a carved wren. "Keep singing."
 *if maisie_lit
   @tully:grave Mr Tully looks at the letter in your hand. "[i]Maisie will wake by morning[/i]," he reads, and something goes across his face like a cloud across the sun. "She woke in April," he says. "She's in the Infirmary. She asks for toast." He takes his cap off, and turns it in his hands. "He doesn't know. He doesn't know he's got nothing left to give me." He looks up at you. "Whatever you want me to do at Midsummer, I'll do it."
 *journal [b]Chapter 20.[/b] The Wren's Song has five voices: the wren's to lead, which is yours, and one kept in each house's roost. You went to all four, and they came: Larkspire, Owlcombe, Heronmere, Rookhallow. {@maisie_lit|At St Ide's, you breathed on the spark in Maisie Tully, and it caught, and she looked at her father and said [i]Dad, you've got old[/i]. |}{@kit_lit|And Kit Sallow woke and asked Imogen why she was crying. |}At the first full rehearsal in the Old Cloisters, the song rang, and something under the school answered. {@singers >= 12|There was no gap anywhere.|There were gaps.} Then Morrow's newest letter to Tully: [b]Midsummer Eve[/b], at the Proving, every lantern lit. Leave the boathouse ward open at eleven; bring the Kindler to the root.
@@ -385,13 +461,31 @@ The Order's house is on the edge of Saltmarrow Fen, a mile from the drowned chap
 
 Flat. That's the first thing. After seven months of a castle on a hill above a black lake, the Fen is flat as a table in every direction, reeds and water and mud and sky, and the sky is enormous, and the wind never stops. It comes across the reeds from the sea with nothing to stop it for fifty miles, and it gets into the house through every crack, and rattles the windows all night, and hums in the chimney. The first night, you lie awake listening to it and thinking it's the Choir. The second night, too.
 
-The house is old and damp and draughty, with a slate roof and a cat, as Jory promised: a huge ginger tom with half an ear, who sleeps on the kitchen range and despises everybody equally. The drowned chapel is out on the marsh, a stone tower sunk to its windows in black water, with a bell in it that rings when the wind's from the east. Forty Lamplighters in the house and the barns and the boats, with their lamps, watching the reeds. And you, in the middle of it all, being bait.
+@jory:neutral Jory shows you round the first evening, with a lamp, because the passages are dark and the house hasn't heard of anything newer. "Kitchen," he says, holding the lamp up to a long stone room with a black range and a table scarred by a hundred years of knives. "Warmest room. Everybody ends up in here. That's the cat." The cat is a huge ginger tom with half an ear, lying on the range like a loaf. It opens one yellow eye at you and closes it again. "He hasn't got a name. Well, he's got about nine. Everybody calls him something different. I call him Sir."
+
+"Does he answer to it?"
+
+@jory:neutral "He doesn't answer to anything." Jory looks at the cat with deep respect. "He despises everybody equally. It's very restful, actually. You always know where you are with him."
+
+He takes you up to the window at the top of the stairs and points out into the dusk, across a mile of reeds going silver and grey in the last light, to a squat dark shape standing up out of the water.
+
+@jory:tense "That's the chapel," he says, and his voice goes careful. "The drowned one. Sunk to its windows. There's a bell still in the tower; you'll hear it when the wind's from the east." He lowers the lamp. "It's where they gather. Or did. We've had people watching it since November and nothing's come out of it but herons." He tries a smile. "There's forty of us, all told. In the house, and the barns, and out in the boats on the dykes. You'll hardly see most of them. That's the idea."
+
+"And me in the middle."
+
+@jory:tense "And you in the middle," he agrees, unhappily. "Being..." He doesn't finish it. He doesn't have to.
 
 Nothing comes.
 
-The days are all the same. You get up. You eat porridge in the kitchen with whichever Lamplighters are off watch, who are kind, and tired, and talk about football and their children and never about why you're here. You walk the causeway to the chapel and back with two of them at your elbows, and {fam_name} ranging ahead through the reeds. You practise what you can on your own: steadying the flame of a candle, holding it, letting it go. Jory tries to teach you a card game and loses every hand. The wind blows. The reeds bend and straighten. The bell in the drowned chapel rings, and stops, and rings.
+The days go by and are all the same, and you learn their shape. The first morning you come down to the kitchen and there are four Lamplighters at the table in their shirtsleeves with their greatcoats over the chairs, eating porridge, and they all stop talking when you come in, and then, very deliberately, start again, about football. One of them, a big grey-haired woman with a Kingsmere accent, pushes the sugar across to you without being asked and says, "My lad's in goal on Saturdays. He's eleven. He's terrible. I tell him he's marvellous." Nobody says a word about why you're there. They never do, in all the weeks you're there. You come to love them for it.
 
-Nearly four weeks. You sit in the window of the upstairs room with {fam_name}, and watch the reeds, and wait. It's spring at Wrenfold; you know it is. Here there's only the wind, and the light changing on the water, and the geese going over at dusk in long ragged lines, going somewhere. Letters come from Wrenfold, every few days, by owl, and you read them over and over until the folds wear through.
+You walk the causeway to the chapel and back every afternoon with two of them at your elbows, and {fam_name} ranging ahead through the reeds, and the bell ringing when the wind's in the east. You practise what you can on your own, at the kitchen table after supper, with a candle stub: steadying its flame, holding it, letting it go. The grey-haired woman watches you do it one night, over her tea, and says nothing, and the next night leaves a fresh candle by your place.
+
+@jory:neutral Jory teaches you a card game called Beggar-my-Neighbour, which he says is a game of pure luck, and then loses eleven hands in a row. "It's pure luck," he says, gathering the cards up for the twelfth time. "It's genuinely pure luck. There's no skill in it at all. I just haven't got any."
+
+The wind blows. The reeds bend and straighten. You sit in the window of the upstairs room with {fam_name}, and watch them, and wait. It's spring at Wrenfold; you know it is. The willows will be out by the boathouse and the ducklings on the Mere. Here there's only the wind, and the light changing on the water, and at dusk the geese going over in long ragged lines, calling, going somewhere you aren't.
+
+The letters come on Thursdays, by owl, in a bundle tied with string. You don't open them in the kitchen. You take them upstairs and sit on the bed with your back to the wall and your knees up, and open them one at a time, slowly, making them last.
 *if (st_imogen >= 3) and (hurt_imogen < 2)
   [i]Idris was right: the voices are in the roosts. All four. We're gathering people from all four houses. I wish you were here to lead it; you're the only one who can hear the flames. I. S.[/i]
 *if (st_rowan >= 3) and (hurt_rowan < 2)
@@ -406,11 +500,25 @@ Nearly four weeks. You sit in the window of the upstairs room with {fam_name}, a
   [i]Question of the day: are you all right? You can write back just "yes". I'll know if you're lying. I. P.[/i]
 [i]Keep your head down. Eat your greens. Custard says hello. Priya says hello. Nobody here's any good at the wren's line; we need you. P. M., for Toby.[/i]
 
-You write back to all of them. You tell them about the cat, and the geese, and Jory's card game. You don't tell them about the wind in the chimney.
+You read them again. Then again, until the folds start to go soft, and you could say them with your eyes shut. Then you go down to the kitchen and eat a second slice of bread and butter, standing up, because somebody at Wrenfold would want you to.
+
+That night you write back, at the kitchen table, with the cat on the range and the candle stub guttering, to all of them.
+
+[i]There's a cat here with half an ear who despises everybody. Jory calls him Sir. I've decided to call him Custard's Uncle, because he looks like he'd disapprove of Custard. Jory has lost forty-one hands of a game that he swears is pure luck. The geese go over every night at dusk. I don't know where they're going, but they seem very sure.[/i]
+
+You stop. The wind hums in the chimney, low and long, the way it has every night, and for a second, as it always does, your flame leans.
+
+[i]The wind here never stops,[/i] you write, [i]and at night it sounds like[/i]
+
+You look at that for a while. Then you cross it out, carefully, till it's just a black bar, and write underneath: [i]I'm eating. Honestly. Come and get me soon.[/i]
 
 @arkwright:grave On the seventeenth of April, Commander Arkwright comes up to your room with a thin grey envelope in her hand, forwarded from Wrenfold by the Headmistress. "From the stove drawer," she says. "Tully's." She gives it to you, and stands at the window with her back to you while you read it.
 
 [i]Absalom. The Kindler has gone to the Fen with Sabine's people, to draw me out. How sweet. I shall not go. I shall come to Wrenfold at Midsummer Eve, at the Proving, when every lantern is lit and the Heartfire burns brightest. If I cannot have the Kindler to carry it, I shall take it without. Leave the boathouse ward open at eleven. A.M.[/i]
+
+You read it twice. The second time, you hear it: not in Mr Tully's soft voice, the way you've heard the others, but in a voice you've never heard at all, light and amused and very patient. [i]How sweet.[/i] Four weeks in the reeds, forty Lamplighters lying in wet ditches with their lamps shuttered, Jory losing at cards, the bell ringing every east wind. [i]How sweet.[/i]
+
+The paper's shaking. It's your hand. You put the letter down on the bed so you don't have to watch it.
 *clue e16
 @arkwright:grave "He was never going to follow you," says the Commander, to the window, very quietly. "Imelda said so. I didn't listen." She turns round. Her scarred face is grey. "[i]If I cannot have the Kindler to carry it, I shall take it without.[/i] He'll break it. He'll try to take it with his bare hands, and he'll break it, and every lantern in that school will go out." She puts on her hat. "I'm taking my people back to Wrenfold for Midsummer. All forty. You're staying here."
 

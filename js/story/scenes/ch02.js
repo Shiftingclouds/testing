@@ -176,7 +176,21 @@ Not through the glass. Through the window, as if the window were a curtain. The 
 
     You spend the next ten minutes trying to rub the thumbprint off with your sleeve, and failing, and deciding in the end that you rather like it there.
 
-@fitch:neutral Mr Fitch, when he's recovered, hands every one of you a leather purse on a drawstring. It's heavier than it looks, and it clinks. "The Hester Grant," he says. "Twelve crowns, gold, to see you equipped. The list's inside. Wand from Pellow's, robes from Hask's, familiar from the Menagerie, and don't let Tick sell you anything with more than four legs, and there's your pastry, and you're to be at Platform Nought under Kingsmere Central by half past five this evening, which is dusk, not a minute later. Rooms at the Lamp and Ladle if you want to sleep. Most people don't. Next!"
+@fitch:neutral Mr Fitch, when he's recovered, hands every one of you a leather purse on a drawstring. It's heavier than it looks, and it clinks. "The Hester Grant," he says, as if that explained anything. "Next."
+
+You don't move. You weigh the purse in your hand. "What's in it?"
+
+@fitch:neutral He looks at you over the pince-nez with the expression of a man who has been asked this forty-two times since midnight and has decided, on balance, to be kind about it the forty-third. "Twelve crowns. Gold. Which is enough, if you don't let Tick sell you anything with more than four legs." He taps the purse with his quill. "There's a list inside. Read the list. Do what the list says. Nobody ever reads the list."
+
+@imogen:amused "I've read the list," says Imogen, from behind you.
+
+@fitch:neutral "Of course you have." He's already stamping the next form. "Pastry." A paper bag slides across the counter at you. "Platform Nought, Kingsmere Central, half past five this evening."
+
+"Platform [i]Nought[/i]?"
+
+@fitch:neutral "Dusk," says Mr Fitch, as if that were an answer. "Not a minute after. The train doesn't wait, and I'm not coming to find you." Then, not quite looking up, in a slightly different voice: "Rooms at the Lamp and Ladle if you want to sleep. Most people don't, the first night. Most people wish they had. Next!"
+
+You open the purse on the doorstep, under a rose-coloured lamp. Twelve coins, thick and warm and stamped with the same small, cross wren as the seal on your letter. A folded list, in the same neat hand as the letter: [i]One wand (Pellow & Daughters). Robes, three sets (Hask & Needle). One familiar (the Menagerie; they will explain). One cauldron, pewter, lidded.[/i] And at the bottom, underlined twice: [i]Eat something.[/i]
 
 The pastry turns out to be a paper bag containing one warm, flaky, perfect thing shaped like a wren, glazed with honey, which you eat on the doorstep in four bites. Toby holds his up to the lamplight, turns it round, sniffs it, takes a bite, and closes his eyes.
 
@@ -430,7 +444,15 @@ Then one of them comes.
 
 It's the oddest feeling. Not like owning something. More like being introduced to someone at a party and knowing, straight away, that you'll still be friends in twenty years. You can feel {fam_name} there, now, at the edge of yourself: warm, curious, a little sleepy, entirely unafraid.
 
-@tick:neutral "That'll be two crowns," says Mr Tick. "And that's your familiar for life. They'll find you anywhere. They'll tell you when something's wrong before you know it yourself. And they'll steady that flame of yours when it gets away from you, which it will." He scratches his beard. "Feed it what it likes, not what you think it should like. And don't let it in the kitchens. Mrs Pettigrew has a goat."
+@tick:neutral "That'll be two crowns," says Mr Tick. "And that's your familiar for life."
+
+"For life?" You look down at {fam_name}, who looks back at you with an expression of mild impatience, as if you're being slow about something obvious. "Whose life?"
+
+@tick:neutral "Yours, if you're lucky. They're long-lived, the ones that pick." He counts your coins into a jar without looking at them. "They'll find you anywhere. Put you on a boat to Norway and it'll be waiting on the quay." He screws the lid on the jar, and his voice goes a bit quieter. "And they'll know when something's wrong before you do. You'll feel it. Mind you listen."
+
+"Wrong how?"
+
+@tick:neutral Mr Tick looks at you for a second, over the jar, as if he's deciding something. Then he smiles, and scratches his beard, and the moment passes. "You've got a flame in you that's only just caught," he says. "It'll get away from you, now and then. They're good at that. Steadying." He pats {fam_name}, which {fam_name} permits. "Feed it what it likes, not what you think it should like. And don't let it in the kitchens. Mrs Pettigrew has a goat."
 
 He sees you to the steps, and stands at the top of them with his thumbs in his waistcoat, beaming after you like a man who's just married off a daughter.
 *page_break
@@ -542,9 +564,33 @@ The Lamp & Ladle is the kind of place that has been open all night for three hun
 
 It's leek and potato, thick enough to stand a spoon in, with a hunk of bread on the side still hot from somewhere, and butter that's been left out by the fire so it goes into the bread like a sigh. You hadn't known how cold you were until the first mouthful. You hadn't known how frightened you were until your hands stopped shaking round the bowl.
 
-You didn't arrange to meet Imogen and Saoirse. They're just there, in the corner by the fire, as if the Row had put you all in the same pocket: Imogen with her handbook propped against the bread basket and Saoirse with her boots on the table and a plate of chips. When Toby tells them about the alley, all in one breath, Saoirse takes her boots off the table. Imogen goes pale and turns, without looking, to a page near the back.
+You didn't arrange to meet Imogen and Saoirse. They're just there, in the corner by the fire, as if the Row had put you all in the same pocket: Imogen with her handbook propped against the bread basket and Saoirse with her boots on the table and a plate of chips.
 
-@imogen:tense "Appendix F," she says. "Hazards. Page nine hundred and twelve." She reads it out in a low, flat voice, like evidence. "[i]The Grey Choir is a proscribed association of practitioners of the Quiet Art: the extinguishing of another's flame by sustained vocal resonance. Its members are to be avoided and reported to the Order of the Lamp. Students in their Burning Year are at particular risk, as a late flame, being unset, may be taken entire. Keep your flame close.[/i]" She closes the book. "That's it. That's all it says. Half a page, in a fourteen-hundred-page book, and it's the only bit that isn't about uniform."
+@saoirse:amused "Look what the cat dragged in," says Saoirse. "Three cats. Sit down, you look like you've seen a ghost."
+
+@toby:scared "We [i]have[/i]," says Toby, before he's even sat down. "Well. Not a ghost. Three. In an alley. In hoods. They were humming, and all the lamps went out, well, not out, they leaned, they all leaned away, all down the street, like, like..." He makes a gesture with both hands, a sort of flattening. "And it [i]pulled[/i]. In here." He puts his fist on his chest. "And then a man came with a lamp on a stick and shouted [i]buskers[/i] at them and they just went. They fell down. Their robes fell down. There wasn't anybody in them."
+
+@saoirse:tense Saoirse takes her boots off the table.
+
+@imogen:attentive "Hoods," says Imogen. "What colour?"
+
+"Grey," you say.
+
+@imogen:tense She doesn't say anything else. She goes a little pale, and turns, without looking, to a page near the back of the handbook, the way you'd reach for a light switch in your own house in the dark.
+
+@imogen:tense "Appendix F," she says. "Hazards. Page nine hundred and twelve." She reads it in a low, flat voice, like evidence. "[i]The Grey Choir is a proscribed association of practitioners of the Quiet Art.[/i]"
+
+@saoirse:neutral "The quiet what?"
+
+@imogen:neutral "It doesn't say. It just gives it capital letters." Imogen's finger moves down the page. "[i]The extinguishing of another's flame by sustained vocal resonance.[/i]"
+
+"Humming," you say. "That means humming."
+
+@imogen:tense "Yes." She doesn't look up. "[i]Its members are to be avoided and reported to the Order of the Lamp.[/i]" Her finger stops. She reads the next line to herself first, and you watch her lips tighten before she reads it aloud. "[i]Students in their Burning Year are at particular risk, as a late flame, being unset, may be taken entire.[/i]" A pause. "[i]Keep your flame close.[/i]"
+
+She closes the book.
+
+@imogen:neutral "That's it," she says. "That's all it says. Half a page, in a fourteen-hundred-page book. There are eleven pages on the correct way to fold a robe."
 
 Nobody says anything for a while. The fire crackles. A cat on the next table rolls over in its sleep.
 
@@ -568,16 +614,32 @@ There's a lot you could say. There's one person, you think, who needs someone to
 
     @rowan:warm "You didn't run either," he adds, after a moment. "I noticed."
 
-    You sit with him while he finishes his soup. He eats like someone who's learned to eat fast between shouts, and then catches himself doing it, and slows down. After a bit he tells you about his mum, who'll be up by now, and his four sisters, who'll all have heard by lunchtime that he's gone off to [i]some college[/i], and who'll be ringing each other about it all day.
+    You sit with him while he finishes his soup. He eats like someone who's learned to eat fast between shouts, and then catches himself doing it, and slows down. Out of the window, the Row is going grey and pink with morning. He looks at it and checks his watch, out of habit.
 
-    @rowan:amused "They'll think I've joined a cult," he says. "Our eldest will, anyway. She thinks everything's a cult. She thinks the gym's a cult." He rubs his face. "I left a note. Worst note anyone's ever written. [i]Gone to a school for a year, will explain, don't worry, love R.[/i]" He shakes his head. "Mum'll kill me."
+    @rowan:neutral "Mum'll be up," he says. "She's up at six. Kettle on, radio on, feeds the cat, rings our eldest to see if she's up. Every day." He turns his spoon over. "She'll have found the note by now."
+
+    "What did you tell her?"
+
+    @rowan:amused "Nothing, really. That's the trouble." He rubs his jaw. "And by lunchtime all four of my sisters will know I've gone off to [i]some college[/i], because that's how it works in our house. One knows, they all know. They'll be on the phone to each other all day. [i]Has he rung you? He's not rung me. Did he say which college? What does he want with a college, he's twenty-six.[/i]" He does four slightly different voices, very fast, and you laugh, and he looks pleased, and a bit sad.
+
+    "Are they older or younger?"
+
+    @rowan:amused "Older. All four. I'm the baby." He says it as if it's a life sentence. "They'll think I've joined a cult," he says. "Our eldest will, anyway. She thinks everything's a cult. She thinks the gym's a cult." He rubs his face. "I left a note. Worst note anyone's ever written. [i]Gone to a school for a year, will explain, don't worry, love R.[/i]" He shakes his head. "Mum'll kill me."
   #Ask Imogen the next question. What does the Order of the Lamp actually do?
     *set b_imogen_handbook true
     *set st_imogen 2
     *set wit +5
-    "What's the Order of the Lamp?" you ask her. "That boy said he was from it. What do they do? Where are they based? How many of them are there?"
+    "What's the Order of the Lamp?" you ask her. "That boy said he was from it."
 
-    @imogen:attentive She looks at you with sudden sharp interest, as if you've said something much cleverer than you have. "Page seven hundred and forty," she says. "Nobody else has asked. They're... everybody just asks about robes." She flips. "Founded 1703. Kingsmere. [i]The Lamplighters.[/i] Numbers not published." A pause. "I'm going to join them. When I leave. That's the plan." She says it as if she's never said it out loud to anyone.
+    @imogen:attentive She looks at you with sudden sharp interest, as if you've said something much cleverer than you have. "Page seven hundred and forty," she says. "Nobody else has asked. They all just ask about robes." She flips, fast, and runs her finger down a column. "Founded 1703."
+
+    "What do they do?"
+
+    @imogen:neutral "It says [i]keep the lamps lit[/i]." She frowns at the page as if it's been evasive in cross-examination. "Which is either poetic or literal, and in this book I can't tell which. You saw his lamp. It didn't lean."
+
+    "How many of them are there?"
+
+    @imogen:neutral "[i]Numbers not published.[/i]" She says it with a kind of relish, as if it's the best line in the book. Then she's quiet, turning the corner of the page between her finger and thumb. "I'm going to join them," she says. "When I leave. That's the plan." She says it as if she's never said it out loud to anyone.
 
     @imogen:warm "You ask good questions," she says, a little stiffly, like someone giving a reference. "Keep doing that."
 

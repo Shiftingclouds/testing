@@ -31,9 +31,15 @@ NB.scene("ch24", String.raw`
   *set house_lantern "rookhallow"
 *if (house_lantern = "heronmere") and (pts_rookhallow > pts_heronmere)
   *set house_lantern "rookhallow"
-The week after Midsummer goes by like a week after a funeral, or a wedding, or both: everybody tired, everybody kind, nobody sure what day it is.
+On the Wednesday after Midsummer, the exam results go up.
 
-People sleep. People sit on the lawns in the sun and don't talk, or talk all at once. The Lamplighters leave a few at a time, by boat, with their greatcoats over their arms in the heat. Trunks appear in the corridors, and then in the entrance hall, and then on the jetty, stacked like bricks. On the Wednesday the exam results go up on the board outside the Hall, and people crowd round it, pushing, and you find your name, and you've passed. Everything. You stand there reading it three times, and it seems to be about somebody else, somebody who sat an exam in another life, a fortnight ago. {fam_name} sleeps in a patch of sun on your bed every afternoon, and you lie beside it with your eyes shut, and don't sleep.
+They're pinned on the board outside the Lantern Hall at nine in the morning, four long sheets in Miss Dunne's copperplate, and by five past there are two hundred people in front of them, pushing, in the heat, still half asleep. Nobody has slept properly since Sunday. The Lamplighters are leaving a few at a time, by boat, with their greatcoats over their arms; trunks are stacked in the entrance hall like bricks; somebody's familiar has got into the kitchens and nobody has the energy to get it out. You stand at the back of the crowd with {fam_name} and wait for it to thin.
+
+Somebody at the front turns round and finds you and shouts your name, and points at the board, and grins.
+
+You get to the front in the end. You find your name. You've passed. Everything. You stand there and read the line three times, with people jostling past you, crying and laughing and hugging each other, and it seems to be about somebody else, somebody who sat an exam in another life, a fortnight ago, before Midsummer. You wait to feel something. What you feel, mostly, is tired.
+
+Then somebody hugs you from behind without asking, and you don't even look round to see who, and that's when you feel it.
 
 The Leaving Feast is on the last Saturday in June, and it's the last night of the year, and nobody knows how to behave.
 *if ending = "C"
@@ -91,7 +97,7 @@ The Leaving Feast is on the last Saturday in June, and it's the last night of th
   @imogen:warm Later, when the benches are pushed back, Imogen finds you with a folded sheet of paper in her hand. "The plan," she says. "For the summer. With us in it." She watches you read it. There are footnotes. The last line, underlined twice, says [i]no more plans after this one[/i]. "That's a lie," she says. "But I meant it when I wrote it."
 *if (final_shape = "together") and (final_rel = "saoirse")
   *present saoirse
-  @saoirse:warm Later, when the benches are pushed back, Saoirse drags you out onto the floor for the first dance and then, halfway through it, stops dead in the middle of everybody and just stands there, holding on to you, still, while the whole Hall goes round you both. "Practising," she says. "I'm getting good at it."
+  @saoirse:warm Later, when the benches are pushed back, Saoirse drags you out onto the floor for the first dance and then, halfway through it, stops dead among everybody and just stands there, holding on to you, still, while the whole Hall goes round you both. "Practising," she says. "I'm getting good at it."
 *if (final_shape = "together") and (final_rel = "cas")
   *present cas
   @cas:warm Later, when the benches are pushed back, Cas comes over from his own table with a letter in his hand, on thick cream paper, and gives it to you without a word. It's from his grandmother. It's addressed to you. It says she'll expect you for tea in August, and lists what you should and shouldn't wear, and at the bottom, in a different ink, as if added later: [i]He sounds happy. Thank you.[/i] Cas pretends he hasn't read it. He has. You can tell from his ears.
@@ -117,13 +123,37 @@ On the night of the Leaving Feast, you're on the Fen, sitting on the upturned bo
 
 It takes a long time. It's the last Saturday in June, and the light hangs on and on over the reeds, gold and then green, and the midges come up out of the water in clouds, and the bell in the drowned chapel is silent for once; there's no east wind tonight. Two hundred miles south, or thereabouts, four hundred people are sitting down to the last supper of the year under ten thousand lanterns. You've been thinking about it all day. You've been trying not to.
 
-You've read about Midsummer in the paper.
+You found out what happened at Midsummer on the Tuesday, from a newspaper.
 
-Not the ordinary paper. The Lamplighters' paper, the [i]Evening Lamp[/i], that comes to the house on the Fen by owl, two days late, folded small. Jory brought it up to your room on the twenty-second with a face like a man bringing bad news, and it was, and it wasn't.
+@jory:tense Jory came up the stairs two at a time and then stopped dead in your doorway, as if he'd run into glass. He had the [i]Evening Lamp[/i] in his hand, the Lamplighters' paper, folded small, still damp from the owl that brought it. He didn't give it to you. "It's all right," he said. "Mostly. It's mostly all right. Read the top first."
 
-[b]MIDSUMMER AT WRENFOLD: THE CHOIR BROKEN, THE SCHOOL STANDS.[/b] Four hundred students, all four houses, singing a song nobody had sung in four hundred years, led by the Headmistress. The Grey Choir's note broken all through the castle. Forty Lamplighters, and a trap at the boathouse that didn't work, and one that did. Aldric Morrow in the root of the rock under the school, at the Heartfire, and the Headmistress going down after him alone. At the bottom, in small print, the thing they couldn't quite say: the Heartfire cracked, and held, because Imelda Kestrel put her own flame into the crack, all of it. She's alive. She's in the Infirmary. She has no magic left. Morrow is gone, into the Fen, with a stolen flame.
+You read the top first.
 
-Into the Fen. You looked out of the window at the reeds and the water and the drowned chapel's tower, and wondered how close he went. You're still wondering. Every night since, you've gone to the window before bed and looked.
+[b]MIDSUMMER AT WRENFOLD: THE CHOIR BROKEN, THE SCHOOL STANDS.[/b]
+
+You sat down on the bed. You hadn't known you were holding your breath until it went.
+
+Underneath, in smaller type: [i]four hundred students of all four houses, in a counter-song not heard within living memory, led by the Headmistress...[/i] Led by the Headmistress. You read that line twice. It was supposed to be you, and it was her, and it held. You didn't know what to feel, so you went on reading.
+
+@jory:neutral "Page two says the boathouse didn't work," said Jory, reading upside down over your shoulder. "Forty of us and a trap, and he walked straight through it." He winced. "She'll hate that they printed that."
+
+[i]...Aldric Morrow reached the root of the rock beneath the school, where the founding flame is kept. The Headmistress went down after him alone...[/i]
+
+"Alone?"
+
+@jory:tense "Keep going," said Jory, very quietly.
+
+It was at the bottom of the column, in the smallest print on the page, as if they hadn't quite known how to say it. [i]The Heartfire was cracked, and held. Imelda Kestrel is understood to have given her own flame to close the crack. All of it. She is alive, and resting in the school Infirmary. She will not practise again.[/i]
+
+You read it three times. The words didn't change.
+
+"She's got no magic," you said.
+
+@jory:neutral "No." Jory sat down on the end of the bed. "She's alive, though. It says. Look. Alive." He pointed, as if you could argue with the print.
+
+The last line was on its own, under a little drawn lamp. [i]The man Morrow is believed to have escaped by water into Saltmarrow Fen, carrying a stolen flame. The public are asked not to approach.[/i]
+
+Into the Fen. Neither of you said anything. Jory got up, and went to the window, and stood there with his back to you looking out at the reeds and the water and the drowned chapel's tower, for a long while, with his hand on the frame. Then he went downstairs and checked the locks on every door in the house, twice. You heard him doing it. You've heard him do it every night since.
 
 @jory:neutral "She'd have done it anyway," says Jory, now, out of nowhere, swatting midges. "The Headmistress. If you'd been there. You know that? She'd have gone down first. She'd have put herself in front." He doesn't look at you. "That's what the Commander says. I asked."
 
@@ -131,7 +161,7 @@ Into the Fen. You looked out of the window at the reeds and the water and the dr
 
 It does, a bit. Not enough. You don't tell him that. You sit on the boat together while the sun finally goes, and the first star comes out over the chapel tower, and somewhere across the water a bittern booms like somebody blowing across the top of a bottle.
 
-There was a letter, too. It came with the paper. You've read it so many times the folds have gone soft.
+There was a letter, too, in the same bag as the paper, in handwriting you knew. You've read it so many times since that the folds have gone soft.
 *if (st_rowan >= 3) and (hurt_rowan < 2)
   [i]We held it. We sang and we held it. I sang the lark's line and I wasn't brave at all, I was terrified the whole time, and I did it anyway, and I thought about you the whole time. Come back in September. Please. R.[/i]
 *elseif (st_imogen >= 3) and (hurt_imogen < 2)
@@ -157,79 +187,122 @@ You take it out again now, in the last of the light, and read it once more, and 
 *comment ---- the anchor: one per ending
 *if ending = "A"
   *place P13 lantern_hall
-  A year on, you're in the Lantern Hall again, at the Leaving Feast, a second-year, sitting at the end of your house table with your back to the wall, watching somebody else's last night.
+  *present kestrel
+  A year on, you're in the Lantern Hall again, at the Leaving Feast, a second-year, sitting at the end of your house table with your back to the warm wall, watching somebody else's last night.
 
-  Last Sunday was the Proving. You watched the new first-years light their lanterns, one by one, and go up among the ten thousand, and every one of them looked up to the very top of the Hall first, to see if the white one was still there. It is. You came back in September. Most of you did. Second year is quieter, and harder, and better; you know where the stairs go now. You teach the wren's line to the first-years in the Old Cloisters on Thursday nights, and they get it wrong, and so did you. Every Midsummer from now on, the whole school will sing the Wren's Song at the Proving, all five voices. The Headmistress has made it a rule. Hester's portrait, over the Weathervane Room fire, has said three words since, all of them [i]louder[/i].
+  The Hall is loud. The lanterns are low and gold. Up at the very top, where they always are, one white one. A first-year from your own house, a woman with grey in her hair and a baker's burn on her wrist, leans across the bench to you in the middle of the pudding and asks, the way they all do sooner or later, whose it is. You tell her it's yours. She looks at you, and up at it, and back at you, and doesn't ask anything else. Last Thursday, in the Old Cloisters, you taught her the wren's line. She got it wrong. So did you, once.
 
-  Aldric Morrow is in the Order's keeping, in a quiet house in Kingsmere, an old grey man who can't take anything any more. The Commander says he sits by the window and doesn't speak. The flames he stole went home on Midsummer night, and at St Ide's that summer, they started, slowly, to wake: Delphine, and Bram, and Odile Pellow, who reopened her stall on the green at Thimble Cross at Christmas and polished your wand and hummed the whole song, all five voices, under her breath.
+  @kestrel:warm The Headmistress stops behind you on her way down the Hall, with her cup in her hand, and bends to say it in your ear. "Every Midsummer," she says. "From now on. The whole school, all five voices, at the Proving. I've made it a rule. I've never made a rule I liked so much." She straightens. "Hester's portrait has spoken three times this year, you know. The same word every time." She's smiling. "[i]Louder.[/i]"
+
+  Odile Pellow reopened her stall on the green at Thimble Cross at Christmas. You went, in the snow, and put your wand down on her counter, and she polished it without a word, and hummed while she did it: the whole song, all five voices at once somehow, under her breath. The flames Aldric Morrow stole went home on Midsummer night, and at St Ide's they've been waking all year, slowly, one by one: Delphine, and Bram, and her. Morrow himself sits by a window in a quiet house in Kingsmere, in the Order's keeping. The Commander says he doesn't speak. You think about him sometimes. Not tonight. Somebody passes you the cream, and you pass it on.
 *if ending = "B"
   *place P39 st_ides
+  *present idris
   A year on, you're at St Ide's, on a Monday, with Idris, as you are every Monday.
 
-  The ward is long and quiet and full of light. The blinds are up. They weren't, the first time you came; they'd been down for years, and the nurses had stopped noticing. You have a list. Idris keeps it, in his cramped tiny hand. Every name in every ward. Every week, the two of you sit down beside one more bed, and you take someone's cold hands, and look, and find the spark, and breathe on it. It takes you a whole day, now; you haven't much fire left, and it comes back slowly, and afterwards you sleep for twelve hours with a hot-water bottle. But one a week is fifty-two a year, and the wards at St Ide's are getting quieter, and emptier, and every Monday evening somebody walks out of the front door who came in on a stretcher.
+  The ward is long and quiet and full of evening light. The blinds are up. They weren't, the first time you came; they'd been down for years, and nobody had noticed. Idris has the list open on his knee, in his cramped tiny hand, every name in every ward, and a pencil behind his ear. Today's name has a line under it.
 
-  Aldric Morrow lives in a cottage on the edge of Thimble Cross that the Headmistress found for him. He can light a candle. That's all. He sits in his window at night with a candle burning blue, and people from the village leave him bread, and some days he walks down to St Ide's with a bag of oranges and sits by the beds of the people he took, and says their names, and asks them to forgive him, and some of them do.
+  You sit down on the edge of the bed. She's forty, perhaps. Grey, polite, blank. You take her cold hands, and close your eyes, and go down, and down, and there it is, at the bottom of her, like the last coal in a grate. You breathe on it. It takes everything you've got this week. It always does now.
+
+  @idris:attentive "Well?" says Idris, very quietly, when you open your eyes. He always asks. He always knows.
+
+  You don't answer. You don't need to. The woman in the bed is looking at her own hands, and the grey is going out of them, from the fingertips, like frost going off a window. She looks at you. She opens her mouth, and doesn't know yet what she wants to say, and starts to cry instead.
+
+  @idris:warm Idris takes the pencil from behind his ear and draws a neat line through her name. Then he puts his hand on the back of your neck, where you're coldest, and leaves it there. "Fifty-one," he says. "Home by Christmas, at this rate. All of them." He isn't writing that down. He doesn't need to.
+
+  On the way out, in the corridor, you pass an old man with a paper bag of oranges, walking slowly, stopping at every door. Aldric Morrow comes most weeks now, from the cottage at Thimble Cross that the Headmistress found for him. He sits by the beds of the people he took, and says their names, and asks them to forgive him. Some of them do. He nods to you. He's got a candle stub in his coat pocket; you can feel it, a small blue flame, his.
 *if ending = "C"
   *place P34 thimble_cross
-  A year on, you're on the green at Thimble Cross, on the night of the Leaving Feast, because the school has come back for it: one night, with trestle tables on the grass and bunting between the chestnut trees and every candle in the village lit.
+  *present tully
+  A year on, you're on the green at Thimble Cross, on the night of the Leaving Feast, because the school has come back for it: one night, with trestle tables on the grass and bunting between the trees and every candle in the village lit.
 
-  Wrenfold lives in a borrowed house on the cliffs above the sea now, a draughty old manor with too many chimneys, and every lantern in it is lit by hand, every night, by whoever's on the rota. You're on the rota on Tuesdays. It takes two hours. You go round with a brass taper like Mr Tully's, lighting them one by one, and you know every one of them, and you think of him every time. It isn't the same. It's colder. There are no wards, only people: Lamplighters on the cliff path, and students who take turns sitting up at night, and the Wren's Song, which everybody knows, and sings, at the slightest excuse.
+  There are lanterns strung along the high street, and somebody has to light them. It's you tonight. You go along the row with a long brass taper, one at a time, the way you do every Tuesday on the rota at the new house on the cliffs, and when you get to the end of the row Mr Tully is there, sitting on the churchyard wall, watching you do it.
 
-  From the green you can see it across the Mere: the old castle, dark, a big stone house on a hill. The Order walled up the root. Aldric Morrow died in their keeping in the first week of July, starving, with nothing left to take. At the end he asked to be taken back down to the root, and they let him, and he died there, sitting against the cold rock where the Heartfire had been, looking up. Nobody else died. Everybody lived. That's what you chose. You'd choose it again.
+  @tully:warm "Wrist," he says. "Less wrist. You're lighting it, not stirring it." He takes the taper off you and does the last one himself, with one small flick, and gives it back. "They're colder, the new ones. I know. You get used to it." He looks at the taper, not at you. "I never thought I'd see them all lit by hand. Every one. Four hundred people with tapers." He almost smiles. "It's a lot of lanterns."
+
+  From the green you can see it across the Mere: the old castle, dark, a big stone house on a hill. No lights. The Order walled up the root in July.
+
+  @tully:sad "He asked to go back down, at the end," says Mr Tully, looking at it. "Aldric. The first week of July. Starving. He asked the Commander, and she let him, and I went with him. I held the lamp." He's quiet. "He sat against the rock where it used to be. He looked up. That's all. He didn't take anything. There wasn't anything to take." He puts his cap back on. "Everybody else lived. You know that. Everybody."
+
+  You know that. That's what you chose. You'd choose it again. You sit on the wall beside him, and look at the dark castle, and hum, and after a while, so does he.
 *if ending = "D"
   *place P01 home_kitchen
+  *present kestrel
   A year on, you're in the kitchen at 7 Viaduct Street, with the yellow light, and the wobbly chair, and the eight-fifteen shaking the cups on their hooks.
 
-  You got your old job back. Glossop never asked. Dev knew better than to. Your kettle doesn't boil on its own any more. The candles don't lean. You remember everything: the Lantern Hall, and the Mere at Candlewake, and the Heartfire in the root of the rock, and your hands on the crack. You remember it every day. Some days that's worse than forgetting would be. Most days it isn't.
+  You got your old job back. Glossop never asked. Dev knew better than to. Your kettle doesn't boil on its own any more. The candles don't lean. You remember everything: the Lantern Hall, and the Mere at Candlewake, and your hands on the crack. Tonight is the Leaving Feast. You've had it circled on the calendar by the fridge all year, and at seven o'clock you caught yourself standing at the sink, listening, as if you might hear four hundred people cheer from however many miles away they are. You didn't. You made tea.
 
-  Tonight is the Leaving Feast. You know because you've had the date on the calendar by the fridge all year, circled, and because at seven o'clock you caught yourself standing at the sink, listening, as if you might hear four hundred people cheer from however many miles away they are. You didn't. You made tea.
+  At nine the doorbell goes.
 
-  And they come. That's the thing nobody told you would happen. On the first Saturday of every month, the doorbell goes, and there's somebody on the step: Toby, with a cake that hasn't caught fire; Nana Pearl's been teaching him scones. Or a Lamplighter with a letter. Or the Headmistress herself, once, in her long coat, on your doorstep in Wrexley, holding a white candle in a jam jar. "The Heartfire's burning bright," she said. "Every lantern. You did that." She came in, and sat on the wobbly chair, and drank your tea, and stayed till midnight.
+  They come. That's the thing nobody told you would happen. Toby, most months, with a cake that hasn't caught fire; Nana Pearl's been teaching him scones. A Lamplighter with a letter. But tonight, when you open the door, it's the Headmistress, in her long coat, on your doorstep in Wrexley, under the streetlamp, holding a white candle in a jam jar.
+
+  @kestrel:warm "I left early," she says. "Bassani's giving the speech. He'll say everything twice; they won't miss me." She holds out the jar. The candle's lit. "The Heartfire's burning bright. Every lantern. The first-years looked up at the top of the Hall tonight to see if yours was still there. It is." She looks past you, into the kitchen. "May I?"
+
+  She comes in. She sits on the wobbly chair as if she's sat on it all her life, and you put the kettle on, and wait for it, the ordinary way, and she doesn't say anything about that at all. She stays till midnight.
 *if ending = "E"
   *place P37 candlestones
   A year on, you're on the Candlestones, alone, on the night of the Leaving Feast, burning.
 
-  Down across the Mere, the castle's lit in every window, and you can feel every one of them. You left Wrenfold in July. You had to. Every flame in the castle leaned towards you, and people started to be afraid, and you couldn't stop it. You can feel everything. Every lantern in the valley. Every candle in Thimble Cross. Every flame in every person who walks past you in the street, and you could lean on any of them, and they'd bend, and you never do. Not yet. Not once. Every day you don't. That's what your life is now: every day, not.
+  Down across the Mere, the castle's lit in every window, and you can feel every one of them from here, the way you'd feel a crowd behind a door. There's a candle in the cup of the stone beside you. You didn't light it. It's leaning towards you anyway, as far as a flame can lean, and you put your hand over it, very gently, and tell it no, and it straightens, and you take your hand away. That's what your life is now. Every flame in the valley, in the village, in every person who walks past you in the street: you could lean on any of them, and they'd bend. And you don't. Not once. Every day, not.
+
+  You left Wrenfold in July. People had started to be afraid.
   *if final_shape = "together"
 
     There's one flame that has never leaned towards you. Not once, not even at the start. It's the one you go home to. You don't understand it, and you've stopped trying to, and it's the only thing that lets you sleep.
 
-  Aldric Morrow died in the Order's keeping in the autumn, an old grey man with nothing left. Before he died, he asked to see you. You didn't go. He sent a message instead, by Jory Penrose, who still comes to see you when {@final_shape = "together"|hardly anyone else will|nobody else will}. [i]Now you know,[/i] it said. [i]I'm sorry. I'm sorry you know.[/i]
+  Aldric Morrow died in the Order's keeping in the autumn. Before he died, he asked to see you. You didn't go. Jory Penrose, who still climbs this hill to find you when {@final_shape = "together"|hardly anyone else will|nobody else will}, brought the message up in his pocket instead, and stood well back while you read it. [i]Now you know,[/i] it said. [i]I'm sorry. I'm sorry you know.[/i]
 
   Hester's fire is warm in you. It's the loneliest thing in the world.
 *if ending = "F"
   *place P40 fen_chapel
   A year on, you're on the Fen, with the Lamplighters, still hunting.
 
-  You can feel him. That's why they need you. The piece of your flame he tore out burns in him like a coal, and you can feel where it is, the way you can feel the sun on the side of your face with your eyes shut: south, or east, or close, or far. Twice this year you've been close enough to see him, a tall grey figure on a causeway at dusk, turning to look back at you. Twice he's gone into the water. Jory Penrose, who's your partner now, says you'll have him by Christmas. The Commander says nothing.
+  You're sitting in the upstairs window of the Order's house on the edge of the marsh, with {fam_name} and a mug of tea gone cold, and you can feel him. That's why they need you. The piece of your flame he tore out burns in him like a coal, and you can feel where it is the way you feel the sun on the side of your face with your eyes shut. Tonight it's east, and far, and still. Twice this year you've been close enough to see him, a tall grey figure on a causeway at dusk, turning to look back at you. Twice he's gone into the water.
 
-  Tonight, somewhere a long way south, they're holding the Leaving Feast without you. You don't mind as much as you thought you would. You sit in the upstairs window of the Order's house on the edge of the Fen, with {fam_name} and a mug of tea gone cold. Out on the black water, the drowned chapel's bell rings in the east wind, and you count the strokes, and wait.
+  Downstairs, Jory Penrose, who's your partner now, is telling someone in the kitchen that you'll have him by Christmas. The Commander, at the table, says nothing. Somewhere a long way south, they're holding the Leaving Feast without you, and you find you don't mind as much as you thought you would. Out on the black water, the drowned chapel's bell rings in the east wind. The coal in the dark moves, a little, south. You put the mug down and reach for your boots.
 *if ending = "G_T"
   *place P16 heronmere
+  *present toby
   A year on, after the Leaving Feast, you're sitting on the edge of the pool in the Heronmere cloister with your feet in the cold water and the fish nosing at your toes, and Toby Quill comes out of the kitchens with the last of the cake on a tray.
 
-  He made it. He bakes in the kitchens now, at four in the morning, the way he always wanted to, and nothing he makes catches fire, and he brings you the first of everything.
+  He made it. He bakes in the kitchens now, at four in the morning, the way he always wanted to, and nothing he makes catches fire. He sits down beside you and puts his feet in the water too, and yelps, and doesn't take them out.
 
-  He doesn't remember much of the root. You don't tell him. He knows the Headmistress is gone, and Maisie Tully, and he knows you chose, and once, at the Frost Market, lying on the ice looking up at the lanterns, he said: "I'd have chosen her. The Headmistress. You know that. She'd have known what to do." And then: "I'm glad you didn't." He never said it again. The Order is still looking, under the Mere, on the Fen, for an old grey man with two lanterns on strings. Wrenfold burns low and blue on what's left of Hester's fire.
+  @toby:warm "Lemon," he says, handing you a slice. "Priya says it's too sharp. Priya's wrong." He eats his own in three bites. Then he's quiet for a while, looking at the water, at the lanterns reflected in it, burning low and blue. "I'd have chosen her, you know," he says. "The Headmistress. If it'd been me. She'd have known what to do."
+
+  You don't say anything. You've known for a year that he'd say it one day.
+
+  @toby:sad "I'm glad you didn't," he says, to the water. "I'm sorry I'm glad. But I am." He bumps your shoulder with his. He never says it again.
+
+  The Order is still looking, under the Mere, on the Fen, for an old grey man with two lanterns on strings. Wrenfold burns low and blue on what's left of Hester's fire. You sit by the water until the cake's gone.
 *if ending = "G_M"
   *place P28 tully_cottage
-  A year on, Maisie Tully lives with her father in the Lanternwarden's cottage by the boathouse, and helps him with the round, and lights the high lanterns, the ones he can't reach, with her hand.
+  *present tully
+  A year on, after the Leaving Feast, you walk down to the Lanternwarden's cottage by the boathouse for cocoa, the way you do most Saturdays, and Maisie Tully opens the door with flour on her hands.
 
-  She came back from the root with her spark relit and her memory mostly whole. She's learning. She's taking her Burning Year again, seven years late, in the first-year classes, with people half her age, and she's good. Mr Tully is so proud of her that he can't talk about it without crying. He can't talk about the rest of it at all. The Headmistress is gone, and Toby Quill, into the dark with Aldric Morrow, and every Sunday now Mr Tully goes to the edge of the Mere and stands there with his cap in his hands, the way he used to stand by Maisie's bed. You go with him, sometimes. Neither of you says anything.
+  She came back from the root with her spark relit and her memory mostly whole. She's taking her Burning Year again, seven years late, in the first-year classes, with people half her age, and she's good. She lights the high lanterns on her father's round with her hand, the ones he can't reach any more. Her exam results are framed on the wall over the stove. She put them there herself.
 
-  Tonight, after the Leaving Feast, you walk down with them to the cottage for cocoa, and Maisie shows you her exam results, which she's framed, and her father pretends to be embarrassed, and isn't.
+  @tully:warm "She framed them," says Mr Tully, behind her, pretending to be embarrassed. "I said you don't frame exam results. She said watch me." He can't finish. He takes his cap off and turns it in his hands. He can't talk about her without crying, still, and he can't talk about the rest of it at all.
+
+  The Headmistress is gone, and Toby Quill, into the dark with Aldric Morrow. Tomorrow is Sunday, and on Sundays now Mr Tully goes to the edge of the Mere and stands there with his cap in his hands, the way he used to stand by Maisie's bed. You go with him, sometimes. Neither of you says anything. Tonight, though, there's cocoa, and Maisie burns the milk, and her father laughs until he has to sit down.
 *if ending = "G_K"
   *place P25 weathervane_room
-  A year on, the Headmistress hasn't slept a whole night since Midsummer, and she has turned the whole of Wrenfold, and the Order, and everything she has, towards one thing: getting them back.
+  *present kestrel
+  A year on, after the Leaving Feast, you climb the sideways stair to the Weathervane Room, and the Headmistress is already there, as she is every night, with the maps.
 
-  Toby. Maisie Tully. Taken into the dark with Aldric Morrow. She has maps of the Fen on every wall of the Weathervane Room, and Hester's journal open on the desk, and you, most evenings, in the chair across the fire, reading. Tonight was the Leaving Feast; she made her speech, and came straight back up the sideways stair, and so did you. "You were right," she said to you once, in the autumn. "To choose me. Not because I mattered more. Because I'm the one who won't stop." Priya comes up to the Weathervane Room every Sunday with Custard the hare, and sits with you both, and doesn't ask. Hester's portrait, over the fire, watches the three of you, and says nothing.
+  They're on every wall now. Maps of the Fen, of the Mere, of the passages under the rock, pinned over the barometers, with pencilled lines and dates and question marks. Hester's journal is open on the desk. The weathervanes, all of them, point the same way: down. She made her speech tonight, and came straight back up here, and so did you.
+
+  @kestrel:grave "Sit," she says, without looking round. You sit in the chair across the fire, where you sit most evenings, and pick up the book you were reading last night. She hasn't slept a whole night since Midsummer. Toby. Maisie Tully. She has turned the whole of Wrenfold, and the Order, and everything she has, towards getting them back.
+
+  @kestrel:tired After a while she puts her pencil down. "You were right," she says. "To choose me. I've wanted to say that properly for a year." She looks at the fire. "Not because I mattered more. I didn't. Because I'm the one who won't stop."
+
+  On the mantelpiece, Hester's portrait watches the two of you, and says nothing. Tomorrow is Sunday, and Priya will come up with Custard the hare, and sit with you both, and not ask.
 *if ending = "H"
   *place P01 home_street_night
   A year on, you're back at Viaduct Street, and you don't know if you'll ever go back to Wrenfold.
 
-  They wrote. They all wrote, all summer: come back in September. The Headmistress wrote herself, in green ink, from the Infirmary, with no magic left: [i]A place is kept for you. It always will be.[/i] You didn't go. You're not sure why. Because the first time it mattered, you weren't there. Because the song was sung without you and it held, and you can't decide if that's the best thing that ever happened or the worst. The kettle still boils on its own when you look at it.
+  They wrote. They all wrote, all summer: come back in September. The Headmistress wrote herself, in green ink, from the Infirmary, with no magic left: [i]A place is kept for you. It always will be.[/i] The letter's on your mantelpiece still. You didn't go. You're not sure why. Because the first time it mattered, you weren't there. Because the song was sung without you and it held, and you can't decide if that's the best thing that ever happened or the worst.
 
-  Tonight is the Leaving Feast. You go out after dark and walk to the end of the street, under the arches of the viaduct, where the streetlamps buzz and the pavements are still warm from the day, and hum the wren's line under your breath. A train goes over. The streetlamp over your head leans towards you, very slightly, and you let it. You think about the road not taken, and whether it's still there.
+  Tonight is the Leaving Feast. You go out after dark and walk to the end of the street, under the arches of the viaduct, where the streetlamps buzz and the pavements are still warm from the day, and hum the wren's line under your breath. A train goes over, shaking the arches. The streetlamp over your head leans towards you, very slightly, the way it did before the letter came, before any of it, and this time you let it. You stand there a long while, thinking about the road not taken, and whether it's still there.
 *comment ---- supporting consequences
 *if ending != "G_M"
   *if (ending = "G_T") or (ending = "G_K")
@@ -246,7 +319,7 @@ You take it out again now, in the last of the light, and read it once more, and 
   *else
     Toby's still at St Ide's, by the window, with the hare on his knees. Priya goes every Sunday. So do you, when you can. You sit on the end of the bed and he tells you, very gently, that you've got a kind face, and one day, you tell yourself, you'll have enough fire to give him again.
 *if told_nana
-  Nana Pearl knows everything. She made you tell her all of it, in her kitchen, with the budgie listening, and she cried at Magnus Grey, and at the end she said, "Well. Your great-gran would be proud," and put the kettle on. She's learned the underneath of the Wren's Song properly now, all of it. She sings it at the washing-up. The toffee tin is still snowing in her airing cupboard.
+  Nana Pearl knows everything. "From the beginning," she said, the first night you were home, in her kitchen, and put the cover over the budgie's cage so he wouldn't interrupt, and you started with the letter under the door. She stopped you at Magnus Grey. She got up and stood at the sink with her back to you for a while. "Go on," she said, not turning round. When you got to the jetty, and the ghosts walking home across the water, she turned round at last, with her glasses off, and said, "Well. Your great-gran would be proud," and put the kettle on. She's learned the underneath of the Wren's Song properly now, all of it. She sings it at the washing-up. The toffee tin is still snowing in her airing cupboard.
 *else
   Dev still texts you at midnight. [i]u alive?? glossop asking about the overtime sheet again. I said you ate it.[/i] He's never asked where you went. He never will. At Christmas, he gave you a mug that says WORLD'S MOST MYSTERIOUS COLLEAGUE, and you laughed so hard you cried, and he watched you, and grinned, and didn't ask.
 *comment ---- the relationship, or the life you chose

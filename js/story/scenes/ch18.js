@@ -9,9 +9,25 @@ NB.scene("ch18", String.raw`
 *present idris imogen familiar
 The Order has had Idris in for questioning twice since the Quiet.
 
-Everybody knows. Everybody knows why, too: [i]I was watching the wrong man[/i]. Magnus Grey's last words, which you told the Headmistress, and she told the Commander, and somehow by Tuesday the whole school knew them. And everybody thinks they know who Professor Grey used to watch, in the corridors, at night, in the Long Stacks: the Owlcombe second-year with the satchel he won't let anybody near, who studies Kindlers and walks at two in the morning and, the rumour goes, has been carrying some stolen file about Aldric Morrow around for a year and a half.
+You didn't tell anybody but the Headmistress what Professor Grey said on the stair. It doesn't matter. By Tuesday you hear it coming back to you, on the Larkspire stair, from two third-floor landings up, in a voice that doesn't know you're below.
 
-People move away from him in corridors now. Somebody wrote something on the door of the Owlcombe Stacks and Professor Kovač had it scrubbed off before breakfast, but not before half the school had read it.
+"[i]I was watching the wrong man.[/i] That's what he said. Word for word," says a boy's voice. "My cousin's in the Order."
+
+"Your cousin's a postman," says another.
+
+"He [i]delivers[/i] to the Order. Listen. Who did Grey watch? Every night. You've seen him, in the Stacks, lurking about behind the Kindler shelves."
+
+A pause. Feet on stone. Then, lower: "Penhallow."
+
+"Penhallow. With the satchel he won't let anyone touch. Walks about at two in the morning. Reads nothing but Kindlers. And they say he's had a file on Aldric Morrow in there since last year. Stolen. Out of the Stacks."
+
+"Who says?"
+
+"Everyone says."
+
+The voices go on up the stair and round the turn and out of hearing, and you stand where you are with your hand on the cold rail, and don't follow them, because you're afraid of what you'd do if you did.
+
+People move away from Idris in corridors now. Somebody wrote something on the door of the Owlcombe Stacks and Professor Kovač had it scrubbed off before breakfast, but not before half the school had read it.
 
 It's been a strange, grey, stunned sort of week. Lessons started again on Monday, because the Headmistress said they must, and nobody learned anything. Warding has been cancelled until further notice; the door of the Warding Hall is shut, and there's a candle burning on the floor outside it that someone keeps replacing. There are still Lamplighters on the stairs. The dark patches in the roof of the Lantern Hall haven't changed. And every night at ten, Mr Tully still goes out on his round with his long brass taper and his stepladder, and the lanterns he can light come on behind him, one by one, gold, all the way up the hill.
 
@@ -59,27 +75,70 @@ The Long Stacks at nine on a Wednesday night are almost empty. The rain's back, 
   *present noor
   @noor:tired Noor comes straight from the Infirmary, still in her uniform, and sits down, and says, "I've got forty minutes. Go." She unpins the watch from her robes and puts it on the table in front of her, face up, where she can see it.
 
-You lay it out. All of it. Everything you've seen since you walked through a doorway of light in September. Imogen writes. Idris listens with his eyes half closed. The pile of paper grows, and changes shape, and the rain goes on.
-*if e01
-  The grey wick in Delphine's lantern, soaked in something that smelled of marsh.
-*if e03
-  The south ward-stone by the Glasshouses, the night Delphine was taken: unlocked from the castle side.
-*if e02
-  The humming in the lanterns. The lantern above the gallery going grey at midnight on Longnight, and Mr Tully seeing it.
-*if e08
-  The Wrenfold Map's ward lines. The ones that had been opened, all along the Lanternwarden's nightly round.
-*if e15
-  The old passage from the boathouse into the Old Cloisters, bricked up after Bram. And Bram taken anyway.
-*if e04
-  The grey oil in the Glimmer hoop. Fen oil, from Saltmarrow. The only store of it in Wrenfold in the Lanternwarden's shed.
-*if e09
-  Mr Tully at Candlewake, with Maisie's candle. [i]Somebody told me she might come back. Somebody told me there's a way.[/i]
-*if e06
-  Professor Grey's six years in the Choir. Which you know now was the opposite of what it looked like.
-*if e07
-  Bram's last argument, with Cas. Which was about a borrowed book, and nothing else.
+@imogen:tense "Right." Imogen licks her pencil, which she only does when she's frightened. "From the beginning. {name}, you first. You've been everywhere."
 
-Last of all, what Professor Grey said on the stair: [i]the boathouse ward. Opened from inside. On the round. I was watching the wrong man.[/i]
+You don't know where to start. You look at the paper, and the lamp, and Idris's hands, and then it's easier to start with the first thing than with the worst.
+*if e01
+  "Delphine's lantern. The night before they took her. The wick in it was grey." You can still smell it, if you let yourself. "Not burned grey. Grey all through. And it smelled of marsh. Like a ditch in summer."
+
+  @imogen:grave Imogen writes [i]grey wick, marsh[/i], and underlines [i]marsh[/i] twice. "Wicks," she says, not looking up. "Who changes the wicks?" Nobody answers. She doesn't seem to expect them to.
+
+*if e03
+  "The ward-stone by the Glasshouses. The south one. The night Delphine went." You swallow. "It wasn't broken. It was unlocked. From our side. The castle side."
+
+  @idris:grave Idris opens his eyes. "From our side," he repeats, very quietly, the way you'd repeat a diagnosis to be sure you'd heard it. "You didn't say that in October."
+
+  "I didn't know what it meant in October."
+
+  @idris:grave "No," he says. "None of us did."
+
+*if e02
+  "The lanterns hum." It sounds stupid out loud. You say it anyway. "They've hummed since September. I thought I was imagining it. And on Longnight, the one over the gallery went grey at midnight. Just for a second."
+
+  @imogen:tense "I remember." Imogen's pencil has stopped. "Everybody was looking at the dancing."
+
+  "Mr Tully wasn't. He was looking straight at it."
+
+  Imogen writes that down. It takes her a long time, for six words.
+
+*if e08
+  "The Wrenfold Map." You turn one of Imogen's traced sheets round, so it faces you, and put your finger on it. "The ward lines. The ones that had been opened. Here, and here, and here." Your finger goes along the corridors, up the east stair, down to the water. "They're not random."
+
+  @idris:grave Idris leans across the table and looks at where your finger has stopped. He doesn't say anything. He doesn't have to. He's walked that line himself, at two in the morning, and passed the man who walks it every night.
+
+*if e15
+  "The old passage from the boathouse into the Old Cloisters. They bricked it up after Bram." You look at Idris. "And Bram was taken anyway. So either somebody went round the bricks, or somebody didn't need to."
+
+  @idris:neutral "Or somebody had a key to the door at the other end," says Idris. "Which is a shorter list."
+
+*if e04
+  "The Glimmer Cup. The hoop." You make yourself go slowly. "There was oil on it. Grey oil. It came from the Fen. Saltmarrow. And the only place in Wrenfold that keeps any..."
+
+  @imogen:grave "Is the Lanternwarden's shed," Imogen finishes, flatly. "I checked. I asked Professor Crook in December, for a project I made up." She presses the heels of her hands against her eyes, pencils and all. "I made up a whole project, and then I didn't let myself think about the answer."
+
+*if e09
+  "Candlewake." Your voice goes funny on it, and you have to wait. "Mr Tully had Maisie's candle. On the ice. He said somebody told him she might come back. He said, [i]somebody told me there's a way[/i]."
+
+  @imogen:hurt Imogen's head comes up sharply. She knows what it is to be told there's a way. You can see it in her face: the hope, and the hate of the hope, in the same second. She writes it down without a word.
+
+*if e06
+  "And Professor Grey." It's hard to say his name in here. "His six years in the Choir. We had it backwards. All of it. He was the Order's man, the whole time."
+
+  @idris:grave "He was watching," says Idris. "All year. In the Stacks, on the stairs. Watching me." He turns his hand over on the table and looks at it. "And I thought he was one of them, and he thought I was, and the whole time we were both looking the wrong way."
+
+*if e07
+  "Bram's last argument. With Cas, in the Undercroft, the night Bram was taken." You make yourself say the rest. "The Order wrote it down as a threat."
+  *if (st_cas >= 3) and (hurt_cas < 2)
+    @cas:guarded "It was a threat," says Cas, from the end of the table, without unfolding his arms. "A stupid one. He'd been calling my grandfather a coward in front of the whole house for weeks, and I told him somebody would shut his mouth for good one day." A muscle moves in his jaw. "He was right about my grandfather, as it turns out. I didn't know that then."
+
+  @imogen:neutral Imogen crosses something out, a whole line, very firmly. "A row in the Undercroft doesn't open a ward under the Mere," she says. "It's noise. Good. I hate noise."
+
+*if (st_saoirse >= 3) and (hurt_saoirse < 2)
+  @saoirse:tense Saoirse has been pinning each thing up as it's said, a scrap of paper and a drawing pin, and running red string between them. She steps back from the bookcase now, winding the last of the string round her fingers, and doesn't say anything. Most of the string runs to the same place: an empty pin in the middle, with nothing on it yet.
+
+@imogen:grave Imogen reads back down her list. Her lips move. Then she looks up at you, and waits, and you know what she's waiting for, because it's the last thing, and the worst, and you're the only one who heard it.
+
+"On the stair," you say. "At the end. He said to tell the Headmistress it was the boathouse ward." You have to stop. The lamp hums over your head. "Opened from inside. On the round." Nobody moves. "And then he said: [i]I was watching the wrong man.[/i]"
 
 @imogen:grave Imogen puts down her pencil and looks at the table. So does everyone. Nobody wants to be the first to say it. The lamp over the table hums faintly, the way every lantern in Wrenfold has hummed since September, and for the first time you all hear it, and look up at it, and look away.
 
@@ -151,23 +210,98 @@ You don't hear the door. You hear the taper, set down very carefully on the shel
 
 @tully:sad He doesn't shout. He doesn't come any closer. He looks at the letter in your hand, and at the open stove drawer, and at you, and his long kind face doesn't do anything at all for a moment. Then it just... falls. Like a house when the last wall goes.
 
-@tully:sad "I came back for my gloves," he says. "Left my gloves." He looks at them, on the arm of the chair. He doesn't pick them up. "You'd best sit down, {name}," he says. "You'd best sit down properly, love, and I'll tell you. I've been wanting to tell somebody for three years."
+@tully:sad "I came back for my gloves," he says. "Left my gloves." He looks at them, on the arm of the chair. He doesn't pick them up.
 
-He tells you.
+You can't speak. You're still holding the letter. You think about putting it down, back in the drawer, as if that would undo it, and you can't make your hand do that either.
 
-He sits in the armchair with the stuffing coming out, and you sit on the rag rug by the stove, because there isn't another chair, and he tells you everything, in his soft old voice, looking at the photographs. He puts the kettle on first. You don't know why that's the thing that nearly undoes you, but it is: that he puts the kettle on, and gets down a second cup from the shelf, and wipes it, before he starts.
+@tully:sad "You'd best sit down, {name}," he says. "Properly, love. Not on the floor like that; you'll get cold." Then he sees there's only the one chair, and his face does something helpless. "No. Stay there, then. Stay by the stove." He takes off his cap. He stands holding it. "I've been wanting to tell somebody for three years. I used to practise. Up the ladder, doing the high ones. I'd say it to the lanterns." He almost smiles. "They never said anything back."
+
+He doesn't start. He goes past you, carefully, the way you'd go past someone asleep, to the stove, and opens the door of it, and puts in two sticks of kindling from the drawer you've emptied, and fills the kettle at the little sink and sets it on the hob. He gets down a second cup from the shelf. He looks at it, and takes a clean cloth off the rail, and wipes it, inside and out, although it's already clean. You don't know why that's the thing that nearly undoes you, but it is.
+
+"Mr Tully." Your voice comes out cracked. "The fifth. The boathouse ward." You hold the letter up, a little, so he can see it. "Was it you?"
+
+@tully:sad He has his back to you, at the stove. He doesn't turn round. The kettle ticks as it warms. {fam_name}, by the door, hasn't moved.
+
+@tully:sad "Yes," he says.
+
+That's all, for a while. Just the one word, in his soft old voice, to the kettle.
+
+You'd thought, if it was him, that there'd be more to it. That it would be like the end of a story, with a reason in it that made everything fit. There's just an old man in a patched coat with his back to you, and one cup on the draining board, and the smell of peppermints.
 *set know_insider true
-@tully:sad "He was kind to me," he says. "Aldric. Forty years ago. I was the under-lampman, twenty-seven, not a spark in me, nobody. The students looked through me. Aldric used to come and help me with the round. At night. Just for the company. He'd light the high ones, the ones I couldn't reach, with his hand." He smiles, horribly. "When they put him out, I was in the Warding Hall. Up the ladder, doing the lamps. I saw it. I saw his face." He turns his cap round and round. "I didn't say anything. None of us did."
 
-@tully:sad "Then Maisie. Six years ago. Her Burning Year. Walking home from Thimble Cross on a Saturday. They took her on the shore path, a mile from this door." His voice doesn't change, but his hands stop turning the cap. "I've been to St Ide's every Sunday since. Three hundred and twelve Sundays. She asks me what my name is. Every time. Three hundred and twelve times."
+"Why?"
 
-The kettle starts to sing on the stove. He gets up, and makes the tea, and puts yours in your hands, and sits down again. His hands don't shake at all. They've made tea for forty years; they know how.
+@tully:tense He turns round then. He looks at you, and then past you, at the wall behind your head, and you don't have to turn to know what's on it. "You've been standing in the why for ten minutes, love," he says gently. "Every wall."
 
-@tully:tense "And then, three years ago, a letter came. In the stove drawer. I don't know how. Aldric. He said he could bring her back. He said, when he had the Heartfire, and a Kindler to carry it, he'd have enough flame to relight every hollowed soul in St Ide's, and her first." He looks at you, finally, with his sad pale-blue eyes. "He only wanted small things, at first. A ward left open an hour. A lantern with a grey wick in it, so he could hear through the lanterns. A bit of the Fen oil from my shed." He swallows. "I told myself nobody'd be hurt. I told myself Delphine would be mended. And Bram. And then Odile, in the high street. And then..."
+He sits down in the armchair. It creaks. He puts his cap on his knee and his big oily hands on top of it, and looks at them.
 
-@tully:sad He stops. He looks at the photograph on the mantelpiece: Maisie on the frozen Mere, with her lopsided candle.
+@tully:sad "I'll tell it from the start," he says. "Or I'll get it wrong. I've only ever said it to the lanterns, and they don't interrupt." He breathes out. "You'll not believe the start. Nobody would, now."
 
-@tully:sad "Toby Quill," he says. "I lit his lantern the first night. I said [i]welcome home, lad[/i]." And Absalom Tully puts his face in his big oily hands and weeps.
+You wait. The kettle begins, very faintly, to tick and whisper.
+
+@tully:sad "I was twenty-seven," he says. "Under-lampman. The old Lanternwarden had the round then, and I carried his ladder, and I hadn't a spark in me. Not one. The students looked straight through me. You'd pass one on a stair, forty times a day, and they'd not see you. You were furniture." He turns his cap a quarter-turn on his knee. "All except one. Tall lad. Black hair. Laughed with his whole face. He used to come out on the round with me. At night. Just for the company. He'd light the high ones, the ones up past the top of the ladder, with his bare hand. Like that." He lifts one finger, and there's nothing on the end of it, and he puts it down. "He knew my name. First week. He knew everybody's name."
+
+"Aldric Morrow."
+
+@tully:sad He nods. It seems to cost him something. "I was there," he says. "In the Warding Hall, in the February. Up the ladder, doing the lamps, when it happened."
+
+"You saw it."
+
+@tully:sad "I saw it." He's quiet a moment. "I'll not tell you what it looked like. Not tonight. I've told the lanterns, and that's enough telling for one thing." His thumb moves on the brim of his cap. "Afterwards they sent him home and said he'd mend, and nobody said a word. Not the staff. Not the students. Not the under-lampman up the ladder with his mouth shut." He looks up at you. "I didn't say anything. None of us did. I want you to know that bit. It's the start of it, the not saying."
+
+The kettle's singing now, thin and high. He gets up and sees to it. His hands don't shake at all: they've made tea for forty years, and they know how. He warms the pot. He puts the tea in, two spoons and one for the pot. He pours. He brings yours over and puts it into your hands and closes your fingers round it, the way you'd do for a child, and then sits down again with his own and doesn't drink it.
+
+@tully:sad "Then Maisie," he says.
+
+He doesn't go on at once. He looks at the photograph on the mantelpiece: the frozen Mere, and the lopsided candle, and the grin.
+
+@tully:sad "Six years ago. Her Burning Year. Heronmere, she was. She was going to do lanterns when she'd finished, like me, only properly, with a spark. She used to tease me about it." A breath. "She'd been to Thimble Cross on a Saturday, for a new pair of boots, and she walked home by the shore path because it was a nice evening. A mile from this door. A mile." His voice doesn't change. His hands stop turning the cap. "They found her sitting on the shingle, looking at the water. She asked the Lamplighter who found her what his name was."
+
+You don't say anything. There isn't anything.
+
+@tully:sad "I've been to St Ide's every Sunday since. Three hundred and twelve Sundays." He says the number the way other people say their address. "She asks me what my name is. Every time. I tell her. She says [i]that's a nice coat[/i]. It's the same coat. She's said it three hundred and twelve times." He looks down at the brown sleeve. "I can't get a new one. I tried, once. I couldn't go in, in a new coat. What if that was the thing she knew."
+
+The tea's hot through the cup. You hold on to it.
+
+"And then the letters."
+
+@tully:tense "Three years ago." He nods at the stove drawer. "In there. Under the kindling. I came in off the round one night and there was a smell of marsh in the room and a letter in the drawer, and I've never known how. I still don't." He puts his cup down on the floor by the chair. "Hand me the bottom one, love. The oldest. It's softer than the others. I've read it more."
+
+You find it, at the bottom of the bundle, and it is softer: the paper gone like cloth at the folds, the grey drawing of a wick on the back nearly rubbed away with handling. You hold it out. He doesn't take it.
+
+@tully:sad "Read it," he says. "I know it. I'd like to hear it in somebody else's voice. Just the once."
+
+You unfold it. Your hands aren't steady, and the paper whispers.
+
+"[i]Absalom. You carried the ladder, and I lit the high ones. Do you remember? You were the only one who didn't look away from me afterwards. I have not forgotten that. I know about Maisie. I am so sorry. I believe she can be brought back, and I believe I am the only one left who can do it. I will need a little help. A.M.[/i]"
+
+@tully:sad He's got his eyes shut. "[i]You were the only one who didn't look away.[/i]" He opens them. "I did look away. I looked away for forty years. But he wrote that, and I thought: he remembers me. Somebody remembers me." He lifts his hands and lets them fall on his knees. "He only wanted small things, at first."
+
+"Like what?"
+
+@tully:tense "A ward left open an hour. An old one, one nobody walks. A lantern with a grey wick in it, here and there, so he could hear through the lanterns what was said under them." He's looking at the floor now. "A drop of the Fen oil from my shed. I've had a barrel of it thirty years, for the old brass lamps; it burns slow. I told myself it was nothing. Oil. Wicks. I've been trimming wicks my whole life."
+
+"Delphine."
+
+@tully:sad He flinches. It's small: just his eyes, closing, and opening again. "[i]No one will be hurt who can't be mended,[/i]" he says. "It's on every letter. You've seen it. Every one." His voice is very low. "I told myself Delphine would be mended. When he had the Heartfire, and a Kindler to carry it, there'd be flame enough to relight every soul in St Ide's, and her with them. Her first, he said. Maisie first, and then all the others. I told myself she'd only be asleep a little while." He swallows. "And then Bram. And I told myself the same. And then Odile, in the high street, in front of all of you. And I stood at the back of the Hall that night and lit the lanterns for supper."
+
+He stops. You think he's finished. He hasn't.
+
+@tully:sad "Every Sunday, on the train, I'd do the sum," he says. "Delphine and Bram and Odile, on one side. On the other, Maisie, and all of St Ide's. Hundreds. I'd do the sum all the way to Kingsmere, and it always came out right." He looks up. "It always came out right, love. That's how you know you've gone wrong. When the sum's always right."
+
+"And Professor Grey?"
+
+You don't know you're going to say it until it's said, and then it's in the room, and you can't take it back, and you wouldn't.
+
+@tully:sad The old man goes quite still. "I went up the east stair," he says. "After. Three in the morning, when they said it was over, to see to the lamps. They'd come back on their own; they didn't need me. And he was still there on the step, under a blanket, waiting for the stretcher." He looks at his hands, at the oil in the cracks of them. "I trimmed every wick on that stair anyway. Every one, going past him. I didn't know what else to do. I've never known what else to do but see to the lamps."
+
+The stove ticks. You drink your tea because you don't know what else to do either, and it's too sweet, he's put sugar in it without asking, the way you would for someone in shock.
+
+@tully:sad He's looking at the mantelpiece again. At Maisie on the frozen Mere with her candle.
+
+@tully:sad "Toby Quill," he says. "I lit his lantern the first night. I said [i]welcome home, lad[/i]. He said [i]thanks, mister[/i], and asked me if there was cake." And Absalom Tully puts his face in his big oily hands and weeps.
+
+It's not loud. It's the worst thing you've ever heard, and it's not loud at all. It's an old man's shoulders going up and down in a patched coat, and a sound coming out from behind his hands like something with a hinge that's been shut for a very long time.
 
 You sit on the rug with your tea going cold. You don't go to him. You can't, yet. You don't leave, either.
 *if (candle = "toby") or (fr_toby >= 4)
@@ -255,7 +389,15 @@ It's full of the hollowed. That's the thing nobody tells you. You knew they were
 
 @maisie:hollowed "They're pretty," says Maisie, and looks out of the window.
 
-He talks to her. You didn't expect that. You thought he'd sit, the way the others' visitors sit, holding a hand, waiting for the hour to be up. He doesn't. He tells her about the week: the rain, the frost on the boathouse lawn, a heron he saw on the jetty, the price of lamp oil. He tells her the Mere's broken up and the ducks are back. He doesn't mention the Quiet. He doesn't mention you. She listens, or doesn't, with her hand in his and her eyes on the window, and every so often she says [i]that's nice[/i], and he says [i]it was, love[/i], and goes on.
+He talks to her. You didn't expect that. You thought he'd sit, the way the others' visitors sit, holding a hand, waiting for the hour to be up. He doesn't.
+
+@tully:warm "It's rained all week," he tells her, settling her hand on the blanket between both of his. "Rained and rained. Then Thursday it froze, and the boathouse lawn went white as a cake, and I came down it Friday night crunching like a man eating toast." He waits, as if she might laugh. "There was a heron on the jetty Tuesday. Stood there an hour on one leg. I thought, she'd have liked that. You always liked a heron."
+
+@maisie:hollowed "That's nice," says Maisie, to the window.
+
+@tully:warm "It was, love." He goes on. "Lamp oil's up again. Fourpence a gallon. I told the man, I said, I've been buying from you since before you had teeth." He strokes her knuckles with his thumb. "And the Mere's broken up. All the ice gone. The ducks are back. Seven of them, and one with a bad wing that the others wait for."
+
+He doesn't mention the Quiet. He doesn't mention you, or the letters inside your coat. She listens, or doesn't, with her eyes on the window, and every so often she says [i]that's nice[/i], and he says [i]it was, love[/i], and goes on.
 
 You sit down on the edge of the bed. You look.
 *snapshot maisie
@@ -274,7 +416,17 @@ You open your eyes. Mr Tully is watching your face. He's seen it. You didn't nee
 
 @cas:grave Afterwards, in the corridor, Cas stops Mr Tully by the window. The light's going; the sky over the roofs of Kingsmere is the colour of a bruise. His voice is very low and very careful. "You were there," he says. "In 1986. In the Warding Hall. When my grandfather did it."
 
-@tully:sad Mr Tully looks at him. At his face, his cheekbones, his hands. "You've got his hands," he says. Not cruelly. Just a fact. "Yes, lad. I was up the ladder, doing the lamps. I saw it." And he tells Cas: the Warding Hall, February, the hum, the frightened boy with the black book open, the spell like a hand closing over a candle, and Aldric's face after. "He looked up at me," says Mr Tully. "Up the ladder. Like he was asking me what had happened. And then he looked at the Professor and asked him his own name."
+@tully:sad Mr Tully looks at him. At his face, his cheekbones, his hands. "You've got his hands," he says. Not cruelly. Just a fact. "Yes, lad. I was up the ladder, doing the lamps. I saw it."
+
+@cas:grave "Tell me." Cas's voice is barely there. "Please. Nobody ever has. Not properly. They tell me what it [i]meant[/i]."
+
+@tully:sad Mr Tully looks out of the window at the roofs for a while before he starts. "February," he says. "Cold. The Warding Hall was full; it was a big lesson, both years. I was up by the high windows with my taper. There was a hum in the room. There always is, when they're warding; you get used to it." He moves his cap in his hands. "Your grandfather was at the front. Thin lad, frightened. He had a black book open on the bench in front of him, and he kept looking down at it, and his lips were moving."
+
+@cas:grave Cas doesn't say anything. His hands are flat against his coat.
+
+@tully:sad "Aldric put his shield up. Like the sun coming up, it was; the whole room went gold. Everybody stopped to look. They always did." He's quiet for a moment. "And your grandfather said something, not loud, and put his hand out. Like this." The old man lifts his hand, palm down, and closes it, slowly, over nothing. "Like you'd put your hand over a candle to put it out. That's what it looked like, from up the ladder. A hand closing over a candle."
+
+@tully:sad "The gold went. All at once. Not out like a lamp goes out. Just gone, as if it had never been in the room." He puts his hand back in his lap. "And Aldric looked up. Up the ladder. At me. Like he was asking me what had happened." His voice drops. "And then he turned round and looked at the Professor, and asked him his own name."
 *if (st_cas >= 3) and not(b_cas_debt) and (hurt_cas < 2)
   *set b_cas_debt true
   *set st_cas 4
@@ -308,7 +460,17 @@ You open your eyes. Mr Tully is watching your face. He's seen it. You didn't nee
 *if tully_fate = "st_ides"
   On the train home, Mr Tully says, looking out at the dark: "You'll tell them now. The Commander. The Headmistress. It's right you should." The lights of Kingsmere slide away behind you, and then there's only the dark, and your two faces in the black glass. After a long while he says: "Thank you for looking at her."
 
-  You tell the Headmistress that night, in the Weathervane Room, with the letters on the desk between you. She listens without interrupting, and reads the top letter twice, and then sits with it in her lap and says nothing while the weathervanes turn on the ceiling. Then she says: "He stays at his post. Aldric mustn't know we know. Not yet."
+  *present kestrel
+  That night you climb to the Weathervane Room with the letters inside your coat, and knock, and stand on the Headmistress's hearthrug with your cold hands and your train-smelling clothes, and don't know how to begin. So you don't. You put the bundle on her desk, on top of her papers, with the string still round it.
+
+  @kestrel:grave She looks at the grey paper, and at the little drawn wick on the back of the top envelope, and her face changes. "Where did you get these?"
+
+  "Mr Tully's stove drawer." You make yourself look at her. "They're from Aldric Morrow. Three years of them. He opened the boathouse ward on the fifth. He told me himself. And then I went to St Ide's with him today, to see Maisie." You stop. "There's something left in her. A spark."
+
+  @kestrel:grave The Headmistress doesn't interrupt. She unties the string, and takes out the top letter, and reads it, and reads it again. Then she sits back with it in her lap and says nothing at all while the weathervanes turn on the ceiling, creaking, and the fire settles, and Hester Wren looks down from over the mantelpiece with her bright painted eyes.
+
+  @kestrel:grave "Absalom," she says at last, not to you. Then, to you, very quietly: "He stays at his post. Aldric mustn't know we know. Not yet." She folds the letter along its old creases, exactly, and puts it back with the others. "Thank you for going with him first. I don't think I could have."
+
 *if tully_fate = "silent"
   On the train home, Mr Tully says, looking out at the dark: "He wrote again. Yesterday. In the drawer." He takes the thin grey letter out of his coat and gives it to you without reading it. "You tell me what to write back."
 

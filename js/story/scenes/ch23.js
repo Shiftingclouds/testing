@@ -43,7 +43,21 @@ He looks at you for a moment the way Idris used to, in the autumn: as if you're 
 
 @morrow:warm "You're younger than I was," he says. "No. The same. Everyone's the same age down here." He almost smiles. "Did they tell you what I am? I expect they told you some of it. They never did like the rest."
 
-@morrow:neutral "I'll tell you what I want," he says. "I've always been honest with Absalom and I'll be honest with you. I want you to lift it out of the rock and put it in me. Not all of it; you couldn't, it would kill us both. A piece. A little piece of Hester's fire, in the place where mine was. Enough to burn on for ever. And then I'll never need to take another flame as long as I live." He spreads his grey bare hands. "Think of it. No more Choir. No more hollowed. No more St Ide's. I'll let them all go. Every flame I've got in here, back where it came from, tonight. You'd be saving all of them. All it costs is a piece of a fire that's been burning in the dark for four hundred years, keeping lanterns lit."
+"What do you want?" Your voice comes out smaller than you meant. The cave takes it and hums it back.
+
+@morrow:neutral "I'll tell you," he says. "I've always been honest with Absalom and I'll be honest with you." He looks up at the Heartfire, not at you. "I want you to lift it out of the rock."
+
+You don't say anything. {fam_name} has gone very still against your legs.
+
+@morrow:neutral "Not all of it," he says, as if you'd argued. "You couldn't. It would kill us both. A piece." He holds up his grey finger and thumb, a little apart, the way you'd show a child how much sugar. "A little piece of Hester's fire, in the place where mine was. Enough to burn on. That's all."
+
+"And then?"
+
+@morrow:warm "And then I stop." He says it simply, like a man naming a station. "I never need to take another flame as long as I live." He spreads his grey bare hands. "Think about it. Properly, the way Imelda never let you. No more Choir. What would they be for? No more hollowed. No more St Ide's."
+
+"The ones you've already taken."
+
+@morrow:warm "Home." He touches his own chest, where the stolen flames are crammed and guttering. "Every one I've got in here, back where it came from. Tonight. I'd let them go. I'd be glad to." He's watching you now. "You'd be saving all of them. Delphine. Bram. The wand-woman in the high street, who sang at us. All of them, with one lift of your hands." His voice drops. "And all it costs is a piece of a fire that's been burning in the dark for four hundred years, keeping paper lanterns lit."
 
 You can see that he means it. That's the worst of it. Seeing a flame never tells you whether someone's lying, but you don't need to see his. He's been down here in his head for forty years, rehearsing this, and somewhere along the way he started to believe it.
 *if fought_morrow

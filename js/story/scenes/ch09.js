@@ -48,7 +48,13 @@ You can't chase both. There are lessons all day, and curfew's at nine, and the H
 *mood night
 *place P32 corridor_night
 *present toby rowan familiar
-The day goes slowly, the way days do when you're waiting for the night. Brewing, in the cellars, where Professor Kovač says nothing twice and you ruin a Stillwater tonic by thinking about voices. Wordcraft, where Professor Moth has you lighting and unlighting a candle with one word until your throat is sore. Lunch, which Toby doesn't eat. At dinner you tell Rowan, low, across the Larkspire end of the table, and he says [i]I'll come[/i] before you've finished the sentence, and then goes back to his stew as if he's agreed to pass the salt.
+The day goes slowly, the way days do when you're waiting for the night. Brewing, in the cellars, where Professor Kovač says nothing twice and you ruin a Stillwater tonic by thinking about voices. Wordcraft, where Professor Moth has you lighting and unlighting a candle with one word until your throat is sore. Lunch, which Toby doesn't eat.
+
+@rowan:neutral At dinner you find Rowan at the Larkspire end of the table, working through a plate of stew as if it's done something to him, and sit down across from him, and lean in.
+
+"Toby's been sleepwalking. Down to the Old Cloisters door. Something's calling him. I'm going to sit up outside his room tonight and..."
+
+@rowan:neutral "I'll come," says Rowan, before you've finished the sentence. He doesn't look up. He doesn't ask a single question. He just goes back to his stew, as if he's agreed to pass the salt, and then, after a moment, adds: "I'll bring a blanket. You'll want a blanket. Heronmere's freezing."
 
 So that night you sit up on the stone floor outside Toby's dormitory, with a blanket and a flask of tea{@house = "heronmere"|, which is easy, because it's your dormitory corridor too, and all you have to do is not go to bed|, which involves sneaking down to the Heronmere Cloister after curfew and being let in by a very nervous Jonty, who is knitting a hat for somebody's ferret and keeps dropping stitches}.
 
@@ -117,7 +123,7 @@ It takes a moment to understand what you're looking at. Your wandlight goes up t
 
 {fam_name} goes very quiet against you. Toby is holding your sleeve. Rowan has moved, without seeming to, so that he's half a step in front of both of you.
 
-In the middle of the dead garden, standing in the dry fountain, is the Watchman.
+In the middle of the dead garden, standing in the dry fountain, is somebody.
 
 He's tall. Nine feet, maybe. He's made of... you can't tell. Dust and old stone and cobwebs and candle-stubs, and the shape of a man in a long coat and a wide hat, the way a man might look if you built one out of the inside of a very old church. He has no face. Where his face should be there's a hollow, and in the hollow, faintly, the lichen-green flame you saw through the door, guttering. From him, going out into the pillars, into the ward-marks, into the stone, are threads. Dozens and dozens of threads. Like roots. Like a spider's web with him at the centre.
 
@@ -125,11 +131,17 @@ Half of them are cut.
 
 @toby:scared Toby's hand tightens on your arm. "That's it," he whispers. "That's the voice. That's him."
 
-The Watchman turns his faceless head towards you. He speaks with the old hoarse kind voice, not out loud, but inside your ears, inside the stone, the way you hear your own thoughts.
+The figure turns its faceless head towards you, and speaks with the old hoarse kind voice, not out loud, but inside your ears, inside the stone, the way you hear your own thoughts.
 
 [i]Tobias. You came. Good. Good. Listen. Listen to me. It isn't safe. The doors are opening. Somebody is opening my doors.[/i]
 
-His green flame gutters, and flares, and gutters. You can feel it, in the flame-sight: he's old, so old, older than anything you've ever looked at, and tired, and every cut thread is like a cut in him. He's been standing here since Hester Wren put him here, holding the wards, through wars and plagues and two hundred and fifty years of nobody coming down the stairs, and now somebody's cutting them, one by one, and he's calling the names of the people he's supposed to protect because it's the only thing he can still do.
+His green flame gutters, and flares, and gutters. You look at it with the flame-sight, and it's like looking down a well: it goes back and back, further than anything you've ever looked at, further than the Headmistress, further than the lanterns. Old. Tired past tired. And every cut thread round him is a cut in him; you can see him flinch from them, the way you'd favour a burnt hand.
+
+"What are you?" you whisper.
+
+[i]Watchman,[/i] he says, as if it's a job and not a name. [i]She set me here. To hold the doors. To call them in when it's dark.[/i] The dust of his long coat shifts. [i]Nobody comes down the stairs. Nobody has come down the stairs in so long. I call and I call.[/i]
+
+@toby:small "He's been calling everyone," Toby whispers. "Not just me. Hasn't he. All the sleepwalkers." He's still holding your sleeve. "He's been trying to get somebody to come."
 
 [i]I can't hold them,[/i] says the Watchman. [i]I can't hold them all. Somebody inside. Somebody who knows the way. They come through the water door, and up, and they cut, and they cut...[/i]
 
@@ -216,7 +228,11 @@ So you look with the flame-sight, and you see it: deep in the cage, on the far w
 
 @idris:attentive Idris turns his head sharply. "What map?"
 
-@dunne:neutral "The Wrenfold Map," says Miss Dunne, behind you, faintly. She's come down the hall without either of you hearing her. "It hangs on the back wall of the cage. It was painted in 1640 by Hester Wren's apprentice, for her. The whole castle and the island. It's never been moved. It's never been touched." A pause. "It shows the wards."
+@dunne:neutral "The Wrenfold Map," says Miss Dunne, behind you, faintly. She's come down the hall without either of you hearing her, and she's holding the two blank books against her chest like a pair of hurt birds. "On the back wall. Hester Wren's apprentice painted it for her, in sixteen-forty, and it hasn't moved an inch since. I dust the frame. That's all anybody's allowed to do."
+
+"What's it a map of?"
+
+@dunne:neutral "The island. The castle. Every stone." She hesitates, the way she might over a book she doesn't lend out. "And the wards."
 *choice
   #Ask Idris what he knows about the map. He knows about everything in that cage.
     *if st_idris >= 2
@@ -261,7 +277,13 @@ The map's moving, too. Faintly. Rippling, like a flag in a slow wind. The ink in
 *present saoirse idris imogen familiar
 It takes you a whole day to work out how to feed it.
 
-That first night, nothing works. Idris reads to it, from the oldest book in the cage, on the theory that it might want words. Imogen tries a mending charm on the corner of the canvas, and the charm simply sinks into the paint and disappears, like a stone into a pond. You try the flame-sight until your eyes water, and all it tells you is what you already know: that the thing is starving, and frightened, and getting weaker. At four in the morning you give up and creep back to bed through the dark castle, and in the morning two more bays of the Long Stacks have gone blank.
+@idris:neutral That first night, nothing works. Idris sits cross-legged in front of the canvas with the oldest book in the cage open across his knees and reads to it, aloud, in his low careful voice, on the theory that it might want words. He gets three pages in. Then he stops. "It isn't listening," he says.
+
+"How can you tell?"
+
+@idris:neutral "The same way you can with people." He closes the book, gently, as if it might be disappointed too. "It's waiting for me to finish so it can go on being hungry."
+
+@imogen:tense Imogen tries a mending charm on the corner of the canvas, drawing the shape in the air with her wand, precise as a signature, and the charm simply sinks into the paint and disappears, like a stone into a pond. She tries it again. She says a word under her breath you've never heard her say, and then looks round guiltily, as if Miss Dunne might have heard it from her bed three floors away. You try the flame-sight until your eyes water, and all it tells you is what you already know: that the thing is starving, and frightened, and getting weaker. At four in the morning you give up and creep back to bed through the dark castle, and in the morning two more bays of the Long Stacks have gone blank.
 
 The day is very long. You sit through lessons without hearing a word. At lunch Imogen draws the map from memory on a napkin, and Idris doesn't come to lunch at all, and somewhere in the afternoon, in Herbwork, with your hands in a pot of grumbles, you think: [i]it's not a book. It's a machine. It's a machine that's run out of fuel.[/i] And you know exactly who to ask about machines.
 
@@ -342,7 +364,40 @@ You've had two nights of bad sleep and a day of lessons you can't remember, and 
 
 The Weathervane Room is full of weather, the way it always is. Weathervanes turning slowly on every shelf and sill and hook, brass cockerels and copper fish and a tin wren the size of a thumbnail, each one pointing its own way. The fire's lit. There's lemon cake on the table, left over from yesterday's lesson, and the Headmistress's small hawk asleep on its perch with its head under its wing.
 
-@kestrel:grave She listens to all of it, in the round room full of weather, with her tea going cold in her hands and the weathervanes turning slowly all round you. {@ch09_way = "cloisters"|The Watchman. The cut threads. The water door.|The map. The grey lines. The route.} The boathouse passage. She doesn't interrupt once. When you get to the part about the broken seal, one of her eyebrows goes up, very slightly, and stays there.
+@kestrel:attentive She pours you tea before she lets you say anything, and makes you drink half of it, and pushes the lemon cake an inch nearer. Then she sits back. "From the beginning," she says. "And leave nothing out because it sounds silly. In my experience the silly parts are the ones that turn out to matter."
+
+*if ch09_way = "cloisters"
+  So you start with Toby, barefoot, walking past you in the Heronmere corridor with his eyes open. The voice through the stone. [i]Tobias.[/i]
+
+  @kestrel:attentive "Kind," she says. "You said the voice was kind."
+
+  "Frightened. Frightened for him. Rowan said it wasn't a lure; it was a warning. He said he's heard people call like that into a burning house."
+
+  @kestrel:neutral "Mr Ashby would know the difference better than most." She nods for you to go on, and you tell her about the black door, and the red wax, and the wren in it turning its head under your hand. One of her eyebrows goes up, very slightly, and stays there.
+
+  @kestrel:grave "That seal," she says, "has been on that door for two hundred and forty years." That's all. She doesn't say anything else about it, and somehow that's worse than if she had.
+
+  Then the dead garden, and the thing in the fountain, and the threads. "He said [i]she[/i] set him there," you say. "To hold the doors. He didn't say who she was."
+
+  @kestrel:grave The Headmistress's cup stops halfway to her mouth. Her eyes go, just for a second, to the portrait over the fireplace, and come back. "Go on," she says quietly.
+
+  "He said they come in by the water door. From the boathouse. Under the Mere wall."
+*else
+  So you start with Idris, coming down the Hall with the blank book in his hands, and Miss Dunne in the empty Stacks, crying without knowing she was crying.
+
+  @kestrel:attentive "Miss Dunne," says the Headmistress, "let three students into the restricted cage. At midnight."
+
+  "She went to bed first. With a hot-water bottle. Idris had a key."
+
+  @kestrel:neutral "Of course he did." She waves you on, and you tell her about the map breathing, and the ink going, and the first night when nothing worked. When you get to Saoirse and the stirrup pump, the corner of her mouth goes, very slightly, somewhere it doesn't usually go. "Miss Maddock built a pump," she says, "for the Wrenfold Map."
+
+  "Out of a bicycle."
+
+  @kestrel:neutral "Out of a bicycle," she repeats, faintly, as if she's putting it away somewhere safe for a bad day when she'll need it. Then the smile's gone, and she listens without moving to the rest: the red lines and the grey ones, the dotted route, and the thin old brown line from the boathouse that none of you saw until the end.
+
+"And the boathouse passage," you finish. "It comes out in the Old Cloisters. Somebody's been using it."
+
+@kestrel:grave She doesn't say anything for a while. The weathervanes turn slowly all round you. Her tea has gone cold in her hands, and she hasn't noticed.
 
 @kestrel:grave When you've finished, she puts her cup down. "Twenty points to {@house = "larkspire"|Larkspire|}{@house = "owlcombe"|Owlcombe|}{@house = "heronmere"|Heronmere|}{@house = "rookhallow"|Rookhallow|}," she says. "For courage, and for breaking curfew in a good cause, which I'm going to pretend I didn't hear about." She doesn't smile. "And for telling me. Most people don't. They think the grown-ups know already."
 
@@ -361,7 +416,9 @@ On the wall over the fireplace, in her cracked gilt frame, the painted old woman
   *choice
     #Tell her about the route. That it matches the lantern round.
       *set wit +5
-      You tell her. The dotted line. The lantern round. The way Idris went grey.
+      "The route on the map," you say. "The dotted line. We traced it all the way round, and Idris knew it. He knew it before we'd got to the end." You make yourself say the rest. "It's the lantern round. It's Mr Tully's round."
+
+      You tell her how Idris went grey when he said it, and how the pump went on wheezing on the floor of the cage, and how, after that, for a long time, nobody in the cage said anything at all.
 
       @kestrel:grave She's quiet for so long that the fire settles in the grate and one of the weathervanes swings right round and points at the door. "Absalom Tully has been at this school for forty-one years," she says, at last. "He carried me across the Mere in his boat when I was a first-year with a broken ankle. He knows every student's name. His daughter is in St Ide's." She puts her hand flat on the table. "Anyone could walk the lantern round. Every member of staff knows it. Half the second-years know it." But her hand, you notice, is pressing down very hard on the wood, hard enough to whiten the knuckles. "Thank you for telling me. Leave it with me."
     #Don't. Not yet. You don't want it to be true.

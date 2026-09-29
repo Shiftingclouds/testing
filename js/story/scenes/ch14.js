@@ -9,7 +9,15 @@ NB.scene("ch14", String.raw`
 *present kovac toby imogen familiar
 January is long and dark and cold and full of work, and nobody else is hollowed, and nobody sleeps properly anyway.
 
-It gets light at half past eight and dark at four. The Mere freezes again a week into term, harder than before, and stays frozen, grey-white from shore to shore, with the wind combing snow across it in long low ghosts. Lessons start up as if nothing has happened, because that's what lessons are for. Professor Moth has you shouting Wordcraft at candles in the Wordcraft Gallery until your throats are raw. Professor Bassani turns a teapot into a tortoise and back again, twice, theatrically, and the tortoise refuses to turn back the second time and has to be kept in a box. In Herbwork you learn to wake a bulb in frozen ground with your breath, which takes most of a week and all your patience, and when yours finally puts up one green blade through the frost, Professor Rhys claps as if you've cured something.
+It gets light at half past eight and dark at four. The Mere freezes again a week into term, harder than before, and stays frozen, grey-white from shore to shore, with the wind combing snow across it in long low ghosts. Lessons start up as if nothing has happened, because that's what lessons are for. Professor Moth has you shouting Wordcraft at candles in the Wordcraft Gallery until your throats are raw. Professor Bassani turns a teapot into a tortoise and back again, twice, theatrically, and the tortoise refuses to turn back the second time and has to be kept in a box. Herbwork is the worst of it, and the best. For most of a week you kneel in the frozen beds behind the Glasshouses with Toby, at eight in the morning, in the half-dark, breathing on a patch of iron-hard earth where Professor Rhys swears there's a bulb asleep.
+
+@toby:sad "I think mine's dead," says Toby, on the fourth morning, with frost in his eyebrows. "I think I've breathed on it so much I've drowned it."
+
+"You can't drown a bulb with breath."
+
+@toby:neutral "You don't know that. Nobody's done the research." He breathes on it again anyway, very gently, like somebody blowing on soup. "Come on. Come on, you little onion."
+
+On the fifth morning, under your breath, a green blade no longer than a fingernail pushes up through the frost, and Professor Rhys claps as if you've cured something, and the snail on her hat puts its horns out to look. Toby's comes up the morning after. He names it Gerald, and visits it every day for the rest of the month.
 
 {fam_name} goes fat and fluffy with winter, or as near to it as it can manage, and takes to sleeping on the radiator in the common room and refusing to move for anybody, even at mealtimes. Toby's hare, Custard, eats a prefect's scarf. The corridors smell of wet wool and woodsmoke and the porridge the kitchens now serve at every breakfast in vats. It's the time of year when you stop saying [i]is it always this cold[/i] and start saying [i]it's not that cold[/i], and mean it, and are wrong.
 
@@ -119,7 +127,13 @@ There's a light at the back of the second gallery, behind the iron grille of the
           *set st_idris +1
           @idris:warm He looks down at your hand on his. He doesn't move his. "You're welcome," he says, and it sounds like something he's never said before in his life and isn't sure he's saying right.
 
-          @idris:warm You stay like that, the two of you, on the floor of the cage, with the lamp burning down and the Wrenfold Map rustling faintly on the wall above you as its little inked figures go about their night. After a while he starts, quietly, to tell you about her: the roses, the terrible jokes, the way she sang in the car. He talks till the lamp gutters. You listen to every word.
+          @idris:warm You stay like that, the two of you, on the floor of the cage, with the lamp burning down and the Wrenfold Map rustling faintly on the wall above you as its little inked figures go about their night. After a while he says, to the map rather than to you, "She told terrible jokes."
+
+          "How terrible?"
+
+          @idris:amused "What do you call a deer with no eyes." He waits. You shake your head. "Neither did she, most years. She'd start it every Christmas and laugh so hard before the end that she never got there. My father used to finish it for her. [i]No idea.[/i] And she'd laugh again, as if she'd never heard it." He takes his glasses off, and cleans them, and puts them back. "She sang in the car. Badly. With the windows down, so the whole high street had to hear. I used to lie down on the back seat so nobody would see me." A pause. "I'd give a great deal to be embarrassed like that again."
+
+          @idris:warm He goes on, a little at a time, with long quiet gaps: the roses, the November garden, the shed she painted yellow. You don't ask anything. You just let him. When the lamp finally gutters and he reaches over to trim it, he says, "I haven't said any of this out loud in twelve years," and sounds surprised that the roof hasn't come in.
         #"If I'd been there. When she was taken. I'd have tried."
           *set st_idris +1
           *set heart +5

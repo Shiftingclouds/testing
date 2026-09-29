@@ -17,7 +17,7 @@ You cross the Mere in the boats with everyone else, in the gold evening, with th
 
 The Candlestones are older than the school. Twelve grey stones in a ring on the top of the hill, leaning together like old women sharing gossip, each one worn at the top into a shallow cup where somebody, a very long time ago, used to keep a flame. Tonight there's a candle in every cup. From up here you can see the whole valley: the village roofs, the Mere going from gold to pewter, and the castle on its rock across the water, small as a toy.
 
-The Brightfire is enormous. A bonfire in the middle of the ring, built by Rookhallow over a week, taller than the stones, and when the Headmistress lights it, with a word and a flick of her good hand, it goes up with a roar you feel in your chest. The sparks climb into the violet sky until you can't tell them from the first stars. There's a band on a hay cart: a fiddle, a drum, an accordion held together with tape. There's a maypole with four hundred ribbons. There are garlands of may blossom and cowslips on everybody's heads, and bread and cheese and pies in the baskets, and potatoes pushed into the edge of the embers to bake, and a cauldron of something hot and spiced that Heronmere swear is only apple. There's dancing, round and round the fire in one great ring, then in smaller rings inside it, and people leap the embers at the edge of the fire for luck, screaming.
+The Brightfire is enormous. A bonfire at the heart of the ring, built by Rookhallow over a week, taller than the stones, and when the Headmistress lights it, with a word and a flick of her good hand, it goes up with a roar you feel in your chest. The sparks climb into the violet sky until you can't tell them from the first stars. There's a band on a hay cart: a fiddle, a drum, an accordion held together with tape. There's a maypole with four hundred ribbons. There are garlands of may blossom and cowslips on everybody's heads, and bread and cheese and pies in the baskets, and potatoes pushed into the edge of the embers to bake, and a cauldron of something hot and spiced that Heronmere swear is only apple. There's dancing, round and round the fire in one great ring, then in smaller rings inside it, and people leap the embers at the edge of the fire for luck, screaming.
 *if toby_lit
   @toby:laugh Toby leaps the embers four times. He's thinner than he was, and paler, and his flame is small and lopsided and gold, but he leaps them four times, shouting, with a garland of cowslips slipping over one eye. Priya screams at him every single time. He lands every single time. On the fourth he turns round in the firelight and finds you, and shouts, "It's all going to be all right!" and you almost believe him.
 
@@ -137,7 +137,7 @@ You stand there and look at it. Seven weeks.
         *set st_rowan 6
         @rowan:warm He lets out a breath like somebody putting down something heavy he's carried for years. {@steam|He kisses you, there among the standing stones, with the fire behind him and the whole valley below, and he's shaking, and so are you, and neither of you minds.|He holds you, there among the standing stones, with the fire behind him and the whole valley below, and he's shaking, and so are you, and neither of you minds.} "Together," he says into your hair. "All right. Together. I'm terrified." He laughs. "I'm so happy I'm terrified."
 
-        @rowan:warm You stay like that until the cold comes up through your wet shoes, which takes a while, standing next to Rowan. He tells you about his sisters, all four of them, and what each of them is going to say when they find out, and does the voices. "Our eldest'll want to know your intentions," he says. "In writing. She's the worst. You'll love her."
+        @rowan:warm You stay like that until the cold comes up through your wet shoes, which takes a while, standing next to Rowan. "Four sisters," he says, into your hair. "You know that. You've got four sisters coming." He counts them off against your back. "The first one'll cry. The second one'll ask what you earn. The third one'll want your intentions in writing." He does the voices; he's good at the voices. "The fourth one'll just hug you and not let go. She's the worst. You'll love her."
       *if final_rel = "imogen"
         *set st_imogen 6
         @imogen:warm She takes her glasses off, and puts them on again, and takes them off. "Right," she says. "Good. That's... yes." Then she stops trying to say anything at all, and {@steam|kisses you, among the stones, fiercely, with her garland falling off|holds on to you, among the stones, fiercely, with her garland falling off}, and when she lets go she's laughing. "No plan," she says. "Look at me. No plan at all."
@@ -203,7 +203,17 @@ They're already there. The Headmistress, by the window, in her long coat. Comman
 
 Nobody offers anyone cake. That's how you know.
 
-@arkwright:grave "He's told us what he's going to do," says the Commander. "That's the one advantage we've got. He trusts the Lanternwarden." She looks at Mr Tully, and her face doesn't soften, quite. "Midsummer Eve. The Proving. Every student in the Hall, every lantern lit. At eleven, Mr Tully leaves the boathouse ward open, as asked. The Choir comes in through it. And my people are waiting."
+Morrow's letter is lying on the table among the teacups, flattened out, with a barometer on one corner to stop it curling. Thin grey paper. You don't need to read it again. You read it once in the Old Cloisters, by candlelight, and you could say it back now word for word.
+
+@arkwright:grave "He's told us what he's going to do," says the Commander. "That's the one advantage we've got." She taps the letter with one finger. "He trusts the Lanternwarden." She looks at Mr Tully, and her face doesn't soften, quite.
+
+@tully:tense Mr Tully looks at his cap.
+
+@arkwright:grave "Midsummer Eve," the Commander goes on. "The Proving. Every student in the Hall, every lantern lit. At eleven, Mr Tully leaves the boathouse ward open, as asked. The Choir comes in through it." She pauses. "And my people are waiting."
+
+"What if he doesn't come in through it?" you say. "What if he knows?"
+
+@arkwright:neutral She looks at you as if you've asked a fair question in an exam. "Then he comes in some other way, and we've lost nothing but a night's sleep in a cold boathouse. But he won't know." Another glance at Mr Tully. "He's never once doubted him. Forty years. It's the only thing about Aldric Morrow I'd call sentimental."
 
 @arkwright:grave "Forty of them," she goes on. "Every Lamplighter I can spare and some I can't. In the boats, in the rafters, behind the doors. He'll walk up that slipway into more light than he's seen in forty years."
 
@@ -221,9 +231,15 @@ Nobody offers anyone cake. That's how you know.
 
   @kestrel:warm Nobody says anything to that. After a moment the Headmistress crosses the room and puts her good hand on his shoulder, and he sits there under it with his eyes shut.
 
-@kestrel:neutral "Then there are three places that matter," says the Headmistress. She goes to the table and unrolls a plan of the castle, old and brown at the edges, and weighs the corners down with a barometer and two teacups. "The Hall, where the song must be sung, or every flame in the room is his for the taking." Her finger on the Hall. "The Old Cloisters, at the wren door, which is the only way down to the root." Her finger on a small drawn door, deep under everything. "And the boathouse, where he comes in." Her finger on the water's edge.
+@kestrel:neutral "Then," says the Headmistress, at last, and her voice is brisk again, "three places." She goes to the table and moves the letter aside, and unrolls a plan of the castle, old and brown at the edges, and weighs the corners down with the barometer and two teacups. Her finger goes to the Hall. "Here. The song must be sung here, or every flame in the room is his for the taking."
 
-@kestrel:grave She looks up at you. "Sabine wants you at the boathouse, where he'll see you first. I want you in the Hall, leading the song. Somebody has to hold the wren door." She pauses. "You've done more than anyone should ask. So I'm asking. Where do you want to stand?"
+"All four hundred," you say.
+
+@kestrel:neutral "All four hundred." Her finger moves down, through floors and floors of brown ink, to a small drawn door deep under everything. "Here. The Old Cloisters. The wren door. The only way down to the root that I know of, and I've looked for forty years." Then out, to the water's edge. "And here, where he comes in."
+
+@arkwright:neutral "Where I'll be," says the Commander.
+
+@kestrel:grave "Where you'll be." The Headmistress looks up at you. "Sabine wants you at the boathouse, where he'll see you first. I want you in the Hall, leading the song. Somebody has to hold the wren door." She pauses. "You've done more than anyone should ask. So I'm asking. Where do you want to stand?"
 
 You look at the map. At the three places. At the little drawn door. A weathervane behind you creaks round, and stops.
 *choice
@@ -264,7 +280,11 @@ Afterwards you go down the sideways stair into a Sunday castle full of sleepy pe
 *present jory familiar
 On the Fen, Brightfire is a small fire on a muddy bank, and Jory Penrose, and the cat.
 
-It's been a fortnight since the boats went back across the Fen with the Commander and her forty Lamplighters in them. The house is very quiet without them. You've learned its noises: the slates lifting in the wind, the pipes knocking, the back door that won't shut unless you kick it. Jory cooks, badly, from a book with the pages stuck together. You read. {fam_name} has made an uneasy peace with the cat, which consists of both of them pretending the other one isn't there. In the afternoons you walk along the dyke with the wind in your face and the larks going up out of the reeds, and in the evenings you sit in the upstairs window where you sat for four weeks being bait, and nothing comes. Nothing's coming now either. Nobody's hunting you any more. That's almost worse.
+It's been a fortnight since the boats went back across the Fen with the Commander and her forty Lamplighters in them. At teatime today the house was so quiet you could hear the slates lifting in the wind, one by one, and settling again.
+
+@jory:neutral "It says a moderate oven," Jory said, at the range, holding the cookery book open with his elbow. The pages are stuck together with something older than both of you. "What's a moderate oven? Moderate compared to what?" He opened the oven door and looked in at the pie as if it might tell him. It didn't. "Gran never had a book. She just knew."
+
+The pie was black on top and cold in the middle, and you both ate all of it, at the kitchen table, with {fam_name} and the cat on opposite sides of the room pretending the other one didn't exist, which is the peace they've come to. Afterwards you went and sat in the upstairs window, the way you did every evening for four weeks while you were bait, and watched the reeds. Nothing came. Nothing's going to come now. Nobody's hunting you any more, and that's almost worse.
 
 Tonight Jory has built a fire himself, with driftwood and reeds, because he said you couldn't let the first of May go by without a fire; it was bad luck; his gran said so. It smokes. It keeps going out. The cat sits as close to it as a cat can sit without catching light, and {fam_name} keeps to your other side, as far from the cat as possible, and the sky over the Fen goes from green to navy to black, enormous, without a hill anywhere to stop it. Out on the black water, the drowned chapel's bell is ringing in the east wind, slow, like somebody counting.
 
