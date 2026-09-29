@@ -29,7 +29,7 @@ You make a cup of tea with the last teabag in the caddy and no milk, and stand a
 
 At half past seven, someone bangs on the front door with the flat of their hand and shouts "[i]Delivery for the missing person![/i]" through the letterbox, and it's Dev.
 *meet dev
-@dev:amused He's exactly the same. Lanky, in a hoodie, with his lanyard still round his neck because he's come straight from work, a carrier bag of cans in one hand and a bag of chips in the other and his long face split in the biggest grin you've ever seen. "Look at you," he says. "[i]Look[/i] at you. You're alive. Glossop owes me a fiver." He hugs you, cans and chips and all, and he smells of chip fat and the office and the bus, and of home.
+@dev:amused He's exactly the same. Lanky, in a hoodie, with his lanyard still round his neck because he's come straight from work, a carrier bag of cans in one hand and a bag of chips in the other and his long face split in the biggest grin you've ever seen. "Look at you," he says. "[i]Look[/i] at you. You're alive. Glossop owes me a fiver." He hugs you, cans and chips and all, and he smells of chip fat and work and the bus, and of home.
 
 He comes in. He sits on the wobbly chair, which you let him have because he's the guest, and it wobbles, and he says "still?" in a wounded voice, as if it's personally let him down. He opens two cans. He tips the chips out onto their paper on the table, the way you always used to, and plants the little wooden fork in the middle like a flag.
 
@@ -41,7 +41,7 @@ He comes in. He sits on the wobbly chair, which you let him have because he's th
 
 "What else?"
 
-@dev:amused "New girl cried in the stationery cupboard her second week. Everyone was dead worried. Glossop did a whole talk about wellbeing, with slides." He takes a long pull on his can. "Turns out she'd won forty quid on a scratchcard and didn't know who to tell. She bought the whole floor a sausage roll." He's quiet for a moment, respectfully. "Good sausage rolls."
+@dev:amused "New girl cried in the store cupboard her second week. Everyone was dead worried. Glossop did a whole talk about wellbeing, with slides." He takes a long pull on his can. "Turns out she'd won forty quid on a scratchcard and didn't know who to tell. She bought everyone on shift a sausage roll." He's quiet for a moment, respectfully. "Good sausage rolls."
 
 "And the Christmas party?"
 
@@ -49,7 +49,7 @@ He comes in. He sits on the wobbly chair, which you let him have because he's th
 
 "Dev."
 
-@dev:amused "Somebody did something to the photocopier. That's all I'm prepared to say. It's under investigation." He lowers his voice, though there's nobody in the house but you and {fam_name}. "They've sent a man. With a clipboard. He's been in three days. Nobody's confessed."
+@dev:amused "Somebody did something to the coffee machine. That's all I'm prepared to say. It's under investigation." He lowers his voice, though there's nobody in the house but you and {fam_name}. "They've sent a man. With a clipboard. He's been in three days. Nobody's confessed."
 
 "Was it you?"
 
@@ -75,13 +75,13 @@ It's so easy. That's what gets you. You'd thought it might be awkward, after fou
 
     "Long ones. In triplicate."
 
-    @dev:amused "In [i]triplicate[/i]." He nods, very seriously, as if you've told him something deeply moving. "Well, the forms suit you," he says, and clinks his can against yours, and changes the subject to the photocopier, and doesn't look at the kettle, which is steaming gently on its own on the counter behind you, and has been for about a minute.
+    @dev:amused "In [i]triplicate[/i]." He nods, very seriously, as if you've told him something deeply moving. "Well, the forms suit you," he says, and clinks his can against yours, and changes the subject to the coffee machine, and doesn't look at the kettle, which is steaming gently on its own on the counter behind you, and has been for about a minute.
 
 It gets late the way it used to, without either of you noticing. You find a packet of custard creams at the back of the cupboard that went out of date in October and eat them anyway. {fam_name} warms to Dev by degrees and ends up {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|on the back of his chair, very close to his ear, which he finds unnerving|asleep on his feet, which he takes as an honour}. The eleven o'clock bus goes past the end of the road with nobody on it.
 
 At eleven, at the door, with his hood up against the drizzle, he turns back.
 
-@dev:neutral "{@job = "calls"|Glossop says your desk's still there|I went past your old work, you know. Asked after you. They said your job's still going}," he says. "If you want it. After." He shrugs. "I said you wouldn't. I said you'd found something better." He looks at you in the yellow light from the kitchen. "Have you?"
+@dev:neutral "Glossop says your job's still there," he says. "If you want it. After." He shrugs. "I said you wouldn't. I said you'd found something better." He looks at you in the yellow light from the kitchen. "Have you?"
 
 You tell him yes.
 
@@ -527,7 +527,7 @@ On the thirtieth, at eleven at night, you follow it.
 
   @idris:attentive "I watch everything," says Idris. "You're just more interesting than most of it." He closes the notebook. "Shall we?"
 
-Down the east stair, with the portraits snoring. Along the corridor behind the kitchens, where it's always warm anyway and smells of tomorrow's bread. {@ch09_way = "cloisters"|Down the oldest stair of all, to the black oak door you and Toby and Rowan followed the voice to in November, the one that's supposed to be sealed, which opens for you now the way it did then, as if it's been waiting|Down the oldest stair of all, to a black oak door bound in iron that you've only ever heard about: the Old Cloisters door, sealed for two hundred years. It opens at your touch, without a sound, as if it's been waiting}. And down, into the Old Cloisters.
+Down the east stair, with the portraits snoring. Along the corridor behind the kitchens, where it's always warm anyway and smells of tomorrow's bread. {@ch09_way = "cloisters"|Down the oldest stair of all, to the black oak door you and Toby and Rowan followed the voice to in November, the one that's supposed to be sealed, which opens for you now the way it did then, as if it's been waiting|Down the oldest stair of all, to a black oak door bound in iron that you've only ever heard about: the Old Cloisters door, sealed for two hundred and forty years. It opens at your touch, without a sound, as if it's been waiting}. And down, into the Old Cloisters.
 
 It's dark down here, and cold, and old. The pillars are carved with birds, wrens, hundreds of them, worn smooth by centuries of nobody. Your breath smokes. You light the tip of your wand, and the wrens leap out of the dark at you and fall back. {@ch09_way = "cloisters"|The Watchman isn't here; or he is, and he's quiet, and watching.|Somewhere in the dark, water drips, very slowly, into water.} The warmth under your feet gets stronger with every step, until you're following it the way you'd follow the smell of bread through a strange town: round a corner, down a flight of steps so worn they're more like a ramp, to the end of a passage you've never seen.
 

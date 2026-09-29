@@ -105,7 +105,7 @@ Because the Warding Hall is one big room and there are no walls, you can hear th
 
 @cas:guarded Cas's jaw moves. "Nobody," he says, "ever remembers seeing me. It's one of my family's great talents."
 
-@idris:neutral At the table beyond that, Idris is being interviewed by Jory, who looks as if he'd rather be anywhere else. "You walk the corridors at night," Jory's reading from his notes. "You've been seen by staff on eleven occasions. You have a key to the restricted cage that nobody gave you. You've spent six years studying..." He squints. "Flame-work."
+@idris:neutral At the table beyond that, Idris is being interviewed by Jory, who looks as if he'd rather be anywhere else. "You walk the corridors at night," Jory's reading from his notes. "You've been seen by staff on eleven occasions. You have a key to the restricted cage that nobody gave you. You've spent twelve years studying..." He squints. "Flame-work."
 
 @idris:neutral "Yes," says Idris, calmly. "All of that is true." He adjusts his glasses. "It was twelve occasions. One of them didn't see me."
 

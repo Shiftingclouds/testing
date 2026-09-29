@@ -93,15 +93,15 @@ House greetings: Larkspire *"Up with the lark,"* Owlcombe *"Eyes open,"* Heronme
 | Feb | **The Glimmer Cup** | excitement, sabotage |
 | Sat 20 Mar | **The Greening**: spring equinox; the Glasshouses open their doors; the first swim (forbidden) | hope, dread |
 | Sat 1 May | **Brightfire**: the fire on Candlestone Hill, dancing, the last good night | joy |
-| Sun 20 – Mon 21 June | **Midsummer**: the Proving (final exams, done in the Hall) and the shortest night | battle |
-| Sat 26 June | **The Leaving Feast**: the House Lantern, every student's lantern let go through the roof | farewell |
+| Sun 20 – Mon 21 June | **Midsummer**: the Proving (final exams, done in the Hall; each first-year lights a lantern and lets it go, and it stays up among the ten thousand) and the shortest night | battle |
+| Sat 26 June | **The Leaving Feast**: the results, the House Lantern, the last supper of the year | farewell |
 
 ---
 
 ## Places
 
 **Your life (Wrexley)**
-- **7 Viaduct Street**: your narrow rented house under the railway viaduct: kitchen, stairs, the front door with a draught under it, a back yard with one tomato plant.
+- **7 Viaduct Street**: your narrow rented house under the railway viaduct: kitchen, stairs, the front door with a draught under it, a basil plant on the kitchen windowsill that turns its leaves to follow you.
 - **Nana Pearl's**: a bungalow across town that smells of lavender and toast; the only person you tell.
 - **Your work**: whatever you chose (the call centre at Brindle Mutual, the A&E reception at Wrexley General, the kitchen at the Pie & Pint, the returns desk at Harker's department store, the library, the bike-courier depot).
 

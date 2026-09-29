@@ -117,7 +117,7 @@ Rowan lets out a long breath. "Well," he says. "That's never happened to me."
 *date 2026-11-05 00:10
 *place P29 old_cloisters
 *present toby rowan familiar
-The Old Cloisters are a square of stone arches round a garden, exactly like the cloister above, except that they're forty feet underground, and the garden is dead, and nobody's walked here in two hundred and fifty years.
+The Old Cloisters are a square of stone arches round a garden, exactly like the cloister above, except that they're forty feet underground, and the garden is dead, and it looks as if nobody's walked here in two hundred and forty years.
 
 It takes a moment to understand what you're looking at. Your wandlight goes up the pillars and finds carvings on every one: the old signs, the ward-marks, the same ones that are cut into the stones round the island, cut deep here and worn smooth, as if hands have rubbed them for luck for a very long time. Water drips somewhere, slow and regular as a clock. The dead garden in the middle is grey ferns, dry as paper, and a stone fountain with no water in it. The air is so cold it hurts your teeth. Your breath hangs in front of you and doesn't drift away, because there's nothing down here to move it.
 
@@ -245,7 +245,7 @@ So you look with the flame-sight, and you see it: deep in the cage, on the far w
 
     "The wards are failing."
 
-    @idris:tense "The wards are being cut," he says. "It's different." He takes off his glasses and rubs his eyes, and without them he looks younger, and much more tired, and you see how long it's been since he slept. "I've been reading about this castle for six years. I know every book in this room. I know which ones lie. And I've never been so frightened of what one of them might say." He puts his glasses back on. "Will you help me open the cage? I have a key. I'm not supposed to have a key."
+    @idris:tense "The wards are being cut," he says. "It's different." He takes off his glasses and rubs his eyes, and without them he looks younger, and much more tired, and you see how long it's been since he slept. "I've been reading about this castle for twelve years. I know every book in this room. I know which ones lie. And I've never been so frightened of what one of them might say." He puts his glasses back on. "Will you help me open the cage? I have a key. I'm not supposed to have a key."
 
     "You've got a key to everything."
 

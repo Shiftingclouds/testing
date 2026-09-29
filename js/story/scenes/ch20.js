@@ -164,7 +164,7 @@ Every pretence of reading stops.
 
       A snort, from a reading nook. Someone else says [i]shh[/i]. You go on, and your voice steadies as you do, because it's easier to read somebody else's words than to find your own.
 
-      "[i]The Choir came for her at Martinmas. We sang them off. Lost two panes of glass.[/i]"
+      "[i]The flame-takers came for her at Martinmas. We sang them off. Lost two panes of glass.[/i]"
 
       "Sang them off," somebody repeats, very quietly, from the long table. "Sang them [i]off[/i]."
 
@@ -356,7 +356,7 @@ The spark is still there. Grey, cold, tiny, the last coal in the grate. You know
       #Go with her. Now. While your hands are still warm.
         *set kit_lit true
         *set chill +1
-        You go with her. Kit Sallow is in the second ward, by the window, with his sister's sharp chin and dark eyes gone blank, and his spark is very faint, much fainter than Maisie's; three years, and a sister who came every other Sunday and talked about the weather. You sit down and take his hands and breathe on it, and it's hard, harder than Maisie, and the cold comes up your arms, and Imogen's standing behind you with her hand on your back, and you can feel her willing it, the whole fierce force of her.
+        You go with her. Kit Sallow is in the second ward, by the window, with his sister's sharp chin and dark eyes gone blank, and his spark is very faint, much fainter than Maisie's; three years, and a sister who came once a month and talked about the weather. You sit down and take his hands and breathe on it, and it's hard, harder than Maisie, and the cold comes up your arms, and Imogen's standing behind you with her hand on your back, and you can feel her willing it, the whole fierce force of her.
 
         It catches.
 

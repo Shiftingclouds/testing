@@ -129,7 +129,7 @@ You don't know where to start. You look at the paper, and the lamp, and Idris's 
 *if e07
   "Bram's last argument. With Cas, in the Undercroft, the night Bram was taken." You make yourself say the rest. "The Order wrote it down as a threat."
   *if (st_cas >= 3) and (hurt_cas < 2)
-    @cas:guarded "It was a threat," says Cas, from the end of the table, without unfolding his arms. "A stupid one. He'd been calling my grandfather a coward in front of the whole house for weeks, and I told him somebody would shut his mouth for good one day." A muscle moves in his jaw. "He was right about my grandfather, as it turns out. I didn't know that then."
+    @cas:guarded "It was a threat," says Cas, from the end of the table, without unfolding his arms. "A stupid one. He'd been calling my grandfather a coward in front of everyone for weeks, and I told him somebody would shut his mouth for good one day." A muscle moves in his jaw. "He was right about my grandfather, as it turns out. I didn't know that then."
 
   @imogen:neutral Imogen crosses something out, a whole line, very firmly. "A row in the Undercroft doesn't open a ward under the Mere," she says. "It's noise. Good. I hate noise."
 
@@ -152,7 +152,7 @@ You don't know where to start. You look at the paper, and the lamp, and Idris's 
 
       @imogen:grave "The wicks," she says. "The oil. The lanterns humming. The wards on his round. Maisie." She opens her eyes. "Every single thing on this table goes through his hands. Every single night." Her voice cracks, just slightly. "He knows all our names. He lit my lantern on the first night. He said [i]mind the step[/i]."
 
-      @idris:grave "He's known about the Heartfire for forty years," says Idris, very low. "He told you so. He lights his taper off it, through the keyhole." He takes his glasses off and rubs his eyes. "He's been the kindest man in this castle to every one of us. That's not a reason it isn't him. It might be the reason it is."
+      @idris:grave "He's known about the Heartfire for forty years," says Idris, very low. "He told you so. He lights his taper off it, at the cracks of the door." He takes his glasses off and rubs his eyes. "He's been the kindest man in this castle to every one of us. That's not a reason it isn't him. It might be the reason it is."
   *if not((e02 and e04) or (e02 and e08) or (e04 and e08) or (e04 and e09) or (e08 and e09) or (e02 and e09))
     #"It's Mr Tully. I don't know how I know. I just do."
       *set suspect "tully"
@@ -190,7 +190,7 @@ The door isn't locked. Nobody locks doors at Wrenfold.
 
 Inside, it's one room downstairs, small and warm and very tidy, with a black iron stove, and a rag rug, and one armchair with the stuffing coming out, and a kettle, and a shelf of lantern parts: wicks and glass and little brass fittings, all in rows, sorted by size. There's one cup on the draining board, and one plate, and one knife and fork, washed and put to dry. It smells of lamp oil and tea and the peppermints he always has in his pocket. On every wall, on every shelf, on the mantelpiece and the windowsill and the back of the door, there are photographs of a girl.
 
-A little girl on a beach with a bucket. A girl of ten on a bicycle, laughing. A thin fair teenager with her father's long face, scowling in a school uniform. A young woman, twenty-four, in Heronmere sea-green and pearl, holding a lopsided candle on a frozen lake, grinning so hard her eyes have disappeared. Maisie. Maisie, Maisie, Maisie. There must be two hundred of them.
+A little girl on a beach with a bucket. A girl of ten on a bicycle, laughing. A thin fair teenager with her father's long face, scowling in a school uniform. A young woman, twenty-four, in Heronmere sea-green and pearl, holding up a lopsided paper lantern at the edge of the Mere, grinning so hard her eyes have disappeared. Maisie. Maisie, Maisie, Maisie. There must be two hundred of them.
 
 You stand on the rag rug and turn round slowly, and she's everywhere you look. You feel like a thief. You are one.
 
@@ -255,7 +255,7 @@ The kettle's singing now, thin and high. He gets up and sees to it. His hands do
 
 He doesn't go on at once. He looks at the photograph on the mantelpiece: the frozen Mere, and the lopsided candle, and the grin.
 
-@tully:sad "Six years ago. Her Burning Year. Heronmere, she was. She was going to do lanterns when she'd finished, like me, only properly, with a spark. She used to tease me about it." A breath. "She'd been to Thimble Cross on a Saturday, for a new pair of boots, and she walked home by the shore path because it was a nice evening. A mile from this door. A mile." His voice doesn't change. His hands stop turning the cap. "They found her sitting on the shingle, looking at the water. She asked the Lamplighter who found her what his name was."
+@tully:sad "Six years ago. Her Burning Year. Heronmere, she was. She was going to do lanterns when she'd finished, like me, only properly, with a spark. She used to tease me about it." A breath. "She'd been to Thimble Cross on a Sunday, for a new pair of boots, and she walked home by the shore path because it was a nice evening. A mile from this door. A mile." His voice doesn't change. His hands stop turning the cap. "They found her sitting on the shingle, looking at the water. She asked the Lamplighter who found her what his name was."
 
 You don't say anything. There isn't anything.
 
@@ -373,7 +373,7 @@ It's full of the hollowed. That's the thing nobody tells you. You knew they were
 @cas:grave Cas came too. You didn't expect him to. He was on the platform at Wrenfold Halt when you got there, in his black coat, with a ticket already in his hand. He'd been meaning to go since February, he said, since he found out what his grandfather did; he just hadn't been able to make himself get on the train. "Then I saw you," he said, "and I thought, well. If not now." He's walking beside you down the ward with his face like stone, looking at every bed.
 *if (st_imogen >= 3) and (hurt_imogen < 2)
   *present imogen kit
-  @imogen:grave And Imogen. Of course Imogen. She comes every other Sunday anyway. She peels off at the second ward without a word, and you see her through the glass, sitting down beside a young man with her sharp chin and dark eyes gone blank, and taking his hand. Kit. He smiles at her pleasantly. She smiles back, and starts talking to him, brightly, about the weather, as if he can hear.
+  @imogen:grave And Imogen. Of course Imogen. It's her Sunday for Kit anyway; she's come once a month for three years. She peels off at the second ward without a word, and you see her through the glass, sitting down beside a young man with her sharp chin and dark eyes gone blank, and taking his hand. Kit. He smiles at her pleasantly. She smiles back, and starts talking to him, brightly, about the weather, as if he can hear.
 
   *meet kit
   @kit:hollowed "Hello," you hear him say, as you pass, in a voice exactly like hers, only empty. "Have we met?"
@@ -418,7 +418,7 @@ You open your eyes. Mr Tully is watching your face. He's seen it. You didn't nee
 
 @tully:sad Mr Tully looks at him. At his face, his cheekbones, his hands. "You've got his hands," he says. Not cruelly. Just a fact. "Yes, lad. I was up the ladder, doing the lamps. I saw it."
 
-@cas:grave "Tell me." Cas's voice is barely there. "Please. Nobody ever has. Not properly. They tell me what it [i]meant[/i]."
+@cas:grave "Tell me." Cas's voice is barely there. "Please. What you saw, from up there. The Headmistress was beside him; she told me what it [i]meant[/i]. Nobody's told me what it looked like."
 
 @tully:sad Mr Tully looks out of the window at the roofs for a while before he starts. "February," he says. "Cold. The Warding Hall was full; it was a big lesson, both years. I was up by the high windows with my taper. There was a hum in the room. There always is, when they're warding; you get used to it." He moves his cap in his hands. "Your grandfather was at the front. Thin lad, frightened. He had a black book open on the bench in front of him, and he kept looking down at it, and his lips were moving."
 

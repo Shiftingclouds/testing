@@ -126,7 +126,7 @@ Imogen has sat down, at last, without seeming to notice she's done it.
 
 @kestrel:grave "I was thirty-one, and a first-year, and frightened of the Deputy," says the Headmistress. "I said nothing. And then I went on saying nothing, for forty years, because every year it was harder to start." She looks at Cas. "I'm sorry, Casimir. You should have heard this from me a long time ago."
 
-@cas:hurt Cas doesn't say anything. The rain runs down the windows. One of the weathervanes creaks round. Then he says, in a voice like broken glass: "He used to take me fishing. My grandfather. He was the only one who talked to me, the years I didn't kindle. He used to say, [i]some flames come late, Casimir, and they're the better for it[/i]." He laughs, horribly. "He knew. The whole time. He'd put one out."
+@cas:hurt Cas doesn't say anything. The rain runs down the windows. One of the weathervanes creaks round. Then he says, in a voice like broken glass: "He used to take me fishing. My grandfather. He was the only one who talked to me, the years I didn't kindle. He used to say, [i]some flames come late, Casimir, and they're the better for it[/i]." He laughs, horribly. "He knew. He must have kindled late himself, to be here at all, and they buried that too. He knew the whole time. And he'd put one out."
 
 You watch it land on him. Not all at once. In pieces, the way the cold gets into you on the ice: the fishing, the kind voice, the hand on his shoulder at the family table, each one turning over and showing what was underneath.
 *if (st_cas >= 3) and not(b_cas_family) and (hurt_cas < 2)
@@ -218,13 +218,13 @@ Your flame lifts its head. You feel it from across the room. Warm. {@ch13_way = 
 
 "Did you read it?"
 
-@honoria:neutral She turns her pale eyes on you. "I'm not one of you," she says. "I never was. I married into the Drummonds without a spark in me, and I watched what they did with theirs. I didn't need to read a book to know what was in that drawer. I knew it was something that had cost somebody everything." She lays her hand on the letters. "And these are Lucius's. He wrote them to Aldric Morrow. One every February. For thirty-one years." A pause. "He never sent one. He'd write it, and seal it, and give it to me to put away. As if I were the post office for his conscience."
+@honoria:neutral She turns her pale eyes on you. "I'm not one of you," she says. "I never was. I married into the Drummonds without a spark in me, and I watched what they did with theirs. I didn't need to read a book to know what was in that drawer. I knew it was something that had cost somebody everything." She lays her hand on the letters. "And these are Lucius's. He wrote them to Aldric Morrow. One every February. For thirty-nine years." A pause. "He never sent one. He'd write it, and seal it, and give it to me to put away. As if I were the post office for his conscience."
 *clue e12
 @honoria:neutral She unties the ribbon and takes out the top letter and holds it out. Not to the Headmistress. To Cas. "Read that one," she says. "The last. He wrote it the week he died."
 
 Cas takes it. His hands are shaking. He unfolds it, and looks at it for a moment without reading, as if the handwriting itself is something he has to get past first. Then he reads it aloud, in a flat careful voice, as if every word is a step on ice.
 
-[i]Aldric. I did it. Not by accident; I have told myself it was an accident for thirty years and it was not. I was afraid of you, and I had my father's book, and I wanted you smaller.[/i]
+[i]Aldric. I did it. Not by accident; I have told myself it was an accident for nearly forty years and it was not. I was afraid of you, and I had my father's book, and I wanted you smaller.[/i]
 
 He stops. He swallows. The fire cracks.
 
@@ -300,7 +300,7 @@ You turn the pages. The fort on the edge of a black lake, draughty and leaking. 
 
 @kestrel:warm "She said that to me," says the Headmistress, softly. "Not in those words. The night I came. I'd blown up a greengrocer's and I cried all the way across the Mere, and the old Headmaster gave me soup and said I could stay." She shakes her head. "I thought he'd made it up himself."
 
-"[i]Old Nell from the ferry, sixty-one, sings the fish up. The Choir came for her at Martinmas. We sang them off. Lost two panes of glass.[/i]"
+"[i]Old Nell from the ferry, sixty-one, sings the fish up. The flame-takers came for her at Martinmas. We sang them off. Lost two panes of glass.[/i]"
 
 You both go still at that. Neither of you says anything. You turn the page.
 

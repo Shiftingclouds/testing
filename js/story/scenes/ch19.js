@@ -458,7 +458,7 @@ At Platform Nought, the Lantern Train is waiting, steam rolling off it in the co
   @cas:hurt Cas came, in his black coat. He stands by the carriage door and says, stiffly, "This is idiotic. You're the only one of us who can do what needs doing and you're going to sit in a bog." Then, lower, turning the signet ring round and round on his finger: "Come back. I don't have anyone else who knows."
 *elseif (st_idris >= 3) and (hurt_idris < 2)
   *present idris
-  @idris:hurt Idris came. He gives you a notebook: his notes on Kindlers, all of them, three years' worth, in his cramped tiny hand. "You'll need them more than I will," he says. Then, as the whistle goes: "I'll write. Every day. Answer some of them."
+  @idris:hurt Idris came. He gives you a notebook: his notes on Kindlers, all of them, twelve years' worth, in his cramped tiny hand. "You'll need them more than I will," he says. Then, as the whistle goes: "I'll write. Every day. Answer some of them."
 *else
   Nobody came. That's all right. You said your goodbyes last night, in the common room, and people hugged you and said [i]come back[/i], and you said you would. Somebody had made a card. Everybody had signed it. It's in your coat pocket, and you keep putting your hand on it.
 

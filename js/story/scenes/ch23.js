@@ -66,7 +66,7 @@ You can see that he means it. That's the worst of it. Seeing a flame never tells
   *present cas
   @cas:grave There are footsteps on the passage behind you. Fast, then slowing. Cas comes out into the root of the rock, out of breath, with his grandfather's hands at his sides. He followed you down. Of course he did. [i]This is the door. This is where it's owed.[/i]
 
-  @cas:grave He doesn't look at the Heartfire. He looks at Aldric Morrow. "My name's Casimir Drummond," he says. His voice shakes and doesn't break. "Lucius was my grandfather. He wrote you letters. Every year for thirty-one years. He never sent them." He takes a folded paper out of his coat: the last letter. [i]I did it. Not by accident.[/i] He holds it out. "He wanted you to have this. He was too much of a coward to send it. I'm not him."
+  @cas:grave He doesn't look at the Heartfire. He looks at Aldric Morrow. "My name's Casimir Drummond," he says. His voice shakes and doesn't break. "Lucius was my grandfather. He wrote you letters. Every year for thirty-nine years. He never sent them." He takes a folded paper out of his coat: the last letter. [i]I did it. Not by accident.[/i] He holds it out. "He wanted you to have this. He was too much of a coward to send it. I'm not him."
 
   @morrow:neutral Aldric Morrow looks at the letter. He doesn't take it. He reads it where it is, in Cas's hand, the paper shaking very slightly. Something happens in his grey face, something very old, like ice shifting on a lake in spring. "Not by accident," he says, very quietly. "I always knew. It helps, somehow, to hear it said." And for one second, when you look, there's something in the cold place in him that isn't a stolen flame. A flicker. Grey, and cold, and tiny. Like the last coal in a grate.
 

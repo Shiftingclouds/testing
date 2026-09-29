@@ -101,7 +101,7 @@ There's a light at the back of the second gallery, behind the iron grille of the
 
       Inside, a photograph. A young man, twenty-five, twenty-six, with a long beautiful laughing face and a lot of dark hair and bright, bright eyes, in Owlcombe plum and silver, grinning at the camera as if he's just been told a wonderful joke. You'd never have known him. You'd never have put that face with the grey hooded figure in the stories.
 
-      Under the photograph, reports. [i]Exceptional. The brightest flame this school has seen in a century.[/i] [i]Aldric relit a snuffed candle with his bare hand in his third week. We believe him to be a Kindler, the first since the founder. The Headmaster has asked that this be kept quiet for his own protection.[/i] And then, dated February 1986, a single typed page, half of it blacked out with thick ink:
+      Under the photograph, reports. [i]Exceptional. The brightest flame this school has seen in a century.[/i] [i]Aldric relit a snuffed candle with his bare hand in his third week. We believe him to be a Kindler, the first in living memory. The Headmaster has asked that this be kept quiet for his own protection.[/i] And then, dated February 1986, a single typed page, half of it blacked out with thick ink:
 
       [i]Warding exercise, 14 Feb. Incident. A student (name withheld at the request of the Deputy) cast an unsanctioned [redacted] in panic. Aldric Morrow's flame was extinguished. Entirely. All attempts at relighting have failed. He has been sent home to recover. Students are asked not to discuss the matter. The matter is closed.[/i]
 
@@ -113,7 +113,7 @@ There's a light at the back of the second gallery, behind the iron grille of the
 
       @idris:hurt He doesn't answer for a while. The lamp hisses. Somewhere below you, the floor is warm.
 
-      @idris:hurt "My mother was hollowed," he says, "when I was seventeen." He says it the way he says everything, precisely, as a fact. But his hands on the folder are very still. "She was a late flame, like us. Kindled at forty-four, in her garden, making the roses bloom in November. She was so happy. For about six weeks." He looks at the photograph. "The Choir came to the house. I was upstairs. I heard the humming and I thought it was the boiler." His voice doesn't change. "She lived two more years. Polite. Grey. Asking me every week what my name was. My father lasted a year after that. The doctors had a word for it. I didn't think much of the word."
+      @idris:hurt "My mother was hollowed," he says, "when I was seventeen." He says it the way he says everything, precisely, as a fact. But his hands on the folder are very still. "She was a late flame, like us, as late as they come. Kindled at thirty-five, in her garden, making the roses bloom in November. She was so happy. For about six weeks." He looks at the photograph. "The Choir came to the house. I was upstairs. I heard the humming and I thought it was the boiler." His voice doesn't change. "She lived two more years. Polite. Grey. Asking me every week what my name was. My father lasted a year after that. The doctors had a word for it. I didn't think much of the word."
 
       You don't say anything. There isn't anything. You sit on the cold floor of the cage with your shoulder against his and let it be as big as it is.
 

@@ -471,7 +471,7 @@ Moll Dunmore has pushed all the tables against the walls and put every blanket i
 
 @arkwright:grave Commander Arkwright arrived at four, by broom, from St Ide's, with snow in her cropped grey hair and her scarred face set like a wall. She went up the high street and down it. She talked to Jory Penrose for ten minutes in the alley by the post office, and when he came back in, he'd been crying, and she hadn't shouted at him, and that was worse. Now she's standing at the bar, not drinking, looking at Odile Pellow.
 
-@arkwright:grave "I was at St Ide's," she says. Not to you. To no one. "Guarding the ones who'd already been taken. I thought they'd come back to finish them." A muscle in her jaw moves. "They came to the village in daylight, with four hundred students in it, and six of mine." She turns the brass lamp badge on her greatcoat, round and round. "I can't be everywhere. I've never been able to be everywhere. I just used to be able to pretend."
+@arkwright:grave "I was at St Ide's," she says. Not to you. To no one. "I changed the plan on Thursday. Took most of my people to guard the ones who'd already been taken. I thought they'd come back to finish them." A muscle in her jaw moves. "They came to the village in daylight, with four hundred students in it, and six of mine." She turns the brass lamp badge on her greatcoat, round and round. "I can't be everywhere. I've never been able to be everywhere. I just used to be able to pretend."
 *if morrow_knows
   @arkwright:grave She looks at you then. Hard. "The Hush saw you," she says, very low, so only you hear. "Didn't she. Whatever you did out there." It isn't a question. "Then he knows. Not guesses. [i]Knows[/i]." She holds your eyes. "From now on, you're not out of my sight. I don't care what the Headmistress says."
 
@@ -485,7 +485,7 @@ Moll Dunmore has pushed all the tables against the walls and put every blanket i
 
 "Wren. As in Hester Wren?"
 
-@kestrel:neutral "As in Hester Wren. She wrote it. You won't find that in the histories; there's hardly anything of Hester in the histories, which I've always thought was the way she wanted it." A log shifts in the grate. "The Choir had its note even then. Four hundred years ago. This was her answer to it."
+@kestrel:neutral "As in Hester Wren. She wrote it. You won't find that in the histories; there's hardly anything of Hester in the histories, which I've always thought was the way she wanted it." A log shifts in the grate. "The note's older than the Choir. Morrow didn't invent it; he dug it up. There were flame-takers in Hester's day too, and they hummed it. Four hundred years ago. This was her answer to it."
 
 "An answer to a note?"
 

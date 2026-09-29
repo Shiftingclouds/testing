@@ -229,7 +229,7 @@ On the wall above the stove there's a photograph in a frame. A young woman, abou
 
 You wait. His hands have started to shake. He puts the lantern he's holding down on the bench, very carefully, as if it might break.
 
-@tully:sad "Six years ago," he says. "In her Burning Year. Walking back from the village on a Saturday, on her own, with her shopping." A pause. "They found her sitting on the wall by the lane. Shopping bags at her feet. Nothing wrong with her. Nothing at all." He looks at his hands. "Grey."
+@tully:sad "Six years ago," he says. "In her Burning Year. Walking back from the village on a Sunday, on her own, with her shopping." A pause. "They found her sitting on the wall by the lane. Shopping bags at her feet. Nothing wrong with her. Nothing at all." He looks at his hands. "Grey."
 
 "Where is she now?"
 
@@ -257,7 +257,7 @@ You look at it. And you see it straight away, without the flame-sight, just with
   #"The old fire under the school. What is it, really?"
     *set wit +5
     *set kindling +5
-    @tully:neutral "Couldn't tell you, love," he says. "Something old. Something the founder left. Nobody's allowed down there but the Headmistress and me, and I only go as far as the door, and light my taper off what comes through the keyhole." He shakes his head. "Forty years, and I've never seen it. Just felt it. Warm, like. Like standing near someone who loves you."
+    @tully:neutral "Couldn't tell you, love," he says. "Something old. Something the founder left. Nobody's allowed down there but the Headmistress and me, and I only go as far as the door, and light my taper off what comes through the cracks round it." He shakes his head. "Forty years, and I've never seen it. Just felt it. Warm, like. Like standing near someone who loves you."
 
     "What's behind the door?"
 

@@ -13,7 +13,7 @@ On Tuesday morning the Brewing Cellars door sticks, and you put your shoulder to
 
 {fam_name} learns the castle faster than you do. You come back from lunch on Wednesday to find {fam_name} asleep on the one good radiator on the second floor, in a small circle of admirers, and on Thursday there's a note pinned to the door of your dormitory in large angry capitals, [i]WOULD THE OWNER OF[/i], followed by a detailed description of {fam_name}, [i]KINDLY KEEP IT AWAY FROM MY GOAT. MRS PETTIGREW (KITCHENS).[/i]
 
-Hearth isn't on the timetable as a lesson. It's on the timetable as [i]Hearth (Thursdays, the Hall, bring nothing)[/i]. It turns out to mean the Headmistress, and forty-three first-years, the same forty-three you share Wordcraft with, lying on their backs on the floor of the Lantern Hall at five o'clock on a Thursday, looking up.
+Hearth isn't on the timetable as a lesson. It's on the timetable as [i]Hearth (Thursdays, the Hall, bring nothing)[/i]. It turns out to mean the Headmistress, and all forty-three first-years, the same faces that were round you in the Wordcraft Gallery, lying on their backs on the floor of the Lantern Hall at five o'clock on a Thursday, looking up.
 
 The lanterns have come down low for it. They hang six feet above you, drifting, gold and rose and green and blue, close enough that you can see the brushmarks on the paper and the tiny scorched patches where somebody, years ago, mended them. The benches have been pushed back against the walls. The Hall is dim and warm and humming, and it smells of candle-wax and floor polish and, faintly, of the lemon soap they use on the tables. It's like lying at the bottom of a lit pond.
 

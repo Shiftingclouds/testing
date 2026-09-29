@@ -44,11 +44,11 @@ Who you tell is yours to decide. The Headmistress asks you to tell no one.
 
 ## The dark: the Grey Choir
 
-Forty years ago, **Aldric Morrow** was the brightest student Wrenfold had seen in a century and the first Kindler since its founder. During a Warding exercise, a classmate's panic spell went wrong and **snuffed him**: put out his flame entirely. The school hushed it up: the classmate was from an important family, the Deputy of the day wanted no scandal, and a hollowed Kindler was an embarrassment. They sent Morrow home grey and empty and told him he'd recover.
+Forty years ago, **Aldric Morrow** was the brightest student Wrenfold had seen in a century and the first Kindler in living memory (there have been six or seven since Hester, in four hundred years). During a Warding exercise, a classmate's panic spell went wrong and **snuffed him**: put out his flame entirely. The school hushed it up: the classmate was from an important family, the Deputy of the day wanted no scandal, and a hollowed Kindler was an embarrassment. They sent Morrow home grey and empty and told him he'd recover.
 
 He didn't. But he was still a Kindler somewhere under the ash, and he found that while he couldn't light his own flame, he could *take* someone else's and burn it for a while. A stolen flame lasts months. Then he needs another.
 
-He has spent forty years learning to take flames without touching anyone: with a **note**. A hummed, wordless chord that makes flames gutter and lean towards it. He taught it to the lost and the bitter and the magicless-born who wanted what others had, and they became **the Grey Choir**. Choir members wear grey, hum rather than speak, and leave the people they take **hollowed**: alive, walking, polite, grey-skinned and blank, remembering less every week. The hollowed are kept at **St Ide's**, a hospital in the city nobody visits.
+He has spent forty years learning to take flames without touching anyone: with a **note**. A hummed, wordless chord that makes flames gutter and lean towards it. He didn't invent it: it's an old hunger-song, hummed by the flame-takers of Hester Wren's day, and her Wren's Song was written to answer it. He dug it out of the old books and revived it. He taught it to the lost and the bitter and the magicless-born who wanted what others had, and they became **the Grey Choir**. Choir members wear grey, hum rather than speak, and leave the people they take **hollowed**: alive, walking, polite, grey-skinned and blank, remembering less every week. The hollowed are kept at **St Ide's**, a hospital in the city nobody visits.
 
 Late flames in their Burning Year can be taken *whole*, in one song. That's why the Choir circles Wrenfold every year, and why the school has wards, the Lanternwarden's lanterns, and a Headmistress who doesn't sleep much.
 
@@ -62,7 +62,7 @@ Late flames in their Burning Year can be taken *whole*, in one song. That's why 
 
 Someone inside Wrenfold is helping the Choir: opening the wards a crack on certain nights, letting the humming in. It's **Absalom Tully, the Lanternwarden**, the gentle old man who tends the ten thousand lanterns and knows every student by name. His daughter **Maisie** was hollowed six years ago, at twenty-four, in her Burning Year. Morrow has promised to relight her once he has the Heartfire and a Kindler to carry it. Tully believes him.
 
-The mystery points elsewhere first: at **Professor Magnus Grey**, the scarred and silent Warding master who was once a Lamplighter spy inside the Choir, and who has every reason to look guilty. He is innocent. He dies in February protecting students from the Choir, in the chapter called *The Quiet*, whatever you thought of him.
+The mystery points elsewhere first: at **Professor Magnus Grey**, the scarred and silent Warding master who was once a Lamplighter spy inside the Choir, and who has every reason to look guilty. He is innocent. He dies in March protecting students from the Choir, in the chapter called *The Quiet*, whatever you thought of him.
 
 ---
 
@@ -90,7 +90,7 @@ One school year, September to June, in 24 chapters. Placeless but British: rain,
 
 **8. Emberfall.** *(Saturday 31 October.)* The night the veil thins. Masks, apple-fire, lanterns floated on the Mere to the dead. Ghosts walk the cloisters for one night; one of them, **Lettice Crane**, hollowed forty years ago, walks straight up to you: *he's coming back for what he lost; you have it*. Imogen's brother is at St Ide's; she tells you, or doesn't.
 
-**9. Under Wrenfold.** *(Early November.)* A complete adventure: the Old Cloisters beneath the school are sealed, and something in them is calling students by name; or a painted map in the Owlcombe Stacks is eating the ink out of the library. Each is its own mystery with its own monster, and neither has anything to do with the Choir, except that both were woken by something moving the old wards.
+**9. Under Wrenfold.** *(Early November.)* A complete adventure: the Old Cloisters beneath the school are sealed, and something in them is calling students by name; or the painted Wrenfold Map in the restricted cage of the Long Stacks is eating the ink out of the library. Each is its own mystery with its own monster, and neither has anything to do with the Choir, except that both were woken by something moving the old wards.
 
 **10. The Lamplighters.** *(Mid-November.)* A second hollowing, a Rookhallow first-year, **Bram Hollis**, Cas's old crony. The Order arrives: **Commander Sabine Arkwright** and her officers take over the Warding Hall and interview everyone. Suspicion falls on Professor Grey (he was Choir once, as a spy), and on Cas (Bram's last argument was with him). Arkwright learns what you are, or doesn't, depending on who you've told.
 

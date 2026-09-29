@@ -28,7 +28,7 @@ const cast = [
     moods: ["neutral", "warm", "amused", "laugh", "tense", "hurt"] },
   { id: "C04", name: "Casimir Drummond", age: 27, kind: "student", tier: "lead", house: "rookhallow", romance: true,
     appearance: "Tall and narrow, long elegant face with high cheekbones, a straight nose and a mouth set in a sneer by default. Pale blond hair swept back; very fair skin; cold grey eyes. Immaculate black robes with a copper-thread collar, a signet ring he turns when he's nervous.",
-    notes: "Heir of an old magical family, disgraced by kindling late. Grandfather Lucius snuffed Aldric Morrow forty years ago. Lonely, sneering, secretly kind. House: Rookhallow unless the player is Rookhallow, in which case Owlcombe (the script uses cas_house).",
+    notes: "Heir of an old magical family, disgraced by kindling late. Grandfather Lucius (late-kindled himself, a first-year in 1986 and already married, though the family buried both facts) snuffed Aldric Morrow forty years ago; he died in February 2025, after thirty-nine unsent letters. Lonely, sneering, secretly kind. House: Rookhallow unless the player is Rookhallow, in which case Owlcombe (the script uses cas_house).",
     moods: ["neutral", "warm", "amused", "tense", "hurt", "guarded"] },
   { id: "C05", name: "Noor Haddad", age: 25, kind: "student", tier: "lead", house: "heronmere", romance: true,
     appearance: "Medium height, soft oval face with strong dark brows and calm, heavy-lidded brown eyes. Long dark hair in a thick practical plait; warm light-brown skin. A navy nurse's watch pinned to her sea-green-and-pearl robes; sensible shoes.",
@@ -36,20 +36,20 @@ const cast = [
     moods: ["neutral", "warm", "amused", "tense", "hurt", "tired"] },
   { id: "C06", name: "Idris Penhallow", age: 29, kind: "student", tier: "lead", house: "owlcombe", romance: true,
     appearance: "Lean, long face with deep-set dark eyes, a strong nose and a neat short black beard. Close-cropped black hair; deep brown skin. Round wire glasses. Plum-and-silver second-year robes worn soft, a satchel stuffed with notebooks, a silver moth pin.",
-    notes: "Second-year Kindling scholar; studies the old Kindlers. The only one who sees what you are. Quiet, exact, secretive; half the school suspects him.",
+    notes: "Second-year Kindling scholar; has studied the old Kindlers for twelve years, since his mother was hollowed when he was 17. The only one who sees what you are. Quiet, exact, secretive; half the school suspects him.",
     moods: ["neutral", "warm", "amused", "tense", "hurt", "attentive"] },
 
   // ------------------------------------------------------------------ your best friend
   { id: "C07", name: "Toby Quill", age: 23, kind: "student", tier: "frequent", house: "heronmere",
     appearance: "Short and round-faced with pink cheeks, a snub nose and big anxious blue eyes. Floury-blond hair that sticks up at the crown; fair skin. A too-big knitted cardigan under his robes; flour on his sleeve.",
-    notes: "Baker's apprentice who kept setting croissants on fire. Your best friend. In love with Priya. Hollowed on 6 March; relit or not in CH19 (toby_lit).",
+    notes: "Baker's apprentice who kept setting croissants on fire. Your best friend. In love with Priya. Hollowed in the Quiet, 23:45 on 5 March (status dated the 6th); relit or not in CH19 (toby_lit).",
     status: [{ date: "2027-03-06", state: "hollowed", note: "the Quiet", until: "toby_lit" }],
     moods: ["neutral", "warm", "amused", "laugh", "scared", "sad", "hollowed"] },
 
   // ------------------------------------------------------------------ staff
   { id: "C08", name: "Imelda Kestrel", age: 71, kind: "staff", tier: "frequent",
     appearance: "Tall, straight-backed old woman with a long lined face, bright hazel eyes and laughter lines. A silver braid to her waist, wound with a gold thread; brown freckled skin, star-freckles across the nose. Midnight-blue robes stitched with tiny gold wrens.",
-    notes: "Headmistress. Kindled at thirty. Knew Aldric Morrow at school. Hurt in the Quiet (March).",
+    notes: "Headmistress (for eleven years; a teacher here for thirty). Kindled at thirty; a first-year in 1985–86, in the same year as Aldric Morrow and Lucius Drummond. Hurt in the Quiet (March).",
     moods: ["neutral", "warm", "amused", "grave", "tired"] },
   { id: "C09", name: "Aurelio Bassani", age: 58, kind: "staff", tier: "supporting", house: "larkspire",
     appearance: "Round, theatrical, olive-skinned man with a magnificent curled grey moustache, bushy eyebrows and twinkling dark eyes. Bald on top with a grey fringe. Gold-and-rose waistcoat, a flower in his buttonhole that changes daily.",
@@ -66,7 +66,7 @@ const cast = [
   { id: "C13", name: "Magnus Grey", age: 55, kind: "staff", tier: "supporting",
     appearance: "Big, heavy, silent man with a craggy grey-stubbled face, a broken nose and deep-set tired blue eyes. Iron-grey hair cut short; pale weathered skin. Burn scars on both hands to the wrist; plain charcoal robes.",
     notes: "Warding. Ex-Lamplighter who spied inside the Choir for years. Red herring; innocent. Dies in the Quiet, 6 March.",
-    status: [{ date: "2027-03-06", state: "dead", note: "holding the west stair in the Quiet" }], moods: ["neutral", "grave", "warm"] },
+    status: [{ date: "2027-03-06", state: "dead", note: "holding the east stair in the Quiet" }], moods: ["neutral", "grave", "warm"] },
   { id: "C14", name: "Dunstan Moth", age: 67, kind: "staff", tier: "supporting",
     appearance: "Tiny, delighted old man with a round pink face, enormous white eyebrows, huge round spectacles and a fluffy white beard. Stands on a stack of books to teach. Dusty lavender robes covered in chalk.",
     notes: "Wordcraft. Squeaks with joy at good spellwork.", moods: ["neutral", "amused"] },
@@ -169,21 +169,21 @@ const cast = [
   // ------------------------------------------------------------------ the lost and the dead
   { id: "C42", name: "Lettice Crane", age: 25, kind: "ghost", tier: "minor",
     appearance: "A translucent young woman in 1980s school robes, with a round sweet face, big grey eyes and a frizzy perm. Silvery-blue and see-through.",
-    notes: "Hollowed forty years ago (Morrow's classmate); died later. Walks on Emberfall and Midsummer.", moods: ["neutral"] },
+    notes: "Heronmere, Morrow's classmate in 1986. The first he came back for, soon after he was sent home: hollowed forty years ago; died later. Walks on Emberfall and Midsummer.", moods: ["neutral"] },
   { id: "C43", name: "Maisie Tully", age: 30, kind: "student", tier: "minor",
     appearance: "Thin young woman with her father's long face and pale blue eyes gone foggy, fair hair in a hospital plait. Grey-tinged skin. A hospital cardigan.",
-    notes: "Tully's daughter. Hollowed six years ago in her Burning Year. At St Ide's.",
+    notes: "Tully's daughter. Kindled at 24; hollowed six years ago (Sunday 1 November 2020) in her Burning Year, walking back from the village. At St Ide's.",
     status: [{ date: "2020-11-01", state: "hollowed", note: "her Burning Year", until: "maisie_lit" }], moods: ["hollowed", "neutral"] },
   { id: "C44", name: "Kit Sallow", age: 27, kind: "student", tier: "minor",
     appearance: "Imogen's older brother: the same sharp chin and dark eyes, gone blank. Black hair grown out; light olive skin with a grey cast.",
-    notes: "Hollowed three years ago. At St Ide's.",
+    notes: "Hollowed three years ago, at 24, in the first term of his Burning Year: in a subway on the way back from his birthday at home. At St Ide's; Imogen visits monthly.",
     status: [{ date: "2023-09-20", state: "hollowed", note: "his Burning Year", until: "kit_lit" }], moods: ["hollowed"] },
   { id: "C45", name: "Hester Wren", age: 60, kind: "founder", tier: "minor",
     appearance: "A painted portrait: a weather-beaten fisherwoman with a broad face, a crooked smile and bright wren-brown eyes. Grey hair in a knot; sunburnt white skin. Oilskin coat. Painted in oils, cracked varnish, gilt frame.",
     notes: "The founder, four hundred years dead; her portrait in the Weathervane Room sometimes speaks.", moods: ["neutral"] },
   { id: "C46", name: "Honoria Drummond", age: 88, kind: "ordinary", tier: "minor",
     appearance: "Formidable old woman with Cas's cheekbones, a hawk nose and cold pale eyes. White hair in an immaculate chignon; very fair skin. Black lace, jet beads.",
-    notes: "Cas's grandmother, Lucius's widow. Knows what Lucius did.", moods: ["neutral"] }
+    notes: "Cas's grandmother, Lucius's widow and some years his elder. Knows what Lucius did; kept his unsent letters.", moods: ["neutral"] }
 ];
 
 module.exports = { cast };

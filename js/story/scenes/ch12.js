@@ -126,7 +126,7 @@ Everybody knows. People bring her things: sandwiches, candles, a hot-water bottl
 
 You find her there on Saturday, at ten o'clock, in the music section, which you didn't know the Long Stacks had: three whole bays at the back of the second gallery, dusty, forgotten, stacked to the ceiling with songbooks and hymnals and old sheet music gone brown at the edges. Imogen is sitting on the floor among it all with a candle and six piles of books and a face like a knife.
 
-@imogen:tense "It's not here," she says, before you've said anything. "It's a song. It's a [i]song[/i], it's four hundred years old, it's the only thing that's ever pushed them back, and there's nothing. I've been through two hundred and eleven books. Carols. Hymns. Folk songs. Wordcraft chants. Sea shanties, for pity's sake." She puts the one she's holding down on a pile. "Odile Pellow's gran sang it in a wand shop. Somebody must have written it down."
+@imogen:tense "It's not here," she says, before you've said anything. "It's a song. It's a [i]song[/i], it's four hundred years old, it's the only thing that's ever pushed that hum back, and there's nothing. I've been through two hundred and eleven books. Carols. Hymns. Folk songs. Wordcraft chants. Sea shanties, for pity's sake." She puts the one she's holding down on a pile. "Odile Pellow's gran sang it in a wand shop. Somebody must have written it down."
 *choice
   #Sit down on the floor beside her and take a pile.
     *set heart +5
@@ -316,7 +316,7 @@ The clock finishes striking. The blue goes on burning. Someone starts to sing an
       *set heart +5
       The terrace is white and silent and freezing, and the Mere below it is black, with the dead lanterns of the Frost Market still standing on their poles on the ice. Behind you, through the tall windows, the Hall is all blue light and music, and it sounds very far away. Cas is leaning on the stone balustrade with his hands bare, looking at nothing. He doesn't look round when you come out. He knew it'd be you.
 
-      @cas:grave "My grandmother wrote to me," he says, after a while. "She writes every Longnight. It's tradition." He takes the letter out of his pocket and doesn't open it. "Every year it says the same thing. [i]The Drummonds have kindled before their ninth birthday for eleven generations. You will understand why the family must consider its position.[/i]"
+      @cas:grave "My grandmother wrote to me," he says, after a while. "She writes every Longnight. It's tradition." He takes the letter out of his pocket and doesn't open it. "Every year it says the same thing. [i]A Drummond kindles before the ninth birthday. It has always been so. You will understand why the family must consider its position.[/i]"
 
       "What happened when you didn't?"
 

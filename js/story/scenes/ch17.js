@@ -19,7 +19,7 @@ So you go down. Down the east stair, along the corridor behind the kitchens, and
 
 You look at it. It's a little lopsided. The jam's escaping down one side, and somebody has dusted the top with icing sugar in a pattern that might be a heron or might be a teapot. It's perfect.
 
-The Heronmere cloister is half underwater: the lake laps against the lower arches, and the green light comes up through the windows set below the waterline, and at night, with the lamps lit, it's like sitting at the bottom of a pond in a dream. Now and then something moves past the glass, slow and silver, a fish or a weed or a trick of the lamp. Toby's familiar, a big brown hare called Custard, is asleep on the warm stones by the fire with her ears flat and one back foot twitching. Priya is curled up in the window seat with her feet tucked under her and her violin case beside her, watching Toby with a face so soft it's almost unbearable.
+The Heronmere cloister is half underwater: the lake laps against the lower arches, and the green light comes up through the windows set below the waterline, and at night, with the lamps lit, it's like sitting at the bottom of a pond in a dream. Now and then something moves past the glass, slow and silver, a fish or a weed or a trick of the lamp. Custard is asleep on the warm stones by the fire with her ears flat and one back foot twitching. Priya is curled up in the window seat with her feet tucked under her and her violin case beside her, watching Toby with a face so soft it's almost unbearable.
 
 @priya:warm "He's been talking about it for three days," she says to you. "He's been practising on scones. The scones all caught fire. Mrs Pettigrew's eyebrows have only just grown back."
 
@@ -171,7 +171,7 @@ The eight hum together, one note, low and long and enormous. The flagstones shud
     *set fr_priya +1
     You do what he's asking. It's the hardest thing you've ever done, to go the other way from him.
 
-    You go along the wall, low, under the hum, the way you'd go under smoke. You grab first-years by their collars, their sleeves, their hands, and push them out into the passage, one, two, three, and shout at them to run, and they run, slipping on the wet stone in their socks. A girl won't let go of the fireguard; you prise her fingers off it one by one and carry her to the door and put her down facing the right way. Priya comes last, stumbling, grey-faced, with Custard the hare in her arms, kicking. She stops in the doorway and turns back towards the cloister, towards Toby, and you take her by both shoulders and push her out after the others.
+    You go along the wall, low, under the hum, the way you'd go under smoke. You grab first-years by their collars, their sleeves, their hands, and push them out into the passage, one, two, three, and shout at them to run, and they run, slipping on the wet stone in their socks. A girl won't let go of the fireguard; you prise her fingers off it one by one and carry her to the door and put her down facing the right way. Priya comes last, stumbling, grey-faced, with Custard in her arms, kicking. She stops in the doorway and turns back towards the cloister, towards Toby, and you take her by both shoulders and push her out after the others.
 
     @priya:scared "[i]Toby[/i]," she says, from the passage, not loud. Just his name.
 
@@ -228,11 +228,11 @@ Somewhere up above, through the stone, you hear the east stair. Shouting. Childr
 *present grey familiar
 You leave him. You'll think about that too, afterwards: that you left Toby standing in the green light with his hare at his feet, and ran. Priya was on her knees beside him by then, holding his face in both her hands and saying his name, and you said [i]stay with him[/i], and she didn't answer, and you didn't stop.
 
-The east stair runs up from the kitchen corridor past every floor of the old keep, narrow and steep and spiralling, worn hollow in the middle of every step by four hundred years of feet. When the bell went, the first-years on the upper floors did what anyone does when something's coming up from below: they ran upwards, all four houses, out of their dormitories and up and up, until the stair ran out. Now they're on the top landing, forty of them, crammed together in their nightclothes, crying, with nowhere left to go. The passages behind them are grey and humming. And there are six of the Choir on the stair.
+The east stair runs up from the kitchen corridor past every floor of the old keep, narrow and steep and spiralling, worn hollow in the middle of every step by four hundred years of feet. When the bell went, the first-years on the upper floors did what anyone does when something's coming up from below: they ran upwards, all four houses, out of their dormitories and up and up, until the stair ran out. Now they're on the top landing, twenty of them, crammed together in their nightclothes, crying, with nowhere left to go. The passages behind them are grey and humming. And there are six of the Choir on the stair.
 
 Six grey robes, coming up. Humming. Slowly, step by step, round and round, towards the top landing.
 
-On the stair, three steps below the landing, between the six and the forty, is Professor Grey.
+On the stair, three steps below the landing, between the six and the twenty, is Professor Grey.
 
 @grey:neutral He's in his dark robes. He's got no wand out; he doesn't seem to need one. He's standing with his feet planted on the narrow step and his scarred hands held out in front of him, palms forward, and there's something coming off them, a shimmer, a heat-haze, like the air over a road in summer. The Choir's hum is hitting it and breaking round it, the way water breaks round a stone. They can't get past him. Six of them, and they can't get past him.
 
@@ -245,7 +245,7 @@ Professor Grey's hands are shaking. The scars on them, the old scars, the frost-
 *choice
   #"I can hold them with you. I'm a Kindler. Let me help."
     *set heart +5
-    @grey:neutral "I know what you are," says Professor Grey. "I've known since your first Warding lesson, when I hummed their note and your flame came up like a lighthouse." The shimmer round his hands wavers, and holds. "That's why you're going down the back stair with forty children. Because if you stay, you'll use it. And the Hush will see it, and she'll tell him, and he'll know exactly where you are and what you are and how to reach you."
+    @grey:neutral "I know what you are," says Professor Grey. "I've known since your first Warding lesson, when I hummed their note and your flame came up like a lighthouse." The shimmer round his hands wavers, and holds. "That's why you're going down the back stair with twenty children. Because if you stay, you'll use it. And the Hush will see it, and she'll tell him, and he'll know exactly where you are and what you are and how to reach you."
 
     @grey:grave He breathes in, slow, through his broken nose. Below him, the humming man takes one step up, and stops, as if he's walked into glass.
 
@@ -269,9 +269,9 @@ You take them down.
 
 The tapestry of the heron hangs on the landing wall, old and faded, a grey bird standing in grey-green reeds. You say [i]stille[/i] to it, feeling foolish, and it lifts at one corner like a curtain in a breeze, and behind it there's a door no wider than a cupboard's, and a stair going down into the dark.
 
-Forty first-years, through the tapestry, down a back stair so narrow they have to go single file, in the dark, crying, holding each other's nightclothes. Somebody has a wand lit, a tiny wavering light at the front. {fam_name} goes up and down the line, pressing against legs, nudging the stragglers on. You go last. You count them at every turn. Forty. A boy sits down on a step and won't get up, and you pick him up, and he's heavier than he looks and smells of toothpaste. Forty. A girl in Owlcombe plum asks you, very politely, whether they're going to die, and you say no, and she says [i]okay[/i] and keeps going. Forty. Forty.
+Twenty first-years, through the tapestry, down a back stair so narrow they have to go single file, in the dark, crying, holding each other's nightclothes. Somebody has a wand lit, a tiny wavering light at the front. {fam_name} goes up and down the line, pressing against legs, nudging the stragglers on. You go last. You count them at every turn. Twenty. A boy sits down on a step and won't get up, and you pick him up, and he's heavier than he looks and smells of toothpaste. Twenty. A girl in Owlcombe plum asks you, very politely, whether they're going to die, and you say no, and she says [i]okay[/i] and keeps going. Twenty. Twenty.
 
-At the bottom, the stair comes out behind the staff table in the Lantern Hall. The Hall is full of people and wands and grey light and shouting. There are scorch marks up one wall. Benches are overturned. The Headmistress is there with blood on her face and one arm hanging wrong, and Lamplighters in their long coats, and Matron with her sleeves rolled up. You push the first-years through to them, all forty, and count them one last time as Matron takes them, touching each small head as it passes.
+At the bottom, the stair comes out behind the staff table in the Lantern Hall. The Hall is full of people and wands and grey light and shouting. There are scorch marks up one wall. Benches are overturned. The Headmistress is there with blood on her face and one arm hanging wrong, and Lamplighters in their long coats, and Matron with her sleeves rolled up. You push the first-years through to them, all twenty, and count them one last time as Matron takes them, touching each small head as it passes.
 
 Then you turn round, and go back up.
 
@@ -283,11 +283,11 @@ The back stair is longer going up. Your legs are shaking by the top. You come ou
 
 He's on the step where he was. He hasn't moved. The six are still below him, and they still haven't passed him. But the shimmer round his hands is gone, and his hands are grey to the elbow, and he's sitting down now, on the step, with his back against the wall, singing, very quietly, as if to himself. As if he's alone in a kitchen late at night. It's not a good voice. It's a big man's voice, rusty from not being used, and it goes flat on the turn, in the same place Toby's did.
 
-@grey:neutral He sees you on the landing. He stops singing. "Forty?" he says.
+@grey:neutral He sees you on the landing. He stops singing. "Twenty?" he says.
 
-"Forty. All of them."
+"Twenty. All of them."
 
-@grey:warm "Good." He closes his colourless eyes. "Good." Something in his craggy face lets go, the way a fist lets go. For a moment he looks younger than you've ever seen him look, and very tired, like somebody at the end of a long shift.
+@grey:warm "Good." He closes his tired eyes. "Good." Something in his craggy face lets go, the way a fist lets go. For a moment he looks younger than you've ever seen him look, and very tired, like somebody at the end of a long shift.
 
 You sit down on the top step, above him, because your legs won't hold you. He doesn't tell you to go.
 
@@ -435,7 +435,7 @@ Nobody moves. Nobody at all.
 *if accused_grey
   You think of what you said about him, out loud, when you thought it was him. You can't look at the candle.
 
-@arkwright:grave "On Friday night he held the east stair against six of them," she says. "For twenty-five minutes. Without a wand. While forty first-years went down the back stair behind the heron tapestry." She turns and looks at the first-years, at every table, small and scrubbed and wide-eyed in their house colours. One of them, a boy at the Larkspire table, still has a sticking plaster on his chin from the back stair. He sits up very straight when her eyes reach him. "Every one of those forty is sitting in this Hall tonight. I've counted. So has the Headmistress. So, I'm told, did he."
+@arkwright:grave "On Friday night he held the east stair against six of them," she says. "For twenty-five minutes. Without a wand. While twenty first-years went down the back stair behind the heron tapestry." She turns and looks at the first-years, at every table, small and scrubbed and wide-eyed in their house colours. One of them, a boy at the Larkspire table, still has a sticking plaster on his chin from the back stair. He sits up very straight when her eyes reach him. "Every one of those twenty is sitting in this Hall tonight. I've counted. So has the Headmistress. So, I'm told, did he."
 
 She stops again. Longer, this time. Her hand has tightened on the back of the chair.
 
@@ -478,7 +478,7 @@ Professor Bassani, grey-faced, his moustache drooping, with no flower in his but
   You think of the Wrenfold Map in November, and the ward lines, and which ones had been opened. All along the Lanternwarden's nightly round.
 
 Nobody eats much. When the Hall empties, it empties slowly, house by house, in pairs and threes, nobody walking alone. You pass the east stair on the way up. There are more candles on the third step now. Somebody has lit them all.
-*journal [b]Chapter 17.[/b] The Quiet. On Friday night the Grey Choir came inside Wrenfold, through the old boathouse ward under the water, opened from inside. Toby stood in front of Priya and the Heronmere first-years and sang the wren's line, off-key, alone, until the Hush hummed him out. [b]Toby is hollowed.[/b] Professor Grey held the east stair against six singers while you took forty first-years down the back stair, and died there, having given everything. He was the Order's man inside the Choir for six years. His last words: [i]it was the boathouse ward, opened from inside, on the round. I was watching the wrong man.[/i] {@b_noor_rest|Noor fell apart, and let you see it. |}Half the lanterns in the Hall are dark.
+*journal [b]Chapter 17.[/b] The Quiet. On Friday night the Grey Choir came inside Wrenfold, through the old boathouse ward under the water, opened from inside. Toby stood in front of Priya and the Heronmere first-years and sang the wren's line, off-key, alone, until the Hush hummed him out. [b]Toby is hollowed.[/b] Professor Grey held the east stair against six singers while you took twenty first-years down the back stair, and died there, having given everything. He was the Order's man inside the Choir for six years. His last words: [i]it was the boathouse ward, opened from inside, on the round. I was watching the wrong man.[/i] {@b_noor_rest|Noor fell apart, and let you see it. |}Half the lanterns in the Hall are dark.
 *page_break
 *goto_scene ch18
 `);
