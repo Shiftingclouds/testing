@@ -348,6 +348,7 @@ Imogen doesn't seem to notice him. She's looking at the green lamp between you, 
 
   At six, Miss Dunne rings her little brass bell, and people start to drift out, yawning, with their books under their arms. On your way past her desk, she looks at the plum-and-silver scarf over your arm, and then at you, over the top of the blank book in her lap.
 
+  *meet dunne
   @dunne:neutral "Miss Sallow's," she says. It isn't a question. "She left in a hurry." She holds out one small, dry, papery hand. "Give it here. She'll be back in the morning. She always is. I'll keep it under the desk with the lost umbrellas, where it'll be safe."
 
   You give it to her. She folds it again, more neatly than you did, and puts it away, and goes back to turning blank pages, and you go out into the cold corridor with your hands empty, wishing you'd kept it after all.

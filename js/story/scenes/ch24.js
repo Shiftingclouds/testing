@@ -267,7 +267,11 @@ The dark comes, eventually, the thin midsummer kind, green at the edges. The bit
 
   It's a warm night. The long windows are open again, the way they were a year ago, and the swifts are screaming round the towers in the last of the light, and the smell of cut grass comes in across the tables. The second-years have their own end of the bench now, by the wall, and their own jokes, and their own way of not looking at the first-years crying into their trifle, which is to pass them the cream without comment. You've been a second-year all year and you're still not used to being the one who knows where the spoons are kept.
 
+  *page_break
+
   @kestrel:warm The Headmistress stops behind you on her way down the Hall, with her cup in her hand, and bends to say it in your ear. "Every Midsummer," she says. "From now on. The whole school, all five voices, at the Proving. I've made it a rule. I've never made a rule I liked so much." She straightens. "Hester's portrait has spoken three times this year, you know. The same word every time." She's smiling. "[i]Louder.[/i]"
+
+  She goes on down the Hall, stopping at every table, a hand on a shoulder here, a word there, and you watch her go. She walks more slowly than she did a year ago. She stops to talk for longer. At the Rookhallow table somebody makes her laugh, and the laugh carries all the way up to the roof, and a few of the lanterns bob on their threads as if they've heard it. The baker first-year leans across to you again. "Is she always like that?" she asks. You think about it. You tell her no. You tell her it's new. You tell her it's the best thing about the year.
 
   *page_break
 
@@ -469,11 +473,18 @@ The dark comes, eventually, the thin midsummer kind, green at the edges. The bit
 
   They wrote. They all wrote, all summer: come back in September. The Headmistress wrote herself, in green ink, from the Infirmary, with no magic left: [i]A place is kept for you. It always will be.[/i] The letter's on your mantelpiece still. You didn't go. You're not sure why. Because the first time it mattered, you weren't there. Because the song was sung without you and it held, and you can't decide if that's the best thing that ever happened or the worst.
 
+  *page_break
+
   You went back to work in September. {@told_nana|You told Nana Pearl you needed time. She said you could have all the time you wanted, and then put a sandwich in your coat pocket every morning for a month without saying anything, which was her way.|You told Dev you'd been abroad. He said, "Where?" and you said, "North," and he said, "Fair," and didn't ask again.} The year went by. Buses, shifts, the eight-fifteen over the viaduct. The kettle boils when you switch it on and not before. Most days, it's fine. Some days you catch yourself watching a candle in a shop window, waiting for it to lean.
+
+  On Thursdays you walk home the long way, along the canal, past the lock and the old mill with the broken windows, because it's quieter, and because there's a stretch by the lock-keeper's cottage where somebody keeps a lamp in the window every night, an old brass one, and when you pass it you can feel it, very faintly, a small warm click like a key turning. You've never told anyone that. You've never stopped to knock. You just walk past, every Thursday, and feel it, and walk on.
 
   *page_break
 
-  Tonight is the Leaving Feast. You go out after dark and walk to the end of the street, under the arches of the viaduct, where the streetlamps buzz and the pavements are still warm from the day, and hum the wren's line under your breath. A train goes over, shaking the arches. The streetlamp over your head leans towards you, very slightly, the way it did before the letter came, before any of it, and this time you let it. You stand there a long while, thinking about the road not taken, and whether it's still there.
+  You took the letters out again tonight, all of them, and read them at the kitchen table with a cup of tea going cold, in the order they came. The handwriting's different in every one. The words aren't. [i]Come back.[/i] [i]A place is kept.[/i] [i]We sang it, and we missed you.[/i] You put them back in their envelope and the envelope back on the mantelpiece, behind the clock, where it lives.
+
+  Tonight is the Leaving Feast. You go out after dark and walk to the end of the street,
+ under the arches of the viaduct, where the streetlamps buzz and the pavements are still warm from the day, and hum the wren's line under your breath. A train goes over, shaking the arches. The streetlamp over your head leans towards you, very slightly, the way it did before the letter came, before any of it, and this time you let it. You stand there a long while, thinking about the road not taken, and whether it's still there.
 
 *page_break
 *comment ---- supporting consequences

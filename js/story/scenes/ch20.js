@@ -110,6 +110,18 @@ It's the tallest tower on the east side, and it gets the dawn first, and the sta
 It goes quiet when you come in.
 
 Not unfriendly. Just curious. Forty Larkspires on cushions and window seats and the backs of sofas, looking at you. {@house = "larkspire"|Your own house. People you've eaten breakfast with every day for seven months, and who've never once seen you stand in the doorway looking nervous.|You're not one of them. You're standing in their roost uninvited, in the wrong colours, and you can feel it.} Everybody's heard about the song by now. Everybody's heard that you want them to sing it. The gramophone runs down, with a long sad wobble, and nobody winds it up.
+
+*page_break
+
+You stand there in the doorway with the sheet in your hand. You'd had something ready to say, on the stairs. Round about the hundredth step it was very good. Now it's gone, the way things go, and what's left is forty faces and a smell of toast and the wind going round the outside of the tower like somebody walking round and round a house looking for the way in.
+
+Somebody near the fire holds out a plate. That's the first thing that happens. A second-year with a toasting fork, without getting up, just holds out a plate with a round of buttered toast on it, the way you'd hold out a hand to someone coming in from the rain. You take it, because you can't think what else to do, and stand there holding it. It's still hot. The butter's run into the holes.
+
+"Thanks," you say.
+
+"S'all right," says the second-year, and goes back to his toasting fork, and somehow the room breathes out a little.
+
+*page_break
 *if (st_rowan >= 3) and (hurt_rowan < 2)
   *present rowan
   *set singers +1
@@ -142,6 +154,8 @@ Not unfriendly. Just curious. Forty Larkspires on cushions and window seats and 
       They go again. And again. Every time, the tower gives it back stronger, until you can feel it in your feet through the boards of the balcony, a high bright thrumming, like standing on the deck of a ship with the wind in the rigging. Down below, windows are opening all along the east front. Faces at them. A Heronmere leaning right out of a window two floors down, with a towel on her head, looking up.
 
       You stand at the rail with the sheet in your hands and the wind in your face and the whole tower singing under you, and you think, for no reason at all, of Odile Pellow on the night by the post office, singing this alone. One thin voice. And now there's twenty-two, and a tower.
+
+      *page_break
   *if heart >= 60
     #"Toby Quill made you all toast at three in the morning when the Larkspire boiler broke in November. Every one of you. He's Heronmere. He didn't have to."
       *set singers +3
@@ -152,11 +166,15 @@ Not unfriendly. Just curious. Forty Larkspires on cushions and window seats and 
 
       By midnight there are twenty Larkspires on the balcony in the dark, singing the lark's line, and the stones of the tower are singing it back: faint, high, bright, coming up out of the old stone under your hands, like the whole tower is remembering something. Somebody's crying. Somebody's laughing. You think it might be the same person.
 
+      *page_break
+
       @marcus:amused In a gap between verses, Marcus Oduya leans over to you on the rail. "He burned mine too," he says. "The toast. Black as my boots. I ate the lot." He grins, crookedly, into the wind. "Tell him. When you see him. Tell him Larkspire's singing, and it's his fault."
 
       You promise you will. Then Flick blows a whistle she's produced from somewhere, and they go back to the top, and start again, louder.
 
       It goes on long after you've stopped being any use. They don't need you any more; they've got it. A boy with a trumpet appears from somewhere and tries to play the line along with them and is shouted down. The cushions come out onto the balcony, and then the blankets, and somebody brings up a tray of cocoa from the kitchens, with cinnamon in, and nobody says why, and nobody has to.
+
+      *page_break
   #"I don't know if it's safe. I just know it's the only thing that's ever worked."
     *set singers +1
     @marcus:neutral Marcus considers you. Nobody else moves. Then he gets up. "I'll do it," he says. "Me and Flick. The rest of this lot can make up their own minds." He takes the sheet. Flick looks at him, and sighs, and picks up her clipboard, and follows.
@@ -165,6 +183,8 @@ Not unfriendly. Just curious. Forty Larkspires on cushions and window seats and 
 
     @marcus:amused "Did you hear that?" Marcus says. He's leaning out over the rail, as if he could see the sound. "Tell me you heard that. Tell me I'm not standing on a balcony at ten o'clock at night singing to a wall and imagining things."
 
+    *page_break
+
     @flick:neutral "We heard it," says Flick. She's let go of your arm. She's looking at the window behind you, at the faces. "Again," she says. "Louder. Give them something to listen to."
 
     You go again. The stones come in a beat earlier this time, as if they were waiting for it. The balcony door opens, and a girl in a dressing gown comes out with her arms wrapped round herself, and stands at the end of the row, and doesn't sing, but listens. On the next time through she sings. Then there are five of you. Then, after a long while, and a lot of wrong notes, and Marcus losing his place and blaming the wind, there are eight.
@@ -172,6 +192,10 @@ Not unfriendly. Just curious. Forty Larkspires on cushions and window seats and 
     Eight isn't many. Out of forty. You know that. But when you finally stop, hoarse, at a quarter to twelve, and the stones go on without you for a bar or two on their own, high and bright and laughing into the dark, nobody on that balcony says it isn't enough.
 
     @flick:amused "Same time tomorrow," Flick says, writing it on her clipboard by the light from the window. "I'll put up a notice. Nobody reads notices. I'll put up two."
+
+    Marcus laughs at that, hoarsely, and claps you on the back hard enough to knock the breath out of you, and says he'll put up a third one, on the door of the boys' bathroom, where people actually read things. Flick says that won't be necessary. He does it anyway, on the way down, with a drawing pin he finds in his pocket, and the notice says [i]SINGING. TOMORROW. BALCONY. BRING A COAT.[/i] in letters three inches high.
+
+    *page_break
 
 You go down the tower stair at midnight with the lark's line going round in your head, and you can hear it behind you, above you, all the way down: the stones, still singing, getting fainter with every turn, like a bird going away into a high sky.
 
@@ -188,6 +212,8 @@ Tuesday, it rains again. Word's gone round the castle by breakfast: the Larkspir
 
 The day drags. It rains all afternoon, hard, straight down, the kind of rain that makes the Long Stacks smell of wet wool and turns the inner courtyard into a pond with a statue standing in it up to its ankles. You do your Starreading homework in the library and get every chart wrong, because you keep stopping to hum the owl's line under your breath, and it's too low, and you can't get to the bottom of it without your voice cracking like a teenager's. The owl's line, Imogen says, wants a chest voice. You haven't got one. You've got the voice you sing in the bath with, when nobody's listening.
 
+*page_break
+
 At a quarter to ten you go and stand outside the Owlcombe door at the bottom of the Observatory tower and wait for somebody to let you in. It's plain old oak, black with age, with one owl carved over the lintel, its round eyes wide open. Eyes open: the house greeting. You've heard Owlcombes shout it up the tower stair at each other all year, and you've never once said it yourself. You practise it under your breath, in case. It sounds ridiculous.
 
 You don't have to say it. The door opens before you've even knocked. Somebody inside has been watching for you, and they hold it wide, and say "Eyes open," quite seriously, and you say it back, and feel your face go hot, and go in, and up the turning stair.
@@ -198,7 +224,15 @@ The Owlcombe Stacks are under the Observatory: a long low room lined with shelve
 
 The owl's line is low and slow and patient. It goes down where the lark's goes up. You stand under the moving stars and sing the first bar of it, alone, to see, and the shelves all round you give it back, very faintly, as if a thousand books were humming under their breath.
 
+*page_break
+
 Every pretence of reading stops.
+
+Nobody says anything at first. Owlcombes don't, you're learning. They look. Forty pairs of eyes over the tops of forty books, sharp and patient, the way you'd look at an interesting footnote. Somebody on a ladder closes a book with a soft clap, very slowly, so as not to miss anything. A girl by the globe takes off her reading glasses and folds them and holds them in her lap. The haunted armchair, the one that sighs, sighs, and three people say [i]shh[/i] to it at once.
+
+You find you're still holding the last note. Not out loud; in your chest, where it's settled, low and warm. The stars go over, slowly, above the shelves. Somewhere up there a satellite is crawling across the real sky, a tiny steady light, and a boy at the long table follows it with his eyes, and then looks back at you, as if he's decided you're more interesting.
+
+*page_break
 *meet mina
 *if fr_mina >= 1
   @mina:warm Mina Achebe is the first to stand up. She was on a ladder, with a book; she comes down it and crosses the room and stands in front of you in her plum and silver, with her headphones round her neck. "I was outside the post office," she says. "In December. You dragged six of us round the corner, you and me. I couldn't feel my hands. I still dream about it." She holds out her hand for the sheet. "I'll sing. And I'll bring the other five."
@@ -287,7 +321,11 @@ There's a little pile of things on the floor at the bottom of the slope, against
 
 *page_break
 
-The Heronmere cloister is half underwater, and green, and quiet. It's been quiet since the Quiet. The lake door has three new bars across it, iron, and a ward-stone set into each that hums faintly if you get close. There are {@toby_lit|three|four} empty beds in the Heronmere dormitories, and a candle on the Heronmere table for Delphine, and Heronmere has lost more than any house, and everyone knows it, and nobody knows what to say. The fire's lit. The Heronmeres are sitting round it, close, the way people sit round a fire when they've come in from somewhere cold, and they look up when you come in, and they don't look surprised.
+The Heronmere cloister is half underwater, and green, and quiet. It's been quiet since the Quiet. The lake door has three new bars across it, iron, and a ward-stone set into each that hums faintly if you get close. There are {@toby_lit|three|four} empty beds in the Heronmere dormitories, and a candle on the Heronmere table for Delphine, and Heronmere has lost more than any house, and everyone knows it, and nobody knows what to say. Somebody's hung paper fish from the arches, cut out of old exam papers, and there's writing on every one of them if you look close: a name, a joke, a recipe for flapjack. They turn slowly on their threads in the warm air coming up from the fire. One of them says [i]TOBY'S CAKE: IT DIDN'T CATCH FIRE[/i] in big wobbly capitals. Somebody's drawn a heron on another, standing on one leg, holding a wand in its beak.
+
+The fire's lit. The Heronmeres are sitting round it, close, the way people sit round a fire when they've come in from somewhere cold, and they look up when you come in, and they don't look surprised.
+
+*page_break
 
 *meet jonty
 *meet rhys
@@ -321,11 +359,15 @@ The Heronmere cloister is half underwater, and green, and quiet. It's been quiet
       @rhys:warm Professor Rhys has come down off her wall. She's standing at the back of them all, in her hat, singing the heron's line in a voice exactly like a foghorn, exactly as she promised, off-key and enormous and completely unashamed. Somebody near her starts to giggle, helplessly, mid-note. Then somebody else. Then the whole front row's going, and still singing, and you're laughing too, with your back to the iron door, and the lake doesn't seem to mind at all.
 
       You feel it through the floor. The whole lake, singing the heron's line, slow and deep and patient, as if it's been waiting since March for somebody to ask.
+
+      *page_break
   *if heart >= 60
     #Say the names. Every one Heronmere has lost this year.
       *set singers +3
       *set heart +5
       You say the names, in the green light. Delphine. The two second-years from the night of the Quiet, whose names you learned in the Infirmary. {@toby_lit|And Toby, who came back.|And Toby.} Each one lands in the quiet like a stone dropped in still water, and you can see it go out from you across the room, face by face.
+
+      *page_break
 
       The cloister is silent. Then Jonty Farthing says, "Right," and stands up, with his knitting still in one hand. They all stand up, the whole house. Nobody says anything else. Priya gives the note on her violin. By midnight there are thirty Heronmeres singing the heron's line at the bottom of the lake, and the water is singing it back.
 
@@ -334,6 +376,10 @@ The Heronmere cloister is half underwater, and green, and quiet. It's been quiet
       @jonty:neutral In the pause at the end of the second verse, Jonty Farthing, without opening his eyes, says quietly, "Delphine used to steal my wool," and then sings on. Nobody answers him. But the girl beside him leans her head against his huge arm, and stays like that, and sings.
 
       @rhys:warm At the back, Professor Rhys has taken her hat off and is holding it to her chest, snail and all. Her foghorn voice is cracking. She doesn't stop either.
+
+      You don't sing for a while. You stand among them and let it go on round you, slow and deep, and listen to the names go out into the water with it. Somebody's hand finds yours in the crowd and squeezes it, and lets go, and you never see whose.
+
+      *page_break
   #Ask Priya to start. It's her song more than yours.
     *set singers +2
     @priya:neutral Priya starts. Low, still, alone, with her eyes shut. For a bar or two it's only her, and the fire, and the lake. Then Jonty Farthing, by the fire, joins in, without putting down his knitting. Then a few more. The water outside the windows hums it back, and Priya opens her eyes, and doesn't stop.
@@ -348,9 +394,13 @@ The Heronmere cloister is half underwater, and green, and quiet. It's been quiet
 
     By midnight there are twenty-odd of them round the fire, and Priya's arm is aching, you can see it, and she won't put the violin down. You sit on the bottom stair with {fam_name} in your lap and listen. You're not needed, here. It's hers. That turns out to be the best thing about it.
 
+    *page_break
+
 On your way out, at the bottom of the slope, you pass the little pile of candle stubs again. Somebody's lit a candle there while you were inside: a new one, a proper white one, standing up among the old stubs. It's burning very straight and still. You don't know who lit it. You stand and watch it for a moment, and it doesn't flicker once, not even when you breathe.
 
-When you leave, they're still singing. You can hear it all the way up the long slope, under the water, fading, and then, at the top, where the passage comes out behind the kitchens, not fading at all, because the whole lake is carrying it.
+Up the slope, you stop at the round window again, the one where you saw your own tired face on the way down. The lake's dark now. But down in the dark, a long way out, there's a faint green shimmer moving through the weed, slow, in time, the way the heron's line moves, as if the water itself has picked up the tune and is carrying it out to the far shore.
+
+Behind you, they're still singing. You can hear it all the way up the long slope, under the water, fading, and then, at the top, where the passage comes out behind the kitchens, not fading at all, because the whole lake is carrying it.
 
 Three houses.
 *page_break
@@ -374,6 +424,16 @@ In the afternoon, in Beastlore, Professor Crook's one-eyed griffin, Mrs Bellweat
 You go down at nine, through the kitchens, past the great black ranges banked for the night and the long tables scrubbed white and a kitchen cat asleep in a copper pan, and down the narrow stone stair at the back that gets hotter with every step. You can hear the Undercroft before you see it. Hammering. A grinder going. Somebody singing something rude in a loud flat baritone, and being told to shut up, and not shutting up.
 
 The Rookhallow Undercroft is under the kitchens, and it's always warm, and it's always loud, and it smells of hot metal and sawdust and toast. Forges along one wall. Workbenches along the other, cluttered with half-built things: a clock with too many hands, a bicycle with no wheels, something with wings that twitches when you walk past. The brass dragon from the Glimmer Cup lies in the corner, snoring copper sparks. Nobody looks up when you come in. Rookhallows don't look up. They're busy.
+
+You stand there for a full minute. Then two. Somebody walks past you with a sheet of copper and says "Mind," and you mind. A girl at the nearest workbench is taking apart an alarm clock with a pair of tweezers and a look of fury, and the bits are laid out in front of her in rows, in order, like surgical instruments. A boy is asleep under a bench with a spanner on his chest, rising and falling. The ferret round Hamish Galbraith's neck opens one eye at you and shuts it again.
+
+You think about clearing your throat. It seems a feeble thing to do in a room full of anvils.
+
+So you hum. Just the first bar of the rook's line, out loud, hopping, the way Imogen wrote it down. Under your feet, deep in the old stones of the Undercroft, something hums it back: one hop, then nothing.
+
+*page_break
+
+A few of the hammers stop. Heads come up, one by one, all along the benches, goggles and all.
 
 The rook's line is rough and clever and it doesn't go where you expect. It hops. It doubles back. It's the hardest of the five, Imogen says, and the most fun.
 *if (st_saoirse >= 3) and (hurt_saoirse < 2)
@@ -401,9 +461,15 @@ The rook's line is rough and clever and it doesn't go where you expect. It hops.
 
       @hamish:amused "Hester Wren," says Hamish, between verses, with enormous satisfaction, "can come back from the dead and [i]apologise[/i]." He's got the sheet pinned to the wall with a chisel and he's been writing all over it. He's added a fifth part, for himself, very low, that mostly consists of him going [i]bom[/i]. "Four hundred years, and she thought nobody could do it. Rookhallow, darling. Rookhallow can do anything, if you tell it that it can't."
 
+      *page_break
+
       Somebody's rigged up the brass dragon. You don't see how; one minute it's snoring in the corner, the next it's sitting up on its haunches with a cable running out of its tail to the nearest forge, and every time the line hops, the dragon hiccups a puff of copper sparks in time. It's very nearly on the beat. The whole Undercroft cheers it every time it gets one right.
 
       @crook:amused "Don't tell Kestrel about the dragon," says Professor Crook, out of the corner of her mouth, as she passes you, still conducting. "Or the singing. Or the time." She looks at her watch. "Especially the time."
+
+      You promise not to tell. You've a feeling the Headmistress will hear it anyway, from the top of her tower, through four floors of stone; you've a feeling the whole castle will. You stand with your back against a warm forge with the noise going round you like weather, and grin until your face hurts.
+
+      *page_break
   *if nerve >= 60
     #"Bram Hollis was Rookhallow."
       *set singers +3
@@ -416,9 +482,13 @@ The rook's line is rough and clever and it doesn't go where you expect. It hops.
 
       Hamish doesn't sing well. He's got a voice like a wheelbarrow going over cobbles. He sings anyway, with his eyes on the crow, as loud as he can, and when he gets to the part where the line doubles back on itself he stops for a second and puts his hand over his face, and the Rookhallow next to him just keeps singing for both of them until he's ready to come back in.
 
+      *page_break
+
       @crook:neutral Professor Crook has put her pipe down on the anvil. She doesn't conduct this time. She sings, at the back, quietly, in a dry low voice, and when the crow on the rafter shifts its feet and opens its wings and settles them again, she's the only one who doesn't look up. She's looking at Hamish.
 
       Afterwards, when the forges have gone quiet and people are drifting back to their workbenches with the line still going round in their heads, Hamish comes and finds you by the door. He's got his ferret in his arms. He doesn't say anything for a while. "That crow," he says at last. "Been in the Rookery since November. Won't let anyone near it. Bram's." He scratches the ferret's ears. "First time it's come down here."
+
+      *page_break
   #Sing it. Get it wrong. Let them laugh and fix it.
     *set singers +2
     You sing it and get it completely wrong, and the whole Undercroft laughs.
@@ -434,6 +504,10 @@ The rook's line is rough and clever and it doesn't go where you expect. It hops.
     So you sing it wrong again, on purpose this time, and the room roars, and corrects you, and somebody bangs out the rhythm on an anvil to help, and somebody else bangs out a different rhythm on another anvil to make a point, and in the middle of the racket the forges along the wall start to sing it back: rough and clanging and hopping, the right way, the way none of you have managed yet. Everybody stops. Everybody listens. Then Hamish says, "Oh, [i]that's[/i] how it goes," and the whole Undercroft sings it after the forges, nearly right, and cheers itself.
 
     @crook:amused Professor Crook, at the back, takes her pipe out of her mouth. "Two in the morning," she says, to nobody in particular. "Lovely. I'll be writing to all your parents." She puts the pipe back. She doesn't move to stop anyone.
+
+    Somebody hands you a mug of something hot and black that might be tea and might be engine oil. You drink it anyway. You sit on an upturned bucket by the forge with the mug in both hands, sawdust in your hair, and watch Rookhallow argue its way through the rook's line for the tenth time, and the eleventh, louder and wronger and righter every time, and you can't remember when you last laughed this much, or at all.
+
+    *page_break
 
 You climb out of the Undercroft into the cold kitchen corridor at some ungodly hour, with sawdust in your hair and your ears ringing, and behind you, under your feet, the forges are still clanging the rook's line, hopping, doubling back, going where you don't expect.
 
@@ -451,7 +525,17 @@ On the third Sunday in April, you go to St Ide's with Mr Tully again.
 
 He asked on Friday, at the bottom of the east stair, with his cap in his hands, as if he were asking a favour he had no right to. You said yes before he'd finished. So at one o'clock you take the boat across the Mere together, him in the stern with a bunch of daffodils wrapped in newspaper across his knees, and catch the Lantern Train at the Halt, and sit opposite each other all the way to Kingsmere with the fields going by, green now, full of lambs and rain.
 
+The Mere is choppy, and the boat slaps and lurches, and Mr Tully rows without seeming to think about it, long slow strokes, the way he must have rowed it ten thousand times. Halfway across he lets the oars rest and looks back at the castle, and you look with him: the towers grey against a sky full of torn cloud, the long roof of the Lantern Hall, the Glasshouses flashing when the sun gets through. From out here you can't see the dark patches in the roof. From out here it looks exactly the way it must have looked when he first came to it, a young man with a ladder, all those years ago.
+
+*page_break
+
+"Never get tired of that," he says, to nobody, and picks the oars up again.
+
+At the Halt there's nobody but a porter and a cat. The train's late. You stand on the platform together in the thin wind, him holding the daffodils against his coat to keep the rain off them, and he tells you the names of the hills, one after another, the way other people might tell you the names of their children.
+
 He's been different since March. Quieter. He does his round every night, and lights every lantern, and when Morrow's letters come to the stove drawer, he brings them straight to {@tully_fate = "exposed"|the Commander|}{@tully_fate = "kestrel"|the Headmistress|}{@(tully_fate = "st_ides") or (tully_fate = "silent")|you|} without opening them. He's got thinner. He sits in the Lantern Hall at meals and doesn't eat, and looks up at the dark patches in the roof where the lanterns went out on the night of the Quiet and still won't light.
+
+*page_break
 
 @tully:neutral On the train he talks about the weather. "Wet April," he says, watching the fields go by. "Good for the Glasshouses. Rhys'll be pleased." A mile later: "Eleven ducklings on the Mere. Did you see? Eleven, and the mother's lost two to the pike already, and she doesn't seem to mind; she just keeps counting the rest." A mile after that, he takes something out of his coat pocket and shows it to you on his palm: a wick, plaited, white, very fine. "Trying a new sort," he says. "Linen and cotton. Burns cleaner. I've done the whole of the north corridor with it." He looks at it. "They never used to go grey, the old ones. Not on their own."
 
@@ -462,6 +546,8 @@ He puts it away. He doesn't talk about the song. He must know about it; the whol
 St Ide's is just the same. The long red front, the crocuses gone over now along the railings and tulips coming up instead, the long pale corridors, the radio somewhere playing to nobody. The fourth ward, the end bed.
 
 It's the smell you'd forgotten. Disinfectant and boiled vegetables and, under them, something sweetish and still, like a room where the windows haven't been opened. Mr Tully walks through it the way you'd walk through your own front hall. He nods to the woman at the desk, who nods back and says "Absalom" and doesn't ask who you are. He stops in the second corridor to straighten a picture of a lighthouse that's hanging crooked, without breaking stride, and you get the feeling he's straightened it every Sunday for six years and somebody knocks it crooked again every week.
+
+*page_break
 
 The woman by the radio is still by the radio. The old man is still doing his crossword, or holding it. In the third ward a nurse is brushing a young man's hair, carefully, talking to him about the football, and he's letting her, and looking at the ceiling. You find you're holding your breath as you go past each bed. You find, too, that you're looking: you can't help it now. Every one of them, as you pass, you look. And every one of them is the same as Toby was. Clean. Swept. Nothing.
 
@@ -666,6 +752,8 @@ Flat. That's the first thing. After seven months of a castle on a hill above a b
 He takes you up to the window at the top of the stairs and points out into the dusk, across a mile of reeds going silver and grey in the last light, to a squat dark shape standing up out of the water.
 
 @jory:tense "That's the chapel," he says, and his voice goes careful. "The drowned one. Sunk to its windows. There's a bell still in the tower; you'll hear it when the wind's from the east." He lowers the lamp. "It's where they gather. Or did. We've had people watching it since November and nothing's come out of it but herons." He tries a smile. "There's forty of us, all told. In the house, and the barns, and out in the boats on the dykes. You'll hardly see most of them. That's the idea."
+
+*page_break
 
 "And me in the middle."
 

@@ -16,7 +16,7 @@ const cast = [
   // ------------------------------------------------------------------ the six (romance open to any player, entirely optional)
   { id: "C01", name: "Rowan Ashby", age: 26, kind: "student", tier: "lead", house: "larkspire", romance: true,
     appearance: "Tall, broad-shouldered, open square face with a strong jaw and a slightly crooked nose (broken twice). Short copper-red hair, freckles everywhere, light skin that flushes easily. Warm brown eyes. Rolled-up sleeves, forearms with old burn-scar shine; Larkspire gold-and-rose scarf.",
-    notes: "Ex-firefighter; walked out of a burning house unburned. His flame comes out as heat. Big family in Wrexley's neighbour town. Afraid of himself.",
+    notes: "Ex-firefighter; walked out of a burning house unburned. His flame comes out as heat. Big family in Kingsmere (four older sisters). Afraid of himself.",
     moods: ["neutral", "warm", "amused", "laugh", "tense", "hurt", "flare"] },
   { id: "C02", name: "Imogen Sallow", age: 24, kind: "student", tier: "lead", house: "owlcombe", romance: true,
     appearance: "Slight, very upright, heart-shaped face with a sharp chin and quick dark eyes behind thin gold glasses. Black hair in a severe bob with a blunt fringe; light olive skin. A tailored plum waistcoat under her robes; ink on her fingers.",

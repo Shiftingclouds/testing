@@ -13,6 +13,8 @@ The Hall smells of bacon and porridge and woodsmoke. Outside the tall windows, t
 
 It's been a long week. The curfew bell at nine every night, and prefects on the stairs with their wands lit, and the Heronmere girls going to the bathroom in threes. Lessons have gone on, because the Headmistress said they would. The teacup you mended in Wordcraft on Wednesday is on the sill by your bed, with its thin gold seam, and you look at it every morning before you look at anything else.
 
+*page_break
+
 Toby has spent that whole week practising. You've heard him at it: in the queue for the bathroom, under his breath in Herbwork, once, memorably, to Custard, who listened with her ears flat and then got up and hopped away. He's tried [i]I was wondering[/i] and [i]Would you possibly[/i] and [i]This is probably a stupid idea, but[/i]. On Thursday night he asked you to pretend to be Priya, so he could practise on someone with a face, and you said yes, and he got as far as "Hello" and had to go and lie down on his bed with a flannel over his eyes.
 
 On Saturday morning, Toby Quill eats nothing, drinks four cups of tea, goes to the bathroom three times, and at twenty-five to nine stands up at the Heronmere table with the expression of a man walking out onto a high wire.
@@ -38,6 +40,8 @@ You look. Everyone at the Heronmere table looks. Priya Menon is at the other end
 @priya:warm Priya puts down her letter. She looks up at him with her bright dark eyes, and her mouth twitches at the corner.
 
 @toby:scared "Would you like to float a lantern with me at Emberfall?" says Toby, all in one breath, very loudly, and the whole Heronmere table goes silent.
+
+*page_break
 
 @priya:warm Priya Menon considers him, with her head on one side and her toast in her hand. It's only a few seconds. It's clearly the longest few seconds of Toby's life. Then she smiles, the same smile she sent him across the Hall in your first week, and says, "I was going to ask you. I've been trying to ask you for a week. You kept running away."
 
@@ -296,7 +300,7 @@ Out on the Mere, a single lantern that didn't go home with the others is bobbing
 
   @rowan:laugh Rowan laughs so hard the stand creaks under you. "I like her," he says. "I'd like her. Does she know? About all this?"
 
-  "{@told_nana|She knows," you say. "Her mum had the same letter, years ago. She told me to take a vest. Then she sent me a postal order for a new coat."|Not really," you say. "She thinks I've gone on a course. She sent me a postal order for a new coat."}
+  {@told_nana|"She knows," you say. "Her mum had the same letter, years ago. She told me to take a vest. Then she sent me a postal order for a new coat."|"Not really," you say. "She thinks I've gone on a course. She sent me a postal order for a new coat."}
 
   @rowan:warm "My mum sent me a hot-water bottle," says Rowan. "To [i]me[/i]." He shakes his head at the water, smiling. "They don't know what to do with us, do they. The people at home. So they send things." He's quiet a moment. "I'm glad you came," he says again. "Really."
 
@@ -379,6 +383,8 @@ You walk all the way round it. One of the broomsticks twitches when you get near
 
     @saoirse:warm "Oh," says Saoirse, very quietly, for once, looking down. "Oh, would you [i]look[/i] at that."
 
+    *page_break
+
     You look. The whole island's laid out under you like a map someone's lit from inside: the four towers, the dark sweep of the Whispering Wood, the tiny gold square of the Lanternwarden's cottage down by the water, the Mere going away south into the hills, black and silver under the moon. It's so cold your eyes water. It's so quiet up here you can hear the Chesterfield's leather creak.
 
     @saoirse:neutral "I've never been this high," she says. "Not on anything. Not even on a bike on a hill." She doesn't look at you. "Thanks for pulling the lever. I'd never have dared."
@@ -445,6 +451,18 @@ The Chesterfield is parked by the wall where you left her, with her headlamps of
 "I thought you liked everyone there."
 
 @saoirse:amused "I do. I love a crowd. Crowd's great." She pushes her bootlace back up her curls, where it's been sliding all night. "It's the bit after I like, though. When it's just the fire ticking and somebody snoring. Like the garage at home, last thing at night, with an engine in bits on the floor and nobody wanting anything." She tilts her head at Hamish, who chooses that moment to snore like a two-stroke. "Nearly like that."
+
+*page_break
+
+You sit down on the warm flagstones next to her, close enough to feel the forge on your face. Somebody has left half a toffee apple on the anvil, and the brass beetle wakes up, considers it, and goes back to sleep on its shoe. Up through the ceiling-hatch, far away, you can hear the kitchen clock strike the half hour, and then, very faintly, a goat complaining.
+
+@saoirse:amused "Did you see Hamish's face," says Saoirse, "when the sofa went over the punch?" She does it: eyebrows up to her hairline, mouth an astonished O, beard bristling. It's very good. You laugh, and she laughs, quietly, so as not to wake him, and the laugh goes on longer than the joke deserves, the way laughs do at half past one in the morning.
+
+"Where did you find her? The Chesterfield."
+
+@saoirse:neutral "Cellar under the east stair. Behind a door with no handle. I took the hinges off." She looks over at the sofa, fondly. "She'd been down there sixty years, Hamish reckons. Somebody's common room, once. You can still see where people sat, the dips in the cushions. All those bums." She smiles. "I like that. That she was somebody's, and then she wasn't, and now she's mine."
+
+The fire ticks. Neither of you says anything for a bit. It doesn't need filling.
 *if st_saoirse >= 3
   You sit down beside her. The forge is warm on your faces. The gramophone scratches. For a while neither of you says anything, and it isn't awkward; it's just quiet, the way a kitchen's quiet at the end of a long day.
 
@@ -463,6 +481,8 @@ The Chesterfield is parked by the wall where you left her, with her headlamps of
       @saoirse:warm She looks at you. The fire's in her grey-green eyes. "You're a menace," she says, softly. She leans her head back against the warm stone, and closes her eyes, and stays still. For a whole hour. You sit next to her the whole time, and neither of you says anything, and it's the best hour of a very bad week.
 
       At some point the gramophone runs out of records and, rather than start again, simply stops, with a small apologetic click. At some point Hamish turns over under his workbench and says "custard" in his sleep. At some point you realise Saoirse's breathing has slowed right down, and she's asleep, sitting up, with her hands open in her lap and nothing in them for once. You don't wake her.
+
+      You find a blanket on the back of the Chesterfield, a tartan one that smells of engine oil and woodsmoke, and put it over her knees, very gently, the way you'd cover a sleeping dog without waking it. She doesn't stir. In the last of the forge-light her face looks completely different: younger, and quieter, and much more tired, as if all that moving has been holding something up. You sit beside her a while longer, until the forge has gone from orange to red to a dull dark glow, and then you get up as quietly as you can, and leave her there, still.
     #"Finish one. The sofa. Finish the sofa. Properly. I'll help."
       *set wit +5
       @saoirse:laugh She laughs, surprised, a real laugh. "The sofa's finished. The sofa [i]flies[/i]."
@@ -472,6 +492,8 @@ The Chesterfield is parked by the wall where you left her, with her headlamps of
       @saoirse:warm She looks at you, with her head on one side, as if you're an engine making a noise she hasn't heard before. "Brakes," she says. "All right. Brakes. You're on." She holds out her oily hand, and you shake it, and it feels like signing something.
 
       @saoirse:amused "Tuesdays," she says. "After Beastlore. You bring the tea. I'll bring the spanners. If you're late I'm fitting them without you, and they'll be terrible, and it'll be your fault." She settles back against the stone. She doesn't pick up her goggles. You notice that.
+
+      @saoirse:laugh "Disc brakes," she says, a minute later, to the ceiling, already designing them. "No. Drum. No. Something with a parachute." She starts drawing in the air with one oily finger, a lever here, a cable there, and talking you through it, and you listen to every word, and understand about a third of it, and it's the happiest you've heard her sound all night. When the forge has burned down to a red glow, she's still going. You leave her drawing brakes in the dark.
 *else
   You sit down beside her anyway, and look at the fire, and let her not talk. The forge ticks. The gramophone goes round. After a while she puts her head on your shoulder, very lightly, like a bird landing on a branch to see if it'll hold.
 
@@ -487,9 +509,15 @@ The Chesterfield is parked by the wall where you left her, with her headlamps of
 
   @saoirse:laugh "Because I can do [i]this[/i] now," she says, and points at the Chesterfield, and laughs, and that's all the answer you get. You're fairly sure it's not the whole of it. You're fairly sure she knows you know.
 
+  *page_break
+
+  You sit on for a while after that, the two of you, watching the forge go from orange to red. She doesn't say anything else about the garage, or about anything. She takes the bootlace out of her hair and ties it back up again, twice, as if her hands need a job. Once she reaches over and straightens your collar, briskly, the way a mechanic wipes a smudge off a windscreen, and says "There," and doesn't explain.
+
   Then she gets up, all at once, and stretches, and says she's going to wake Hamish up by putting his ferret in his beard, and does. The noise he makes is extraordinary. She's laughing again as you find your coat, and it sounds almost exactly like her usual laugh.
 
   *set st_saoirse +1
+
+*page_break
 
 You go up the back stair behind the kitchens in the end, sometime after two, with your shoes in your hand. The kitchen passage is dark and smells of tomorrow's bread, proving under cloths. Mrs Pettigrew's goat is asleep across the door to the pantry like a draught excluder, and opens one yellow eye as you go past, and closes it again, as if you're beneath its notice. On the landing above the Hall, a prefect is asleep in a chair with his wand still lit in his lap, his chin on his chest, the little light going up and down with his breathing. You tiptoe past him on the cold stone, holding your breath. He doesn't stir. The lanterns in the corridor turn sleepily to watch you go by, and one of them, you'd swear, dims itself a little as you pass, out of tact.
 
@@ -588,19 +616,23 @@ At eleven, something does go wrong. The Owlcombe boy with the hare's ears wakes 
 *present noor familiar
 The small hours are the longest.
 
-Midnight comes and goes. The one o'clock round is quiet. At two the fire needs making up, and you do it, and Noor shows you how to bank it so it'll last till morning. The castle goes so still you can hear the Mere lapping at the rocks far below the windows, and the lanterns out in the corridor humming very softly in their sleep. {fam_name} has given up on you and gone to sleep {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|on top of the medicine cabinet|under the desk, on your feet}.
-
 Just after midnight the Larkspire boy wakes, properly, for the first time, and lies blinking at the ceiling with his arm in its sling. "Did we win?" he asks the room. You realise you don't know. You heard the roar, hours ago, and saw the lantern-roof flare gold through the window, and then the door closed and you forgot there'd ever been a match at all. "We don't know," you tell him. "Sorry." He looks at you as if you've let him down personally, and goes back to sleep, and back, after a while, to the cheese.
 
 At one o'clock, between rounds, Noor gets up from the desk without saying anything and goes down to the end of the ward, to the screen, and the empty bed behind it. You watch her through the gap. She doesn't strip it. She straightens the sheet, and turns the corner of the blanket down, the way you'd turn down a bed for someone who's expected, and squares the pillow, and stands looking at it with her hands folded in front of her apron. Then she comes back and sits down and picks up her pencil.
+
+*page_break
 
 "They'll want the bed eventually," she says, to the chart. "Someone'll come and take the sheets. I'd rather it wasn't tonight."
 
 You don't say anything. She doesn't seem to need you to. After a while she passes you the biscuits, and you take one, and she takes one, and that's the end of it.
 
+At two the fire needs making up, and you do it, and Noor shows you how to bank it so it'll last till morning. The castle goes so still you can hear the Mere lapping at the rocks far below the windows, and the lanterns out in the corridor humming very softly in their sleep. {fam_name} has given up on you and gone to sleep {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|on top of the medicine cabinet|under the desk, on your feet}.
+
 *page_break
 
 The hours after that go slowly, the way hours do when you're watching them. You find that you can tell the time, after a while, without the clock: by the sound the fire makes, settling, and by how cold the window glass is under your fingers, and by the particular quality of the breathing in the beds, which deepens and slows as the night goes on, like the tide going out. Noor talks, to keep you both awake. About the ward sister who taught her to take a pulse, a tiny ferocious woman who could silence a waiting room by putting down a pen. About the vending machine on the second floor that only ever gave you oxtail soup, whatever button you pressed. About night buses. You tell her about {@job = "nurse"|your own nights on the wards, and she laughs at the right places, because she knows them all|the worst shift you ever did, and she laughs at the right places, and asks the right questions}, and between you the stories fill up the dark like something poured.
+
+*page_break
 
 At three o'clock in the morning, Noor falls asleep mid-sentence.
 
@@ -660,6 +692,8 @@ The three o'clock obs are due. The chart's under her arms.
 
   You write it all down in your best handwriting. It takes you twice as long as it would take her. Your pencil sounds very loud.
 
+  *page_break
+
   Back at the desk, she's still asleep, with her cheek on her folded arms and her plait come loose. Her face looks younger like that, and much more tired, as if sleep has taken off something she wears all day. You sit and watch the fire keep its seconds and listen to her breathe, and at half past four you wake her, so she can do the next round herself, because you think she'd want to.
 
   She's cross with you for about a minute. Then she reads the chart, and her face changes, very slightly, and she makes you tea.
@@ -672,9 +706,9 @@ The three o'clock obs are due. The chart's under her arms.
 
   *set st_noor +1
 
-@noor:neutral At eight o'clock exactly, Matron's door opens, and Noor gets up and takes her the chart, and stands in the doorway while she reads it. You can't see Matron from the desk. You can only see Noor's back, very straight, like a child waiting for a school report, and hear the pages turn, all the way down, Other column and all. There's a pause. There's a short dry sound that might be a laugh. Then something is said, too low to catch.
-
 *page_break
+
+@noor:neutral At eight o'clock exactly, Matron's door opens, and Noor gets up and takes her the chart, and stands in the doorway while she reads it. You can't see Matron from the desk. You can only see Noor's back, very straight, like a child waiting for a school report, and hear the pages turn, all the way down, Other column and all. There's a pause. There's a short dry sound that might be a laugh. Then something is said, too low to catch.
 
 @noor:amused Noor comes back with her apron already off. "She says bed," she reports. "Then breakfast. Both of us. And if she sees either of us on this ward before supper, she'll admit us." She folds the apron over her arm. "She also says your handwriting's better than mine. I'm choosing not to take that personally."
 
@@ -703,6 +737,9 @@ The Hall's full of the noise of a school that's decided, without anybody saying 
 
 You get a cup of tea and a plate of eggs and sit down, and wait for the day to find you.
 *if kept7
+
+  *page_break
+
   You kept your promise. You find out, over the course of the morning, how much that mattered. It's in small things.
   *if promise7 = "rowan"
     *present toby rowan familiar
@@ -733,6 +770,9 @@ You get a cup of tea and a plate of eggs and sit down, and wait for the day to f
     @noor:warm "I haven't decided yet," says Noor. "I'll let you know." She goes back to her eggs. Halfway through them, without looking up, she pushes the salt across to you, because you were about to reach for it, and you realise she's been keeping an eye on your plate the whole time, the way she kept an eye on the beds.
     *set st_noor +1
 *else
+
+  *page_break
+
   You didn't go where you promised. You find out, over the course of the morning, what that cost. It's in small things.
   *if promise7 = "rowan"
     *present toby rowan familiar
@@ -771,9 +811,9 @@ You get a cup of tea and a plate of eggs and sit down, and wait for the day to f
     It's much worse than if she'd been angry.
     *set hurt_noor +1
 
-@toby:laugh Toby Quill comes into the Hall at ten past eleven, late, with his cardigan on inside out and a smile on his face so wide it looks as if it hurts, and sits down beside you, and says: "We went for a walk. Me and Priya. Round the cloisters. Last night. From supper right up to the curfew bell." He puts his head down on the table. "She held my hand. For [i]three hours.[/i]"
-
 *page_break
+
+@toby:laugh Toby Quill comes into the Hall at ten past eleven, late, with his cardigan on inside out and a smile on his face so wide it looks as if it hurts, and sits down beside you, and says: "We went for a walk. Me and Priya. Round the cloisters. Last night. From supper right up to the curfew bell." He puts his head down on the table. "She held my hand. For [i]three hours.[/i]"
 
 "How was it?"
 

@@ -41,6 +41,7 @@ You take a step out into the street, and then another. The cobbles are uneven un
 
 Something hits you in the back, hard, and you both go down on the cobbles.
 
+*meet toby
 @toby:scared "Sorry! Oh no, sorry, sorry, I didn't see... I wasn't looking, I didn't know it'd be [i]steps[/i]..." The something is a person, and the person is scrambling off you and apologising and trying to help you up all at once, which means you both fall over again. "Sorry. Sorry. Oh, I've got flour on you. I've got flour on everything. Sorry."
 
 He's short and round-faced, about your age or a bit younger, with pink cheeks and blond hair sticking up at the back as if he's just got out of bed, and he's wearing a baker's apron over a cardigan three sizes too big, and he is covered, completely covered, in flour. Behind him, in the wall of the tobacconist's, another gold doorway is fading, and through it, briefly, you see a small shop kitchen with an oven door hanging open and smoke rolling out of it.
@@ -51,7 +52,6 @@ In his hand, held very carefully, is a croissant. It's on fire.
 
 @toby:scared "It does that," he says, following your look, in despair. "Since April. I look at them and they go up. I've lost my job. I lost it three times, actually, because Mr Pargeter kept giving it back, but tonight he said..." He stops. He looks up at the street properly, at the lamps and the leaning houses and the barrow of lights rattling away round the corner, and his mouth falls open. "Oh," he says. "Oh. It's [i]real[/i]."
 
-*meet toby
 *set fr_toby 1
 You watch his face do the thing yours must have done a minute ago. It's quite something, from the outside.
 
@@ -121,6 +121,7 @@ There's a queue behind you now, and it's the strangest queue you've ever been pa
 
 There's a young woman just behind Toby, small and very upright, with a severe black bob and thin gold glasses, reading a book so thick it has its own strap. She's reading fast. Her lips don't move, but her eyebrows do.
 
+*meet imogen
 @imogen:neutral "Page forty," she says, to nobody in particular, not looking up. "[i]The Hester Grant covers robes, a wand, a familiar, a cauldron, sundry supplies and one pastry.[/i] One pastry. It's in the regulations. Somebody fought for that pastry." She turns the page. "I'd like to meet them."
 
 "Where did you get that?" you ask.
@@ -133,7 +134,6 @@ There's a young woman just behind Toby, small and very upright, with a severe bl
 
 @imogen:amused "Everybody's had a P.S.," she says. "It's a very good P.S." She holds out a hand, briskly, the way you'd hold it out in an interview. "Imogen Sallow. I was halfway through my second year of law, and I set fire to my contract-law notes by looking at them, which I'd been meaning to do anyway. The handbook's in your envelope if you look in the lining. It's fourteen hundred pages. I'm on page two hundred and six." A pause. "The doorway put me in a bus shelter on the wrong side of Kingsmere. I've been reading it under streetlamps for two hours, walking."
 
-*meet imogen
 *set st_imogen 1
 You shake her hand. It's cold, and very steady.
 
@@ -171,6 +171,7 @@ Then there's a sound from the street like a lawnmower being strangled, and someb
 
 Not through the glass. Through the window, as if the window were a curtain. The whole bike follows it, a big old black-and-chrome thing with mud on the mudguards, pushed by a wiry young woman with wild dark-auburn curls tied up with a bootlace and goggles pushed up on her forehead. She wheels it through the wall of paper in the bay window, which parts for her, into the middle of the room, and kicks the stand down, and grins at everybody. She has a chipped front tooth.
 
+*meet saoirse
 @saoirse:amused "Sorry," she says, not sorry at all. "Doorway came out on the ring road. I wasn't leaving her."
 
 @fitch:neutral "You can't bring a motorbike to Wrenfold," says Mr Fitch faintly.
@@ -183,7 +184,6 @@ Not through the glass. Through the window, as if the window were a curtain. The 
 
 @saoirse:laugh "It doesn't [i]say[/i] broomsticks, though, does it?" She wipes her hand on her jeans, which makes it oilier, and holds it out to the nearest person, who happens to be you. "Saoirse Maddock. I fix bikes. Fixed one in May without touching it, and then I couldn't stop. Every engine on the street. Every car in the car park at Tesco. Lost my licence over it, which was unfair, because I wasn't even [i]in[/i] them."
 
-*meet saoirse
 *set st_saoirse 1
 *choice
   #Shake her hand, oil and all, and offer to help her keep the bike out of Mr Fitch's sight.

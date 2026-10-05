@@ -117,6 +117,8 @@ It's cold. Properly cold, for the first time this year: your breath smokes, and 
 
 At the water's edge, Mr Tully is waiting with his brass taper. He's not wearing a mask. He lights each lantern as it comes to him, one at a time, with a word for everyone, the way he did on the first night, and you watch him do four hundred without once getting a name wrong.
 
+*page_break
+
 It takes a long time. Nobody minds. The line shuffles forward over the frosty shingle, a step at a time, and as each person reaches him he looks up into their mask, and knows them, every one. [i]Evening, Jonty. Evening, Miss Barrow; mind that hem in the water.[/i] A Heronmere first-year in a mask like a frog asks him, in a whisper, whether it matters what you write on it, and Mr Tully considers the question as seriously as if she'd asked him about the weather. "Not to the lantern," he says. "Only to you." He touches the taper to the wick, and the lantern blooms in her hands, rose-pink, and she carries it away to the water as if it's full to the brim.
 
 His knees are bad tonight. You can see it. Every so often, between lanterns, he shifts his weight and winces, and the taper dips, and he straightens it again before anybody's waiting. His breath goes up white in the torchlight. He's wearing the same coat he wore on the landing that night in September, buttoned right this time.
@@ -271,6 +273,8 @@ He stays kneeling after it's gone out among the others, with the taper burning l
 
   You say them under your breath, kneeling there, to see if you still can. [i]Viking, North Utsire, South Utsire.[/i] Your breath goes up white with each one. You get as far as Dogger before your voice goes, and you have to stop, and look at the water for a while. Nobody's watching. Nobody's near. Down the shore, people are standing up in twos and threes and holding hands and wiping their eyes, and you kneel on the cold stones on your own with {fam_name} warm against you and let yourself miss him, properly, for the first time in years. It hurts. It's a clean sort of hurt. When it's done, you feel lighter, as if the lantern took something with it that you'd been carrying without knowing.
 
+*page_break
+
 Up the shore, someone puts a taper to the apple-fire. It catches with a soft roar, all at once, gold and blue and green, and lights up the whole beach: the kneeling figures in their masks, the frost, the boathouse, the dark backs of the prefects. A shower of sparks goes up into the night and turns, high up, into tiny red lanterns that drift away over the water after the others. Somebody whoops. A fiddle starts, thin and quick and a bit out of tune, and the line along the water's edge begins to break up and drift towards the warmth, slowly at first, then faster, people pulling each other up off the stones by the hand.
 
 Out on the Mere, the four hundred lanterns go on turning in the dark, paying no attention at all.
@@ -312,6 +316,12 @@ It's like the candles in Pellow's shop, leaning towards you. The whole bonfire b
 You can see it in the flame-sight, too: the bonfire on the shingle and the bonfire in his chest, leaning towards each other, red-gold and red-gold, like two people who recognise each other across a room.
 
 The dancers have stopped. All round the fire, masks are turning to look: a crow, a hare, a pair of moons. A first-year near you whispers, "Is he [i]doing[/i] that?" and nobody answers her. The fiddler has let his bow drop. In the sudden quiet you can hear the fire itself, the deep soft roar of it and the crack of the apple boughs, and under that, faint and steady, a sound like breathing, as if the fire's lungs and Rowan's have fallen into step.
+
+*page_break
+
+@rowan:neutral He turns his hand over in the flame, slowly, palm up, palm down, the way you'd turn your hand under a tap to test the water. The fire follows it, a gold tongue curling round his wrist and lying along his forearm like a cat settling on a lap. The old burn-scar shine on his skin catches the light. Nothing blisters. Nothing even reddens. "It's warm," he says, wondering. "Just warm. Like getting into a bath."
+
+Six feet behind him, the heat's enough to make your eyes water and your mask's paper edges tick. You keep your eyes on his face, the way you promised. It isn't frightened, not yet. It's concentrating, the way it was in front of the hoops: the face of someone standing in front of a thing and not moving out of the way. In the flame-sight his bonfire has gone very bright and very still, the way a fire goes still in a grate when the door's been shut and the draught cut off. Listening. You wait, with your hands ready, and don't call him back. Not yet.
 *if (st_rowan >= 3) and not(b_rowan_fire)
   @rowan:hurt He doesn't take his hand out of the flame. He looks at it, curled round his fingers, gold and blue. "Last time I was this close to a fire," he says, "it was a house."
 
@@ -369,6 +379,8 @@ The dancers have stopped. All round the fire, masks are turning to look: a crow,
     "Neither did I."
 
     @rowan:laugh "Liar," he says, kindly. "You knew. You were stood there waiting for me."
+
+*page_break
 
 The fire burns down slowly after that, the way bonfires do, from a roar to a crackle to a deep red heap that ticks and shifts and sends up the odd lazy spark. People drift away from it in twos and threes, back along the shore towards the boathouse and the stair. Out on the water the lanterns have gone very small. Rowan stays till nearly the last, with you, in the warm dark at the edge of the light, and neither of you says much. He doesn't need to. The fire knows exactly where he is, and so do you, and for once, you can see in his face, that feels like enough.
 
@@ -472,6 +484,8 @@ The Hall's half empty and littered with the end of the feast: apple cores, cider
 
 Somebody from the kitchens has had the sense to bring up an urn of hot milk with honey in it, and a tray of the apple dumplings nobody finished, and people queue for them quietly, the way people queue for tea after a funeral. You get a cup, because your hands need something to do. You sit on the end of a bench with it and don't drink it. It warms your fingers, and nothing else.
 
+*page_break
+
 People are pretending not to look at you. They're not very good at it. A table of Owlcombe first-years go quiet when you sit down and then start talking again too brightly, about nothing, about the cider. Two prefects by the door have their heads together. At the Rookhallow table, somebody's drawn a little picture in spilled cider on the boards with their finger, a figure with rays coming out of its hands, and when they see you see it, they wipe it out with their sleeve.
 
 The lanterns in the Hall turn back to gold at half past midnight, slowly, from the High Table end, the red draining out of them like colour from a cheek.
@@ -537,6 +551,8 @@ She's heard. Of course she has.
 "She said he's coming back," you say. "Whoever he is."
 
 @kestrel:grave "I know what she said," says Imelda Kestrel. For the first time since you met her, she looks every one of her seventy-one years. Her hand stays on your shoulder a moment longer, and you can feel, through it, how still she's holding herself. "Go to bed. Both of you. And keep it close."
+
+*page_break
 
 @kestrel:grave She lets go, and walks back up the Hall the way she came, between the tables, and out through the door behind the High Table, and the low talk closes up behind her like water. You notice she doesn't hurry. You notice, too, that she stops at the door and looks back, just once, not at you but up at the lanterns, gold again now, drifting and humming above the littered tables, as if she's counting them.
 

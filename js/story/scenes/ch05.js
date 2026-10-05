@@ -193,6 +193,8 @@ He walks fast and says nothing, and you follow him through three corridors you'v
 
 At the bottom of the stair there's a low door, black oak bound with iron, with a keyhole the size of your thumb. Idris takes a key out of his dressing-gown pocket, long and dark and old, and fits it, and turns it with both hands. The lock goes over with a sound like a knuckle cracking. He stands aside to let you go first, and when you hesitate, he says, very quietly, "It's only books," in the voice of someone who doesn't believe that in the slightest.
 
+*page_break
+
 The library at midnight is a long galleried hall of books under a vaulted roof, with rolling ladders on brass rails and green-shaded lamps on the reading tables, all turned down to a glow. At the far end there's a cage of iron and brass where the restricted books are kept, and it hums faintly, like a beehive. It smells of old paper and cold ash. Idris turns up one lamp at a table in a corner and sits down across from you. {fam_name} settles {@(familiar = "owl") or (familiar = "raven")|on the back of a chair|in your lap}, watching him, very alert.
 
 @idris:neutral For a while he doesn't speak. He takes his glasses off and cleans them on the hem of his dressing gown, and puts them back on, and you get the impression he's using the time. Then he opens a book on the table between you, old and heavy and bound in cracked green leather, and turns it round to face you. It's a woodcut: a woman in a long coat, standing on a shore, with a flame in her open hand, and all round her in the dark, drawn in thin lines, other small flames, in the chests of the people standing near her, and threads running between them.
@@ -272,6 +274,8 @@ He doesn't write that down. He sits looking at the page, with the pencil resting
     "And if I don't? If I just go to bed and pretend it didn't happen?"
 
     @idris:guarded He looks at you for a second over his glasses, with the lamp between you. "Then I'll go to the Headmistress myself, in the morning," he says, "and tell her what I saw. And you'll have one fewer person in this castle you can trust, and so will I." He turns the lamp down. "I'd rather not. I'd rather you went."
+
+*page_break
 
 You go back through the dark corridors together, not talking, with {fam_name} leading the way. You can still see the flames through the walls, very faint now, fading as your heart slows down, like a picture going out of focus. Idris walks half a step behind you, as if he's keeping watch on your back. You don't mind as much as you'd expect.
 
@@ -528,6 +532,8 @@ Saturday morning is bright and blowy and blue, the kind of September day that fe
 You slept, in the end, about four hours, with the lemon cake in its napkin on the chair beside the bed and the word going round and round your head like a moth round a lamp. You woke before the bell with it still there. [i]Kindler.[/i] You lay and looked at the ceiling and said it under your breath, once, to see how it sounded in a room, and {fam_name} lifted {@familiar = "moth"|its feathery antennae|its head} at the sound, and you didn't say it again.
 
 At breakfast you sat with your back to the wall and ate porridge and didn't look at anyone too hard. It's surprisingly difficult, not looking. The flame-sight sits just behind your eyes this morning like the beginning of a sneeze, and every time somebody laughs, or leans across the table for the jam, you feel it stir, and want to turn and see. You didn't. You looked at the porridge. You've never studied porridge so closely in your life.
+
+*page_break
 
 The last time you were down here it was a lesson, and half-empty. This morning the stands on their tall wooden stilts are full, people with flasks and blankets and opinions, and the lantern-hoops at either end are swinging in the wind, and the water under them is thick with trials: brooms whizzing, whistles, somebody shrieking with laughter as they go in. Coach Okoro is out in the thick of it all, standing on the Mere as if it were a car park, bellowing encouragement at everyone and no one.
 *if glimmer

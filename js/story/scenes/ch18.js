@@ -234,6 +234,8 @@ The fifth. The fifth of March. The night of the Quiet.
 
 You read it again. The words don't change. You find you've sat down on the rag rug without meaning to, with the letter on your knee, and {fam_name} has gone very still by the door, ears up, listening.
 
+*page_break
+
 You don't hear the door. You hear the taper, set down very carefully on the shelf by the door, brass on wood. You turn round, with the letter in your hand, and Mr Tully is standing in the doorway of his own house in his patched brown coat, with his flat cap in his hands, looking at you.
 
 @tully:sad He doesn't shout. He doesn't come any closer. He looks at the letter in your hand, and at the open stove drawer, and at you, and his long kind face doesn't do anything at all for a moment. Then it just... falls. Like a house when the last wall goes.
@@ -340,6 +342,8 @@ You don't know you're going to say it until it's said, and then it's in the room
 The stove ticks. You drink your tea because you don't know what else to do either, and it's too sweet, he's put sugar in it without asking, the way you would for someone in shock.
 
 @tully:sad He's looking at the mantelpiece again. At Maisie on the frozen Mere with her candle.
+
+*page_break
 
 @tully:sad "Toby Quill," he says. "I lit his lantern the first night. I said [i]welcome home, lad[/i]. He said [i]thanks, mister[/i], and asked me if there was cake." And Absalom Tully puts his face in his big oily hands and weeps.
 

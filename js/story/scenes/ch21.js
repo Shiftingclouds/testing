@@ -113,6 +113,8 @@ The grass is soaking through your shoes in earnest now. You don't move.
   *present rowan
   @rowan:warm Rowan finds you. He was always going to. He comes out between the stones with his garland crooked and his shirt smelling of woodsmoke and stands beside you, warm as the fire behind you, and looks at the castle. The wet grass round his boots is steaming faintly.
 
+  *page_break
+
   "You've got a potato in your pocket," you tell him.
 
   @rowan:laugh He checks. He has. It's still hot; he's been carrying it round for an hour, apparently, and not noticed, because nothing's ever too hot for Rowan. "Saving it," he says, with dignity, and breaks it in two, and gives you half, and you stand there eating it out of your hands while it steams. He watches you burn your fingers. He looks very pleased about something.
@@ -121,6 +123,8 @@ The grass is soaking through your shoes in earnest now. You don't move.
 *if final_rel = "imogen"
   *present imogen
   @imogen:warm Imogen finds you. She's got a garland of cowslips on, lopsided, which {@kit_lit|Kit put on her head, laughing, when he came up for the day|Priya put on her head}, and she hasn't taken it off. She stands beside you in the wet grass and looks at the castle, and for a while she doesn't say anything, which isn't like her.
+
+  *page_break
 
   "Nice garland," you say.
 
@@ -131,6 +135,8 @@ The grass is soaking through your shoes in earnest now. You don't move.
   *present saoirse
   @saoirse:warm Saoirse finds you. She comes out between the stones at a run, and stops, and stands beside you in the wet grass, and doesn't fidget. She's got soot on her face from the bonfire and may blossom in her hair, and she's breathing hard from the dancing.
 
+  *page_break
+
   "You've got soot on your nose," you tell her.
 
   @saoirse:laugh "I know. I put it there. I fixed the accordion." She shows you her hands, black to the wrists. "The bellows had a split in, so I sealed it with the heat off the fire and a bit of me and a lot of swearing, and now it plays a whole tone sharp but it [i]plays[/i], and the man with the drum bought me a cider." She wipes her hands down her jacket, making them worse. "Best night of my life. Don't tell anyone. I've got a reputation."
@@ -139,6 +145,8 @@ The grass is soaking through your shoes in earnest now. You don't move.
 *if final_rel = "cas"
   *present cas
   @cas:warm Cas finds you. He's lost his coat somewhere, and there's a garland of may on his head that someone put there, and he hasn't taken it off, which you'd never have believed in September. He stands beside you and looks at the castle, turning his signet ring round and round on his finger.
+
+  *page_break
 
   "Where's your coat?" you ask.
 
@@ -149,6 +157,8 @@ The grass is soaking through your shoes in earnest now. You don't move.
   *present noor
   @noor:warm Noor finds you. She's not in her uniform, for once. She's in a dress, with may in her plait, and she's been dancing, you can tell; her cheeks are pink, and she's lost a shoe and hasn't gone back for it. She stands beside you in the wet grass and looks at the castle.
 
+  *page_break
+
   "You've lost a shoe," you point out.
 
   @noor:amused "I know where it is," she says. "Roughly. It came off in the third ring and somebody kicked it towards the fire, and I thought, I'll get that in a minute, and then I didn't." She looks at her stockinged foot, wet through, with something like wonder. "I didn't go and get it. I just kept dancing. I've never once in my life not gone and got the shoe."
@@ -157,6 +167,8 @@ The grass is soaking through your shoes in earnest now. You don't move.
 *if final_rel = "idris"
   *present idris
   @idris:warm Idris finds you. He's got his glasses in his pocket again, and a garland of cowslips somebody forced on him, and the look of a man who's been thinking about one thing since the roof, which he has. He stands beside you and looks at the castle, slightly out of focus.
+
+  *page_break
 
   "Where are your glasses?" you ask, although you know.
 
@@ -276,6 +288,13 @@ The grass is soaking through your shoes in earnest now. You don't move.
       Somewhere at the edge of the firelight you catch sight of the Headmistress, still counting heads. She sees you both. She doesn't smile, exactly. She just marks you, with a little nod, as if she's added a number to a sum and it's come out right.
 
       Seven weeks. You put your face against a shoulder that smells of woodsmoke, and for the length of one slow song you don't count them at all.
+
+      *page_break
+
+      The song ends. Another starts, slower still. Somebody has thrown the last of the may branches onto the embers, and they go up all at once in a soft white crackle of blossom, and the smell of it comes over everybody like a wave, sweet and heavy, and the whole ring of dancers says [i]oh[/i] at once without meaning to. In the light of it you see faces you know, all round the fire, turning slowly in pairs and threes: tired faces, soot-smudged, garlanded, happy. You'll remember them like this. You decide it, there and then, the way you'd decide to keep a letter.
+
+      At two the Headmistress calls time, and nobody listens, and she calls it again, and the band plays one last fast one out of spite. You walk down the hill together afterwards, in the long line of lanterns going down towards the boats, holding hands in the dark where nobody can see and then, halfway down, where everybody can. Nobody says anything about it. Somebody behind you whistles, once, and somebody else shushes them, and that's all. The boat takes you home across the black Mere with your shoulder against a shoulder and {fam_name} asleep across both your feet.
+
     #"Not like this. Not with Midsummer coming. I can't promise you anything."
       *set final_shape "parting"
       *set heart +5
@@ -312,6 +331,10 @@ The grass is soaking through your shoes in earnest now. You don't move.
 
       {fam_name} comes and leans on you, and you crouch down in the wet grass and put your face in warm fur for a while, and nobody sees. When you stand up again, the castle is still there across the valley, every window lit, waiting for you to come home to it. You start back down the hill with everybody else, in the long line of lanterns, and you don't look for anyone, and you're glad nobody looks for you.
 
+      The boats are waiting at the bottom of the lane, lanterns hung at their prows, rocking on the black water. You climb into the nearest without looking to see who's in it. It's full of Owlcombe first-years, asleep on each other's shoulders, garlands crushed, one of them still holding a half-eaten pie with great care, as if it's evidence. Nobody talks. The boat pushes off by itself, the way the boats always do, and slides out across the Mere towards the castle, and the only sound is the water whispering along the hull and somebody, a few boats behind, still humming the slow song from the fire.
+
+      You trail your fingers in the water. It's colder than you expected, colder than the night. Halfway across you look back at the hill. The Brightfire's a small red eye up there now, among the dark stones, and as you watch, it winks out, or the hill moves between you and it; you can't tell which. You keep looking at the place where it was until the boat bumps against the jetty and somebody shakes the first-years awake, and you climb out onto the planks, stiff and cold and very tired, and go up the long lawn to bed without speaking to anyone at all.
+
 *if final_rel = ""
   *set final_rel "single"
 *if final_rel = "single"
@@ -331,7 +354,14 @@ The grass is soaking through your shoes in earnest now. You don't move.
 
   At one point a pair of Larkspire fourth-years come out between the stones, giggling, hand in hand, not seeing you, and stop a few yards off in the shadow, and you look very hard at the castle until they've gone back. It makes you smile. It doesn't make you lonely. You check, honestly, the way you'd check for a bruise, and it doesn't. You're out here because you want to be. It's a strange, plain, good feeling, and you sit inside it for a while.
 
-  After a while, you go back to the fire. Somebody hands you a cup of something hot that Heronmere swear is only apple, and isn't. Somebody else puts a garland on your head, a fresh one, still wet with dew. The Rookhallow second-year finds you again and drags you into a ring, still shouting the wrong steps, and this time you shout them back at him, wrong as well, and the two of you go round the fire in perfect disagreement while the fiddle plays faster and faster. You dance till two.
+  The moon goes behind the cloud again, and comes out, and the whole valley goes silver and black and silver. In the moonlight the Mere looks solid, like a floor you could walk across to the castle. You think about doing it, idly, the way you'd think about flying: just setting off down the hill and across the water, dry-shod, and climbing the rock, and letting yourself in at the boathouse, and going up to bed through the empty corridors while everybody else is still out here dancing. Having the whole castle to yourself for an hour. Every lantern, every stair, every sleeping portrait. You'd like that, you think. One day you'll do it. Not tonight.
+
+  Down in the field, the hare is back. Or another hare. It sits up in the moonlight and considers the fire again, and you, and {fam_name}, who has gone very still, and then it does something you've never seen a hare do: it stands up on its hind legs, tall as it can make itself, and stays like that, as if it's listening to the music. Then it drops, and turns, and goes off along the hedge in long easy bounds, and you find you've been holding your breath.
+
+  *page_break
+
+  After a while, you go back to the fire. Somebody hands you a cup
+ of something hot that Heronmere swear is only apple, and isn't. Somebody else puts a garland on your head, a fresh one, still wet with dew. The Rookhallow second-year finds you again and drags you into a ring, still shouting the wrong steps, and this time you shout them back at him, wrong as well, and the two of you go round the fire in perfect disagreement while the fiddle plays faster and faster. You dance till two.
 
 *page_break
 *comment ---------------------------------------------------------------- CH21.PLAN.01
