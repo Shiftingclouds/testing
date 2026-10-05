@@ -136,12 +136,22 @@ You hadn't noticed. You notice now. The whole snowy village is full of noise, st
 *date 2026-12-05 11:30
 *place P35 sweetshop
 *present ombree familiar
-Sugar & Sorcery is halfway up the hill, with a bow window so crammed with jars that you can't see in, and a bell over the door that plays the first line of a Longnight carol when you open it, a little flat. There's a queue outside in the snow, stamping its feet. When you finally get to the door, it's so full of sweets that you have to turn sideways to get in.
+Sugar & Sorcery is halfway up the hill, with a bow window so crammed with jars that you can't see in, and a bell over the door that plays the first line of a Longnight carol when you open it, a little flat. There's a queue outside in the snow, stamping its feet.
+
+You join the end of it. It goes down three shop-fronts and round a lamppost, and it's the most cheerful queue you've ever stood in. Everybody's breath goes up in clouds. A pair of Rookhallow second-years in front of you are working out, with great seriousness and a stub of pencil, exactly how many sugar mice can be bought with eleven crowns and a button. Behind you, a Heronmere first-year is explaining to her friend, at length, that fizzing moonstones once made her brother float for an entire afternoon, and the friend is saying [i]they do not[/i], and the first-year is saying [i]they did, he had to be tied to the bannister[/i]. Somebody's familiar, a fat tabby, has got onto the shop's window ledge and is sitting among the snow with its nose pressed to the bottle glass, staring in at the chocolate wrens with naked longing.
+
+It takes twenty minutes to get to the front. Your toes go numb, and come back, and go numb again. Every time the door opens, a gust of warm air comes out, smelling of sugar, and the whole queue sighs and shuffles forward a step, like a congregation. When you finally get to the door, it's so full of sweets that you have to turn sideways to get in.
+
+*page_break
 
 Jars to the ceiling, on shelves that lean, with a ladder on wheels to get at the high ones. Fizzing moonstones that glow faintly blue in their jar. Liquorice bootlaces that tie themselves in knots if you stare at them. Sugar mice with real whiskers that twitch. Peppermint creams in the shape of every house bird, lark and owl and heron and rook, in paper cases. Toffee in slabs, broken with a little silver hammer. Chocolate wrens in a glass case, which flutter against the glass when you lean close, and settle when you don't. It smells of sugar and mint and hot chocolate and something like bonfire, and it's warm as an oven, and your glasses, if you had glasses, would steam up at once. Everyone in it is talking at the top of their voice, and a Larkspire first-year is standing by the counter with her arms full of sherbet, crying with happiness, and nobody thinks this is strange.
 
 *meet ombree
 @ombree:neutral Behind the counter, in a striped bow tie, with his waxed white moustache and his pink bald head shining under the lamp, Mr Ombree is weighing out sherbet on a brass scale with the concentration of a surgeon. "Welcome, welcome, welcome," he says, without looking up. "One at a time, my dears, one at a time, there's plenty for everybody. Nothing that hums, I'm afraid. Not this year."
+
+*page_break
+
+You wait your turn by the counter, squashed between a shelf of sherbet lemons and a very tall Larkspire boy with a basket full of liquorice, and watch Mr Ombree work. He's quick and tidy and enormously patient. A first-year in front of you can't decide between the peppermint herons and the peppermint larks, and asks if she can have half of each, and he gives her half of each without a flicker, and a sugar mouse on top, and tells her it's because she's the hundredth customer this morning, which she isn't; you've heard him say it to three people already. When she's gone, glowing, he catches your eye over the brass scale and winks, very slightly, under the white moustache.
 
 *page_break
 
@@ -176,7 +186,11 @@ There's an empty jar at the end of the counter with a label on it in curly writi
 *if village_with = "alone"
   On your own, in the warm crowded shop, you stand looking at the empty jar for longer than you mean to, and nobody notices, and after a while you shake yourself and go and look at the chocolate wrens instead.
 
+*page_break
+
 Presents, though. You've come for presents, and there's nothing the Grey Choir can do about that.
+
+You start at the top of the shop and work down, the way you'd read a page. The ladder on wheels takes you up to the high shelves, wobbling, where the older sweets live in dusty jars with handwritten labels: [i]Pear Drops, Dreaming[/i], [i]Aniseed Balls (Do Not Bite)[/i], [i]Barley Sugar, 1961 Batch[/i]. You come down again with sugar on your sleeves. You lift the lid of a jar of bonfire toffee and get a puff of real woodsmoke in the face, and cough, and the woman next to you laughs and says that happens to everyone, it's why they keep it near the door.
 
 You spend a long time choosing. It's the first time in years you've bought presents with money you haven't had to count twice, and you find you want to take your time over it, the way you'd take your time over a good meal.
 *choice
@@ -218,6 +232,10 @@ You spend a long time choosing. It's the first time in years you've bought prese
       *set gift_for "idris"
       *set st_idris +1
       The stationer next door finds you the lantern, the size of a thumb, which lights when you open the book you've clipped it to. You think of Idris in the Long Stacks at two in the morning, and pay for it without looking at the price.
+
+When you come back out onto the hill, the snow's thinning and the sky has gone the colour of a pearl button. You stop on the step to let a family of villagers go past, a man with a little girl on his shoulders and a woman carrying a goose under one arm, alive and deeply unimpressed about it. The little girl waves at you. You wave back.
+
+The high street has filled up while you were inside. Students go past in pairs and threes with paper bags and string-tied parcels, comparing purchases, arguing about who's had the best idea. Somebody has bought a hat with bells on and is wearing it, defiantly. Down at the bottom of the hill, by the post office, Jory Penrose's lamp burns small and white on its pole, and up at the top, by the green, the striped awning of Pellow's stall has a little crowd round it, watching her polish. You button your coat up to the chin, and stand for a moment on the step with your hands in your pockets and the taste of sugar still in your mouth, and you're glad, simply glad, the way you're glad of something warm in your pocket on a cold day.
 *page_break
 *comment ---------------------------------------------------------------- CH11.LANTERN.01
 *sid CH11.LANTERN.01
@@ -226,7 +244,15 @@ You spend a long time choosing. It's the first time in years you've bought prese
 *present moll jory familiar
 By one o'clock the snow's coming down again, soft and steady, and everybody in Thimble Cross seems to have had the same idea at once.
 
+You can tell by the footprints. They all lead the same way, up the high street and across the corner of the green, past the market cross with its cap of snow, to a low black door under a crooked sign. The snow round the door has been trodden to grey slush. There's a heap of wet umbrellas in a barrel outside, and a row of brooms leaning against the wall, and a sledge with a sleeping dog in it, wrapped in a tartan rug, who opens one eye as you go past and decides you aren't worth waking up for. From inside comes a roar of voices, and a squeezebox, and a smell of woodsmoke and spice that you can taste in the cold air from twenty feet away.
+
+*page_break
+
 The Crooked Lantern is the oldest building in the village, which means it's the one leaning furthest: it tips towards the green like a man leaning in to hear a secret, with a painted sign of a lantern on a bent pole swinging over the door. You go down two steps to get in, and duck under a beam, and then you're inside the warmest room in the world: low ceiling, black beams hung with hops and horse-brasses and a hundred little lanterns, a fire in a fireplace as big as a shed, students crammed onto every bench and settle and window-seat, wet coats steaming on every hook, and the air thick with woodsmoke and the sweet-spiced smell of hearthale. An enormous old dog is asleep on the hearthrug with his legs in the air. Somebody in the corner is playing a squeezebox, and somebody else is singing along, wrongly.
+
+Every window is steamed up. The floor is old flagstones worn into dips by four hundred years of boots, and the dips are full of melted snow, and nobody cares. A row of Lamplighters' brass lamps has been hung on hooks along the bar, unlit, like a line of sleeping birds. Over the fireplace there's a painting of the pub itself, leaning, with the same painting hanging inside it over a tiny fireplace, and inside that another one, smaller and smaller, until it's just a dab of gold.
+
+*page_break
 *meet moll
 @moll:neutral "In you come, in you come, shut that door, you're letting the snow in!" roars the landlady, a huge red-faced woman with brawny arms and grey hair piled up on her head like a cottage loaf. She's carrying six tankards in each hand. "Hearthale? Course you want hearthale. Sit. Anywhere. Sit on the dog if you have to, he won't mind. He's been sat on by better than you."
 
@@ -326,9 +352,25 @@ The hearthale comes in a pewter tankard, hot, foaming, the colour of dark honey.
       @idris:neutral "Read," he says. "Mostly about people who'd died. They're easier." He considers. "You're harder. I'm finding I don't mind."
 *if village_with = "toby"
   *present toby priya
-  @toby:laugh Toby has had half a tankard of hearthale and is telling the whole table about the time his dad set fire to a Christmas pudding and then the curtains and then himself, slightly, doing all the voices, with Priya laughing so hard she's crying into her scarf. You laugh till your ribs hurt. Moll Dunmore, passing with a tray, stops to listen, and laughs so loudly at the bit with the fire brigade that the dog wakes up. For a whole hour, it's just a pub in the snow.
+  @toby:laugh Toby has had half a tankard of hearthale and is telling the whole table about the time his dad set fire to a Christmas pudding and then the curtains and then himself, slightly, doing all the voices, with Priya laughing so hard she's crying into her scarf. You laugh till your ribs hurt. Moll Dunmore, passing with a tray, stops to listen, and laughs so loudly at the bit with the fire brigade that the dog wakes up.
+
+  *page_break
+
+  @toby:laugh "And then," says Toby, waving his tankard, "my mum comes in, right, in her dressing gown, with the fire extinguisher, and she doesn't put out the pudding. She doesn't put out the curtains. She puts out [i]Dad[/i]. First. Just him. Head to foot. And then she goes, [i]right, now we can deal with the curtains[/i]."
+
+  @priya:warm Priya puts her face down on the table. Her shoulders are shaking. "He tells this every year," she says to you, muffled. "Every year. It gets longer."
+
+  @toby:amused "It gets [i]better[/i]," says Toby, wounded, and steals one of her chips.
+
+  After that it's Priya's turn, and she tells the one about the wedding where the bride's familiar, a goose, ate the ring, and then it's yours, and you find yourself telling them about Nana Pearl and the budgie, and the winter the budgie learned to say [i]put the kettle on[/i] in Nana's exact voice, so that for months nobody in the house could tell who wanted tea. Toby laughs so hard he has to put his head between his knees. Moll Dunmore brings another round nobody ordered and doesn't charge for it.
+
+  For a whole hour, it's just a pub in the snow.
 *if village_with = "alone"
   You get the last seat, a tiny three-legged stool in the chimney corner, practically inside the fireplace, and sit with your hearthale and {fam_name} {@(familiar = "cat") or (familiar = "hare")|curled on your boots|on your knee}, and watch the room: a hundred people's worth of flames, all burning bright and gold and warm in the firelight. Nobody's hollowed. Nobody's hurt. You let yourself just look at them, for a while, the way you'd look at a window full of lights on a winter night from the street outside.
+
+  *page_break
+
+  There's a game of something going on at the long table under the window, with cards and a lot of shouting, and the Rookhallow second-years playing it keep losing to a very old woman in a felt hat who doesn't seem to be trying. A Larkspire girl is asleep against her friend's shoulder with her mouth open and a sugar mouse still in her hand. Two Owlcombes in the corner are sharing a single enormous slab of toffee and a single enormous book, reading the same page with their heads together. Nobody notices you. It's restful, not being noticed. You sip your hearthale and let the fire roast your shins until your trousers are almost too hot to touch, and think about nothing, and it's wonderful.
 
 The door bangs open, and the snow comes in, and so does Jory Penrose.
 
@@ -344,18 +386,34 @@ The door bangs open, and the snow comes in, and so does Jory Penrose.
 
 He drinks. You go and sit next to him. The colour comes back into his face in patches, pink and then red and then, round the ears, almost purple.
 
+He holds his hands out to the fire, and you see they're shaking, not just with cold. The brass lamp is propped against his knee. It's lit, but low, a small white flame in the glass, and every so often he glances down at it, the way you'd glance at a watch.
+
+"Is it all right? The lamp?"
+
+@jory:tense "It's fine." He touches the glass with one finger, as if to reassure it. "It's supposed to burn brighter if they're close. The Choir. It's supposed to go white, and then whiter. That's how we know." He looks at it again. "It's been like this all morning. That's good. That's what you want." He doesn't sound as if he believes it's what he wants. He sounds like a boy reciting something he learned in a classroom, a long way from here.
+
 *choice
   #"Where's everyone else? The Commander?"
     *set wit +5
     @jory:tense "St Ide's," he says, low. "With Bram. The Commander thinks..." He stops. Starts again. "She thinks if they come for anyone, they'll come back for the ones they've already opened. To finish it. So she's there. And there's six of us here." He looks at the window, at the snow, at the whole crooked village full of students. "Six. For four hundred of you. She said she'd rather have twelve. There isn't twelve. There isn't anyone."
+
+    "Does the Headmistress know?"
+
+    @jory:tense "She's here. Somewhere. She said she would be." He rubs his face with both hands, and leaves a smear of soot from the lamp across one cheek. "I haven't seen her. I don't think you're supposed to. That's the idea, with people like her."
   #"Are you all right?"
     *set heart +5
     *set fr_jory +1
     @jory:tense He looks at you in surprise, as if nobody's asked him that since he put the coat on. "No," he says. Then, because he's twenty-four and honest: "There's six of us. For four hundred of you. The Commander's at St Ide's with Bram, because she thinks they'll come back for the ones they've already opened. There isn't anyone else. There's just us." He wraps both hands round the tankard. "I keep thinking about what I'd do. If they came. And I don't know."
 
+    "You'd do what you did on Lamplight Row. You'd hold the lamp up."
+
+    @jory:tense He looks at you sideways, surprised that you remember. "I was terrified on Lamplight Row," he says. "I held it up because I couldn't think of anything else to do with it." He turns the tankard round. "Maybe that's all anyone does. Maybe the brave ones are just the ones who can't think of anything else."
+
 @jory:neutral He finishes the hearthale. He stands up, and buttons the too-big coat, and picks up his lamp, and looks for a moment at the fire as if he'd give anything to stay by it. "Stay on the high street," he says, trying to sound like a Lamplighter again. "Back by dark."
 
 He goes out into the snow. Through the bottle-glass window you watch his lamp go back down the hill to the corner by the post office, small and white and steady, and stop there.
+
+@moll:neutral Moll Dunmore comes and takes his empty tankard off the bench, and stands for a moment beside you, looking out at the same small light. "Thirty years I've had this pub," she says. "Every bad winter, they send me boys like that. Boys in coats too big for them. I feed them, and I send them back out, and some of them come back in for another and some of them get posted somewhere else and I never hear." She tucks the tankard under her arm. "You finish yours. You're not on duty. Nobody's paying you to be cold."
 *page_break
 *comment ---------------------------------------------------------------- CH11.CHOIR.01
 *sid CH11.CHOIR.01
@@ -364,7 +422,13 @@ He goes out into the snow. Through the bottle-glass window you watch his lamp go
 *present odile corliss jory mina toby familiar
 It starts with the snow.
 
-You come out of the Crooked Lantern at half past two, into the high street, full of hearthale and warm to your boots, with your parcels under your arm. The barrel organ's playing a carol outside the bakery. Somebody's built a snowman on the market cross, with a Lamplighter's hat on, and somebody else is being told off for it. The snow is falling, big soft flakes, the way it's been falling all day. Then, halfway down to the pavement, every single flake stops.
+You come out of the Crooked Lantern at half past two, into the high street, full of hearthale and warm to your boots, with your parcels under your arm. The barrel organ's playing a carol outside the bakery. Somebody's built a snowman on the market cross, with a Lamplighter's hat on, and somebody else is being told off for it.
+
+You stand on the step of the pub for a moment, letting your eyes get used to the white. After the firelight everything outside looks scrubbed and new. Across the street, a shopkeeper is out with a broom, sweeping the snow off his doorstep and into the road, where it'll be swept back by the next shopkeeper along; they've clearly been doing this to each other all morning, and both of them are enjoying it. A cart goes by with a load of Christmas trees, their tops nodding. Up on the green, under the striped awning, Odile Pellow is bent over somebody's wand with her rag, and the little crowd round her stall has thinned to two Larkspire first-years and a very old dog.
+
+You turn your face up to the sky. The snow is falling, big soft flakes, the way it's been falling all day. One lands on your eyelashes, and you blink it away, laughing. Then, halfway down to the pavement, every single flake stops.
+
+*page_break
 
 They just hang there. Millions of them. All the way up the street and all the way up into the pearl-grey sky, perfectly still, like a painting of snow. Somebody laughs, uncertainly, and pokes one with a finger, and it doesn't move. The barrel organ runs down, note by note, and stops.
 
@@ -471,7 +535,13 @@ The light comes back. The colour. The red post box. The lanterns outside every d
 
 @odile:hollowed Odile Pellow is standing in the high street, where she planted her boots. She's grey. She turns round, slowly, and looks at you, at all of you, with eyes the colour of fog. "Hello," she says, pleasantly. "I'm sorry. I think I was in the middle of something." She looks down at her leather apron, at the wand-wood shavings on it, and frowns. "I'm sorry. I don't know what I do."
 
+*page_break
+
 There's a hole in her. Where the forge was. You don't need the flame-sight to see it. Everybody in the high street can see it.
+
+Nobody moves. All down the street, students are standing where the hum left them, in the falling snow, with their parcels at their feet. Somebody's paper bag has split and there are sugar mice lying in the slush. A girl outside the bakery is sitting on the kerb with her hands over her face. The barrel organ man has his arms round his organ as if it might be taken too. Somewhere a door opens, and a shopkeeper comes out in her apron, and looks up the street, and puts her hand over her mouth, and goes back in.
+
+Then Mina Achebe comes out from the corner by the post office, with the other first-years behind her holding hands in a line like a school trip, and stops, and looks at Odile, and starts to cry, without making any sound at all.
 *if sang_odile
   @toby:hurt Toby is standing beside you in his bobble hat with tears running down his face, still with his mouth open, as if he's still singing and has just noticed nobody else is. "We were doing it," he says. "We were [i]doing[/i] it. There just weren't enough of us."
 *page_break
@@ -484,6 +554,8 @@ There's a hole in her. Where the forge was. You don't need the flame-sight to se
 By six o'clock, the Crooked Lantern is a first-aid post.
 
 Moll Dunmore has pushed all the tables against the walls and put every blanket in the village on the benches, and hum-sick students are sitting in rows by the fire with their cold hands wrapped round mugs of her hearthale, which she's decided is medicine and nobody's arguing. The dog has been moved. The squeezebox is in a corner, shut. Matron Holloway and Noor came down from the castle on the first boat. The Headmistress has sent every boat the school owns across the Mere to the village jetty, to take everybody home: nobody is walking the shore path tonight. The windows are black. Outside, in the snow, Lamplighters, more of them now, walk up and down the high street with their brass lamps, far too late.
+
+You don't remember much of the hours in between. You remember carrying a Heronmere boy's satchel and his toad, both at once, up the hill to the pub, while he walked beside you saying [i]I'm fine, I'm fine[/i] with his teeth chattering. You remember Moll Dunmore standing in her doorway with her sleeves rolled up, counting people in like sheep. You remember sitting on the stairs to the cellar for a while with your head on your knees, not crying, just breathing, and somebody you never saw putting a hot pie into your hands and going away. You remember the light going, at half past three, and every lantern on the high street being lit, one by one, by villagers on stepladders, as if they could make up for it.
 
 @odile:hollowed Odile Pellow is sitting by the fire. Somebody's taken her apron off, and folded it, and put it on the bench beside her, and she keeps looking at it. She's holding a mug of hearthale she hasn't drunk. When people come over to her, and they do, all evening, shopkeepers and villagers and students whose wands she polished, she smiles at them and says "Hello," and doesn't know who they are.
 
@@ -513,6 +585,8 @@ Moll Dunmore has pushed all the tables against the walls and put every blanket i
 
 @kestrel:grave "A counter-song." She turns Odile's cold grey hand over in hers, and looks at the palm, scarred and calloused from thirty years of wand-wood. "You heard it work. For a moment, in the street, you heard it push them back." Her thumb moves once across Odile's knuckles. "And then you heard it fail."
 
+*page_break
+
 "She was so loud. She was louder than all of them. Why didn't it..."
 
 @kestrel:grave "Because she was on her own." The Headmistress says it very gently, as if it's you who needs the gentleness. "It doesn't work alone. It was never meant to. Hester wrote it for a great many voices, singing together, so the Choir's note can't find the gap between them. One voice is all gap." She closes her eyes. "Odile knew that. She sang it anyway."
@@ -524,13 +598,15 @@ Moll Dunmore has pushed all the tables against the walls and put every blanket i
 
 She takes a sip of the hearthale, finally, and smiles at nothing, and says, "This is nice," to nobody at all.
 
+*page_break
+
 Nobody at the fire can look at anybody else for a while after that. Moll Dunmore goes into the back and doesn't come out for ten minutes, and when she does, her eyes are red and she's carrying a tray of hot pies nobody asked for, and she puts one into every pair of hands in the room, including Odile's, and nobody eats them, and everybody holds on to them, because they're warm.
 *if village_with = "rowan"
   *present rowan
   @rowan:grave Rowan walks you down to the jetty, afterwards, in the dark, in the snow, closer than he needs to. His flame is burning so hot you can feel it through both your coats, and the snow melts before it can land on him. "I wanted to set them on fire," he says, in a low shaking voice. "All twelve. I could feel it in my hands. I wanted to so much." He breathes out, and it steams. "I didn't. I don't know if that was right."
 *if village_with = "imogen"
   *present imogen
-  @imogen:grave Imogen sits beside you in the boat going back, with her ticked-off list crushed in her fist. "It's a song," she says, very quietly. "They've been taking people for forty years and the answer was a [i]song[/i], and nobody wrote it down properly, and now the last person who knew it all the way through doesn't know her own name." She looks at the black water. "I'm going to find it. Every word. If it's in that library, I'll find it."
+  @imogen:grave Imogen sits beside you on the bench by the door while you wait for the boats, with her ticked-off list crushed in her fist. "It's a song," she says, very quietly. "They've been taking people for forty years and the answer was a [i]song[/i], and nobody wrote it down properly, and now the last person who knew it all the way through doesn't know her own name." She looks at the black window. "I'm going to find it. Every word. If it's in that library, I'll find it."
 *if village_with = "saoirse"
   *present saoirse
   @saoirse:sad Saoirse is standing on the jetty when the boats come in, looking back at the village, with the chocolate wren from Ombree's cupped in both her hands. It's gone still. Mr Ombree said a day or so. It's been six hours. "I thought it'd last longer," she says, and doesn't move, and you stand with her until the last boat.
@@ -556,6 +632,12 @@ Nobody at the fire can look at anybody else for a while after that. Moll Dunmore
   @toby:sad Toby doesn't say anything all the way down to the boats, which you've never known him do. At the jetty, he takes your hand, suddenly, the way he held Priya's this morning, and squeezes it hard, and lets go.
 *if village_with = "alone"
   You walk down to the jetty on your own, in the snow, in the dark, in a line of students walking in pairs, with the Lamplighters' brass lamps swinging all along the shore. Nobody talks. Behind you, Thimble Cross is lit up in every window, the prettiest place you've ever seen, and there isn't a single bird.
+
+*page_break
+
+The jetty at the bottom of the village is lit with torches stuck in the snow. The school boats are waiting in a long row along it, knocking gently together, black against the black water, and the Mere beyond them has a skin of new ice at the edges that crackles when the first boat pushes off. A Lamplighter stands at the top of the jetty with a list, ticking off names in the torchlight, slowly, twice, and looking at every face as if he's afraid one of them will turn out to be grey. When he gets to yours he looks for a long second longer than he needs to. Then he ticks you off and nods you on.
+
+You climb down into a boat. The wood is freezing through your coat. {fam_name} {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|settles into your collar|climbs into your lap} and doesn't move. Somebody's left a blanket on the bench, and you put it round the person next to you, a first-year you don't know, who's shaking, and she holds the edge of it in both fists and says thank you without looking up.
 
 The boats take you home across the black Mere in a long line, each with a Lamplighter in the bow holding up a lamp. Nobody sings. The castle comes up out of the dark ahead of you, every window lit, and somebody behind you says, very quietly, [i]oh, thank God[/i], and you realise it's you.
 *if gift_for = "toby"

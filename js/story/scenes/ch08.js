@@ -107,9 +107,19 @@ The question is who you're going to walk down to the water with.
 *present toby priya tully familiar
 The whole school goes down to the Mere in the dark, in masks, carrying unlit lanterns: a long line of animals and moons and leaves going down the stone stair through the rock to the boathouse and out along the shore, with the castle glowing red behind them.
 
+The stair through the rock is lit by torches in iron rings, and the walls are wet and shining, and every sound goes up and down it twice. A hundred pairs of feet on the steps. Somebody's mask catching on somebody else's. A stag's twig antlers scraping the low places in the roof, and the stag saying [i]sorry, sorry[/i] all the way down. The air gets colder with every turn, and smells more and more of the lake: of weed and wet stone and the deep green cold that lives under the boathouse all year round. Your lantern is the plain paper sort from the basket by the Hall doors, folded flat until tonight, and it's as light as an eggshell in your hands. You find yourself holding it the way you'd hold something alive.
+
+At the bottom, the boathouse doors stand open on the dark, and the line goes out through them two by two, past the boats knocking gently at their moorings, and onto the shore.
+
+*page_break
+
 It's cold. Properly cold, for the first time this year: your breath smokes, and the shingle crunches with frost at the edges, and the stars are out hard and bright over the hills. Nobody talks much. There's just the crunch of four hundred pairs of feet, and the lap of the water, and now and then a nervous laugh from somewhere down the line, quickly hushed. Prefects stand at intervals along the shore with their wands lit, watching the trees, not the water. Right at the far end, by the boathouse, alone, there's a big dark shape that you realise is Professor Grey. Nobody goes near him.
 
 At the water's edge, Mr Tully is waiting with his brass taper. He's not wearing a mask. He lights each lantern as it comes to him, one at a time, with a word for everyone, the way he did on the first night, and you watch him do four hundred without once getting a name wrong.
+
+It takes a long time. Nobody minds. The line shuffles forward over the frosty shingle, a step at a time, and as each person reaches him he looks up into their mask, and knows them, every one. [i]Evening, Jonty. Evening, Miss Barrow; mind that hem in the water.[/i] A Heronmere first-year in a mask like a frog asks him, in a whisper, whether it matters what you write on it, and Mr Tully considers the question as seriously as if she'd asked him about the weather. "Not to the lantern," he says. "Only to you." He touches the taper to the wick, and the lantern blooms in her hands, rose-pink, and she carries it away to the water as if it's full to the brim.
+
+His knees are bad tonight. You can see it. Every so often, between lanterns, he shifts his weight and winces, and the taper dips, and he straightens it again before anybody's waiting. His breath goes up white in the torchlight. He's wearing the same coat he wore on the landing that night in September, buttoned right this time.
 
 @tully:warm "{name}," he says, when it's you, and lights yours. It flares white again, briefly, and he blinks, and smiles. "Knew it'd be you. Mind how you go."
 
@@ -120,14 +130,28 @@ You kneel at the edge of the black water and set your lantern on it, and let it 
 It drifts out. They're all drifting out: four hundred small lights on the black Mere, gold and rose and green and blue, turning slowly, spreading out across the water towards the dark middle of the lake, where the dead are supposed to be. People have written names on them, in ink, on the paper. Some people are crying. Most are just quiet, kneeling on the stones, watching their light go. Up on the hill behind you, the castle windows glow red.
 
 The water's so still that every lantern has a twin, upside down, underneath it. From the shore it looks as if there are two lakes of lights, one floating on top of the other, and the dark between them is where the dead are. You kneel there with your knees going numb and watch yours until you can't tell it from the others.
+
+Far out, where the water's deepest, the lanterns slow down. You can see it happen: they drift out at a walking pace, spreading, and then, a long way off, past where the Glimmer stands rise on their stilts, they gather together and turn, very slowly, all of them, like leaves in an eddy. The second-years say that's where the dead read the names. You don't believe it. You find you're holding your breath anyway.
+
+*page_break
+
+Across the black water, the Whispering Wood stands up dark against the stars, and nothing moves in it. Along the shore the prefects' wand-lights hang still. Down at the boathouse end, Professor Grey hasn't moved either. He's standing with his scarred hands clasped behind him, looking out at the lights, and he hasn't floated a lantern, and nobody has offered him one.
 *snapshot emberfall
 
 @tully:sad Mr Tully floats one last. It's lopsided, and old, and the paper's gone yellow, and you recognise it: the one from the photograph over his stove. Maisie's first lantern. He must have taken it down from the Hall for tonight. He kneels on the wet stones with his bad knees and sets it on the water as gently as if it were a sleeping bird. "She's not dead," he says, to nobody. "I know that. But she's gone somewhere I can't follow." He watches it drift. "Same thing, some nights."
 
-He stays kneeling after it's gone out among the others, with the taper burning low in his hand, looking at the water. Nobody goes near him. You think, not for the first time, that he's the loneliest person you've ever met.
+He stays kneeling after it's gone out among the others, with the taper burning low in his hand, looking at the water. Nobody disturbs him. You think, not for the first time, that he's the loneliest person you've ever met.
+
+*page_break
 *if ember_with = "rowan"
   *present toby priya tully rowan familiar
   @rowan:neutral Rowan kneels beside you with his lantern, and when he lets it go, the water round his hand steams. He doesn't write a name on it. He watches it a long while, and then he looks back up the shore, to where a great bonfire is being lit on the shingle, the apple-fire, for later. "Come and stand by the fire with me," he says. "I want to see if it... I want to see something."
+
+  @rowan:tense He doesn't get up straight away, though. He stays on his heels on the wet stones, with his big hands hanging between his knees, and the frost round him going to water in a dark ring. In his lion mask he looks like something out of a story, the kind of creature that guards a door. "It's daft," he says. "I've been thinking about it all week. Every time I see a candle. Whether it's still... whether it still does it." He looks at you. "You'll tell me if it's bad. If I should step back."
+
+  "I'll tell you."
+
+  @rowan:neutral He nods, once, as if that settles it, and stands.
 *if ember_with = "imogen"
   *present toby priya tully imogen familiar
   @imogen:guarded Imogen kneels beside you with her lantern, and you see the name she's written on the paper in her tiny precise hand: [i]KIT SALLOW[/i]. She sets it on the water very carefully and watches it go, with her face under her owl mask absolutely still.
@@ -183,6 +207,12 @@ He stays kneeling after it's gone out among the others, with the taper burning l
   @saoirse:warm She leans her shoulder against yours on the wet stones, just for a moment, and doesn't say anything else, and you don't either.
 
   @saoirse:amused Then, because she can't help it, she flicks a pebble after the lantern, and it skips four times across the black water between the lights, and she says "Ha," very softly, pleased, and stands up and holds out her hand to pull you up after her.
+
+  @saoirse:amused "Four," she says. "My record's seven. Off the harbour wall at home, when I was nine, with my dad counting." She keeps hold of your hand a second longer than she needs to, then lets go and shoves both of hers into her jacket pockets. "He'd like this. All the lights. He'd want to know how they float." She squints out at them. "Wax and a paper skirt and a bit of heat, I reckon. I could make a better one. I could make one that goes [i]up[/i]."
+
+  "Not tonight."
+
+  @saoirse:laugh "Not tonight," she agrees, and doesn't sound sorry, and doesn't sound as if she means it.
 *if ember_with = "noor"
   *present toby priya tully noor familiar
   @noor:tired Noor floats both her lanterns, one after the other. Then she takes a folded piece of paper out of her pocket and reads it by the light of the lanterns on the water, moving her lips. It's a list of names. A long one. "Everyone I've lost," she says, quietly, when she's finished. "In A and E. Seven years, counting training. I say them every year. Nobody else knows them." She folds it up again. "Now you've heard them. So that's two of us."
@@ -190,6 +220,10 @@ He stays kneeling after it's gone out among the others, with the taper burning l
   "Why two lanterns?"
 
   @noor:neutral "One for them," says Noor. "One for the ones I got back." She watches them drift apart on the water, one going left, one going right. "You have to do both. Otherwise you only remember the half that goes wrong."
+
+  You watch them with her. The left one, the one for the names on her list, drifts out slowly among the others and is lost. The right one, for the ones she got back, catches some current you can't see and goes further, faster, out towards the dark middle where the lanterns gather, still burning.
+
+  @noor:warm "Show-off," says Noor, very softly, to the lantern, and you hear her smile without seeing it. She gets up off her knees with a small noise, the noise of somebody who's knelt on a lot of hard floors, and brushes the frost off her skirt. "Right," she says. "That's done for another year." She looks at you. "Thank you for standing there. I don't usually have anyone standing there."
 *if ember_with = "cas"
   *present toby priya tully cas familiar
   @cas:guarded Cas kneels on the stones well away from everyone else, and you kneel beside him, and he pretends you haven't. He's written two names on his lantern. One is [i]Delphine[/i]. The other he's covered with his thumb. When he lets it go, you see it: [i]Lucius Drummond[/i].
@@ -199,6 +233,12 @@ He stays kneeling after it's gone out among the others, with the taper burning l
   @cas:hurt "My grandfather," he says, not looking at you. "Died last year. I don't know if I'm sorry." He watches the lantern drift. "He was a great man. Everyone said so. He sat on every committee. He had his portrait painted three times." A pause. "He never once looked at me after I kindled. Not once. As if I'd done it to spite him." He stands up, abruptly. "I don't know why I wrote it. It doesn't matter."
 
   But he doesn't walk away. He stands on the shingle with his hands in his pockets and watches the lantern until it's gone, and then a while after that, and you stand beside him, and he lets you.
+
+  @cas:guarded "Everybody else is crying," he says at last, low, without turning his head. "Over there. For grandmothers. For dogs. I watched a girl from Larkspire cry over a hamster." His breath goes up white. "I can't. I've tried. I stood in the chapel at the funeral and I tried, and all I could think was that the flowers were the wrong colour, and he'd have said so."
+
+  "You don't have to cry for it to count."
+
+  @cas:hurt He makes a small sound that might have been a laugh in someone else. "Is that a rule? I didn't see it in the handbook." But his shoulders come down, very slightly, inside the immaculate coat.
 *if ember_with = "idris"
   *present toby priya tully idris familiar
   @idris:neutral Idris sets his lantern on the water, and on it, in small careful letters, he's written a list: names you don't recognise, with dates beside them going back centuries. [i]Hester Wren. Tobias Marle. Anne Crossley.[/i] Seven of them. "The Kindlers," he says, quietly. "The ones I know of. Somebody should remember them." You look at the last name on the list. The ink's been smudged, as if he wrote it and then tried to rub it out. You can just make out an [i]A[/i].
@@ -208,16 +248,34 @@ He stays kneeling after it's gone out among the others, with the taper burning l
   @idris:tense "Nobody," says Idris, too quickly. "A mistake." He watches the lantern go, and doesn't look at you.
 
   @idris:neutral After a moment he opens his notebook, and writes something in it, very small, by the light of the lanterns on the water, and closes it again. You'd give a great deal to know what. You don't ask. He seems to know that you don't, and to be grateful.
+
+  @idris:neutral "Hester Wren floated the first lantern on this water," he says presently, still watching it go. "Sixteen hundred and something. The date's disputed. There's a letter that says she did it for her sister, and another that says she did it to see if the dead would answer." He pushes his glasses up. "Nobody knows which. I've always hoped it was the sister."
+
+  "Why?"
+
+  @idris:tense "Because if it was the other one," says Idris, "then somebody, four hundred years ago, stood here and asked, and I'd very much like to know what she heard." He closes the notebook on his pencil and puts it away inside his coat, against his chest, the way someone else might put away a photograph.
 *if ember_with = "toby"
   @toby:laugh Toby and Priya float their lanterns together, holding hands, and Toby's goes out immediately because he's so nervous it's wobbling, and Priya relights it with the tip of her bow, which you didn't know you could do with a bow, and then she kisses him on the cheek, very quickly, and Toby falls in the Mere.
 
   It's only up to his knees. You help him out. Priya laughs so much she has to sit down. Toby stands there dripping, in his hedgehog mask, with the lanterns going out across the water behind him, and says, "Worth it," with enormous dignity.
 
   @priya:warm "You're ridiculous," Priya tells him, wiping her eyes. Then she kisses him again, on the other cheek, to make it even, and he nearly goes back in.
+
+  @toby:warm They float a second lantern together, after that, more carefully, with you holding Toby's elbow. It goes out on the water without a wobble. They've written on it, both of them, Priya's neat looping hand and Toby's capitals: [i]DELPHINE[/i]. You watch it go out among the others, the three of you crouched on the stones in a row, and nobody says anything. Toby's teeth are chattering. Priya puts her scarf round his neck without taking her eyes off the water.
+
+  @toby:neutral "She'd have laughed," Toby says, when it's gone. "At me falling in. She'd have laughed for a week." He wipes his nose on his wet sleeve. "I hope she can hear it. Wherever she is. I hope somebody tells her."
 *if ember_with = "alone"
   You float yours alone. You write a name on it: your grandad's, who taught you to listen to the shipping forecast in the shed and died six years ago this winter. You watch it go out onto the black water among four hundred others, and you think about him, and about Nana Pearl in her bungalow in Wrexley with the snooker on, and you feel very far from home, and entirely where you're meant to be.
 
   {fam_name} comes close against you on the cold stones, and stays there, and you're glad of the company. You find you can still hear the sea areas in his voice, the whole slow list of them, in order. You'd forgotten you knew them.
+
+  You say them under your breath, kneeling there, to see if you still can. [i]Viking, North Utsire, South Utsire.[/i] Your breath goes up white with each one. You get as far as Dogger before your voice goes, and you have to stop, and look at the water for a while. Nobody's watching. Nobody's near. Down the shore, people are standing up in twos and threes and holding hands and wiping their eyes, and you kneel on the cold stones on your own with {fam_name} warm against you and let yourself miss him, properly, for the first time in years. It hurts. It's a clean sort of hurt. When it's done, you feel lighter, as if the lantern took something with it that you'd been carrying without knowing.
+
+Up the shore, someone puts a taper to the apple-fire. It catches with a soft roar, all at once, gold and blue and green, and lights up the whole beach: the kneeling figures in their masks, the frost, the boathouse, the dark backs of the prefects. A shower of sparks goes up into the night and turns, high up, into tiny red lanterns that drift away over the water after the others. Somebody whoops. A fiddle starts, thin and quick and a bit out of tune, and the line along the water's edge begins to break up and drift towards the warmth, slowly at first, then faster, people pulling each other up off the stones by the hand.
+
+Out on the Mere, the four hundred lanterns go on turning in the dark, paying no attention at all.
+
+*page_break
 *if ember_with = "rowan"
   *goto fire
 *goto ghosts
@@ -231,6 +289,16 @@ The apple-fire on the shingle is a proper bonfire, taller than a man, built out 
 
 You walk up the beach towards it with Rowan beside you, and you can feel him changing as you get closer: his shoulders going tight, his steps slowing, the way someone walks towards a dog they aren't sure of.
 
+The dancing's in full swing by the time you reach it: a big ragged ring of masks going round the fire hand in hand, too fast, stumbling on the shingle, a fox and a moon and two badgers and a whole flock of Rookhallow crows, all shouting with laughter. A Larkspire second-year breaks out of the ring as you pass and tries to pull Rowan in by the sleeve, and lets go of him at once, shaking her hand, and looks at it, puzzled, as if she's touched a radiator, and is swept back into the dance before she can say anything.
+
+*page_break
+
+@rowan:tense "Sorry," Rowan calls after her, much too late. He stops at the edge of the light with his hands shoved in his pockets. The fire's throwing his shadow out behind him up the beach, huge and wavering, longer than anyone else's. "If it... if anything happens," he says, low, not looking at you. "If I go too near. You'll pull me back. Promise. Even if I say I'm fine."
+
+"I promise."
+
+@rowan:neutral "Right." He breathes out for six. You can see him do it, his big chest going in and out under the gold-and-rose scarf. Then he pushes the lion mask up onto his head so that he can see properly, and looks at the fire the way you'd look at a cliff edge you've decided to stand on.
+
 @rowan:tense Rowan stands at the edge of the firelight, and then walks forward, into the heat, closer than anyone else is standing. Closer. His lion mask is pushed up on his head. The fire's roaring six feet from him, and then four, and the heat's so fierce that the people behind him are stepping back, shielding their faces.
 
 *page_break
@@ -242,6 +310,8 @@ It's like the candles in Pellow's shop, leaning towards you. The whole bonfire b
 @rowan:hurt "That's what it does," he says to you, over his shoulder, very quietly, under the noise. "Every fire. Since June. It knows me."
 
 You can see it in the flame-sight, too: the bonfire on the shingle and the bonfire in his chest, leaning towards each other, red-gold and red-gold, like two people who recognise each other across a room.
+
+The dancers have stopped. All round the fire, masks are turning to look: a crow, a hare, a pair of moons. A first-year near you whispers, "Is he [i]doing[/i] that?" and nobody answers her. The fiddler has let his bow drop. In the sudden quiet you can hear the fire itself, the deep soft roar of it and the crack of the apple boughs, and under that, faint and steady, a sound like breathing, as if the fire's lungs and Rowan's have fallen into step.
 *if (st_rowan >= 3) and not(b_rowan_fire)
   @rowan:hurt He doesn't take his hand out of the flame. He looks at it, curled round his fingers, gold and blue. "Last time I was this close to a fire," he says, "it was a house."
 
@@ -279,6 +349,12 @@ You can see it in the flame-sight, too: the bonfire on the shingle and the bonfi
     @rowan:laugh Rowan Ashby laughs, a big helpless laugh, inside a bonfire, and the fire leaps up round you both in a great gold column of sparks that turn into lanterns, and half the school cheers without knowing why.
 
     @rowan:warm You stand there together inside the fire a moment longer than you need to, with the sparks going up round you and the whole world gold and roaring and not hurting at all. "I've never done this with anyone," he says, low, under the roar. "Never had anyone who could stand here." When you walk back out of it, side by side, the fire straightens up behind you as if it's sorry to see you go, and the fiddle starts again, and somebody hands you both a cup of cider.
+
+    *page_break
+
+    @rowan:laugh Your eyebrows, it turns out, are fine. He checks them for you, very seriously, in the firelight, holding your chin, and pronounces them present and correct. Then he checks his own, and finds he hasn't got a mark on him either, and laughs again, more quietly, as if he's only now letting himself believe it. Your mask's edge has curled up brown like a crisp. He takes it off you and looks at it and gives it back with enormous care, like a medal.
+
+    @rowan:warm "I'm keeping that cup," he says, of the cider. "I'm going to put it in a shoebox under my bed and keep it forever."
   #Call him back. Gently. He's too close, and he knows it.
     *set heart +5
     *set st_rowan +1
@@ -287,6 +363,18 @@ You can see it in the flame-sight, too: the bonfire on the shingle and the bonfi
     @rowan:neutral He looks at you, and at the fire leaning towards him, and he takes his hand out of the flame, and steps back, and back, until he's beside you at the edge of the light. The fire straightens slowly, as if disappointed. "Thanks," he says, and his voice is rough. "Sometimes I forget I can step back."
 
     @rowan:warm He stands next to you for the rest of the dance, at the edge of the light, close enough that your sleeves touch. He doesn't go near the fire again. Every so often he looks at it, and then at you, and breathes out, long and slow, and you realise he's counting to six.
+
+    @rowan:neutral "I wanted to know," he says, after a while, under the noise of the fiddle. "If it still did it. Now I know." He doesn't sound unhappy about it. He sounds like someone who's had a diagnosis, and found it was the one he expected, and is relieved, mostly, to have stopped guessing. "It does. And I can walk away from it. Both. I didn't know about the second bit."
+
+    "Neither did I."
+
+    @rowan:laugh "Liar," he says, kindly. "You knew. You were stood there waiting for me."
+
+The fire burns down slowly after that, the way bonfires do, from a roar to a crackle to a deep red heap that ticks and shifts and sends up the odd lazy spark. People drift away from it in twos and threes, back along the shore towards the boathouse and the stair. Out on the water the lanterns have gone very small. Rowan stays till nearly the last, with you, in the warm dark at the edge of the light, and neither of you says much. He doesn't need to. The fire knows exactly where he is, and so do you, and for once, you can see in his face, that feels like enough.
+
+At a quarter past eleven a prefect comes down the beach clapping her hands, and you go up with the stragglers, smelling of woodsmoke to the bone.
+
+*page_break
 *goto ghosts
 *comment ---------------------------------------------------------------- CH08.GHOST.01
 *label ghosts
@@ -297,6 +385,12 @@ You can see it in the flame-sight, too: the bonfire on the shingle and the bonfi
 At half past eleven, the dead come home.
 
 You're walking back up through the castle with the others, damp and cold and happy, with frost on your shoes and the smell of woodsmoke in your hair. People are yawning. Somebody ahead of you is still singing the fiddle tune, badly. Your mask's pushed up on your head, and your cheeks are stiff with cold, and you're thinking about nothing more than your bed.
+
+The way up from the boathouse brings you out by the old kitchens and along the east walk, past the cloister, and the corridor's crowded and slow, everyone bunching up on the steps, nobody in a hurry. Masks are coming off. You see faces you know come out from under feathers and papier-mâché, pink with cold, a bit damp about the eyes, looking younger than they did at the feast. Someone's carrying a sleeping first-year's familiar in her arms, a hedgehog curled up tight in a scarf. Someone else has a toffee apple left over and is sharing it round, a bite each, down the line.
+
+It's nearly midnight. Ahead of you a prefect is calling, not very loudly, "Keep moving, keep moving, don't stand in the doorways," and you remember the Rookhallow woman in the porridge queue, and her afterthought. [i]It's rude.[/i] You thought she was joking. You're less sure now. The cloister doors stand open all along the walk, one after another, onto the dark garden, and you notice that people are walking a little faster past them, and not looking in.
+
+*page_break
 
 Then the air in the corridor changes. The lanterns in their brackets, still burning red, dim to embers. The temperature drops so fast your breath comes out white. The singing stops mid-line. {fam_name} stops dead.
 
@@ -355,6 +449,16 @@ The cold's in your bones now. Your hands are shaking. Behind you, somebody in th
 The lanterns in their brackets come slowly back up to red. Somewhere a door bangs. The warmth creeps back into the corridor like water into a footprint, and people start to breathe again, and move, and whisper.
 
 Everyone's looking at you.
+
+You can feel it, the weight of all those eyes, the way you can feel heat from an open oven door. Masks pushed up on heads. Faces in the red light, curious and frightened and, some of them, something else, something more careful, as if you're a thing that might go off. Out on the garden, the frost lies smooth and white over the grass in the moonlight, and there's no mark on it at all where she walked across it to you. Not a footprint. Not a blade bent.
+
+*page_break
+
+A Heronmere girl in a hare mask, standing closest, opens her mouth as if to ask you something, and her friend takes her arm and pulls her gently away. The whispering starts up again behind you, all along the walk, and runs away from you in both directions like water finding its level. You hear your name in it, more than once. You hear [i]light[/i], and [i]hands[/i], and [i]what did she mean[/i].
+
+{fam_name} presses against your legs, hard, and you put a hand down without looking, and find warmth there, and hold on to it.
+
+You don't remember deciding to walk. But you're walking, away from the cloister, down the long corridor towards the only place in the castle that's still lit and warm and full of people at this hour, with the cold from her still in your chest like a swallowed stone.
 *page_break
 *comment ---------------------------------------------------------------- CH08.AFTER.01
 *sid CH08.AFTER.01
@@ -365,6 +469,10 @@ Everyone's looking at you.
 You don't go to bed. You can't. You go where half the school goes, back into the Hall, because it's warm and lit and full of people, and the Headmistress told you all, weeks ago, that that's where you go when you're frightened.
 
 The Hall's half empty and littered with the end of the feast: apple cores, cider cups, a hare mask trodden flat under a bench, a paper crown of leaves someone's hung on a candle bracket. The fires have burned down to red caves. People sit in knots along the benches, still in their masks or holding them, talking in low voices, and every so often somebody glances at you, and away.
+
+Somebody from the kitchens has had the sense to bring up an urn of hot milk with honey in it, and a tray of the apple dumplings nobody finished, and people queue for them quietly, the way people queue for tea after a funeral. You get a cup, because your hands need something to do. You sit on the end of a bench with it and don't drink it. It warms your fingers, and nothing else.
+
+People are pretending not to look at you. They're not very good at it. A table of Owlcombe first-years go quiet when you sit down and then start talking again too brightly, about nothing, about the cider. Two prefects by the door have their heads together. At the Rookhallow table, somebody's drawn a little picture in spilled cider on the boards with their finger, a figure with rays coming out of its hands, and when they see you see it, they wipe it out with their sleeve.
 
 The lanterns in the Hall turn back to gold at half past midnight, slowly, from the High Table end, the red draining out of them like colour from a cheek.
 
@@ -397,6 +505,8 @@ The lanterns in the Hall turn back to gold at half past midnight, slowly, from t
   "She was there. Everyone was there."
 
   @toby:scared "Then she knows," says Toby. "Good. Good. She'll know what to do." He doesn't let go of your hand. "She will, won't she?"
+
+  You don't answer. You don't know. He seems to understand that, and he doesn't ask again, but he doesn't let go either. You sit like that, with your cold hand in his cold wet one, and watch the last of the red go out of the lanterns overhead, and his thumb moves once across your knuckles, out for six, the way he does it for Custard when she's frightened of thunder.
 *else
   "Nothing," you say. "Just a ghost. Saying ghost things."
 
@@ -404,7 +514,17 @@ The lanterns in the Hall turn back to gold at half past midnight, slowly, from t
 
   @toby:warm "Ghosts are rubbish anyway," he says, after a while, loyally. "Coming round, saying things. Not even bringing anything."
 
+  *page_break
+
   You laugh, despite yourself. It comes out shaky. He looks pleased with himself.
+
+  @toby:warm "My mum says ghosts are only people who didn't get to finish a conversation," he goes on, warming to it. "She says you're meant to nod and say [i]yes, love[/i], and they go away happy." He considers. "She also says you can cure a wart with a slug, so."
+
+  "Did it work? The slug?"
+
+  @toby:laugh "I never found out. I couldn't catch one. They're faster than they look, slugs." He bumps his damp shoulder against yours. "Drink your milk. It's got honey in. Honey's good for shock. That's not my mum, that's a real thing, I read it."
+
+  You drink your milk. It is good for shock. Or perhaps it's just good. Toby watches you drink it with the satisfied air of somebody who has fixed something, and starts telling you, in a whisper, about the exact moment on the shore when Priya kissed him, second by second, with diagrams. You let him. It's the most ordinary thing in the world, and you hold on to it with both hands.
 
 @kestrel:grave The Headmistress is standing in the great doorway of the Hall. She's taken off her silver owl mask. She's looking at you, across the length of the Hall, over the heads of everyone.
 
@@ -417,6 +537,8 @@ She's heard. Of course she has.
 "She said he's coming back," you say. "Whoever he is."
 
 @kestrel:grave "I know what she said," says Imelda Kestrel. For the first time since you met her, she looks every one of her seventy-one years. Her hand stays on your shoulder a moment longer, and you can feel, through it, how still she's holding herself. "Go to bed. Both of you. And keep it close."
+
+@kestrel:grave She lets go, and walks back up the Hall the way she came, between the tables, and out through the door behind the High Table, and the low talk closes up behind her like water. You notice she doesn't hurry. You notice, too, that she stops at the door and looks back, just once, not at you but up at the lanterns, gold again now, drifting and humming above the littered tables, as if she's counting them.
 
 @toby:neutral You go up together, Toby dripping on every stair. At the top he stops, and doesn't say goodnight, just squeezes your arm, hard. You go on to bed with {fam_name}, and lie awake looking at the ceiling, and it's nearly dawn before you stop hearing, in the quiet, a very faint voice like a radio in another room.
 *set kindling +5

@@ -61,6 +61,14 @@ The Long Stacks at nine on a Wednesday night are almost empty. The rain's back, 
 *else
   You sit down across from him. He doesn't say anything else, and neither do you, and you're not sure, if you're honest, which of you is more uncomfortable. He turns a page he hasn't read. You look at the rain.
 
+  *page_break
+
+  After a while you notice his hands. They're inky to the second knuckle, the way they always are, but there's a graze across the back of the right one, fresh, scabbed over, as if he's put it through a hedge, or against a wall. He sees you see it, and puts it under the table.
+
+  "Idris. Are you all right?"
+
+  @idris:guarded "I'm fine." It comes out too quickly. He hears it, and takes his glasses off, and cleans them on his jumper, which is what he does instead of saying things. "Someone left a note in my satchel. On Tuesday. I hit the wall instead of the person I thought had written it. It seemed the better choice." He puts the glasses back on. "It wasn't a very good wall. It's fine. It's fine."
+
 @imogen:tense Imogen arrives ten minutes later with an armful of paper and the look she gets when she's been awake for two days. She drops the lot on the table between you, sits down, and starts laying it out. She's got a pencil behind each ear and ink on her chin and she hasn't noticed either.
 
 @imogen:grave "Everything," she says. "Everything we know. Since September. On one table. If we can't see it all at once we'll never see it." She's already arranging it: sheets of paper, notes, her own neat pencil lists, a map of the castle traced from the Wrenfold Map. "Tell me what you've got. All of it. Anything. Even if it's stupid. Especially if it's stupid."
@@ -76,6 +84,12 @@ The Long Stacks at nine on a Wednesday night are almost empty. The rain's back, 
 *if (st_noor >= 3) and (hurt_noor < 2)
   *present noor
   @noor:tired Noor comes straight from the Infirmary, still in her uniform, and sits down, and says, "I've got forty minutes. Go." She unpins the watch from her robes and puts it on the table in front of her, face up, where she can see it.
+
+The table fills up. The rain gets heavier on the high windows, until it's a steady drumming, and the green lamps seem to draw in closer round you, as if the rest of the library's been rolled up and put away. Somebody, Imogen probably, has thought to bring biscuits, and they sit in their packet in the middle of the papers, untouched, going soft in the damp. Down at the far end of the Stacks, Miss Dunne's soft thumps have stopped. You think she might be listening. You think, if she is, you don't mind.
+
+Imogen moves things about on the table until they're in the order she wants. The traced map in the middle. Her lists down one side, in columns, with headings underlined twice. A cleared space on the other side, empty, for whatever comes next. She squares the edges of every pile with the flat of her hands, twice, three times, and then sits back and looks at it, and you realise she's putting off the moment just as much as you are.
+
+*page_break
 
 @imogen:tense "Right." Imogen licks her pencil, which she only does when she's frightened. "From the beginning. {name}, you first. You've been everywhere."
 
@@ -107,6 +121,12 @@ You don't know where to start. You look at the paper, and the lamp, and Idris's 
   "The Wrenfold Map." You turn one of Imogen's traced sheets round, so it faces you, and put your finger on it. "The ward lines. The ones that had been opened. Here, and here, and here." Your finger goes along the corridors, up the east stair, down to the water. "They're not random."
 
   @idris:grave Idris leans across the table and looks at where your finger has stopped. He doesn't say anything. He doesn't have to. He's walked that line himself, at two in the morning, and passed the man who walks it every night.
+
+Somebody gets up and walks to the end of the table and back, stiff-legged, because there's a gap, and everybody's glad of it. You sit with your hands round your knees and look at Imogen's list, getting longer down the page in her small upright writing, and at the cleared space on the other side of the table, which is still empty, and which everybody keeps looking at and then away from, the way you look away from an empty chair at a funeral.
+
+The rain drums. The lamp over the table hums its faint note, the one you've stopped noticing, the one you notice now. A gust throws water against the high windows like a handful of gravel, and everybody jumps, and then pretends they didn't. Imogen's pencil taps the table, twice, three times. She doesn't look up. "Go on," she says. "What else."
+
+*page_break
 
 *if e15
   "The old passage from the boathouse into the Old Cloisters. They bricked it up after Bram." You look at Idris. "And Bram was taken anyway. So either somebody went round the bricks, or somebody didn't need to."
@@ -479,6 +499,16 @@ You open your eyes. Mr Tully is watching your face. He's seen it. You didn't nee
       @cas:grave When he comes back, twenty minutes later, his eyes are red and his jaw's set, and he says, to Mr Tully, not to you, "Whatever I can do." Mr Tully looks up at him from the chair, a long, searching, tired look, the look of an old man who's been promised things before, and then he nods, and moves his coat off the other chair so Cas can sit.
 *else
   @cas:grave Cas doesn't say anything. He looks down the long pale ward, at all the beds. "Whatever it costs," he says at last, very quietly, to nobody. "Whatever I can do."
+
+The afternoon goes on. That's the strange thing about St Ide's; whatever happens in it, the afternoon goes on, at the same pace, with the same radio. A tea trolley comes round at four, rattling, pushed by a woman in a green overall who calls everybody [i]my duck[/i], the hollowed and the visitors alike, and pours you a cup without asking, strong and orange, in a thick white cup with a chip out of the rim. Mr Tully holds Maisie's cup for her, and she drinks when it's put to her lips, and says "Thank you," and he says "That's all right, love," and wipes her chin with his handkerchief.
+
+*page_break
+
+You sit on the edge of the bed with your own cup going cold in your hands and keep looking. You can't stop, now that you know it's there. The spark at the bottom of her doesn't change. It doesn't brighten, or dim. It just stays, grey and tiny, like something waiting to be called by its name. Once, when her father laughs at something he's telling her about the boathouse cat, you think it shivers. You can't be sure.
+
+Outside the tall windows, the light goes down over the roofs of Kingsmere, and the street lamps come on, one at a time, all the way down the hill, the way the lanterns come on behind Mr Tully on his round. You see him notice it. He watches them for a while, with Maisie's hand in his, and doesn't say anything.
+
+*page_break
 *if tully_fate = "exposed"
   @arkwright:grave At the end of the afternoon, Commander Arkwright puts her hand on Mr Tully's shoulder. Not roughly. "Time," she says. He stands up, and kisses Maisie's forehead, and she says "Goodbye, nice man," and he walks out between the two Lamplighters with his cap in his hands, and doesn't look back.
 
@@ -506,7 +536,11 @@ You open your eyes. Mr Tully is watching your face. He's seen it. You didn't nee
 *if tully_fate = "silent"
   On the train home, Mr Tully says, looking out at the dark: "He wrote again. Yesterday. In the drawer." He takes the thin grey letter out of his coat and gives it to you without reading it. "You tell me what to write back."
 
+  The paper's thin and grey and soft, like a moth's wing, and it smells, very faintly, of the Fen: of ditchwater and reeds and something sweetish underneath. The handwriting is beautiful. Long, looping, old-fashioned, the hand of somebody taught to write with a dip pen by a schoolmaster who cared. It doesn't look like the hand of a man who's emptied half the wards you walked through this afternoon. You'd half hoped it would.
+
   You sit in the compartment, with the Lantern Train rattling north through the dark and the old man opposite you pretending to sleep, and read a letter from Aldric Morrow, and start to think.
+
+  You read it three times. By the third, you've stopped reading the words and started reading the man: what he asks, and how, and what he doesn't ask; where the hand presses harder; where it hurries. Outside, the dark goes past, and now and then a farmhouse window, gold, a long way off across the fields, and then the dark again. Across from you, Mr Tully's eyes are closed, but his hands are holding his cap far too tightly for a sleeping man's.
 *journal [b]Chapter 18.[/b] The Order suspected Idris. {@b_idris_suspect|You told him you never did. |}On one table in the Long Stacks, everything: the grey wicks, the humming lanterns, the rounds, the Fen oil, the boathouse ward, and Grey's last words: [i]on the round.[/i] {@suspect = "tully"|You said it: Mr Tully.|}In his cottage, in the stove drawer, three years of letters from Aldric Morrow promising to relight Maisie. [b]It's Tully.[/b] He opened the ward on the night of the Quiet. He never told Morrow your name. {@tully_fate = "exposed"|You took it to Commander Arkwright.|}{@tully_fate = "kestrel"|You took it to the Headmistress.|}{@tully_fate = "st_ides"|You went with him to St Ide's first.|}{@tully_fate = "silent"|You kept it between you: an old man Morrow trusts might be the only way to reach Morrow.|} At St Ide's, deep in Maisie Tully, you found a spark: six years of Sundays had kept it warm. {@b_cas_debt|Cas heard what his grandfather's spell looked like from the other side, and asked you to help him put it right.|}
 *page_break
 *goto_scene ch19

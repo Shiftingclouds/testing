@@ -29,11 +29,23 @@ You look back. Behind you, in the wall of what appears to be a tobacconist's, th
 
 It's gone. You're here.
 
+You put your hand on the wall where it was. Brick, cold and damp, with moss in the joints and a poster for something called [i]Ember Flake, Mild[/i] peeling off it in the wet. No gold. No hum. Not a crack you could get a fingernail into. Your whole life is on the other side of that brick, the kettle and the basil and the half a lasagne, and there's no handle on this side.
+
+You keep your palm flat on it for longer than you need to, the way you'd keep a hand on a car roof after you've waved somebody off. Then you take it away, and turn round, and look at where you are.
+
+Nobody has noticed you arrive. That's nearly the oddest part. A boy of about fourteen goes by with a stack of boxes up to his chin, whistling; a woman in a fur hat buys a paper cone of something hot and green from a man with a brazier, blows on it, and eats it with a tiny fork. You'd thought, somehow, that a person coming through a wall would be an event. Here it seems to be about as remarkable as getting off a bus.
+
+*page_break
+
+You take a step out into the street, and then another. The cobbles are uneven under your trainers and slick with rain, and real, so real it makes your ankles ache. You get as far as the clock shop next door, where every clock in the window is ticking at a slightly different speed, so that the whole window sounds like rain on a roof. You're bending to read the little card propped against the biggest one, [i]Correct Somewhere. Ask Inside.[/i], when the night has one more thing to say to you.
+
 Something hits you in the back, hard, and you both go down on the cobbles.
 
 @toby:scared "Sorry! Oh no, sorry, sorry, I didn't see... I wasn't looking, I didn't know it'd be [i]steps[/i]..." The something is a person, and the person is scrambling off you and apologising and trying to help you up all at once, which means you both fall over again. "Sorry. Sorry. Oh, I've got flour on you. I've got flour on everything. Sorry."
 
 He's short and round-faced, about your age or a bit younger, with pink cheeks and blond hair sticking up at the back as if he's just got out of bed, and he's wearing a baker's apron over a cardigan three sizes too big, and he is covered, completely covered, in flour. Behind him, in the wall of the tobacconist's, another gold doorway is fading, and through it, briefly, you see a small shop kitchen with an oven door hanging open and smoke rolling out of it.
+
+*page_break
 
 In his hand, held very carefully, is a croissant. It's on fire.
 
@@ -54,6 +66,16 @@ You watch his face do the thing yours must have done a minute ago. It's quite so
 He looks at it. He blows on it, carefully, the way you'd blow on soup. It goes out, and then, with a small soft [i]whumph[/i], comes back on, blue.
 
 @toby:laugh Toby Quill starts laughing, helplessly, on his knees in the flour on a magic street at two in the morning, and after a second, so do you.
+
+It takes a while to stop. Every time one of you nearly manages it, the croissant goes [i]whumph[/i] again, or Toby looks up at the lamps and says [i]oh[/i] in a small amazed voice, and you're off again. A man with a basket of eggs steps round the pair of you without breaking stride, as if two grown adults weeping with laughter on the cobbles at two in the morning are simply part of the weather here.
+
+@toby:warm "Sorry," says Toby at last, wiping his eyes and leaving two clean stripes in the flour. "I think that was nerves. I do that. I laughed all the way through my great-uncle's funeral and my mum still brings it up." He sniffs. "What did you do? Before? You look like you did something sensible."
+
+*page_break
+
+"{@job = "calls"|Insurance. On the phones.|}{@job = "nurse"|A&E reception. Wrexley General.|}{@job = "cook"|I cook. In a pub kitchen.|}{@job = "shop"|Returns desk. At a department store.|}{@job = "library"|I work in a library.|}{@job = "courier"|Bike courier.|}"
+
+@toby:amused "See, that's sensible," says Toby, with deep respect. "I made croissants. Well. I made bonfires, with a bit of croissant in the middle. Mr Pargeter said I had a gift." He considers the one in his hand. "He never said what for."
 
 You help each other up. You brush the flour off each other, which only spreads it about, and he finds his letter in his apron pocket, crumpled and floury and warm, and you find yours, and you hold them side by side under a sea-green lamp like two people comparing train tickets. They say the same thing, word for word, except for the names.
 
@@ -359,7 +381,15 @@ By twenty to five the Row has changed its mood. The rush has thinned out. The ba
 
 It's quieter than you expected, being on your own here. Nobody's staring at you. A woman sweeping her step says [i]morning, love[/i] as you pass, as if you were anyone. A cat with two tails watches you from a windowsill and decides you're not worth getting up for. You feel, for the first time since midnight, less like a visitor and more like someone who might, one day, live here.
 
+You walk slowly, to make it last. A man on a ladder is turning the lamps down one by one with a long brass hook, and each one sighs as he does it, a small contented sound, like a dog settling in its basket. A girl on a bicycle goes past flinging newspapers, and they fold themselves in the air and land on the right steps, every one, with a smack. Steam rolls out of the bakery's open door, and with it the smell of bread so new it's still deciding what shape to be.
+
+*page_break
+
+Under a rose-coloured lamp you stop, and take your wand out of your sleeve, just to look at it in the light. The lamp leans down towards you, very slightly, curious, the way a tall person leans to hear something said quietly. You put the wand away again quickly, with your face hot, as if you've been caught showing off. The lamp straightens. You could swear it looks amused.
+
 Hask & Needle is a narrow shop full of mirrors that show you from behind, which is unsettling, and bolts of cloth in every colour, which is less so. There are dressmaker's dummies everywhere, and some of them are wearing half-made robes, and one of them turns its headless shoulders to watch you come in, which you decide not to think about. The robes on the racks are plain: black wool, with a lining that's just grey.
+
+There's a smell of steam and warm cloth, from an iron at the back that's working its way along a sleeve on its own, puffing to itself. The bell over the door isn't a bell but a small brass bird on a spring, which sang two notes when you came in and is now pretending it didn't. You run a robe's sleeve between your finger and thumb. It's heavier than it looks, and softer, and when you let go of it, it swings back into line with the others like a soldier who's been caught slouching.
 
 *page_break
 
@@ -403,6 +433,10 @@ You show her. She doesn't touch it, but she leans in close and looks at it the w
     You slide your wand into it. It goes in like a key into a lock, and the sleeve closes over it, and when you run your hand down your arm you can't find the opening at all until you think about it. Then it's there, under your fingertips, as easy as breathing.
 
     @saoirse:amused "Boring," says Saoirse, admiringly. "Very boring. Very clever. I hate it."
+
+    @hask:neutral "A wand in a sleeve is a wand in a sleeve," says Madame Hask, biting off her thread. "A wand in a bag is a wand on the floor of a train, under a seat, with a sandwich." She gives you a short, sharp nod, the kind a teacher gives the one pupil who's done the reading. "You will thank me in January."
+
+    @saoirse:amused Saoirse reaches over, quick as a pickpocket, and runs her fingers down your sleeve, and frowns, and tries again, and can't find the opening anywhere. "Oh, that's [i]horrible[/i]," she says, delighted. "I'm going to spend all year trying to get into that."
   #"I want a pocket that's always warm." It's going to be a cold castle.
     *set heart +5
     @hask:neutral "Everybody wants that one by November," says Madame Hask, and stitches a pocket into the lining over your heart. It's warm immediately, like a hand held there.
@@ -410,6 +444,8 @@ You show her. She doesn't touch it, but she leans in close and looks at it the w
     You put your own hand over it and leave it there for a moment longer than you need to. It's the kind of warm that goes in. The kind you get from a hot-water bottle on a bad night, or from Nana's front room with the gas fire on.
 
     @saoirse:warm "Oh, that's nice," says Saoirse, surprised, as if she hadn't expected to think so. "That's actually really nice. I might get one of them as well." She doesn't. But she thinks about it.
+
+    @hask:neutral "Over the heart," says Madame Hask, smoothing the lining flat with one thin hand. "I don't put them anywhere else. People ask for one in the hip, for their hands. Nonsense. Your hands can look after themselves." She tugs the robe straight on your shoulders and looks at you in the mirror, and for a second her sharp old face is almost kind. "It's the middle of you that gets cold, in that castle. Mind you keep it warm."
   #"Whatever she's having." Point at Saoirse.
     *set b_saoirse_bike true
     *set st_saoirse +1
@@ -419,9 +455,21 @@ You show her. She doesn't touch it, but she leans in close and looks at it the w
 
     @hask:neutral "If I find lock picks in my linings," says Madame Hask to nobody in particular, biting off a thread, "I shall know exactly whose they are."
 
+    The tape measure, not to be left out, unrolls itself into the new pocket, has a good look round, and comes out again. "[i]Spanner. Twelve-millimetre,[/i]" it announces. "[i]Unwise.[/i]"
+
+    @saoirse:laugh "Ten-millimetre," says Saoirse. "Ten. Nobody can ever find a ten." She pats your shoulder, very satisfied. "We'll get you one. Everybody needs a ten."
+
+*page_break
+
 The robes are folded into brown paper and tied with string, and Madame Hask writes your name on the parcel in a hand like a spider's footprints. When you step back out onto the Row, the sky between the gables has gone from black to the very darkest blue, and the first bird of the morning is singing somewhere up on the roofs, one bright small phrase over and over, as if it's practising.
 
-@saoirse:amused Saoirse walks you as far as the corner, her parcel under one arm and her hands in her pockets. "Right," she says. "Familiar next. I'm hoping for something with teeth." She grins her chipped-tooth grin. "See you at the train, bad influence."
+@saoirse:amused Saoirse walks you as far as the corner, her parcel under one arm and her hands in her pockets. She walks the way she talks, quickly, as if she's late for something she's looking forward to, and you have to stretch your stride to keep up.
+
+@saoirse:neutral "You all right, though?" she says, out of nowhere, not looking at you. "Honestly. Thrown through a wall and all."
+
+You think about it. "I think so. I keep waiting for it to hit me."
+
+@saoirse:amused "Me too. I keep thinking I'm going to wake up on the garage floor with my face on a carburettor and a dent in my head." She kicks a loose cobble, neatly, back into its hole. "Then I think, if I am, I'm in no hurry." She stops at the corner, under a lamp that's gone the colour of a peach. "Right," she says. "Familiar next. I'm hoping for something with teeth." She grins her chipped-tooth grin. "See you at the train, bad influence."
 *page_break
 *comment ---------------------------------------------------------------- CH02.MENAGERIE.01
 *sid CH02.MENAGERIE.01
@@ -432,6 +480,10 @@ The Menagerie is at the dark end of the Row, down three worn steps, and it's war
 
 You stand at the bottom of the steps and let your eyes get used to it. Something rustles. Something else sighs, a long contented animal sigh, and settles. It's the most peaceful place you've been all night, and you can feel your shoulders coming down.
 
+As your eyes adjust, the room gives itself up to you a bit at a time. A row of bats hangs from a beam like folded umbrellas. A badger is asleep in a laundry basket with both paws over its nose. In a glass tank on the counter something pale and luminous turns over in the water, slowly, like someone rolling over in bed. There's a tortoise on the floor making its way across the flagstones with enormous purpose, and from the look of the scratches on the stone it has been making the same journey every night for a century. A handwritten card on the wall says [i]PLEASE DO NOT FEED THE CUSTOMERS[/i], and you're not entirely sure which way round it means.
+
+*page_break
+
 @tick:neutral "Come in, come in, come in," says a round bearded man, emerging from behind a stack of baskets with straw in his hair and something wriggling in his waistcoat pocket. "Ambrose Tick. Keeper. You'll be wanting a familiar. Everybody wants a familiar. Here's the thing nobody tells you: you don't pick 'em. They pick you. You just have to be standing somewhere they can see you when they decide." He beams. "So stand in the middle and look friendly."
 
 *meet tick
@@ -441,32 +493,56 @@ All around you, in the dimness, eyes open. Dozens of them. Green and gold and bl
 
 @tick:neutral "Don't mind them," says Mr Tick, in a comfortable whisper. "They're just having a think. Some of 'em have been waiting years for the right one. You don't rush a decision like that."
 
+*page_break
+
+So you wait. A minute goes by, and then another. Somewhere a clock you can't see ticks, unhurried. The eyes keep looking, and nothing comes, and you start, absurdly, to feel the way you felt at nine years old standing against the wall of the school hall while two captains picked teams: the slow cold certainty that you'll be the one left over, and that everyone will be very kind about it.
+
+@tick:neutral Mr Tick, perhaps seeing something in your face, holds out a paper bag. "Mint?" he says. "Helps. Not you. Them. They like a mint on the breath. Makes you smell less like a city."
+
+You take one. It's so strong your eyes water. Something up in the dark makes a small interested sound.
+
 Then one of them comes.
 *choice
   #A black cat, who walks along the top of the cages, drops onto your shoulder, and sits there as if she's always lived there.
     *set familiar "cat"
     She's small and entirely black, with eyes like two coins, and she drops the last three feet onto your shoulder without asking and settles there, heavy and warm, and starts to purr loud enough to rattle your teeth. Mr Tick looks delighted. "Oh, she's never done that. She bit a bishop."
+
+    You hold very still, the way you would with any cat who'd decided to sit on you, in case she changes her mind. She doesn't. She butts her hard little head against your jaw, once, as if stamping a form, and then arranges herself round the back of your neck with her tail across your throat like a fur collar, and closes her eyes. Her purr goes right through you, into your collarbones. You can feel it in your teeth. It's the most certain thing that's happened to you all night.
   #A barn owl, who comes down out of the dark on silent wings and lands on your wrist.
     *set familiar "owl"
     She comes down out of the rafters without a sound, a pale heart-shaped face and wings like snow in the dark, and lands on your wrist, gripping hard, and turns her head all the way round to look at Mr Tick as if to say [i]well?[/i]. "Oh," says Mr Tick softly. "Oh, she's been waiting a while, that one."
+
+    She's lighter than she looks, all feathers and hollow bone, but her grip is fierce, and her talons go through your sleeve and stop, precisely, before they reach skin. She smells of dust and hay and cold night air. When she turns her face back to you it's like being looked at by the moon. She ruffles every feather at once, shakes them down, and settles, as if she's come home after a long flight and found the kettle on.
   #A brown hare, who lollops out from under a shelf and sits on your foot.
     *set familiar "hare"
     It comes out from under a shelf on long legs, a big brown hare with black-tipped ears and eyes like dark amber, and lollops across the floor and sits, deliberately, on your foot. Then it washes its face. "A hare," says Mr Tick. "They're very old magic, hares. They don't pick many."
+
+    It's heavy on your foot, warm through your trainer, and it doesn't seem to care in the least that you're staring at it. When you crouch down, slowly, it lets you, and lets you put out a hand, and after a moment pushes its long face into your palm, whiskers prickling, as if it's checking something. Its ears turn, one forward, one back, listening to you and to the whole dark room at once. Then it thumps one back foot on the flagstones, once, hard, as if to say [i]right, that's settled, then[/i].
   #A fox kit, who noses out of a basket and chews your shoelace.
     *set familiar "fox"
     It's young, all ears and legs, russet and white with a black-socked paw, and it noses out of a basket of straw and grabs your shoelace in its teeth and pulls, growling happily, as if it's been waiting all its life to catch exactly this shoelace. "Well, that's that," says Mr Tick. "You're his now."
+
+    You crouch to get your lace back and he lets go of it at once, to attack your fingers instead, with small sharp teeth that never quite close. He smells of straw and something wild and peppery. When you pick him up he's all legs, hot and wriggling, his heart going like a sewing machine against your hand, and then all at once he gives up, yawns enormously, showing every one of his needle teeth, and goes limp and heavy in the crook of your arm as if he's been carried by you all his life.
   #A raven, who drops from a beam onto the cage in front of you and says your name.
     *set familiar "raven"
     It drops from a beam onto the cage in front of you, a big glossy raven with a beak like a knife, and looks at you with one eye and then the other. Then it opens its beak and says, in a voice like a door creaking, your name. Your actual name. "They pick up words," says Mr Tick, quickly. "Don't they. Mostly."
+
+    The raven hops along the top of the cage until it's close enough to touch, and looks at your hand, and then at your face, as if weighing up the two of you. Then it steps onto your forearm, heavy as a bag of sugar, claws gripping through your jumper, and rubs the side of its great beak against your sleeve, back and forth, the way you'd wipe a knife. It makes a low, clicking, satisfied sound, like somebody counting change. You have the strongest feeling you've just been assessed by someone much older than you, and passed, but only just.
   #A fat green toad, who's been sitting in your new robe's pocket this whole time.
     *set familiar "toad"
     You feel something heavy in your pocket, and put your hand in, and bring out a large, fat, magnificently green toad with golden eyes, who looks at you with enormous calm, as if you're the one who's turned up somewhere unexpected. "Oh, very good," says Mr Tick. "Toads are wise. Terrible at conversation, but wise."
+
+    It sits in your cupped hands, cool and heavy and not in the least slimy, which surprises you, its throat going in and out like a slow bellows. You've no idea how long it's been in your pocket. Since the robe shop, at least. It blinks, a long deliberate blink that seems to involve its whole head. You find yourself blinking back. It seems to consider this an acceptable answer, and settles lower into your hands, the way a person settles into a good armchair.
   #A luna moth the size of your hand, pale green and glowing, who lands on your wand.
     *set familiar "moth"
     It comes out of the dark like a lantern floating free: a moth the size of your spread hand, pale green, with long trailing tails on its wings and a faint glow all through it like moonlight in a leaf. It lands on the tip of your wand, and the wand warms, and the moth brightens. Mr Tick has gone very quiet. "Well," he says. "She's never chosen anybody."
+
+    Her wings move, slowly, open and shut, open and shut, like someone breathing in their sleep, and each time they open the light in them pulses a little brighter, and the wand under her feet grows a little warmer in your hand. Close to, she has feathery antennae like two tiny ferns, and a body furred like a bee's. Every creature in the room has turned to look at her. You don't move. You hardly breathe. You have a feeling that a great many people have stood where you're standing and hoped for this, and that she's chosen you for reasons of her own that she isn't going to share.
   #A ferret, who shoots out of Mr Tick's waistcoat, up your arm, and into your collar.
     *set familiar "ferret"
     The thing that's been wriggling in Mr Tick's waistcoat shoots out of it, a long cream-and-brown ferret with a bandit mask, and goes up your sleeve and round the back of your neck and out of your collar and back again, chattering, and finally settles round your neck like a scarf. "Oh, the cheek of him," says Mr Tick. "That's my ferret. Well. That's [i]your[/i] ferret."
+
+    He's warm and boneless and smells powerfully of ferret, which is not a smell you've ever smelled before but is impossible to mistake. He pokes his head out from under your chin, looks up at you upside down with two bright black eyes, chatters something that's clearly an opinion, and then goes in again. You can feel him round the back of your neck, settling, getting comfortable, like a man who's found the good seat on the bus and doesn't intend to give it up.
 
 @tick:neutral "Now," says Mr Tick. "It'll need a name. A proper one. Not [i]Fluffy[/i]. Familiars can hear when you're not trying."
 *input_text fam_name Your familiar's name is:
@@ -488,7 +564,11 @@ It's the oddest feeling. Not like owning something. More like being introduced t
 
 @tick:neutral Mr Tick looks at you for a second, over the jar, as if he's deciding something. Then he smiles, and scratches his beard, and the moment passes. "You've got a flame in you that's only just caught," he says. "It'll get away from you, now and then. They're good at that. Steadying." He pats {fam_name}, which {fam_name} permits. "Feed it what it likes, not what you think it should like. And don't let it in the kitchens. Mrs Pettigrew has a goat."
 
-He sees you to the steps, and stands at the top of them with his thumbs in his waistcoat, beaming after you like a man who's just married off a daughter.
+He wraps something in a twist of brown paper while you're still standing there, and presses it into your hand: a few mouthfuls of whatever it is {fam_name} likes, by the smell of it, which is mostly hay and liver. "For the train," he says. "They get peckish, travelling. So do people." He looks at you a moment longer, then at {fam_name}, and nods, as if to a pair of travellers setting off on a long walk. "You'll do," he says. "The pair of you."
+
+When you climb the three worn steps back up to the Row, the sky between the gables has gone grey at the edges, and the air is cold enough to see your breath. {fam_name} is warm against you. You stand at the top of the steps for a moment, the two of you, and look at the street, and you can feel {fam_name} looking at it too, at the lamps and the shutters and a pigeon on the opposite roof, with a sort of calm interest that seeps into you and slows your heart.
+
+Mr Tick sees you off from the doorway below, with his thumbs in his waistcoat, beaming up after you like a man who's just married off a daughter.
 *page_break
 *comment ---------------------------------------------------------------- CH02.ALLEY.01
 *sid CH02.ALLEY.01
@@ -508,6 +588,18 @@ You've found the others by accident, or maybe not by accident, outside a shop se
 @rowan:amused "He's been trying to get me to buy a matching one for twenty minutes," says Rowan. He's smiling. You haven't seen him smile like that before: easy, with his whole face, like someone who's just put down something heavy. "I've told him I can't cook."
 
 @toby:amused "[i]Everyone[/i] can cook," says the cauldron. "They just haven't been [i]shown[/i]."
+
+@rowan:amused "I can do toast," says Rowan, to you, over the top of Toby. "And beans. Station cook-off three years running I came last. They gave me a little wooden spoon. Painted gold." He shifts the trunk on his hip. "I've still got it."
+
+@toby:amused "That's [i]tragic[/i]," says the cauldron, with feeling. "I'm going to teach you an omelette. Everybody should have one omelette."
+
+You walk on together, slowly, at the pace of three people with too much to carry and nowhere they have to be for another eleven hours. The spoon shop has a spoon in the window as long as an oar. The shop next door sells nothing but keys, and every key in the window turns, very slightly, as you go by, as if trying the air. {fam_name} watches them do it with grave attention. Toby wants to go in. Rowan says no. Toby goes in anyway, and comes out thirty seconds later looking puzzled, holding a small brass key he says he didn't pay for and doesn't remember picking up.
+
+*page_break
+
+@rowan:amused "Put it back," says Rowan.
+
+@toby:neutral "I can't. The door's locked now." Toby looks at the key. "I think it might be [i]for[/i] that."
 
 That's when the lamps go wrong.
 
@@ -589,6 +681,16 @@ All down the Row, the lamps sit up straight again, rose and gold and green, as i
 
 The warm thing in your chest is still aching where the hum took hold of it. You put your hand flat on your breastbone, and feel it beating, like a second heart, frightened.
 
+{fam_name} is the first of you to move. It presses itself against you, hard, and stays there, and you can feel its own small heart going fast and then slowing, slowing, as if it's deliberately breathing for both of you. You let it. After a while your own breath starts to follow.
+
+You look into the alley. There's nothing there now. Two damp walls, a drainpipe, a crate of empty bottles. A faint grey smear on the cobbles where the robes fell, which the rain hasn't taken, and which, as you watch, the rain still doesn't take.
+
+@toby:scared "Were they people?" says Toby. His voice is very quiet. "Under the hoods. Were they [i]people[/i]?"
+
+*page_break
+
+@rowan:tense "Don't," says Rowan. Not unkindly. The way you'd say it to someone about to look under a sheet. "Not now, Tobes. Later."
+
 Up and down the Row the shutters are going up again, slowly, a little sheepishly. The woman with the broom comes back out onto her step and starts sweeping as if she'd never stopped. Somebody laughs, too loudly, in the bakery. The street is putting itself back together, the way people do after a car's come too close on a zebra crossing: a bit of noise, a bit of bustle, and nobody looks at the alley.
 
 @rowan:tense Rowan picks up Toby's trunk again. His hands, you notice, aren't quite steady. "Lamp and Ladle," he says. "Now. I'm not arguing with a man with a lamp on a stick."
@@ -603,6 +705,16 @@ Nobody argues.
 The Lamp & Ladle is the kind of place that has been open all night for three hundred years and sees no reason to stop now. The ceiling's low and black with smoke, the fire's roaring, every chair is different, and there's a cat asleep on every table, including, you notice, a table where somebody's eating. The soup comes in bowls the size of hubcaps. At seven o'clock in the morning, it's the best thing you've ever tasted.
 
 It's leek and potato, thick enough to stand a spoon in, with a hunk of bread on the side still hot from somewhere, and butter that's been left out by the fire so it goes into the bread like a sigh. You hadn't known how cold you were until the first mouthful. You hadn't known how frightened you were until your hands stopped shaking round the bowl.
+
+Nobody brought you here. You'd walked, the three of you, without much talking, Rowan with the trunk and Toby with the cauldron and you with {fam_name}, and the sign had simply been there at the next corner, a ladle hung from a bracket with a lamp burning inside its bowl, and Rowan had pushed the door open with his shoulder and held it and said [i]in[/i], the way he must have said it to a hundred people at a hundred doors.
+
+*page_break
+
+The room had swallowed you whole: heat, noise, the smell of onions and woodsmoke and wet wool drying. A girl with a tray had taken one look at your three faces and, without a word, sat you at the only free bench and gone off and come back with soup. Nobody had asked what you wanted. You hadn't known. The soup had known.
+
+{fam_name} has found the warmest place on the bench and is watching a large ginger cat on the next table with deep suspicion. The ginger cat is watching {fam_name} with equally deep suspicion. Neither of them is going to move first. You suspect they'll be there till the train.
+
+*page_break
 
 You didn't arrange to meet Imogen and Saoirse. They're just there, in the corner by the fire, as if the Row had put you all in the same pocket: Imogen with her handbook propped against the bread basket and Saoirse with her boots on the table and a plate of chips.
 
@@ -700,6 +812,20 @@ There's a lot you could say. There's one person, you think, who needs someone to
     "They came back on."
 
     @toby:warm "Yeah," says Toby, and smiles a small, wobbly smile. "They did, didn't they."
+
+    He goes quiet for a bit after that, eating his bread, and you let him. Across the table Imogen is turning pages and Saoirse is building a small wall out of chips, and the fire pops, and the ginger cat on the next table washes one paw with great care, and the room is warm and loud and ordinary, and you can feel Toby next to you slowly coming back into himself, like a hand coming back after it's gone to sleep.
+
+    *page_break
+
+    @toby:neutral "I didn't help," he says eventually, very low, so the others won't hear. "Back there. Rowan stood in front of me and I just stood behind him. I didn't do anything."
+
+    "You didn't run."
+
+    @toby:sad "I wanted to." He looks at his hands. "I'm not brave. I've never been brave. I cried at the dentist last year. I'm twenty-three."
+
+    "Nobody in that street was brave, Toby. Everybody went indoors."
+
+    @toby:warm He thinks about that. "The lady with the broom went indoors," he says slowly. "And she's lived here for ever, probably." He looks a bit better. "Yeah," he says. "Yeah, all right." Then, after a moment, with the beginnings of his usual grin: "Are you going to eat that bread?"
   #Ask Saoirse how she's so calm. She's the only one of you still eating chips.
     *set st_saoirse +1
     *set nerve +5
@@ -709,9 +835,21 @@ There's a lot you could say. There's one person, you think, who needs someone to
 
     @saoirse:neutral "My dad used to say if you're frightened, do something with your hands," she says, pushing the plate towards you. "You're lying under a car and the jack slips, you don't lie there screaming, you get your hands on something." She eats a chip, thoughtfully. "Mind you, he also said never trust a man who irons his jeans, so." She shrugs. "Chip?"
 
+    You take another. You find, a bit to your surprise, that you're hungry, hungry like after swimming, and that the chips are very good: fat and salty and slightly burnt at the ends, the way chips are only ever in places where nobody's measuring.
+
+    @saoirse:neutral "He'd like this place," she says, looking round at the low black ceiling and the cats and the fire. "He'd have that fire out and the flue swept before you could say knife. Can't sit in a room without fixing something in it." Her hand is steadier now. She notices, and holds it up, and waggles the fingers at you. "See? Chips. Works every time."
+
+    "Is he a mechanic too?"
+
+    @saoirse:amused "Was, till his back went. Taught me everything. I was handing him sockets before I could read." She says it with a kind of fierce fondness. "He'll have a lot to say about tonight, mind, when I tell him. Doors in walls. He'll want to know how the hinges work." She grins, with the chipped tooth. "So do I, to be fair. First thing I'm doing at that school is taking a door apart."
+
+*page_break
+
 Eventually, full of soup, the five of you go upstairs to rooms Mr Fitch has paid for, under sloping ceilings with windows onto the Row. You lie down on a bed with a patchwork quilt, with {fam_name} {@(familiar = "owl") or (familiar = "raven")|on the bedpost|curled against your side}, and your wand under the pillow, and you think [i]I will never sleep, never, not after that[/i].
 
 Outside, the Row is going to bed. You can hear it through the little window: shutters, footsteps, somebody whistling, the clink of a milk bottle on a step. A lamp just outside the glass turns itself down to a soft rose glow, as if someone had asked it to.
+
+You lie there anyway, for a while, listening to it, and to the house. A floorboard creaks next door, where Toby is; then a thump, and a muffled [i]ow[/i], which you assume is the sloping ceiling. Through the other wall, very faintly, you can hear Rowan's voice, low and steady, saying the same few words over and over, the way you'd leave a message on an answerphone and then try again because you didn't like how it came out. Somewhere down the corridor a tap runs and stops. The quilt smells of lavender, like Nana's airing cupboard. Your eyes close. Your eyes open. The lamp outside the glass has dimmed itself another notch.
 
 You sleep for nine hours without dreaming, and wake to Toby knocking on the door at half past four in the afternoon, shouting that the train leaves at half five and he can't find his other shoe.
 *journal [b]Chapter 2.[/b] On Lamplight Row you met Toby Quill, a baker whose croissants catch fire; Imogen Sallow, who has read the handbook; Rowan Ashby, a firefighter who walked out of a fire; and Saoirse Maddock, who brought a motorbike. Your wand is {wand_wood}. Your familiar is {fam_name}. When you took your wand, every candle in Pellow's leaned towards you. At dawn, three grey hooded figures in an alley hummed, and every lamp on the Row leaned away from them.

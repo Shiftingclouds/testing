@@ -13,7 +13,13 @@ You've spent the day the way everybody's spent every day since Thimble Cross: go
 
 At eight, a note comes under your door in handwriting that slopes downhill: [i]COME TO HERONMERE. BRING A FORK. DON'T ASK. T.[/i]
 
-So you go down. Down the east stair, along the corridor behind the kitchens, and down the long slope where the passage goes under the lake, and the air gets cooler and greener with every step, until you come out into the Heronmere cloister, and Toby has baked a cake.
+You find a fork. It takes some doing; you have to go down to the Lantern Hall, where two of Mrs Pettigrew's kitchen staff are stacking the last of the supper things, and ask for one, and they look at you as if you've asked for a live goose, and then one of them starts to laugh and says, "Toby Quill?", and gives you two, in case.
+
+*page_break
+
+So you go down. Down the east stair, where a Lamplighter on the half-landing nods to you and goes back to watching the windows. Along the corridor behind the kitchens, where it's always warm, and the great ovens tick as they cool behind their iron doors, and the whole passage smells, tonight, faintly and impossibly, of baking. Down the long slope where the passage goes under the lake, and the air gets cooler and greener with every step, and the round windows show you the lake at night, black, with your lamp reflected in it, and once a pale fish nosing at the glass. You go faster, the nearer you get. You can't help it. The smell's getting stronger.
+
+You come out into the Heronmere cloister, and Toby has baked a cake.
 
 *page_break
 
@@ -101,6 +107,14 @@ You've heard it before. In September, deep in the stone, so faint you thought yo
 
 *page_break
 
+In the other bed, your roommate sits up. You hear the springs go. Their face in the grey light is a stranger's face, blank with sleep, and then not blank. "What is that," they whisper. "What's that noise. Why is it so cold?" It is cold. You hadn't noticed. Your breath is smoking in front of you, in your own room, under your own roof, and there's a fine grey fur of frost creeping across the inside of the window, out from the corners, the way it does on a car on a January morning, only you can see it moving.
+
+You don't answer. You can't. You're listening. Under the hum, so faint you could be imagining it, there's something else: a kind of pulling, deep in the middle of you, as if someone's tied a thread to your flame and is very gently, very patiently, drawing it out. Not hard. Not yet. Testing.
+
+You think, very clearly, in a voice that doesn't sound like yours: [i]Oh. So this is what it's like.[/i]
+
+*page_break
+
 They're inside. The Grey Choir is inside Wrenfold.
 
 You don't remember deciding to get up. You're on the cold floor, and you've got your wand in your hand, and one boot on and the other in your fist, and {fam_name} is at the door before you, pressed to the crack at the bottom of it, bristling. You open it.
@@ -110,6 +124,15 @@ The corridor is full of grey. Doors are opening all down the passage: faces look
 Somewhere far below, a bell is ringing. The great bell in the gatehouse, that's hung there four hundred years for exactly this and never rung once, is ringing over and over, cracked and frantic, like somebody hauling on the rope with their whole body. Somewhere else, a long way off, someone's screaming. Under all of it runs the hum, from everywhere, from inside the walls, from inside the lanterns, from inside the stone itself.
 
 You pull your other boot on standing up, hopping, with your shoulder against the wall. The stone is cold under your shoulder. It's vibrating, very faintly, like the side of a bell after it's been struck.
+
+*page_break
+
+At the end of the corridor, where it turns for the stair, there's a tall window looking out over the Mere. You've stood at it a hundred times, in the mornings, with your toothbrush, watching the mist come off the water. You stop at it now without meaning to, because something's wrong with the view, and it takes you a moment to see what.
+
+The lake is lit. Not gold, the way the boathouse lamps light it. Grey. A long grey glow, low down under the surface, out beyond the boathouse and along under the castle walls, the way a lamp glows through a lampshade, faint and wide and moving. Moving towards the shore. Moving towards the place where the Heronmere cloister goes down under the water and its windows look out into the lake.
+
+Something cold closes in your stomach and stays closed.
+
 *if (st_rowan >= 3) and (hurt_rowan < 2)
   *present rowan
   @rowan:tense Rowan comes round the corner at a run, in a Larkspire T-shirt and bare feet, with his hands blazing orange, lighting the corridor like a torch. The grey shrinks back from him, a yard, two yards, the way shadows shrink from a match. The first-year in the nightshirt looks up at him with her mouth open. "Heronmere," he gasps. "They're at Heronmere. The lake door's open. Go. I've got the Larkspire stair." He crouches, and says to the first-year, "You're all right, you're with me," and scoops her up in the crook of his arm, holding his burning hand well away from her hair, and he's gone.
@@ -119,6 +142,16 @@ You pull your other boot on standing up, hopping, with your shoulder against the
 *if (st_cas >= 3) and (hurt_cas < 2)
   *present cas
   @cas:tense Cas is on the landing, in a dressing gown like a duke's, standing in front of a knot of crying first-years with his wand up and the most frightening expression you've ever seen on a human face. His hair's on end. He's barefoot. He looks about as dangerous as a man can look. "Go," he says, when he sees you. "I've got these." One of the first-years is holding onto the back of his dressing gown with both fists, and he lets her. "[i]Go.[/i]"
+
+Down the stair, in the common room, somebody's shouting names. A prefect, in a dressing gown, with a lamp that won't light, standing on a chair, calling out the register from memory, and people shouting back [i]here[/i], [i]here[/i], from the stairs and the doorways and under the tables, and every [i]here[/i] sounding smaller than the last. A boy is trying to light the fire with his wand and getting nothing but grey sparks that fall on the hearthrug and don't even singe it. Somebody's familiar, a big tabby cat, has climbed to the top of the tallest bookcase and is crouched there with its ears flat, spitting at the ceiling.
+
+*page_break
+
+The prefect sees you on the stair. "Stay here," she shouts. "Everybody stays here. Nobody goes anywhere. Those are the orders." Her voice cracks on [i]orders[/i]. She doesn't know whose orders. Nobody's given any. She's just saying what she thinks somebody ought to.
+
+You come down the last few stairs. Nobody stops you. Nobody's looking. Everybody's looking at the doors, and the windows, and the grey lamps, and each other.
+
+At the common-room door you stop, with your hand on the cold handle and {fam_name} pressed against your ankles, and look back once. The prefect on her chair. The tabby on the bookcase. The first-years in a heap on the sofa with a blanket over all of them, like puppies. You could stay. Everybody's staying. Those are the orders.
 
 You know where you're going. You knew before you were awake. You knew, you think, when the note came under your door at eight o'clock telling you to bring a fork.
 
@@ -159,6 +192,16 @@ It's working. It's working a little. He's holding them, the way Odile held them 
 *page_break
 
 The first-years are crawling behind him, one by one, along the wall, towards the passage, towards you. Priya's pushing them. Her lips are moving; she's counting. Two gone. Three. A small boy in striped pyjamas gets to you and grabs your leg and won't let go, and you peel him off and point him up the slope and he goes.
+
+You're standing in the doorway at the bottom of the slope. You don't remember stopping. Your legs have just stopped, the way legs do at the edge of a cliff, and the rest of you is standing in them.
+
+From here you can see everything. The cake tin, still on the hearth, with its lid off. Priya's book, face down on the window seat where it fell off her knee. The green cushions, grey now. The Choir's robes, close to, are not grey cloth at all; they're something that looks like cloth from a distance and, from here, looks like ash that's been taught to hang in folds. Their hoods are down over their faces. Under the hoods you can't see anything. The hum doesn't come from their mouths. It comes from all of them, from all over them, the way heat comes off a stove.
+
+*page_break
+
+And the Hush. She's nearer than you ever want to be to her again. Close enough to see the fine lines at the corners of her closed lips. Close enough that you can see her eyes, which are rimmed with grey, and not blank. Not blank at all. She's watching Toby sing the way you'd watch a moth on a window: patiently, with a kind of mild attention, as if she'd like to see how long it can keep it up.
+
+Your flame is pulling towards her. Towards all of them. You can feel the thread again, the one from your room, tighter now, much tighter, drawing you forward across the wet flagstones a half-inch at a time. You lock your knees. You grab the doorframe. The stone is so cold it burns.
 
 @corliss:neutral The Hush lifts her bare grey hand. That's all. She doesn't hurry. She lifts it the way you'd lift a hand to stop a bus.
 
@@ -355,11 +398,27 @@ At four this morning you found the Headmistress in the wreck of the Lantern Hall
 
 *page_break
 
-You didn't find anything warm. You walked for a while. Then you came here, because there was nowhere else to go.
+You didn't find anything warm. You walked.
+
+You walked the way you'd walk in a dream, without deciding where. Along the gallery above the Lantern Hall, where the glass from the high windows lay in drifts against the wainscot and crunched under your boots like frost. Down the Great Stair, past a Lamplighter sitting on a step with her head in her hands and her lamp beside her, who looked up at you and didn't ask what you were doing out of bed, and looked down again. Past the door of the Warding Hall, shut, with nobody behind it.
+
+You didn't go to the east stair. You couldn't. You went the long way round instead, by the cloisters, so you wouldn't have to, and you could feel it the whole time, behind the walls, like a cold draught on one side of your face.
+
+Everywhere, the lanterns were back. Gold, steady, burning in their brackets as if nothing had happened, and every one of them leaned towards you as you passed, the way they always do. You'd always liked that. You didn't, last night. You wanted to tell them to stop it. You wanted to ask them where they'd been.
+
+*page_break
+
+The dawn came up somewhere behind the rain without ever quite arriving. The windows went from black to grey to a paler grey, and that was all. In the kitchen corridor, the ovens were lit again, roaring, and you could smell bread, and somebody was crying in the scullery with the tap running so that nobody would hear. A first-year you didn't know went past you with a tray of tea, very carefully, two-handed, slopping, taking it somewhere, and you stood aside to let her by and she said "Thank you" in a voice like a much older person's.
+
+At the bottom of the Infirmary stair you stopped, and stood there with your hand on the newel post for a long time, and couldn't make your feet go up. Then {fam_name} went up three steps on its own, and turned round, and looked at you, and waited.
+
+You came up, because there was nowhere else to go.
 
 The Infirmary is full of the hollowed.
 
 Not just Toby. Four others: two Heronmere second-years who came down the dormitory stair when they heard him singing, and a Rookhallow girl, and a boy from Owlcombe you didn't know, who went to see what the bell was. They're in a row of beds by the window, sitting up, in clean pyjamas, with their hands folded on the blankets, looking out at the grey rain on the Mere. When anyone speaks to them, they smile. It's the smile you'd give a nurse, or a neighbour, or someone who's held a door for you. It's the same smile on all five faces.
+
+*page_break
 
 The ward smells of carbolic and cold tea. Somebody has pulled the blinds halfway down, and then somebody else has put them up again, and nobody can decide which is worse.
 
@@ -413,7 +472,21 @@ You can't answer. You nod. He seems to find that perfectly satisfactory.
 
 The rain goes on. Out on the Mere, a Lamplighters' boat is going slowly along the shore by the boathouse, two figures in it, one of them leaning over the side with a lamp, looking down into the water.
 
+*page_break
+
 @toby:hollowed Toby looks up at you from his pillows. "Are you all right?" he asks, as courteous as a stranger. "You look sad." He strokes the hare. "I don't know why, but I feel like I ought to know why."
+
+You don't know what to say to that. You say you're tired. He says that's a shame, and that you should get some sleep, and you say you will, and he nods, satisfied, and goes back to the rain.
+
+@kestrel:grave At some point the Headmistress gets up out of her chair. It takes her a long time; she has to do it with one arm, and Matron isn't looking, and she won't call her. She comes down the ward slowly, between the beds, with her silver hair hanging loose down her back, and stops at the end of Toby's bed, and stands there with her good hand on the rail.
+
+@kestrel:grave "Mr Quill," she says.
+
+@toby:hollowed Toby looks up, pleasantly. "Hello," he says. "Are you a doctor?"
+
+@kestrel:grave "No," says the Headmistress. "No. I'm afraid I'm only a teacher." She looks at him for a while longer, and at the hare, and at Priya's hand holding his, and her face doesn't change at all. Then she says, "Thank you for the cake. I heard it didn't catch fire," and Toby says, "Didn't it? That's good," and she nods, and goes on down the row to the next bed, and the next, and says something to each of them, quietly, by name, while the rain runs down the windows behind her.
+
+When she gets back to her chair she doesn't sit down in it. She stands beside it, holding the back of it with her good hand, and looks out at the Lamplighters' boat on the grey water, and you see her lips moving, and you think she's saying their names again, all five, one after another, as if she's making sure she has them.
 *page_break
 *comment ---------------------------------------------------------------- CH17.AFTER.02
 *sid CH17.AFTER.02

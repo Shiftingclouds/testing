@@ -106,6 +106,12 @@ Over her shoulder, through the fogged glass, you can see the Lantern Hall's grea
 *present kestrel toby mina cas grey priya familiar
 Somebody lends you a jumper. You don't remember who. You sit on the end of your bed with it on for an hour, not getting dressed, looking at the wall, while round you the dormitory whispers and stops and whispers again. At half past seven a bell goes that you've never heard before, low and slow, and everybody goes down.
 
+The stairs are full and silent. That's the first strange thing: four hundred people going down to breakfast and nobody talking, just the shuffle of feet on stone and a cough, now and then, that sounds too loud. People walk in twos and threes, closer together than usual, shoulders touching. Nobody's hair is brushed. On the landing above the Hall there's a tall window that looks south, over the gardens to the Glasshouses, and everybody slows as they pass it, and looks, and then looks away. You look too. The long glass roofs are grey in the grey light, beaded with rain, and there's a prefect standing at the door of the nearest one with his wand lit in broad daylight, and a line of chalk across the path in front of him that nobody's going to cross.
+
+{fam_name} keeps so close to your ankles on the stairs that you nearly trip twice. You don't mind in the least.
+
+*page_break
+
 The lanterns come back to gold at about seven, slowly, the way colour comes back into a face. But they don't hum. All through breakfast, which nobody eats, they keep drifting away from the doors and the windows, into the middle of the Hall, bunching together over the tables like sheep in a field when there's a dog about.
 
 The porridge goes cold in its tureens. Nobody touches the toast. There's a low, constant murmur, the sound of four hundred people all saying the same thing to each other quietly, and underneath it, the scrape of benches and the clink of cups that nobody's drinking from.
@@ -182,6 +188,8 @@ He's been sitting alone, as always, at the end of the bench. He walks down the H
     Then he gets up, and leaves by the door behind the High Table, and in the flame-sight, just for a moment, you see his flame: a big, heavy, iron-coloured light, banked down low like a fire that's been covered for the night. Steady. Very old. Round it there's something like scar tissue: a pale thick band, as if at some point, a long time ago, something tried very hard to put it out, and couldn't.
 
     You don't know what it means. You file it away, in the place where you're starting to keep things like that.
+
+    The door behind the High Table swings shut after him. A few people watch it close, and turn back to each other, and the murmur at the Larkspire table gets a little louder, a little more pleased with itself, the way a crowd does when it thinks it's found someone to blame. You look down at your cold porridge. You think about the band of scar round his flame, thick and pale and old, and about what it would take to make a mark like that on somebody, and you find you've lost your appetite for the rumour, as well as the porridge.
   #Stay with Toby. He's holding Priya together and he's shaking.
     *set fr_toby +1
     *set heart +5
@@ -382,6 +390,10 @@ He doesn't say knows what. He doesn't have to.
 @toby:scared "Curfew's at nine," says Toby, faintly.
 
 @saoirse:laugh "Exactly," says Saoirse. "That's what makes it a party."
+
+@rowan:amused Rowan looks at her, and at the banister, and at his own enormous feet, as if he's calculating whether it would take his weight. Saoirse sees him do it, and grins, and says, "It would. I've had Hamish on it. Hamish and a trunk." Toby says nothing at all. He's looking from one to the other of them as if he's watching a match, and you can see him thinking about curfew, and the empty place at the Heronmere table, and the lanterns that won't hum, and deciding not to say any of it. You walk on down the stair together, the four of you, through a pool of lamplight and out of it, and for a few yards nobody says anything, and it isn't bad.
+
+*page_break
 
 @noor:tired Last of all, at the bottom of the stair outside the Infirmary, with a tray of cold tea in her hands, there's Noor. She doesn't grin, or rub her neck. She just says, very quietly, "Matron's asked me to sit up with the night beds on Saturday. There's nobody else. It's twelve hours and it's... quiet. The quiet's the worst bit." She looks at the tray. "You don't have to. I just thought I'd ask. In case."
 

@@ -175,7 +175,21 @@ Then there's the one thing that frightened you more than all the rest.
     *set flame +5
     You'd had the call from the landlord about the rent going up. You stood at the front window and you were so angry you couldn't see straight, and the streetlamp outside went out. Then the next one. Then every window on the street, one after another, as if something were walking up the terrace blowing out candles. The power company said it was a fault at the substation. You stood in the dark and felt it, whatever it was, go back into you like a breath.
 
-You put the letter down on the table. Then you pick it up again, because you don't want to not be holding it.
+You get up, in the end, because sitting still has become impossible, and go and stand by the doorway. Not close. About where you'd stand to talk to a neighbour over a garden fence.
+
+The cold comes off it in slow breaths, and your arms come up in goosebumps under your jumper. This near, you can hear more of the street: the gutter still running, a door banging somewhere, the clop of something with hooves going by out of sight, and under all of it a murmur like a station concourse, as if a great many people over there are awake and busy and not in the least surprised to be. A paper bag blows along the cobbles, stops at the gold line, seems to think about coming through, and doesn't.
+
+The owl on the gutter has turned its head right round to look at you. It has orange eyes and the expression of a librarian who has caught you eating crisps.
+
+"Hello," you say, which is stupid.
+
+The owl blinks, slowly, one eye and then the other. Then it goes back to its supper, as if you've been weighed and found not very interesting yet, and you find, absurdly, that you're a bit hurt.
+
+*page_break
+
+You hold your hand up to the line, not touching it. The warmth comes off it the way warmth comes off a radiator, and something in your chest leans towards it, the way the basil leans towards the window. You take your hand back and put it in your pocket, quickly, like a child caught reaching for the biscuit tin. Not yet. You couldn't say why not yet. Only that you'd like to sit with this for a little while before it happens to you.
+
+You go back to the table and put the letter down. Then you pick it up again, because you don't want to not be holding it.
 
 Your phone buzzes on the counter.
 
@@ -218,9 +232,15 @@ Or you could ring the one person in the world who ought to hear it from you firs
 *date 2026-09-11 00:20
 *present nana
 *meet nana
+Her name's at the top of your favourites, next to a photo of her in a paper crown from three Christmases ago, glaring at the camera because somebody told her to smile. Your thumb hovers over it. It's past midnight. She's eighty-two. When the phone goes at this hour, at her age, it's only ever bad news, and you'll frighten the life out of her before you've said a word.
+
+You ring anyway. Of course you ring. You've rung her about every important thing that has ever happened to you, from your first wobbly tooth to your first parking ticket, and you're not about to stop now that the important thing is a door in the wall.
+
 You take the phone out into the hall to ring her, and then come straight back again, because you find you don't want to be out of sight of the door. So you stand by the fridge with the phone at your ear and your eyes on the lamplit street, listening to it ring in a bungalow on the other side of Wrexley.
 
 You can picture it exactly. The gas fire on low. The budgie under his cover. Nana in her chair with her feet on the pouffe and a cup of tea going cold at her elbow, watching snooker she's seen before, because she likes knowing how it ends.
+
+*page_break
 
 @nana:neutral She answers on the second ring. "If this is about the snooker, I've seen it."
 
@@ -282,11 +302,43 @@ You look at it. The gold line, the lamplit street, the rain still falling softly
 
 @nana:warm "Then send me an owl," she says. "And bring me back a stick of rock or whatever it is they have."
 
+There's a pause. You can hear her shifting in her chair, the creak of it, the pouffe being pushed away with one slippered foot, which means she's sitting up properly now, the way she sits up for the news.
+
+*page_break
+
+@nana:neutral "Have you eaten?"
+
+"Nana."
+
+@nana:neutral "It's a fair question. You don't eat when you're upset. You never have, you go all pale and noble about it. There's a lasagne in your freezer, I put it there myself."
+
+"I had half of it."
+
+@nana:warm "Half," says Nana Pearl, in the voice she's been using about your plate since you were three. "Who's it from, then? Who's signed it?"
+
+You look. You hadn't, not properly. At the bottom, under [i]With every good wish, and some excitement[/i], there's a name in ink that runs like a hedge in the wind. "Imelda Kestrel. Headmistress." You squint at the small writing underneath. "There's a P.S."
+
+@nana:neutral "Go on."
+
+"[i]Keep your flame close.[/i]"
+
+She doesn't say anything to that for a bit. When she does, it's quieter. "Well," she says. "That's good advice, whatever it means. You keep it close, then. Don't go waving it about for anyone." Then, back to herself: "And take a vest. I don't care how magic it is. Castles are always cold, I've seen them on the telly."
+
+"Who said it was a castle?"
+
+@nana:warm "Nobody," says Nana Pearl, a bit too quickly. "I'm only saying. Take a vest."
+
 "I love you, Nana."
 
 @nana:warm "I know you do," says Nana Pearl. "I love you too. Now get off the phone, it's costing me a fortune, and go and pack something warm."
 
-When you put the phone down, you sit on the floor a bit longer, and you cry, a bit, the good kind. The kettle, switched off at the wall, sings you a little tune. Three notes, going up. It's never done that before.
+*page_break
+
+After you've rung off, the kitchen is very quiet. The fridge hums. The doorway hums back, a note lower, as if they've come to an understanding. On the screen of your phone the call time sits there for a moment, [i]23:41[/i], before it goes dark: twenty-three minutes and forty-one seconds in which your whole family history turned out to have a secret drawer in it, and the one person who'd kept it locked had been waiting all summer, all your life really, for you to come and ask for the key.
+
+You think of her mum. Ivy, at twenty-eight, sitting at a kitchen table in her coat with a letter in her hand and a nine-year-old watching from the doorway. You'd only ever seen her in one photograph, in a hat, outside the mill, not smiling. You'd always thought she looked stern. You wonder now whether she was only listening to something loud and far away.
+
+You sit on the floor a bit longer, and you cry, a bit, the good kind. The kettle, switched off at the wall, sings you a little tune. Three notes, going up. It's never done that before.
 
 You laugh, wetly, into your sleeve. Somewhere across town, you'd bet the rent, Nana Pearl is sitting in front of the snooker with her hand over her mouth, doing exactly the same.
 *set heart +5
@@ -303,6 +355,16 @@ The taxi driver on Station Road doesn't ask why you're crossing Wrexley at half 
 
 It's strange to see it all tonight. You've lived in Wrexley your whole life, and you've never looked at it the way you're looking at it now: the wet shine on the pavements, the lit window of the all-night garage, a fox trotting along the canal towpath as if it has somewhere to be. It looks small, and dear, and a bit shabby, like a coat you've had for years. You find you're memorising it without meaning to.
 
+The driver has the radio on low, a late-night phone-in where a man from Saltby is explaining, at length, that he's seen a big cat on the golf course. The driver snorts at it now and then. The meter ticks over in red numbers that you try not to watch. In the back, in the dark, you take the letter out of your pocket and hold it on your knee, and it's still warm, as warm as it was in the kitchen, as if it's brought the kitchen with it. When the car goes under a streetlamp, the wren on the broken seal catches the light and then loses it again, catches it, loses it, all the way up Mill Hill.
+
+*page_break
+
+"Visiting someone?" says the driver, at the lights by the war memorial, the only thing he says the whole way.
+
+"My nana."
+
+He nods, as if that explains everything, and maybe it does. "Give her my best," he says, though he's never met her, and turns the big cat up.
+
 Nana Pearl's bungalow is the only lit house on Laburnum Close. She opens the door before you knock.
 
 @nana:neutral She's in her quilted dressing gown and her red glasses, and her hair is in its night-time net, and she has a plate of toast in one hand, because she always has a plate of toast in one hand after eleven. She looks at your face. She looks at the corner of cream envelope sticking out of your pocket. She doesn't say [i]what on earth are you doing here[/i], or [i]is it the landlord[/i]. She says: "Is it a wren?"
@@ -314,6 +376,16 @@ You stand on her doorstep with your mouth open.
 @nana:warm "Come in," she says. "You'll let the heat out. Admiral, it's {name}."
 
 The budgie, Admiral, says something rude from under his cover. The telly's on with the sound down: snooker, a repeat. The front room smells the way it has your whole life, of lavender and toast and the gas fire, and there are photographs of you on every surface at every age, including the one from when you were nine with the bowl haircut that you've asked her to take down every Christmas for sixteen years.
+
+She doesn't let you say anything until she's made tea. That's the rule in this house, and has been all your life: no bad news, and no good news either, until the pot's warmed. So you stand in the kitchen doorway, the way you did when you were small, and watch her do it. Her kettle is an old chrome one with a whistle, and it takes its time, and it doesn't do anything it shouldn't. The caddy has the Coronation on the lid. She warms the pot, swills it, tips the water in the sink, spoons in the tea, one for each of you and one for the pot, and her hands are perfectly steady, and she doesn't look at you once, which is how you know she's thinking very hard.
+
+*page_break
+
+@nana:neutral "Biscuit?" she says, to the tea caddy.
+
+"I'm all right."
+
+@nana:neutral "You'll have a biscuit," says Nana Pearl, and puts three on a saucer, the ones with the jam in the middle that she buys only for you and pretends she buys for herself.
 
 You sit on the sofa. She sits in her chair. You give her the letter, and she reads it all the way through with her lips moving slightly, and then she takes her glasses off and wipes them on her dressing gown and puts them back on and reads it again.
 
@@ -353,6 +425,22 @@ It's warm when she puts it in your palm. Warmer than her hand. It fits your midd
 
 You sit together for a while without saying anything, the way you used to on Sunday afternoons when you were small, with the snooker on and the gas fire ticking. She pushes the plate of toast towards you. You eat a slice, because she'd be hurt if you didn't, and because it turns out you're starving.
 
+@nana:neutral "Are you frightened?" she says, after a while, not looking at you, looking at the fire.
+
+You think about lying, and don't. You never have been able to, not to her. "Yes. A bit." You turn the thimble round on your finger. "A lot, actually."
+
+@nana:warm "Good," says Nana Pearl. "I was frightened the morning I married your grandad. Sick in the vestry, I was, all down a borrowed dress. And that turned out all right for forty-one years." She reaches over and takes your hand, the one with the thimble on it, and holds it between both of hers, which are dry and cool and smaller than you remember. "Only fools aren't frightened of the big things. You were never a fool. A bit soft, sometimes. Never a fool."
+
+*page_break
+
+"Thanks, Nana."
+
+@nana:warm "You're welcome. Have you got a vest?"
+
+"Nana."
+
+@nana:warm "Castles are cold," she says, as though she knows, and perhaps she does. "Mum came home with chilblains."
+
 @nana:warm "Now you go home," says Nana Pearl, at last, "and you go through that door, whatever it is, and you don't stay here a single extra day on my account. I've got Admiral and the snooker and your auntie Carol ringing every Sunday about her feet. You send me an owl."
 
 "How do you know they have owls?"
@@ -361,7 +449,7 @@ You sit together for a while without saying anything, the way you used to on Sun
 
 She hugs you on the doorstep, hard, the way she hasn't since you were a teenager and wouldn't let her. She smells of lavender and toast. She's smaller than she used to be. When she lets go, she straightens your collar, and pats it, and says "Well," and goes in and shuts the door before either of you can say anything else.
 
-The taxi driver's waited. On the way back across Wrexley, you hold the thimble so tightly it leaves a ring in your palm.
+The taxi driver's waited, engine running, radio still going. On the way back across Wrexley, you hold the thimble so tightly it leaves a ring in your palm. You turn round once, in your seat, as the car takes the corner at the bottom of Laburnum Close, and the front-room light of the bungalow is still on, and there's a shape at the net curtain, small and straight-backed, that doesn't move until you're out of sight.
 *set heart +5
 *set fr_nana 3
 *set thimble true
@@ -374,7 +462,13 @@ The taxi driver's waited. On the way back across Wrexley, you hold the thimble s
 *present
 It's ten past two before you've finished not-packing.
 
-The letter said to bring nothing but yourself, and it turns out that's harder than it sounds. You fill a rucksack, and empty it again. You put in socks and take them out, because what if they have magic socks, and put them back in, because what if they don't. You write a note for your landlord and a cheque for October that will probably bounce, and a note for Dev that just says [i]I meant it about the postcard[/i]. You water the basil, which turns its leaves to watch you do it.
+The letter said to bring nothing but yourself, and it turns out that's harder than it sounds. You fill a rucksack, and empty it again. You put in socks and take them out, because what if they have magic socks, and put them back in, because what if they don't. You write a note for your landlord and a cheque for October that will probably bounce.
+
+The note for Dev takes longer. You sit at the kitchen table with the back of an electricity bill and a biro that keeps giving out, and you write [i]Dear Dev[/i], and cross it out, because you have never in your life called him Dear Dev and he'd think you'd been kidnapped. You write [i]Dev, I've gone away for a bit, it's a long story[/i], and stop, because it is, and you can't tell it, and he'd only worry. You write [i]Thank you for the biscuits[/i], which is true, and makes your eyes sting, and you cross that out too, because if you start thanking him for things you'll be here till dawn. In the end the note just says [i]I meant it about the postcard[/i], and underneath, because you can't help it, [i]look after the balloon[/i]. You prop it against the kettle, where he'll see it if he comes round with the spare key, which he will, by Sunday, when you haven't answered your phone.
+
+*page_break
+
+You water the basil, which turns its leaves to watch you do it.
 
 All the while the door hums in the wall behind you, patient as a cat by a fridge. Every time you go past it you slow down. On the other side the rain has stopped, and the cobbles are shining, and somebody's opened a window above a shop and is playing an accordion, badly, something slow and sad and cheerful at once. You catch yourself humming along to a tune you don't know.
 
@@ -386,26 +480,44 @@ In the end, the rucksack holds clothes, a toothbrush, your charger (you're not s
     *set brought "photo"
     *set heart +5
     It's from the summer you were eleven: the two of you on the end of the pier at Saltby in a gale, both squinting, both laughing at something neither of you can remember now, her headscarf nearly off. You take it out of its frame and put it in the inside pocket of your coat, where you'll be able to feel it.
+
+    On the back, in Nana's handwriting, it says [i]Saltby, August, wind!![/i], with two exclamation marks, which is two more than she usually allows. The frame looks very bare on the shelf without it. You leave it there anyway, empty, like a promise to come back and fill it.
   #Grandad's old transistor radio. It still works. Mostly.
     *set brought "radio"
     *set wit +5
-    It's older than you: a red leather transistor with a dial you turn by hand and a smell of warm dust when it's been on a while. Grandad used to listen to the shipping forecast on it in the shed. It picks up stations it shouldn't, some nights, and lately it's been picking up music you've never heard, very faint, like a choir a long way off. You wrap it in a jumper.
+    It's older than you: a red leather transistor with a dial you turn by hand and a smell of warm dust when it's been on a while. Grandad used to listen to the shipping forecast on it in the shed. It picks up stations it shouldn't, some nights, and lately it's been picking up music you've never heard, very faint, like a choir a long way off.
+
+    You turn it on, just for a second, before you pack it. A crackle; a man reading the late shipping forecast in his calm, sorrowful voice, [i]Dogger, Fisher, German Bight[/i]; and then, as you turn towards the doorway, the dial drifts on its own a hair to the left, and for a moment there's something else under the static, a tune, very thin, three notes going up. You switch it off. You wrap it in a jumper, carefully, as if it might be listening.
   #Your toolkit: the small one, screwdrivers and pliers and electrical tape.
     *set brought "tools"
     *set flame +5
     Whatever they teach at Wrenfold, you have a feeling something there is going to need fixing. Your toolkit's a red canvas roll that's been with you since your first flat: screwdrivers, pliers, a multimeter, and the electrical tape that has held together at least three phones and one car. You roll it tight and put it in the side pocket.
+
+    It's a funny thing to take to a school of magic, probably. You can picture someone laughing at it. But in every job you've ever had, the person who got thanked at the end of a bad day was never the one with the big ideas. It was the one who had a screwdriver on them when the till drawer jammed. You pat the side pocket, once, the way you'd pat a dog.
   #The book you've read so many times the spine's gone white.
     *set brought "book"
     *set wit +5
     It's a book of old stories, fairy tales and folk tales from all over, that Nana gave you when you were seven: the one about the girl who spun straw, the one about the lantern-maker's daughter, the one about the bird who carried fire. You've read it so many times the spine's gone white and the pages fall open by themselves. You'd feel stupid bringing it. You bring it anyway.
+
+    It falls open, when you pick it up, at the bird who carried fire: a plain brown bird, in the old picture, with a coal in its beak and its feathers singed, flying low over a dark lake towards a lit window. You've never noticed before that there's a lake. You stand there for a second with the book open in your hands and the hum of the doorway in your ears. Then you shut it, quite firmly, and push it down to the bottom of the rucksack under the socks.
   #Grandad's penknife. You've carried it every day since he died.
     *set brought "knife"
     *set nerve +5
     You don't need to pack it: it's in your pocket already, where it always is, a heavy old thing with a horn handle and a blade he kept sharp enough to shave with. You've carried it every day for six years. You put your hand on it now, through your jeans, and feel steadier.
+
+    He used to say a person should always have three things on them: a clean hanky, the bus fare home, and a knife to cut string with. You have never once had a clean hanky. You've got the knife. Somewhere, you think, he's tutting about the hanky and pleased about the knife, and you find that you're smiling at the fridge.
   #Nothing. The letter said nothing, and you're going to trust it.
     *set brought "nothing"
     *set flame +5
     You leave everything that matters where it is: the photographs, the radio, the book, all of it. If you're coming back, it'll be here. If you're not, well. The letter said [i]nothing but yourself[/i]. You'd like, for once in your life, to find out if that's enough.
+
+    It's harder than it sounds. Your hand keeps going to things on its way past: the edge of a photograph, the spine of a book, the radio's leather case. Every time, you make it carry on. By the time you've finished, the rucksack holds only clothes and a toothbrush and the charger, and it feels much too light on your shoulder, and you feel much too light inside it, as if someone has let a bit of air out of you, or into you; you can't tell which.
+
+There's still time, so you make one last cup of tea. You don't need to switch the kettle on. You only need to look at it and think, a bit crossly, [i]go on, then[/i], and it begins to tick, and then to roar, and then to rattle on its base, all on its own, while you stand there with a teabag in your hand. You've been pretending for six months that it isn't doing this. Tonight you watch it, properly, all the way to the click. It's a small thing to have done. It's also, you realise, the first time you've ever done it on purpose.
+
+You drink the tea sitting at the table, with both hands round the mug and your rucksack on the chair beside you like a friend who's come to see you off. The clock on the oven says 02:31. Across the room the doorway hums, and through it, on Lamplight Row, the accordion has stopped, and somebody is laughing, a long way off, at a joke you'll never hear.
+
+*page_break
 
 You stand in front of the doorway with your rucksack on one shoulder{@thimble| and great-gran Ivy's thimble on your finger|}, and you look at it properly for the first time.
 
@@ -421,9 +533,17 @@ You think about your kitchen. The kettle. The basil. The lasagne. The rent. Glos
 
 It occurs to you, standing there, that you could still say no. The letter said so. The doorway will close at dawn, and they won't trouble you again, and in the morning you'll go back to work and tell Dev it was a joke, and the kettle will go on boiling by itself, and the candles will go on leaning, and you'll go on not looking at your hands. You could. People must.
 
+You picture it, honestly, for the length of a breath. The alarm at seven. The bus. Dev's face over the top of his screen. The same lino, the same damp patch shaped like a dog, the same kettle boiling itself while you look the other way; the year going on round you, and the next, and you getting very good at not looking. It wouldn't even be unhappy, exactly. It would just be small, and carefully kept, and yours, like a room you never open the curtains in.
+
+Then you picture the letter, back in its envelope in a drawer, and you at fifty taking it out now and then to see if the ink still moves.
+
+*page_break
+
 You put your hand flat on the edge of the light.
 
 It's like putting your hand into warm water. It's like the first sip of tea on a cold morning, if the tea were inside your ribs. Something behind your breastbone that's been restless all year, all year, leaning towards candles and blowing out streetlights, turns towards the door the way the basil turns towards you, and goes [i]yes[/i].
+
+The light closes round your wrist like a bracelet. On the other side, your fingers are suddenly cold, and wet with the last of the rain, and you can feel the air of the street moving between them: chimney smoke, and toffee, and the green sharp smell of something you don't have a name for yet. Somebody over there laughs. A bell rings, for nothing, the way bells do when they're happy. Your hand is in one world and the rest of you is in another, and for a second you stand exactly on the line between them, the way you used to stand on the line at the edge of the sea as a child, letting the waves decide.
 
 You take one last look over your shoulder: the table, the balloon, the birthday card, the light over the cooker you've left on so the house won't be dark. Then you step through.
 *snapshot doorway

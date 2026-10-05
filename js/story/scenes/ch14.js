@@ -91,6 +91,16 @@ You can't sleep. You never can, before a festival. The dormitory's full of breat
 
 In the end you give up. You put the candle in your pocket and go down to the Long Stacks, because it's warm, and because since Longnight there are places in the castle where the stone is warm underfoot and the Long Stacks is one of them, and because sometimes, at night, it's the only place in the castle that's quiet.
 
+The castle at night is a different animal since the Order came. You pull your coat on over your pyjamas and go down the dormitory stair in your socks, carrying your boots, and at the bottom there's a Lamplighter sitting on the window seat with his lamp turned down to an ember and a flask of tea, and he looks up as you go past, and you say "can't sleep," and he says "nobody can, before Candlewake," and lets you go with a nod, the way you'd let a cat out. Further on, two more, walking the long corridor towards you side by side, slow, with their greatcoats brushing the walls. They part to let you through without breaking step. One of them, a woman with grey in her plait, murmurs "Long Stacks?" as you pass, and when you nod, she says, "Mind the third gallery step. It's loose," and walks on.
+
+*page_break
+
+The corridors are cold, but the floor isn't, in places. You feel it through your socks at the turn of the east stair, the way you've felt it all winter: a warmth in the stone, faint, like the place on a bed where someone's just got up. Your flame lifts its head at it. You keep walking. You've got very good, these last weeks, at keeping walking.
+
+Out of the windows on the stair, the Mere lies white and still under a half moon, and you can see, if you press your face to the glass, the dark line of the boathouse, and the far shore, and the hill where the Candlestones are, waiting for the morning. In seven hours there'll be four hundred people walking across that. The thought gives you a little lurch of something that isn't quite fear.
+
+*page_break
+
 The library at half past eleven is a different country. The lamps are turned down to blue pinpricks. The shelves go up into the dark like cliffs, and the gallery stairs creak under you like a ship, and every so often a book shifts on its shelf in its sleep. The clocks tick, all out of time with each other. It smells of dust and leather and cold stone and, faintly, of the beeswax still on your fingers.
 
 It isn't empty.
@@ -157,13 +167,45 @@ There's a light at the back of the second gallery, behind the iron grille of the
       @idris:neutral He nods, slowly, and something in his face might be relief and might be disappointment. "Soon," he says. "I'll tell you soon." He bends his head over the folder again, and you go back up the stairs.
 
       At the top, you look back. He's not reading. He's sitting with his hand flat on the closed folder, looking at the dark where you were.
+
+      You don't go straight back to bed. You can't, now. You sit for a while in one of the deep leather chairs on the first gallery, with your knees drawn up and your candle in your pocket, where you can see the small light of his lamp through the bars of the cage, and he can't see you. The clocks tick. A book on the shelf beside you creaks, and settles. Below, the blue pinpricks of the lamps burn steady in the dark.
+
+      You wonder what's in the folder. You wonder what kind of thing a person carries round for three months, deciding. You think about the way his hand went flat on it when he heard you: not hiding it, exactly. Holding it down. As if it might get away.
+
+      *page_break
+
+      After half an hour his lamp goes out. You hear the grille of the cage, very softly, and the key turning, and his footsteps going away along the second gallery, the other way, towards the far stair. He doesn't come past you. You don't think he knew you were there.
+
+      You sit on a while after he's gone, in the dark, in the leather chair. The library feels emptier without his small light in it than it did before you knew he was there. You take the candle out of your pocket and turn it over in your fingers: smooth, heavy, faintly warm, still smelling of honey. In a few hours you'll light it again with your thumb, where nobody can see, and carry it across the ice, and give it to someone, or not. You try to decide who. You can't. Every face you think of, you think of the face of someone else who'd be left out.
+
+      *page_break
+
+      You walk back up through the sleeping castle on your own. The Lamplighter on the window seat has fallen asleep with his flask in his lap; you step round his boots. In the dormitory, everyone's breathing. You lie down with your coat still on and the unlit candle on the table beside you, and look at it in the dark, and think about who it's for, and about a boy in a cage with a folder he can't put down, until the window starts to go grey.
 *else
   *if b_idris_file
     @idris:warm He looks up and sees you, and doesn't close the folder. "Can't sleep either?" he says. "Come and sit. I'm reading Morrow's reports again. I keep thinking there's something in them I missed." You sit with him in the lamplight till two, not talking much, passing the pages back and forth. It's the most comfortable silence you've ever sat in.
   *else
     @idris:tense He hears you on the gallery stairs. His head comes up, fast, and he snaps the folder shut and puts it behind his back, all in one movement, like somebody who's done it before. "It's late," he says, not quite looking at you. "I was just..." He doesn't finish. He doesn't need to. You saw the label on the folder, for a second, in the lamplight, before it vanished. [i]MORROW.[/i]
 
-    You go back to bed. You lie awake, thinking about Jory Penrose in the Warding Hall in November, reading from his notes in his careful voice: [i]you walk the corridors at night.[/i]
+    *page_break
+
+    "I couldn't sleep either," you say, which is true, and sounds like a lie.
+
+    @idris:guarded "No," he says. "Well." He stands up, carefully, with the folder held flat against his back, and looks at the lamp, and at the open grille, and at you, as if he's working out a sum and doesn't like the answer. "I'll go, then. You have the Stacks." He picks up the lamp with his free hand. "Good night."
+
+    He comes out of the cage sideways, so that you won't see the folder, which means you see it perfectly well, and locks the grille behind him with a key he shouldn't have, and walks past you along the gallery with his head down. He smells of dust and lamp oil. At the top of the stairs he stops, as if he's going to say something. Then he doesn't, and goes.
+
+    *page_break
+
+    You stand on the gallery for a long time after his footsteps have died away. The blue lamps burn. The clocks tick, out of time. Down below, in the dark of the reading room, the long tables lie empty with their chairs pushed in, and one book somebody's left open, its pages lifting very slightly in a draught you can't feel.
+
+    You don't feel like reading any more. You go back up through the castle, past the Lamplighter on the window seat, who raises his flask to you, and climb into bed with your coat still on. The candle's in your pocket. You can feel it through the cloth, against your hip, like a small cold bone.
+
+    *page_break
+
+    You lie awake, thinking about Jory Penrose in the Warding Hall in November, reading from his notes in his careful voice: [i]you walk the corridors at night.[/i] You think about the way Idris's hand moved, fast and practised, like someone who's put that folder behind his back a hundred times. You think about the word on the label. And under all of it, the thing you don't want to think: that he looked, for a second, before he saw who it was, not guilty, but frightened. As if he'd been waiting for someone else.
+
+    Round you the dormitory breathes. Somebody turns over and mutters a name. The radiator ticks as it cools. You take the candle out of your pocket and hold it on your chest in the dark, both hands round it, and it's faintly warm, and smells of honey, and of the cellar, and of all those people with their eyes half shut, thinking of somebody. You think of Idris on the floor of the cage with his folder held down flat. You try to think of him as a man who'd take flames. You find, to your surprise, that you can't make the picture hold. It keeps turning into a man sitting alone in the dark, reading, the way you've seen him every night since September, as if there's something in the books he has to find before it's too late.
 *page_break
 *comment ---------------------------------------------------------------- CH14.CANDLE.02
 *sid CH14.CANDLE.02
@@ -175,9 +217,25 @@ At half past six on the morning of the second of February, in the blue dark befo
 
 They gather first at the boathouse, in the dark, in a crowd that gets bigger and quieter by the minute: coats and scarves and bobble hats and breath, familiars on shoulders and tucked into collars, Lamplighters at the edges with their lamps turned low. Nobody's properly awake. Somebody's wearing pyjama bottoms under their robes. The Headmistress has already gone across, they say; she always goes first, alone, to be waiting on the far side. Up and down the jetty people are lighting their candles off each other's, a wick to a wick, gold to gold, and then turning to light the next one, so that the light goes through the crowd like a rumour.
 
+@toby:warm Toby finds you by the boathouse doors, in a bobble hat with a bobble the size of a grapefruit and two scarves and his mum's mittens, with Custard buttoned into his coat so that only her ears stick out. He's holding his lopsided gold candle in front of him like a man carrying a full cup of tea up a flight of stairs. "I haven't slept," he whispers. "Not at all. I kept getting up to check it was still there. It's a candle. Where was it going to go?" He peers at you. "You look like you haven't slept either."
+
+*page_break
+
+"I went for a walk."
+
+@toby:neutral "At midnight? Before [i]Candlewake[/i]?" He shakes his head, and the bobble goes with it. "You're mad. You're completely mad. Have you got yours? Show me." You show him the unlit candle in your pocket, just the top of it. He looks at it, and at you, and doesn't ask why it isn't lit yet when everybody else's is. "Right," he says. "Good. Last chance to talk. Anything you want to say before we go all holy?"
+
+You think about it. "Your hat's ridiculous."
+
+@toby:amused "My little sister knitted this hat," says Toby, with immense dignity, and then a bell rings once, somewhere out on the jetty, clear and small in the cold, and he shuts his mouth with a snap, and so does everyone else.
+
+*page_break
+
 You'll remember it for the rest of your life. The cold, so sharp it makes your teeth ache. The ice under your boots, black and glassy and creaking, with the stars still showing in it. The breath of four hundred people going up in the dark. And the candles: four hundred small flames, gold and rose and green and blue, cupped in four hundred pairs of gloved hands, moving out across the black ice in a long loose river of light, from the boathouse towards the far shore, where the Candlestones jetty is, and the hill, and the sky just starting to go pale behind it.
 
 Nobody talks. It's a rule. You walk in silence, and you carry your candle, and you think about who it's for.
+
+It's harder than you'd think, the silence. For the first hundred yards it's all you can hear: four hundred people not talking, which is a sound of its own, made of boots on ice and breath and the rustle of coats and, now and then, a cough, quickly smothered. Then you stop hearing it. The silence gets into you, the way cold does. You find yourself listening to other things: the ice creaking, long and low, under the weight of all of you; a bird, somewhere on the far shore, trying out one note and then thinking better of it; your own heart. The candles hiss softly when a breath of wind finds them, and every flame in the river leans the same way at once, like grass.
 *snapshot candlewake
 
 Yours is burning white. You relit it at the boathouse, with your thumb, when nobody was looking. You keep it cupped very close, and the light comes up through your fingers and makes them glow red at the edges, the way a torch does under a blanket.
@@ -212,6 +270,8 @@ You're not walking alone. Nobody walks alone at Candlewake.
             @rowan:warm He stamps on the ice, once, experimentally, the way you'd test a floorboard. It doesn't so much as creak. "A foot," he says again, and this time it sounds almost like a joke, and you walk on together to catch up with the others.
       *else
         @rowan:warm Rowan walks beside you, close enough that your shoulders bump. His candle's too hot, as it always is; the wax is running over his gloves. Halfway across, without a word, he shifts it to his other hand, so that his warm free one can find yours. You walk the rest of the way like that, and your fingers, which were numb at the boathouse, are warm right through by the far shore.
+
+        He doesn't look at you once, the whole way. He looks straight ahead, at the hill and the stones and the sky going pale, with his jaw set and his ears going slowly redder under his hat. But every so often his thumb moves, just slightly, across the back of your hand, as if he's checking you're still there.
         *set st_rowan +1
   *if (st_imogen >= 2) and (hurt_imogen < 2)
     #Imogen's walking beside you. Her candle's perfect, of course. Twelve dips exactly.
@@ -219,6 +279,8 @@ You're not walking alone. Nobody walks alone at Candlewake.
       @imogen:warm Imogen walks beside you with her perfect candle, precise and upright, and halfway across, without a word, she hooks her arm through yours. You feel her shivering. Not from the cold. At the far shore, she turns to you in the first grey light, and you see that she's been crying, all the way across, silently, and hasn't wiped her face because it would mean letting go of your arm.
 
       @imogen:warm She still doesn't let go. She stands there on the frozen shore with her arm through yours and her chin up, and her wet face turned to the hill where the sun's coming, like somebody daring the dawn to say something about it.
+
+      You don't ask. You know who it's for, or you think you do: a man in a bed at St Ide's who says hello very nicely to his sister every Sunday and doesn't know her name. You just stand there with her, arm in arm, and let her have the silence, and the cold, and the sunrise, and nobody looking.
       *set st_imogen +1
   *if (st_saoirse >= 2) and (hurt_saoirse < 2)
     #Saoirse's walking beside you. Or trying to. Walking slowly is very hard for her.
@@ -255,6 +317,8 @@ You're not walking alone. Nobody walks alone at Candlewake.
             @noor:tired At the far shore she says, in a cracked voice, "You'd better give me that bag back before Matron sees," and doesn't take it. She doesn't take it back all morning. You carry it to breakfast, and she keeps looking at it on your shoulder, as if she can't quite believe it's somewhere other than hers.
       *else
         @noor:warm Noor walks beside you, watching the ice ahead for anyone who slips, the way she always does. You watch the ice ahead for her, so she doesn't have to. Halfway across, she notices what you're doing, and her face goes soft, and she stops watching, and just walks, and tips her head back to look at the last of the stars.
+
+        Somebody ahead of you skids, and windmills, and stays up. Noor's shoulders twitch. She doesn't look. You feel what it costs her not to, and you feel her let it go, and her free hand finds your sleeve and holds on to a fold of it, lightly, the way a child holds on in a crowd. She walks the rest of the way like that, looking up, with her lips slightly parted, as if she's never noticed before that there were so many stars, or that she was allowed to look at them.
         *set st_noor +1
   *if (st_cas >= 2) and (hurt_cas < 2)
     #Cas is walking beside you. He's holding his candle like a weapon.
@@ -262,6 +326,8 @@ You're not walking alone. Nobody walks alone at Candlewake.
       @cas:guarded Cas walks beside you with his candle held out in front of him, stiff-armed, jaw set, as if it's a sword and the Mere is a battlefield. Halfway across, very quietly, so you're the only one who hears, he says: "I don't know who to give it to." He's not supposed to talk. "Every year at home, you gave it to your grandmother. In front of everyone. It was a sort of test." He glances down at the candle. "I don't know what it's for, if it isn't a test."
 
       You don't answer; you're not allowed to. You walk the rest of the way in silence, but he walks closer, and at some point the candle stops being a sword and starts being a candle, held in both hands, near his chest, where it's warm.
+
+      At the far shore he looks down at it, as if surprised to find it there, still burning, still his. The wax has run down over his knuckles and set. He doesn't scrape it off.
       *set st_cas +1
   *if (st_idris >= 2) and (hurt_idris < 2)
     #Idris is walking beside you, looking at your white candle, and not at the ice.
@@ -269,12 +335,18 @@ You're not walking alone. Nobody walks alone at Candlewake.
       @idris:attentive Idris walks beside you in silence, watching your candle; not the ice, not the sky, your candle, the white flame cupped in your hands. He nearly walks into a Larkspire boy twice. At the far shore, when the sun comes up over the Candlestones and turns the whole Mere to gold, he looks up from your candle at last, and at you, and something in his face is so open that you have to look away.
 
       @idris:attentive When you look back, he's still watching you, and he doesn't pretend otherwise. He never does. It's one of the things about him.
+
+      Then, very slightly, he inclines his head towards the white flame in your hands: the smallest nod, the kind you'd give someone across a crowded room when you both know something nobody else does. And turns, and looks at the sunrise at last, as if he's only just noticed it's there.
       *set st_idris +1
   #Toby's walking beside you, holding his lopsided candle for his mum.
     *set fr_toby +1
     @toby:warm Toby walks beside you in silence, which is a miracle in itself, with his lopsided gold candle held in both hands, so carefully, as if it's a baby bird. Halfway across he starts crying, silently, and doesn't stop, and when you look at him he shakes his head and smiles through it: [i]it's fine. It's good crying.[/i] At the far shore he says, in a whisper, "I'm going to send it to my mum. I don't know how to post a candle. I'll find out."
 
     @toby:amused Then, a bit louder, wiping his nose on his cardigan: "I've never gone that long without talking in my life. Did you notice? Forty minutes. I think I've pulled something."
+
+    Custard puts her head out of his coat, blinks at the sunrise, and sneezes, and Toby laughs so suddenly that three people turn round and glare at him, and he mouths [i]sorry, sorry[/i] at all of them, still laughing, still crying a bit, with the candle held safe out in front of him the whole time.
+
+*page_break
 
 The sun comes up over the Candlestones as you reach the far shore.
 
@@ -338,10 +410,16 @@ It means whatever you want it to mean.
     *set candle "toby"
     *set fr_toby +2
     @toby:surprised Toby looks at the white candle, and at you, and his face crumples, and un-crumples. "Me?" he says. "Oh. Oh, no, I'm going to cry again." He does. He takes it, and gives you his lopsided gold one, which was for his mum: "She'd want you to have it; she'd [i]insist[/i]." Then he holds your white candle all the way back to the castle in both hands, gazing at it, as if it's the most precious thing anyone has ever given him. It might be.
+
+    @toby:warm "It's warm," he says, halfway up the shore path, in wonder. "It's warm all the way through. Like bread." He holds it up to his face, and closes his eyes. "I'm going to keep this forever. I'm going to put it on the windowsill by my bed and it's going to be the first thing I see every morning, and I'm going to be unbearable about it."
+
+    "You're already unbearable."
+
+    @toby:amused "More unbearable," says Toby, happily, and carries it the rest of the way as if it's full to the brim.
   #Send it home to Nana Pearl.
     *set candle "nana"
     *set heart +5
-    You find a Lamplighter on the jetty going south with the post, and ask, and he studies the white flame and doesn't ask any questions and wraps it very carefully in a tin with holes in the lid. Two days later there's a letter: [i]Candle arrived still burning. Have put it on the mantelpiece. It hasn't gone out. Admiral sits next to it all day. Your great-gran had one of these, you know. I'd forgotten till I saw it. N.[/i]
+    You find a Lamplighter on the jetty going south with the post, and ask, and he studies the white flame and doesn't ask any questions and wraps it very carefully in a tin with holes in the lid. He tucks it inside his greatcoat, against his chest, and pats it, and says "it'll be there by Thursday, love, I'll see to it," in an accent from somewhere a long way south, and goes off down the jetty with his post bag, warm on one side. Two days later there's a letter: [i]Candle arrived still burning. Have put it on the mantelpiece. It hasn't gone out. Admiral sits next to it all day. Your great-gran had one of these, you know. I'd forgotten till I saw it. N.[/i]
   #Give it to the Headmistress.
     *set candle "kestrel"
     *set fr_kestrel +1
@@ -353,6 +431,12 @@ It means whatever you want it to mean.
     *set candle "kept"
     *set nerve +5
     You keep it. Round you, people are giving and taking candles, laughing, crying, hugging on the jetty in the sunrise. You stand with your white flame cupped in your hands, and it's warm, and it's yours, and for once you let it burn as bright as it wants to, just for a minute, where nobody's looking.
+
+    It goes up tall and clear and white, and the light of it comes up through your fingers, and for that minute you're not hiding anything. Not from yourself, anyway. Then you close your hands round it again, gently, and it settles, and you carry it home.
+
+The walk back is nothing like the walk out. Nobody goes back across the ice; there's a path round the shore, trodden into the snow by four hundred years of Candlewakes, and everyone straggles along it in twos and threes in the sunrise, talking at last, all at once, as if the silence has been stored up and has to come out. People are comparing candles. People are telling each other who gave them what, and pretending not to be pleased. A Larkspire girl is walking backwards in front of her friends, explaining something with both arms, and falls in a drift, and is pulled out laughing. Somebody's familiar, a fox, runs rings round the whole procession with a candle stub in its mouth, and won't give it back.
+
+The sun's properly up by the time you reach the castle, and the snow's blinding, and your face aches from the cold and from something else, and the smell of breakfast comes down the steps to meet you like a dog.
 *page_break
 *comment ---------------------------------------------------------------- CH14.HALL.01
 *sid CH14.HALL.01
@@ -363,6 +447,18 @@ It means whatever you want it to mean.
 Breakfast on Candlewake morning is candles.
 
 You come in off the ice with your cheeks burning and your feet numb and your boots leaving wet prints all the way up the steps, and the warmth of the Hall hits you like a wall. Every table in the Lantern Hall is covered in candles: all the ones that were given at dawn, set down in front of the people they were given to, burning in rows among the porridge bowls and toast racks, hundreds and hundreds of small flames, so that the whole Hall is gold and warm and smells of honey. Up in the roof, the ten thousand lanterns have gone pale gold too, to match. People are still pink-eyed. Nobody's embarrassed about it. The kitchens have sent up hot buttered crumpets, which only happens once a year, and the noise is soft and happy and full of mouths.
+
+You sit down at your table and can't feel your feet at all, and then, a minute later, can feel them far too much, as the blood comes back into them in hot, prickling waves, and you have to sit very still with your eyes shut and wait for it to pass. {fam_name} {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|drops onto the table beside your plate and shakes itself, sending a fine spray of melted frost over the toast|climbs into your lap and turns round three times and lies down across your knees, a warm weight, as if it's decided that's where the cold is and it's going to deal with it}. Somebody passes you a cup of tea. You don't see who. You wrap both hands round it and breathe the steam.
+
+*page_break
+
+@toby:amused "Crumpets," says Toby reverently, sitting down opposite with a stack of six. "Real ones. With holes. Do you know how hard it is to get the holes right? I tried for a whole year at the bakery. Mine came out like pancakes. Flat, sad pancakes." He bites one, and closes his eyes, and the butter runs down his wrist. "Oh, that's a professional. That's a professional's crumpet." He chews. "I'm going to find out who made these and I'm going to ask them to adopt me."
+
+"You've got a family."
+
+@toby:neutral "They'd understand," says Toby. "They'd want what's best for me." He takes another crumpet. Then he looks round the Hall, at all the candles, and his face goes soft. "Look at it, though," he says, quietly. "Look at it. My mum'd cry."
+
+*page_break
 
 At the Heronmere table, in the middle, there's still an empty place. There has been since October. Delphine's. Nobody sits there. This morning, in front of the empty place, there's one candle, grey-white, plain, burning very steadily.
 
@@ -387,13 +483,27 @@ A few of the Heronmeres have noticed it. You can see them glancing at it, and at
     *clue e09
   #Leave him be. It's his to sit with.
     *set wit +5
-    You leave him be. After a while, he picks up the old candle, very carefully, and goes out through the little door behind the staff table, towards the lantern stair, with his hand cupped round the flame. He doesn't come back for breakfast.
+    You leave him be. Some things a person needs to sit with on their own, and you can see from his face that this is one of them: the way he's leaning towards the little yellow candle as if he's listening to it.
+
+    You watch him, though. You can't help it. He sits there for nearly a quarter of an hour, while the Hall eats and laughs round him, and the only thing that moves is his hand, now and then, coming up to shield the flame when somebody opens the doors and the draught comes through. Once his lips move. You can't tell what he says. Professor Grey, three places along the staff table, glances at him, and away, and then at him again, and something passes over his scarred face that you can't read.
+
+    After a while, Mr Tully picks up the old candle, very carefully, and goes out through the little door behind the staff table, towards the lantern stair, with his hand cupped round the flame. He doesn't come back for breakfast. His porridge sits there, going grey and stiff in its bowl, until one of the kitchen staff comes and takes it away.
+
+*page_break
 
 @arkwright:neutral At nine, Commander Arkwright stands up at the end of the staff table, in her greatcoat, and the Hall goes quiet. It goes quiet quickly, these days, when she stands.
 
 @arkwright:grave "The Glimmer Cup final," she says, "will go ahead." A murmur. "I argued against it. I was overruled." She doesn't look at the Headmistress. The Headmistress doesn't look at her. "Saturday the thirteenth. On the pitch, in the snow, in daylight, with the whole school in the stands and every Lamplighter I've got on them too." She looks round the Hall, at all the candles. "Enjoy it. That's an order." She sits down.
 
-@toby:laugh Toby, beside you, with your white candle or his own or Priya's in front of him, you can't tell which any more, says, "Best order she's given," and the whole Heronmere table laughs, and the Hall's warm, and gold, and full of little flames, and for one more morning it's all right.
+For a moment after she sits down, nobody says anything. Then it breaks, all at once, all over the Hall: a roar of noise, people turning to each other, people standing up on benches. The final. The final's on. Somebody at the Rookhallow table bangs a spoon on a tray. Somebody at Larkspire starts a chant, and is shushed, and starts it again, louder. Over at the end of the Larkspire table, Marcus Oduya has both fists in the air. The Lamplighters at the ends of the tables exchange looks over their porridge, the long-suffering look of people who will be standing in the snow for three hours on Saturday watching the sky.
+
+*page_break
+
+@toby:laugh Toby, opposite you, with your white candle or his own or Priya's in front of him, you can't tell which any more, says, "Best order she's given," and the people round you laugh, and the Hall's warm, and gold, and full of little flames, and for one more morning it's all right.
+
+@toby:warm He reaches across the table and pushes the last crumpet onto your plate, which is the greatest sacrifice you've ever seen him make. "Go on," he says. "You walked across a lake. You've earned it." And then, quieter, while the Hall shouts round you: "Happy Candlewake."
+
+You eat the crumpet. It's still warm. The butter's gone right through it. Up in the roof, the lanterns drift and turn in their thousands, pale gold, and on every table below them the little flames burn on among the dirty plates, and nobody blows any of them out.
 *journal [b]Chapter 14.[/b] Candlewake. You made a candle with a thread of your flame, and it lit itself, white. Imogen found that Hester Wren's journal, where the other voices of the Wren's Song should be, was withdrawn from the Long Stacks in 1986, the year Morrow was snuffed, under a signature too faded to read. {@b_idris_file|In the restricted cage at midnight, Idris showed you Morrow's school file (a Kindler, snuffed in a Warding exercise in February 1986, the matter closed) and told you why he's studied Kindlers since his mother was hollowed. |}At dawn, four hundred candles crossed the frozen Mere. {@b_rowan_afraid|Rowan told you he's afraid, all the time. |}{@b_noor_rest|Noor sat down on the ice and cried, and let you hold her. |}{@candle = "kept"|You kept your white candle.|You gave your white candle away.} {@e09|Mr Tully said somebody has told him Maisie might come back. |}The Glimmer Cup will go ahead.
 *page_break
 *goto_scene ch15

@@ -66,6 +66,19 @@ You don't say anything. {fam_name} has gone very still against your legs.
 @morrow:warm "Home." He touches his own chest, where the stolen flames are crammed and guttering. "Every one I've got in here, back where it came from. Tonight. I'd let them go. I'd be glad to." He's watching you now. "You'd be saving all of them. Delphine. Bram. The wand-woman in the high street, who sang at us. All of them, with one lift of your hands." His voice drops. "And all it costs is a piece of a fire that's been burning in the dark for four hundred years, keeping paper lanterns lit."
 
 You can see that he means it. That's the worst of it. Seeing a flame never tells you whether someone's lying, but you don't need to see his. He's been down here in his head for forty years, rehearsing this, and somewhere along the way he started to believe it.
+
+"Why me?" you say. "You could have asked anyone. You've had forty years."
+
+@morrow:neutral "Could I?" He seems genuinely interested in the question, the way a teacher is interested in a wrong answer that's wrong in a new way. "Name me one. There's been no one, not since Hester, who could put their hands into that and not be burned to the wrist. I looked. I looked in every late-kindled flame in this country for forty years, and took a great many of them looking." He says it simply, without shame, the way he said everything else. "And then, last September, a candle lit in a corridor up there, white." He turns his grey hands over, palms up, empty. "I felt it from the Fen. Like a match struck in a dark house. I've been walking towards it ever since."
+
+{fam_name} makes a low noise against your legs, and he glances down at it, and something in his face goes almost wistful.
+
+@morrow:warm "I had a familiar once," he says. "A jackdaw. She stole buttons. She left, after." He looks back up at you. "Yours won't. I can see that. You should be glad."
+
+The Heartfire turns slowly behind him, every colour, humming. Grit sifts down from somewhere high in the dark. You realise you've taken a step towards it without meaning to, and you make yourself stop, and stand still, and feel how much it wants you to take another.
+
+*page_break
+
 *if fought_morrow
   @morrow:hungry "Or," he says, and something in his face goes hungry and terrible, "it breaks. It's cracked; you can see it. By dawn it will have gone out, and every lantern with it, and every ward, and I will take these three with me when I go, and a great many more after." He looks at the three people on the wall. "I don't want to. I want to go home. I've wanted to go home for forty years."
 *if b_cas_debt
@@ -254,76 +267,221 @@ You look at the Heartfire. At Aldric Morrow. At the threads of light going up in
 Midsummer dawn comes early over the Mere, the earliest dawn of the year, at twenty to five, pink and gold and enormous.
 
 You're sitting on the end of the jetty. You don't remember how you got there. Somebody's put a blanket round you, a scratchy grey Lamplighter blanket that smells of lamp oil. {fam_name} is in your lap. The water is completely still, and the mist is lying on it in long white skeins, and the sky over the Candlestones is going from grey to rose to gold while you watch. A heron is standing in the shallows by the boathouse, on one leg, as if nothing whatever has happened. Your hands are shaking. You can't make them stop.
+
+Pieces come back, out of order, the way a dream does when you try to hold it. A white lamp swinging on a stair, much too bright, and somebody saying [i]careful, careful, mind their head[/i]. The spiral going up and up, and the rock getting cooler under your hand with every turn. Somebody's shoulder under your arm. Somebody's coat. The Old Cloisters, full of people and lamps and noise, and the carved wrens on the capitals looking down at you as you were carried past, as if they'd known all along. Then cold air, and grass, and the smell of the Mere, and someone sitting you down here and saying [i]stay[/i], as if you'd been about to go anywhere.
+
+You don't know how long ago that was. The sky was dark then. It isn't now.
+
+You look down at your hands in your lap, in the blanket, on {fam_name}'s warm back. They're filthy. There's soot in the creases of your knuckles and a long scrape down one palm that you don't remember getting, and they won't stop shaking. You hold them together, one inside the other, the way you'd hold a bird, and wait for them to remember that they're yours.
+
+*page_break
 *if ending = "A"
+  *present kestrel
   Behind you, the castle is lit in every window, and the Lantern Hall's ten thousand lanterns are burning gold through the high windows, and people are coming down the lawns towards the water in their night things, in the dawn, laughing and crying and holding on to each other. The Lamplighters took Aldric Morrow up the boathouse steps an hour ago, an old grey man between two of them, walking slowly, not looking back. The Choir sit in rows on the lawn, bewildered, with blankets round them, waking up. Some of them are asking what day it is. Some of them are asking for their mothers.
 
   Your flame is tired, and sore, like a voice after shouting. It's all there. You check, and it's all there.
+
+  You check again anyway, a minute later, and then again. It's like patting your pocket for your keys. White, steady, ragged at the edges, worn thin in places like an old jumper, but there, and yours, and nobody's leaning on it. Your throat hurts. You try to hum the first bar of the wren's line, very quietly, to see if you still can, and nothing comes out but a croak, and you laugh, and that hurts too.
+
+  *page_break
+
+  @kestrel:tired The Headmistress comes down the jetty in her stockinged feet, with her shoes in one hand and her circlet in the other, and her midnight-blue robes soaked to the knee from the lawn. She looks like somebody who's been awake for a hundred years. She sits down beside you on the end of the jetty, carefully, the way old people sit on low things, and puts her shoes down, and puts her feet in the Mere.
+
+  @kestrel:warm "Cold," she says, with enormous satisfaction. "Oh, that's cold." She doesn't take them out. For a while she just sits there, with her feet in the lake and the circlet in her lap, watching the mist. "The Order want a statement," she says eventually. "I told them it was half past four in the morning and they could have one at a civilised hour. I've never said that to Sabine Arkwright in my life. She looked as if I'd slapped her. Then she laughed." She shakes her head. "I didn't know she could."
+
+  "We heard you," she adds, much more quietly, after a while. "Down there. Every lantern in the Hall started humming it back at us, the wren's line, from the top, and we didn't know why. I knew why." She doesn't look at you. She looks at the water. Her good hand finds yours on the planks between you, and holds on, hard, an old woman's hand, cold from the lake.
 *if ending = "B"
+  *present kestrel
   You're cold. Colder than you've ever been. Cold at the heart, where your flame is, and it's small now, very small, a pilot light. You gave most of it away down there. Behind you, the castle is lit in every window. On the bench at the end of the jetty, with a blanket round him and a candle stub burning blue in his thin old hands, Aldric Morrow is watching the sun come up over the Mere, and weeping, and can't stop.
 
   Nobody's guarding him. There's no need. Every so often he looks down at the candle, as if to check it's still there, and it is.
+
+  Once, a breath of wind comes off the water and the little blue flame bends flat and nearly goes, and he makes a sound you'll remember for the rest of your life, and cups both hands round it, his whole body curled over it like a man sheltering a match on a cliff top. When the wind's gone he stays like that a long while, hunched, with his eyes shut. Then he sits up, and lets his hands open, and it's still burning. He starts to cry again, quietly, with relief.
+
+  *page_break
+
+  @kestrel:tired The Headmistress comes down the jetty at some point, with a hot-water bottle in a knitted cover that she's got from somewhere, and puts it inside your blanket against your chest without a word, and holds it there with her hand until you can feel it. It takes a long time. When you can, you nod, and she lets go.
+
+  She looks at Aldric Morrow on his bench. He doesn't look up. She stands there looking at him with an expression on her face you can't read at all, forty years of something, and then she sits down beside you instead, on the planks, in her good robes.
+
+  @kestrel:grave "I came down that stair expecting to find you dead," she says, very low. "Or him. Or both. I'd made my peace with it on the way down. I'd made all sorts of plans." She looks at the blue candle across the jetty. "I didn't plan for that. I didn't know it could be done. Nobody did." She tucks the blanket tighter round your shoulders, the way you'd tuck in a child. "You're freezing. You'll be freezing for a while. Matron tells me it'll pass." She doesn't sound as if she believes it. She doesn't sound as if it matters to her, either, so long as you're here to be cold.
 *if ending = "C"
+  *present kestrel
   Behind you, the castle is dark. Every window. Every lantern. For the first time in four hundred years, Wrenfold is just a big cold stone house on a hill above a lake, with no wards and no light, and four hundred people are coming down the lawns towards the water with candles, lit by hand, in the dawn. The Lamplighters carried Aldric Morrow out of the root an hour ago, starving, silent, and he hasn't said a word since.
 
   You keep listening for the hum. You've heard it under everything since Longnight: under meals, under lessons, under sleep. It isn't there. It isn't anywhere. It's the quietest morning there has ever been.
+
+  You hadn't known how loud it was until it stopped. Now you can hear everything else instead: the mist dripping off the boathouse roof, a moorhen ticking somewhere in the reeds, people's feet on the wet lawn, a long way off, and the low murmur of four hundred people talking quietly, the way people talk in a house where someone has just died. Somebody laughs, up on the lawn, and stops, as if they've remembered. The candles they're carrying look very small against the castle. They are very small.
+
+  *page_break
+
+  @kestrel:tired The Headmistress comes down the lawn with a candle in a jam jar, like everybody else. She's lit it with a match; you can smell the sulphur. She comes all the way along the jetty and stands over you for a moment, looking down, and you wait for whatever it is she's going to say, and brace for it.
+
+  @kestrel:grave "Four hundred years," she says. That's all, for a while. She sits down beside you, slowly, and sets the jam jar on the planks between you, and the two of you look at it: one candle, lit by hand, burning ordinary yellow in the dawn.
+
+  @kestrel:warm "I was so angry with you," she says, eventually. "On the stair. Coming down. I felt it go out, and I thought, what have they done, what have they [i]done[/i]." She puts her scarred hand flat on the planks, as if she's feeling for the hum through the wood, and it isn't there. "Then I got to the bottom and counted. Everybody. Every one of them, alive." She takes her hand back. "I'm still angry. I'll be angry for a long time, I expect. And I would have done the same, if I'd had the courage, which I never did." She looks at the dark castle. "It's a house now. Just a house. We'll find another."
 *if ending = "D"
+  *present kestrel
   You can't feel your flame. You keep checking, the way you'd keep touching the gap where a tooth was. There's nothing there. You held your hand over the lamp in the boathouse on the way out, and it didn't lean. Behind you, the castle is lit in every window, blazing, whole, and the Heartfire's burning bright under it, and you did that, and you can't feel any of it at all.
 
   You can see, still. Just see. The sun coming up. The mist. The heron. It's very beautiful, and it's only beautiful, and you sit there and learn what that's like.
+
+  You try, once, out of habit, to look the other way, the way you've done every day since September without thinking: to see the flames. The Lamplighters on the lawn. The people coming down the grass in their blankets. There's nothing. People are just people, walking about in the dawn with blankets round them. The heron's just a bird. You hadn't known the world could be so quiet and so flat and so full of ordinary light.
+
+  *page_break
+
+  @kestrel:tired The Headmistress hasn't left you. She was there when you woke on the rock, and on the stair, and she's here now, sitting on the planks beside you with her back against a mooring post and her robes soaked, grey still to the elbows from the threads, refusing to go to the Infirmary. Matron has asked her three times. The third time she said something to Matron that you didn't hear and Matron went away.
+
+  @kestrel:grave "I'm not going to tell you it doesn't matter," she says, without being asked. "It matters more than anything. I'm not going to tell you it'll come back. It won't." She looks at the lit windows of the castle, every one of them burning because of you. "I'm going to sit here. That's all I've got. I'm going to sit here until you tell me to go away, and possibly some time after that."
+
+  You don't tell her to go away. After a while, without looking, she takes your hand, and you feel it, her hand, warm and dry and ordinary, and it turns out that's still something you can feel.
 *if ending = "E"
+  *present kestrel
   You're burning. You can feel every lantern in the castle behind you, hanging off you on threads. You can feel every flame coming down the lawns towards you, four hundred of them, and they're all leaning towards you, the way candles lean towards a bigger fire, and they're frightened, and they don't know why. Nobody sits down beside you on the jetty. Nobody comes near.
 
   The mist on the water is burning off round you in a circle, faster than anywhere else. You watch it go. You try to make yourself smaller, and you can't.
+
+  You try anyway. You fold yourself down, inward, the way you'd fold a letter, smaller and smaller, and for a moment the circle of clear water round the jetty stops growing. Then you breathe out without meaning to, and it widens again, a yard, two yards, and somewhere up on the lawn a first-year cries out and sits down hard on the wet grass with both hands pressed to their chest, because something in them leapt towards you, and they don't know why. You felt it leap. You hear all of them. It's like being in a room where everybody is talking at once, and every one of them is talking about you.
+
+  *page_break
+
+  @kestrel:grave The Headmistress is standing at the top of the boathouse steps. She's been there since the sun came up. She hasn't come down. You can feel her flame from here, the one you've never once seen waver, and it's steady, it's holding, but it's leaning, and she knows it's leaning, and she's holding on to it with everything she's got the way you held yours in the boathouse when the Choir came.
+
+  You could make her come down. That's the thing. You know exactly how. You could reach out along the thread of her and pull, very gently, and she'd come down the steps and along the jetty and sit beside you and never know it wasn't her idea. You could do it to all of them. You could have the whole school sitting round you on the jetty in five minutes, warm and close and smiling, and nobody would ever be afraid of you again, because nobody would ever be anything again but what you wanted.
+
+  You don't. You sit very still in the burning circle with your hands folded in your lap, and you don't, and you don't, and you don't, and the sun comes up, and she stays at the top of the steps.
 *if ending = "F"
   *present arkwright
   There's a cold place in you, where a piece of your flame was pulled out. Behind you, the castle is lit in every window. Somewhere out there, across the Mere and over the hills, on the Fen, an old grey man is walking with a piece of you burning in him. You can feel it. Far off, and small, and moving.
 
   @arkwright:grave The Commander's on the jetty beside you, looking out across the water towards the Fen, with her greatcoat open and her lamp dead at her belt. "We'll find him," she says. She doesn't look at you. "I'll need you." You know already that you'll go.
+
+  It doesn't hurt, exactly, the cold place. It's more like a draught. Like a window left open somewhere in a house at night: you can't see it, you can't find it, but you can feel the cold coming in, all the time, from one direction. You keep turning your head towards it without meaning to. North. Further north. Moving, slowly, the way a man walks when his bones hurt.
+
+  *page_break
+
+  @arkwright:neutral "Which way?" says the Commander, after a while. She's got a notebook out of her greatcoat, a little black one, and a pencil, and she's waiting. You point. She looks along your arm, out over the mist, towards the hills, and writes something down, and the time beside it. "And now?" You point again. Your arm's moved, very slightly, to the left. She writes that down too.
+
+  @arkwright:grave "That'll be every hour," she says. "For a while. Possibly a long while. I'm sorry." She puts the notebook away. "I lost thirty lamps in that boathouse tonight. I've never lost a lamp in my life." She looks at her dead one, at her belt, and then at you. "He'll have walked straight through the reeds. He knows the Fen better than any of mine." She stands up. "Go and sleep. I'll wake you at six to point."
+
+  She doesn't go, though. She stands at the end of the jetty with her back to you and her hands behind her, the way she always stands, and looks north with you until the sun's all the way up.
 *if (ending = "G_T") or (ending = "G_M") or (ending = "G_K")
   Behind you, the castle is dim. The Heartfire's broken; not out, but broken, a few pieces of it still guttering in the rock, enough to keep the lanterns burning low and blue and flickering, like candles in a draught. Not enough to hold the wards. {@ending = "G_T"|Toby is asleep on the jetty beside you, wrapped in a blanket, with his head on your shoulder. He's grey still, and he hasn't woken, but when you look, there's something in him, very small, that the threads didn't get. The Headmistress and Maisie Tully are gone.|}{@ending = "G_M"|Mr Tully is sitting on the jetty beside you with Maisie wrapped in his coat, holding her, rocking. He hasn't let go of her since the root. Every so often he says her name. Toby and the Headmistress are gone.|}{@ending = "G_K"|The Headmistress is standing at the end of the jetty with her back to you, looking at the water. Toby and Maisie Tully are gone. She hasn't spoken since the root. She's been standing there an hour, and she hasn't sat down, and nobody has dared to ask her to.|}
+  *if ending = "G_T"
+
+    His head is heavy on your shoulder. He smells of the Infirmary and woodsmoke and, very faintly, of flour, the way he always has. Every so often his breath catches, as if he's about to say something in his sleep, and you hold your own breath to hear it, and he doesn't. Priya came down an hour ago and sat on his other side and held his hand and cried without making any noise, and then went back up to fetch him a proper blanket, and hasn't come back yet. You keep looking at the steps for her.
+
+    You keep looking at the water, too. You can't help it. Somewhere under it, going away, are two flames you know, held on grey threads: a small spark, and a steady one that never wavered in a year. You can feel them, very faintly, like lights seen from a train at night. You can't feel which way they're going. Only that they're going.
+
+    *page_break
+
+    You chose. You keep coming back to that, the way your tongue goes back to a cut. You chose, and you'd choose him again, and you'd choose him again after that, and you'll never, for the rest of your life, stop seeing the other two faces turning slowly in the dark as they went.
+
+    Toby stirs. He doesn't wake. He mumbles something against your shoulder that might be [i]Custard[/i], and might be [i]Priya[/i], and might be nothing at all, and his hand, which has been lying open and grey on the blanket all night, closes, very slightly, on a fold of it. You watch it close. You don't breathe. It stays closed.
+
+    You sit there with his weight on you and watch the sun come up, and don't move a muscle, in case it opens again.
+  *if ending = "G_M"
+
+    He's singing to her, under his breath. You don't realise it at first; you think it's the reeds. Then you catch the tune. It isn't the Wren's Song. It's something much older and simpler, a nursery thing about a boat and a lamp and a long way home, and his voice is cracked and tuneless and he keeps losing the words and going back to the start. Maisie's head is on his chest. Her eyes are open. Every so often she blinks.
+
+    You can feel her spark. It's there, very small, the thing the threads didn't get, the thing you pulled out of the root with her. It's flickering in time with his singing. You don't think he knows that. You don't tell him.
+
+    *page_break
+
+    Somewhere under the water, going away, are two flames you know: a lopsided gold one, and a steady one that never wavered once in a year. You can feel them, very faintly, like lights seen from a train at night, getting further off. You chose. You keep coming back to that, the way your tongue goes back to a cut.
+
+    Mr Tully stops singing. He doesn't look at you. He looks at the water, over Maisie's head, at the place where the rock goes down. "Thank you," he says, in his careful voice. Then, because he's an honest man, and always was, in the end: "I'm sorry. I'm sorry it was them. I'm sorry I'm glad." He holds his daughter tighter. "Three hundred and twelve Sundays," he says. "And you got her in a night."
+
+    He starts to sing again, from the beginning. You sit beside them and watch the sun come up and don't say anything at all, because there isn't anything, and he doesn't need you to.
+  *if ending = "G_K"
+    *present kestrel
+
+    You watch her back. Her robes are torn at the shoulder where the threads held her, and her braid has come half undone, and the silver circlet is gone; she lost it in the root, or took it off and threw it in the Mere, you don't know which. She's grey still to the elbows. Every so often her shoulders move, once, as if she's taken a breath to say something, and then she doesn't say it.
+
+    You can feel two flames going away from you under the water. A lopsided gold one. A small spark. Like lights seen from a train at night, getting further off. You chose. You keep coming back to that, the way your tongue goes back to a cut.
+
+    *page_break
+
+    @kestrel:grave When she does speak, at last, she doesn't turn round. "I've been standing here," she says, "working out where he'll have taken them. There's a crack at the back of the cave that goes down to water. Under the Mere. Out towards the Fen, I'd guess." Her voice is perfectly steady and completely flat. "I'll need maps. I'll need the Order. I'll need Sabine to stop telling me I'm too old."
+
+    @kestrel:grave Then she does turn round, and looks at you, sitting there in your blanket, and something in her face gives. "You should have taken the boy," she says. "You know that. You should have taken the boy, or the girl. Not me. I'm seventy-one." She sits down on the planks beside you, all at once, as if her legs have decided for her. "I'm going to make it worth it," she says. "If it takes the rest of my life. I'm going to make it worth it."
 *if (final_shape = "together") and (final_rel = "rowan") and (ending != "E")
   *present rowan
   @rowan:tired Rowan sits down beside you, heavily, with soot on his face and his shirt scorched through at the cuffs, and puts his warm arm round you, and you lean on it. "Together," he says, after a while, into your hair. "I said. Didn't I say." It's all he can manage. It's enough.
+
+  @rowan:warm The warmth of him comes through the blanket, through everything, steady as a banked stove. After a bit you realise the wet planks under the two of you are steaming faintly in the dawn, and he realises it too, and you both look at it, and he starts to laugh, helplessly, with his face in your shoulder, and you can feel him shaking, and you don't know if he's laughing or crying, and neither does he.
 *elseif (final_shape = "together") and (final_rel = "noor") and (ending != "E")
   *present noor
   @noor:tired Noor sits down beside you with her first-aid bag, and takes your pulse without asking, and then leaves her fingers on your wrist long after she's finished counting. "Still here," she says quietly. "Good. Keep doing that." She doesn't let go.
+
+  @noor:warm She's been up all night. You can see it in her face: she's been in the Infirmary, and on the lawn with the Choir, and on the stairs, carrying, fetching, holding things together with her hands. Her plait's come down. There's somebody else's blood on her cuff. She looks at it, and at you, and puts her head down on your shoulder, all at once, as if somebody's cut a string. "Two minutes," she says. "I'm taking two minutes. Don't let anybody call me." Nobody does. You make sure.
 *elseif (final_shape = "together") and (final_rel = "saoirse") and (ending != "E")
   *present saoirse
   @saoirse:tired Saoirse comes down the jetty at a run, and stops, and sits down against your side, and goes still. Completely still, the whole length of her, pressed to you. She doesn't say anything. She watches the sun come up with you, and doesn't move once.
+
+  She's got oil on her hands and a cut over one eye and the knees out of her trousers, and she smells of the Undercroft and of smoke, and you can feel her heart going against your arm, much too fast, and slowing, slowly, slowly, as the sky gets lighter. When it's slow enough, she lets out one long breath, and takes your hand, and holds it on her knee, and keeps holding it.
 *elseif (final_shape = "together") and (final_rel = "imogen") and (ending != "E")
   *present imogen
   @imogen:tired Imogen sits down beside you with her notebook shut on her knee. "I didn't write anything down," she says. "I didn't make a plan. I just ran." She puts her head on your shoulder. "Don't make me do that again."
+
+  @imogen:warm Her glasses are crooked, and one lens is cracked straight across, and she hasn't noticed. You straighten them for her. She lets you. "I counted the steps," she says, into your shoulder, after a while. "On the east stair. When we felt it go wrong, and ran. Two hundred and eleven. I counted them so I wouldn't think." She's quiet. "I'm going to put it in the notes. Two hundred and eleven. That's the only thing I'm going to put in."
 *elseif (final_shape = "together") and (final_rel = "cas") and (ending != "E")
   *present cas
   @cas:tired Cas sits down beside you, in the ruin of his good coat, and leans his shoulder against yours, and doesn't move it. After a while he takes your hand in his grandfather's hand, and looks at the two of them together, and doesn't say anything clever at all.
+
+  His hands are shaking. Yours are too. Together, laid on his knee, they look almost steady. He studies them as if they're a problem he means to solve. "My grandmother," he says eventually, very hoarse, "is going to want a letter. Today. Four sides at least." He shuts his eyes. "I'm going to tell her the truth. All of it. She'll hate it." The corner of his mouth moves. "I'm going to enjoy that more than I should."
 *elseif (final_shape = "together") and (final_rel = "idris") and (ending != "E")
   *present idris
   @idris:tired Idris sits down beside you with his glasses broken and his notebook gone, and says, "I'm not going to write any of this down," and takes your hand. "Question of the day," he says, a long while later. "Are you all right?" You tell him no. He nods, as if that's the right answer, and holds on.
+
+  @idris:warm He holds his broken glasses up to the light, one lens gone, the frame bent, and looks at the sunrise through the empty side of them. "My mother," he says, very quietly, "used to take me down to the sea at dawn. In the summer. Before." He folds the glasses up and puts them in his pocket. "I'd forgotten that until just now. I don't know why I remembered." He doesn't let go of your hand. "I'm glad I did."
 *elseif (st_rowan >= 3) and (hurt_rowan < 2) and (ending != "E")
   *present rowan
-  @rowan:tired Rowan sits down beside you, heavily, soot on his face, and doesn't say anything, and puts his warm arm round you. You lean on it.
+  @rowan:tired Rowan sits down beside you, heavily, soot on his face, and doesn't say anything, and puts his warm arm round you. You lean on it. After a while the planks under you both start, very faintly, to steam.
 *elseif (st_noor >= 3) and (hurt_noor < 2) and (ending != "E")
   *present noor
-  @noor:tired Noor sits down beside you with her first-aid bag, and takes your pulse without asking, and then leaves her fingers on your wrist long after she's finished counting.
+  @noor:tired Noor sits down beside you with her first-aid bag, and takes your pulse without asking, and then leaves her fingers on your wrist long after she's finished counting. Her plait has come down, and there's somebody else's blood on her cuff, and she doesn't seem to know.
 *elseif (st_saoirse >= 3) and (hurt_saoirse < 2) and (ending != "E")
   *present saoirse
-  @saoirse:tired Saoirse sits down beside you on the jetty, and doesn't fidget, and doesn't say anything, and watches the sun come up with you.
+  @saoirse:tired Saoirse sits down beside you on the jetty, and doesn't fidget, and doesn't say anything, and watches the sun come up with you. There's oil on her hands and a cut over her eye. She doesn't move once.
 *elseif (st_imogen >= 3) and (hurt_imogen < 2) and (ending != "E")
   *present imogen
-  @imogen:tired Imogen sits down beside you with her notebook shut on her knee, and for once doesn't write anything down.
+  @imogen:tired Imogen sits down beside you with her notebook shut on her knee, and for once doesn't write anything down. One lens of her glasses is cracked straight across. She hasn't noticed, and you don't tell her.
 *elseif (st_cas >= 3) and (hurt_cas < 2) and (ending != "E")
   *present cas
-  @cas:tired Cas sits down beside you, in the ruin of his good coat, and leans his shoulder against yours, and doesn't move it.
+  @cas:tired Cas sits down beside you, in the ruin of his good coat, and leans his shoulder against yours, and doesn't move it. His hands, in his lap, are shaking. So are yours. Neither of you mentions it.
 *elseif (st_idris >= 3) and (hurt_idris < 2) and (ending != "E")
   *present idris
-  @idris:tired Idris sits down beside you with his glasses broken and his notebook gone, and says, "I'm not going to write any of this down," and takes your hand.
+  @idris:tired Idris sits down beside you with his glasses broken and his notebook gone, and says, "I'm not going to write any of this down," and takes your hand. He doesn't say anything else. He doesn't need to.
 
-Out on the Mere, in the first light, you see them: the ghosts, going home. Silvery-blue shapes walking out across the water towards the rising sun, the way they came, through the mist, not quite touching the surface. Lettice Crane, with her frizzy hair. And a tall man in dark robes, with whole hands, who stops, out on the water, and turns round, and looks back at the castle, and at you on the jetty. He inclines his head, very slightly, the way the Headmistress greeted him across the Hall.
+*page_break
+
+The sun comes up over the Candlestones. It comes all at once, the way it does at Midsummer, a rim of white gold over the black line of the hill and then the whole of it, too bright to look at, and the light runs down the hillside and across the fields and along the far shore and out over the water towards you in one long burning road. The mist lights up gold where it touches it. The reeds by the boathouse go from grey to green. Somewhere up behind you, on the castle roof, the first jackdaws start squabbling, the way they do every morning, as if it were any morning at all.
+
+You feel it on your face. Warm. You shut your eyes and let it be warm, and for a moment, just a moment, there's nothing else at all.
+
+*page_break
+
+When you open your eyes, you see them: the ghosts, going home.
+
+Silvery-blue shapes walking out across the water towards the rising sun, the way they came, through the mist, not quite touching the surface. Dozens of them. More than you saw in the Hall; more than you knew there were. People in old-fashioned robes and people in ordinary coats; a man in a fisherman's jersey; two girls holding hands; someone very small. They don't hurry. They walk the way people walk home from a party along a beach at dawn, in twos and threes, unhurried, done.
+
+Lettice Crane, with her frizzy hair, a little apart from the others. Halfway out she stops and looks back at the castle, and lifts one silvery hand, not quite a wave, and goes on.
+
+And a tall man in dark robes, with whole hands, who stops, out on the water, and turns round, and looks back at the castle, and at you on the jetty. He inclines his head, very slightly, the way the Headmistress greeted him across the Hall.
 
 Then he walks on, into the sun.
 *snapshot ghosts
 
 The heron lifts off the shallows, slow and grey and enormous, and flaps away low over the water after them. You watch it until it's gone.
+
+*page_break
+
+Then it's just the Mere, and the light on it, and the mist going. A moorhen comes out of the reeds by the boathouse and paddles across the clear water in front of you, jerking its head, busy, as if it's late for something. Up on the lawns somebody calls a name, and somebody else answers. {fam_name} shifts in your lap, and yawns, enormously, showing every tooth, and settles again, heavier, the way animals settle when they've decided that the worst is over and it's time to sleep.
+
+Somewhere behind you a door bangs, and someone laughs, properly, the first real laugh of the day, and somebody else starts laughing at the laugh, and then they both stop, as if surprised at themselves. A boat knocks against the jetty. The water slaps under the planks.
+
+You stay where you are. You don't know yet what the day will be, or the week, or the rest of it. You know it's morning. For now that will have to do.
 *journal [b]Chapter 23.[/b] The Heartfire, in the root of the rock: Hester Wren's own flame, and Aldric Morrow, asking you to carry a piece of it for him. {@ending = "A"|You stood between him and the fire and sang, and the song came down through the rock, and the stolen flames went home, and the Order took him.|}{@ending = "B"|You relit Aldric Morrow's own flame: small, blue, his. The stolen flames went home. It cost you most of your fire.|}{@ending = "C"|You let Hester's fire go out, so there would be nothing for him to take. Wrenfold is dark, and everyone lives.|}{@ending = "D"|You gave your whole flame to mend the Heartfire. Wrenfold stands. You have no magic left.|}{@ending = "E"|You took the Heartfire yourself.|}{@ending = "F"|You tried to relight him and failed, and he tore a piece of your flame out of you and escaped into the Fen.|}{@ending = "G_T"|You couldn't stop him. You brought Toby out.|}{@ending = "G_M"|You couldn't stop him. You brought Maisie Tully out.|}{@ending = "G_K"|You couldn't stop him. You brought the Headmistress out.|} At dawn the ghosts walked home across the Mere, and Magnus Grey looked back once.
 *page_break
 *goto_scene ch24

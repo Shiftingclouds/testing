@@ -242,6 +242,12 @@ She goes to bed at ten, in your bed, with Admiral's cage covered in a tea towel 
 *present nana corliss jory familiar
 On the twenty-ninth of December, at half past eleven at night, the trains stop.
 
+It's been the most ordinary day. Grey from first light to last, with the drizzle coming and going. Nana did the crossword in biro and got stuck on fourteen down and blamed the setter. You went to the corner shop for milk and a paper and the man behind the counter asked if you'd been away, and you said a bit, and he said you looked well on it. In the afternoon you sat on the sofa with Nana's feet in your lap, because her ankles swell, and watched a film about a dog that finds its way home across three hundred miles of mountains, and she cried at the end and said she didn't, and you both had a mince pie to get over it. She went to bed at ten with her hot-water bottle and her library book, and called "night, love" down the stairs, the way she has every night of your life.
+
+So you're not expecting anything. That's the thing you'll keep coming back to, afterwards. There's no feeling beforehand. No shiver. Just the house settling round you in the dark, and the boiler ticking, and the four bars going round in your head.
+
+*page_break
+
 You notice because you don't notice. You're lying on the sofa under a blanket, not asleep, thinking about the four bars, and the eleven-forty should go over the viaduct and shake the house, and it doesn't. Then you realise the fridge has stopped humming. Then you realise the fridge has stopped humming because something else is humming instead, and it's so low and so everywhere that it's taken your ears this long to find it.
 
 It's in the walls. It's in the springs of the sofa. It's in your teeth.
@@ -355,6 +361,14 @@ The streetlights come back on. Orange. The reindeer at number twelve starts flas
 You stand at the sink with your hands still tingling, and your fingers still warm, and watch them.
 
 @nana:warm When Jory's gone out to his step with a blanket and a flask, Nana comes and stands beside you at the sink. She doesn't look at you. She looks at the window, at the orange streetlights, at the reindeer at number twelve going on and off. "That was the underneath bit, wasn't it," she says, very quietly, in a voice you've never heard her use. "That's what it was for."
+
+You don't know how to answer. You think you might be about to cry, and you'd rather not, not in front of her, not tonight. So you nod, and she nods back, as if you've agreed on something.
+
+@nana:neutral She turns the cold tap on and runs her hands under it for a while, though they're clean, and dries them on the tea towel, finger by finger. "My mother used to stand at this very spot," she says. "Well. Not this spot. Her sink, in Albert Terrace. Singing that, every night. And I used to think she was a bit soft in the head." She folds the tea towel over the rail, squares it up. "I'm sorry, Mam," she says, to nobody, to the window. Then, to you, briskly: "Bed. Both of us. That boy's on the step, and I'm not having him sit out there all night for nothing while we stand about in the kitchen."
+
+She goes up. You hear her on the landing, stopping, and the click of the light switch, and then no click to turn it off again.
+
+You go to the front window before you lie down. Jory's on the step with the blanket round his shoulders and his lamp on the step beside him, turned down to a glow. He sees you through the glass, and lifts one hand, and goes back to watching the viaduct.
 *page_break
 *comment ---------------------------------------------------------------- CH13.HOME.04
 *sid CH13.HOME.04
@@ -375,9 +389,23 @@ Dev comes round on New Year's Day with a hangover and a box of leftover chocolat
 
 Nana won't sleep with the light off now. She doesn't say why. She just leaves the landing light on, and you leave it on too.
 
+The days go grey and short and strange. You do ordinary things, because there's nothing else to do with them. You take the bags to the bins. You fix the wobbly chair at last, with a folded beer mat, and Nana says it was perfectly good wobbly. You go with her to the big supermarket on the ring road and push the trolley while she reads every label out loud and puts most things back. Every time you pass a window, though, you look out of it. Every time a streetlight flickers, your whole body goes tight. Once, in the supermarket car park, a man in a long grey anorak walks past the trolley bay with his hood up, and you have your hand inside your sleeve on your wand before you see the carrier bag of oven chips.
+
+Nana sees you do it. She doesn't say anything. But on the way home on the bus she holds your arm, the way she does when she's the one who needs holding, and hums the four bars against the window, very quietly, so only you can hear.
+
+*page_break
+
 On the third, the boiler man still hasn't come, and it's time to go back.
 
 Nana Pearl insists on seeing you off.
+
+@nana:neutral "I'm not having you go off on your own after all that," she says, when you try to argue, and puts her church hat on, and that's the end of it. "I'll get the train back. I've been on trains. I'm not a parcel."
+
+So the two of you go down to Kingsmere together on the morning stopping service, with your trunk in the vestibule and Admiral left with Mrs Okafor next door, who has promised to talk to him. Nana sits by the window in her good coat with her handbag on her knee and her ticket in her glove and watches the whole way, the backs of houses, the allotments, the canal, the cooling towers going by in the mist, as if she's never seen any of it, and maybe she hasn't, not for years. She tells you which of the stations she went courting at. She tells you which of the men she courted. She eats a mint imperial every time the train stops, and offers you one, every time.
+
+Kingsmere Central is enormous and echoing and full of people with suitcases and nowhere to sit, pigeons in the iron roof, a man with a mop going round and round the same tiles. Nana grips your arm a bit harder. "Where's your platform, then?" she says. "Go on. Show me."
+
+*page_break
 
 Nobody from outside is supposed to be able to find Platform Nought. Nana finds it anyway, in the grey afternoon, in her good coat and her church hat, holding onto your arm, by walking straight through the wall between Platforms Four and Five at Kingsmere Central as if she's done it all her life. You open your mouth to warn her, and then you're through, both of you, and she's patting her hat straight.
 
@@ -407,7 +435,17 @@ The guard blows his whistle. Up and down the platform, doors start to slam. Nana
 
 You get on the train. You lean out of the window. She stands on the platform in her church hat and her good coat, with Toby's mum's mince pies under her arm, getting smaller, waving, not crying, until the Lantern Train pulls out past the end of the platform and into the dark, and the gold windows are the only light.
 
-Toby doesn't say anything for a good while. He sits opposite you with Custard asleep on his knee and watches your face, and passes you a mince pie, and waits. The wild country goes by outside, black hills and blacker water and, once, a farmhouse with one lit window, a long way off. All the way north, in the dark, you hum four bars under your breath, so you won't forget.
+Toby doesn't say anything for a good while. He sits opposite you with Custard asleep on his knee and watches your face, and passes you a mince pie, and waits.
+
+*page_break
+
+@toby:warm "She's brilliant," he says at last, quietly. "Your nan. She's absolutely terrifying and she's brilliant." He picks a flake of pastry off his cardigan and eats it. "My mum's going to want to meet her. My mum's going to want to swap recipes and then have a row about them. They'll love each other."
+
+"She'd like that."
+
+@toby:neutral He nods. He looks out at the dark for a while, at his own reflection and yours laid over the hills. "You don't have to tell me," he says, "whatever it is. I can see there's a whatever-it-is. I'm just saying. I'm here. I've got mince pies. There are about three hundred and ninety left." He puts the tin on the seat between you, with the lid off, which from Toby is the same as holding your hand.
+
+The wild country goes by outside, black hills and blacker water and, once, a farmhouse with one lit window, a long way off. All the way north, in the dark, you hum four bars under your breath, so you won't forget.
 *goto after
 *comment ================================================================ stay
 *label stay
@@ -422,7 +460,15 @@ It empties on the twenty-first, after Longnight, all at once, in a great rush of
 
 The snow comes on the twenty-third and doesn't stop. It piles up on the battlements and in the courtyards and against the doors, soft and deep and blue in the shadows, and the Mere freezes solid right across, and the boats can't run, and the castle is snowed in, and it's wonderful. The corridors are empty and echoing; you can hear your own footsteps three staircases away. Portraits you've never heard speak start chatting to you out of sheer boredom. The house common rooms are empty, and you can have the best chair by the fire every night, and you do, with {fam_name} {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|on the chair-back|in your lap} and a book you're not reading.
 
+*page_break
+
 The kitchens send up hot chocolate at odd hours without being asked. There are no lessons. You sleep till nine, which you haven't done since you were a teenager, and wander the castle in two jumpers, finding rooms you didn't know were there: a gallery full of stuffed birds, a staircase that only goes up, a window seat in the Observatory tower where you can see the whole white Mere from end to end.
+
+On the second afternoon a portrait on the third-floor landing, a stout man in a ruff with a spaniel at his feet, clears his throat as you go past and asks whether you happen to know if the war's over. You ask which war. He thinks about it. "The one with the French," he says, and you tell him yes, ages ago, and he says "well, thank God for that," and the spaniel wags its painted tail, and after that he says good morning to you every day, and asks how the snow's getting on, as if it's a relation of yours who's been poorly.
+
+The castle sounds different without its four hundred people. You'd never noticed how much of Wrenfold's noise was simply voices: the shouting up stairwells, the laughing in the courtyards, two hundred conversations at once in the Hall. With the voices gone you can hear the building itself. The pipes knocking as the boilers come on at six. The wind finding every gap in every casement. The lanterns, in the empty corridors at night, humming very softly to themselves, the way a cat purrs in an empty room. Once, at three in the morning, unable to sleep, you stand in the middle of a stair and just listen, and the whole castle seems to be breathing round you, slow and enormous and asleep.
+
+{fam_name} loves it. {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|It hunts the length of the empty Long Gallery every night, swooping from beam to beam, and comes back pleased with itself and smelling of dust.|It patrols the empty common rooms like a landlord, sleeps in every chair in turn, and is found one morning in the kitchens, being fed bacon rind by a cook who swears she's never seen it before.}
 
 *page_break
 
@@ -439,6 +485,14 @@ Forty people. Six Lamplighters, who take turns eating, with their greatcoats on.
 *page_break
 
 @idris:neutral Idris, because he doesn't have anyone to go home to. He says it quite simply, as a fact, passing the potatoes. "My parents are both dead. I spent last Christmas here too. It's quieter than it sounds." He looks round the table at the forty of you in your paper hats, at Saoirse's hat smoking, at a Lamplighter trying to eat a mince pie without taking off his gauntlets. "This is the loudest one I've been to," he says, and something at the corner of his mouth might be a smile. "I don't mind it."
+
+"What did you do last year? On the day?"
+
+@idris:neutral He considers the question as if it's an exam paper. "Read. Ate. There were eleven of us, and the Headmistress, and Mr Tully, and we had dinner at one end of a house table, and nobody pulled a cracker because nobody liked to be first." He takes a potato and passes the dish on. "In the afternoon I went up the Observatory tower and watched the snow come in over the hills. It took about four hours to get here. I watched all of it." He says it without self-pity, as if he's describing a perfectly good way to spend a day, which perhaps it was. Then he picks up the cracker beside his plate, and looks at it, and holds one end out to you across the table.
+
+*page_break
+
+You pull it. It goes off with a crack and a puff of green smoke, and the hat inside is a paper crown that keeps changing colour, and the joke on the slip of paper is so bad that Idris reads it twice, frowning, trying to find where the joke is meant to be. He puts the crown on. It goes purple, and then gold, and then, unaccountably, tartan.
 
 @noor:tired Noor, because the Infirmary's still got three hum-sick first-years in it, and she won't leave them, and Matron's given up arguing. She comes to dinner for exactly forty minutes, in her uniform, with her watch pinned to her front, and eats a whole plate of turkey without stopping, and says, between mouthfuls, "One of mine laughed today. The Larkspire boy. Toby's hare got into the ward and sat on his feet, and he laughed." She stabs a potato. "That's the best sign there is. Better than anything on a chart." Then she falls asleep at the table with a sprout on her fork.
 
@@ -466,7 +520,19 @@ The pudding comes in on fire too, on purpose this time, carried in by two of the
 *present saoirse familiar
 The days after Christmas run together, white and slow and quiet.
 
-You go sledging on tea trays down the slope behind the Glasshouses with Saoirse, who has fitted hers with runners and very nearly goes through the Glasshouse wall. You eat leftover turkey in every form the kitchens can think of. You read in the Long Stacks, which Miss Dunne keeps open for the stayers, with the snow light coming grey-white through the high windows and nobody else there but the clocks. At night the Mere groans and booms as the ice thickens, long deep sounds like whales singing a mile away, and the first time you hear it you sit bolt upright in bed.
+You go sledging on tea trays down the slope behind the Glasshouses with Saoirse, who has fitted hers with runners and very nearly goes through the Glasshouse wall.
+
+@saoirse:laugh "Brakes," she says, lying on her back in the snow a yard from the glass, with the tray upside down on her chest and snow in her hair. "I knew I'd forgotten something. I always forget brakes." She sits up, delighted. "Again?"
+
+"You nearly killed a lemon tree."
+
+@saoirse:amused "The lemon tree had it coming," says Saoirse, and drags her tray back up the slope, and goes down again, faster, on her front this time, headfirst, shrieking the whole way. You go down after her on your plain kitchen tray, which spins round twice and deposits you in a drift, and the two of you lie there in the blue shadow of the Glasshouses with your faces stinging, laughing so much it hurts, while the snow comes down out of a white sky and settles on your eyelashes and doesn't melt. Behind the frosted glass, something large and green presses a leaf to the pane, curious, and draws it back.
+
+@saoirse:warm "This is the best Christmas I've had in years," she says, to the sky, quite simply, and then, as if she's said too much, rolls over and shoves a handful of snow down the back of your neck.
+
+*page_break
+
+You eat leftover turkey in every form the kitchens can think of. You read in the Long Stacks, which Miss Dunne keeps open for the stayers, with the snow light coming grey-white through the high windows and nobody else there but the clocks. At night the Mere groans and booms as the ice thickens, long deep sounds like whales singing a mile away, and the first time you hear it you sit bolt upright in bed.
 
 On the twenty-seventh, a letter comes for Saoirse, by a thin grey pigeon that's clearly never flown this far north before and collapses on the breakfast table in the butter.
 
@@ -478,7 +544,11 @@ The pigeon's return label is still on the table, by the toast rack, where she le
 *else
   Maddock. The same name. In four months you've heard all about Saoirse's dad, and his girlfriend's terriers, and every engine she's ever taken apart; you've never once heard her mention a mother.
 
-You look for her. You try the Rookhallow Undercroft, where her workbench is covered in bits of engine and the radio's been left on to nobody. You try the boathouse, where the bike lives under a tarpaulin, and the bike's still there. You try the top of the Rookery, where she goes to think. Nothing. By dinner you've stopped looking, because it's clear she doesn't want to be found, and because you know what that's like.
+You look for her. You try the Rookhallow Undercroft, where her workbench is covered in bits of engine and the radio's been left on to nobody. You try the boathouse, where the bike lives under a tarpaulin, and the bike's still there. You try the top of the Rookery, where she goes to think. Nothing. You try the Glasshouses, in case, and the slope behind them, where the tea-tray tracks from yesterday are already filling with fresh snow. You ask the Lamplighter on the boathouse door, a big bearded man stamping his feet in the cold, and he says he hasn't seen her, and asks if there's a problem, and you say no, and he looks at you as if he's heard that before. By dinner you've stopped looking, because it's clear she doesn't want to be found, and because you know what that's like.
+
+*page_break
+
+Her place at the long table stays empty. Idris glances at it, and at you, and doesn't ask. You eat cold turkey and pickle without tasting it and go up early, and sit at your window in the dark with {fam_name}, watching the snow stop and the clouds pull apart and the stars come out over the Mere one at a time, hard and white and enormous, the way they only are in the north in winter. The ice is so still it holds them. You could almost believe there were two skies.
 
 At ten o'clock at night, you're at your window, and you see a single light come out of the boathouse onto the frozen Mere. A headlamp. Moving fast. And you hear it, even from here: the roar of a motorbike engine, a motorbike that shouldn't exist, that shouldn't be able to run on ice, heading straight out across the black frozen lake towards the far shore, towards the south, towards Thimble Cross and the road and the train and away.
 
@@ -492,6 +562,10 @@ You're at the boathouse in four minutes, with your coat on over your pyjamas and
       *set nerve +10
       It takes you twenty minutes to reach her, slipping and sliding across a quarter of a mile of black ice in the dark, with the cold burning your lungs and the stars enormous overhead. You fall twice. The ice under your hands is so clear you can see the stars in it too, so that you're crawling across the sky. The whole way, you think she'll go. Every step, you expect to hear the engine roar and see the headlamp swing away. She doesn't go.
 
+      Halfway, you stop to get your breath, bent double, hands on your knees, and look back. The castle is a long way behind you already, black against the stars, with one light burning high up in the Observatory tower, and the jetty a thin dark line, and the boathouse lamp a speck. Ahead, the headlamp. Round you, nothing at all: a mile of black glass in every direction, and the cold, and the enormous silence, and somewhere under your boots, far down, the slow black water moving. You've never felt so small in your life. You go on anyway. Your boots are full of snow. Your laces trail behind you, frozen stiff as wire.
+
+      *page_break
+
       @saoirse:hurt When you finally get there, gasping, she's still sitting on the bike with the engine running and her goggles pushed up on her head and tears frozen on her face. She doesn't seem surprised to see you. She doesn't seem anything.
 
       @saoirse:hurt "She wants to meet me," she says. "My mam. She's in Kingsmere. She saw my name on a list somewhere; they print the names of the late-kindled, did you know that, in some paper? She saw my name. She wants to meet me. After twenty-one years." Her voice goes up, and cracks. "And I was going. I was going to go right now, in the dark, on the bike, without telling anyone, and just [i]turn up[/i]." She laughs, horribly. "And then I got out here, and I thought: that's what she did. Just went. In the dark. Without telling anyone." She wipes her face with an oily glove, and leaves a black smear. "I'm doing it. I'm doing exactly what she did."
@@ -504,11 +578,17 @@ You're at the boathouse in four minutes, with your coat on over your pyjamas and
 
           "Yes."
 
+          @saoirse:sad "You'd sit in some café in Kingsmere with me. With her." She tries to laugh. "You don't even know what she looks like. I don't know what she looks like, not now. Twenty-one years. I've got one photo, and she's got her hand up in front of her face in it, laughing at something." She wipes her nose on her glove. "She might have my nose. Imagine having to look at your own nose on someone else and be polite to it."
+
+          "I'll be polite to it for you."
+
           @saoirse:warm "Then I'll go." She gets off the bike, stiffly; she's been sitting in the cold for longer than she knows. "Help me push this back. It's a long way. I'm not riding it. I don't trust myself." You push it together, one either side, a quarter of a mile back across the ice in the dark, slipping, not talking much, and by the time you reach the boathouse she's laughing at you for falling over, which is how you know she's going to be all right.
         #Don't say anything. Just get on the back of the bike, and wait.
           *set st_saoirse +1
           *set heart +5
           @saoirse:warm She feels the bike dip as you get on behind her. She goes very still. You put your arms round her waist and don't say anything, and wait, and you can feel her breathing, fast and then slower and then slow. The engine ticks. The stars wheel. Somewhere far off the ice booms, deep down, and she flinches, and you hold on.
+
+          It's very cold. Your face stops hurting and goes numb, which is worse. You lean your forehead against the back of her leather jacket, which smells of engine oil and snow and the woodsmoke from the Rookhallow fires, and close your eyes, and wait. You have absolutely no idea what you'll do if she puts it in gear. Hold on, probably. Go to Kingsmere in your pyjamas.
 
           @saoirse:warm At last she says, "I could go. Right now. With you on the back." And then: "I'm not going to." She turns the bike round, very slowly, on the ice, and takes you both home at about four miles an hour, the whole quarter mile, without once speeding up. At the boathouse she puts the bike away and pulls the tarpaulin over it and stands with her hand flat on it, like somebody settling a horse. "She wants to meet me," she says, without turning round. "My mam. I'll tell you about it. Tomorrow. In daylight."
     #Let her go. Sit on the end of the jetty in the cold, and wait for her to come back.
@@ -518,6 +598,10 @@ You're at the boathouse in four minutes, with your coat on over your pyjamas and
       You sit down on the end of the jetty, in the snow, with your arms round your knees, and watch the tiny headlamp out on the ice, and wait.
 
       It's one of the hardest things you've ever done. It's so cold your face goes numb, and then your hands, and then your feet. You don't move. You think about shouting, and don't. You think about going after her, and don't. Twice the engine roars, and the headlamp swings towards the far shore, and your heart stops. Twice it stops again. {fam_name} comes and finds you, after a while, and {@(familiar = "owl") or (familiar = "raven")|settles on your shoulder, feathers fluffed against the cold|presses itself against your side}, and waits with you.
+
+      You count things, to stay awake. The stars in the Plough. The lit windows in the castle behind you, going out one by one: nine, then six, then two, then only the one high up in the Observatory tower that never goes out. The booms of the ice, far out, and the long silences between them. Your own breaths, smoking. You get to four hundred and something and lose count and start again.
+
+      *page_break
 
       After an hour and ten minutes, the headlamp turns round, and comes slowly back across the ice, and stops at the foot of the jetty. Saoirse turns the engine off. She looks up at you, sitting there in the snow, with frost in your eyebrows.
 
@@ -543,9 +627,25 @@ You're at the boathouse in four minutes, with your coat on over your pyjamas and
 
   *page_break
 
-  You stand on the jetty until you can't feel your feet. Then you go and wake up the Lamplighter on the boathouse door, and tell him, and he swears, and sends a bird.
+  You stand on the jetty until you can't feel your feet. The track she left goes away from you across the ice, two thin lines in the frost, glittering where the starlight catches them, straight as a ruler towards the far shore. You keep thinking you can still hear the engine. You can't. It's only the ice, groaning to itself, deep down.
 
-  @saoirse:tired She comes back at four in the morning, on her own, pushing the bike across the ice, and puts it away in the boathouse, and goes to bed without a word to anyone. At breakfast she's bright and loud and brittle, and she doesn't mention it, and neither does anyone else. Only once, when she thinks nobody's looking, you see her take the folded letter out of her pocket and look at it, and put it back without opening it.
+  Then you go and wake up the Lamplighter on the boathouse door, who's fallen asleep sitting up on an upturned crate with his lamp between his boots, and tell him, and he swears, and stands up so fast he kicks the lamp over, and sends a bird. You watch it go, a small dark shape beating south over the ice after the long-gone headlamp. It looks very small. The south looks very big.
+
+  "She'll be back," the Lamplighter says, not very convincingly, and then, when you don't move: "Go in, for God's sake. You'll lose a toe. I'll wake you." He doesn't. You don't sleep anyway. You sit in the deep window seat at the bottom of the east stair in your coat and your pyjamas, because it's the one window that looks straight down on the boathouse, with {fam_name} and a blanket off a chair and a candle stub, and somewhere above you, through a door left ajar, somebody's wireless playing dance music very quietly to nobody, from a station you can't find on any dial.
+
+  *page_break
+
+  She comes back at four in the morning, on her own, pushing the bike across the ice. You see the shape of her from the window, small and dark and bent over the handlebars, coming the whole long way across the Mere on foot, with the headlamp off. She doesn't look up at the castle. She puts the bike away in the boathouse and pulls the tarpaulin over it and goes to bed without a word to anyone.
+
+  You don't go down. You think about it. You stand at the window with your hand on the cold glass and think about it for a long time. But there's something in the way she's walking, head down, fast, that says as clearly as words: [i]not now. Not you. Not anyone.[/i] So you let her go past, and you go up to bed yourself as the sky starts to grey.
+
+  @saoirse:tired At breakfast she's bright and loud and brittle. She talks too much and laughs too much and eats nothing, and when the Lamplighter from the boathouse comes in and gives her a long look from the end of the table, she gives him a little wave, like royalty. She doesn't mention it, and neither does anyone else. She takes the mickey out of Idris's paper crown, which he's wearing again. She tells a long story about a carburettor. Only once, when she thinks nobody's looking, you see her take the folded letter out of her pocket and look at it, and put it back without opening it.
+
+  *page_break
+
+  @saoirse:guarded She catches you watching. For a second her face is completely bare, and very tired, and about ten years old. Then she grins, the old grin, all teeth. "What?" she says. "Never seen anyone eat toast before?" She isn't eating toast. You let it go. Some things you can only leave on the table until the person's ready to pick them up.
+
+  After breakfast she goes down to the boathouse, and you hear, all morning, from the window seat at the bottom of the east stair, the sound of somebody hitting a motorbike engine with a spanner, steadily, rhythmically, for a very long time, as if it's done something unforgivable. At lunch she comes up with oil to her elbows and a cut on her thumb and eats two plates of everything. She still doesn't mention it. But when she sits down she sits next to you, close, closer than she needs to on a bench with forty people and room for four hundred, and stays there till the plates are cleared.
 *page_break
 *comment ---------------------------------------------------------------- CH13.STAY.03
 *sid CH13.STAY.03
@@ -558,7 +658,13 @@ Not all of it. Not all the time. But in certain places, at certain hours of the 
 
 You've been trying not to notice. It hasn't worked. Every night it's a little stronger, or you're a little better at feeling it. You find yourself stopping on the stairs with one foot in the air. You find yourself taking the long way back from dinner, over the warm places, the way you'd walk the long way home past a bakery.
 
-On the thirtieth, at eleven at night, you follow it.
+You try, once, to tell yourself it's the pipes. Wrenfold's boilers are older than most countries, and the heat goes where it likes. But pipes don't pulse. Pipes don't make your flame sit up like a dog that's heard its name.
+
+*page_break
+
+The thirtieth is a still, iron-cold night with no moon. The snow has stopped at last, and the sky has cleared, and the cold has come down out of it like something poured. The castle is asleep by ten; the forty of you keep early hours now, with nothing to stay up for and the fires burning low to save wood. You sit by the window in your room for an hour with a book open on your knee and don't turn a single page. The Mere lies white and silent under the stars. Somewhere below you, through four floors of stone, the warmth is waiting. You can feel it from here, if you hold still: faint and slow and patient, like a hand on your back.
+
+At eleven, you give up pretending, and put your boots on, and go.
 *if (st_idris >= 2) and (hurt_idris < 2)
   *present idris
   @idris:attentive Idris comes with you. You didn't ask him; he was in the corridor outside the Long Stacks when you came past, with his notebook, and he took one look at your face and fell into step beside you without a word. "You're following something," he says quietly, after a while. "I've seen you stop on the same flagstones three nights running. I've been writing them down." He shows you. A map of the castle, in his cramped careful hand, with dots on it. The dots make a line. The line goes down.
@@ -611,7 +717,17 @@ You nearly jump out of your skin. Professor Grey is standing at the top of the w
 
     When you look back from the corner, he's standing in front of the wren door, with one scarred hand flat on it, where yours was, and his head bowed, like a man at a grave.
 
+The way back up feels twice as long as the way down. The wrens on the pillars slide past in your wandlight with their worn-smooth eyes. The worn steps. The black oak door at the top of the oldest stair, which swings shut behind you without a sound, and which, when you turn round and put your hand on it, is just a door again: cold, and heavy, and shut. The corridor behind the kitchens, where the bread smell has gone and the ovens are ticking as they cool. The east stair, with the portraits asleep in their frames, one of them muttering in its sleep about a horse.
+
+Every few steps you think you hear him behind you. You don't. When you reach the top of the east stair and look back down into the dark, there's nobody there at all, only the long drop of the stairwell and one lantern far below, turning slowly on its chain.
+
+*page_break
+
 You don't sleep. You lie in the dark in the half-empty castle with your hand still tingling, and the warmth in it doesn't fade until nearly dawn.
+
+You keep seeing his face. Not angry. Not cruel. Just tired, the deepest kind of tired, the kind that's been going on so long it's turned into a shape a person can be. And the scars. Up past his wrists, you'd guess further, all the way up under the charcoal sleeves. You wonder what he put his hands into, and when, and for whom.
+
+{fam_name} comes and settles against you, sometime after three, and you lie there listening to the castle breathe, and to something underneath it, very far down, that might be humming and might be your own blood in your ears. You can't tell any more. That frightens you more than the door did.
 *page_break
 *comment ---------------------------------------------------------------- CH13.STAY.04
 *sid CH13.STAY.04
@@ -624,7 +740,17 @@ The Headmistress lets the forty of you up onto the battlements of the Lantern To
 
 You stand at the parapet with your mug going cold in your hands and look at the black hills all round, and the stars, and one light, far off, of a farm somewhere down the valley, and you think about Nana Pearl, and Viaduct Street, and the four months since the letter. It's the first New Year you can remember when you haven't wished the old one was already over.
 
+*page_break
+
+Nobody wants to go in. You stay up there till nearly one, the forty of you, stamping your feet and passing the punch, while Saoirse's rook-sparks go on fizzing out on the ice below like a field of tiny fires. Somebody starts a song, an old one about a ferryman, that everyone at Wrenfold seems to know but you, and you hum along to the chorus by the third time round. A Lamplighter with a beard full of frost gives you his scarf without a word, because yours is too thin, and won't take it back.
+
 You don't go back down to the Old Cloisters. You want to. Every night you want to. You walk over the warm places in the floor and feel your flame lift its head, and you keep walking. You think about Professor Grey's face in the dark, and his hand flat on the door.
+
+You see him at meals. That's the strange part. With only forty of you at one table there's no hiding, and there he is every day, at the far end by the Headmistress, eating very little, saying less. He doesn't look at you. Not once, in four days. He passes the salt to the Headmistress and listens to Mr Tully talk about the boathouse roof and answers in single words. But on New Year's Day, when you get up from the table, you feel it: a weight on the back of your neck, there and gone. When you turn round, he's looking at his plate.
+
+*page_break
+
+The last days of the holiday are the quietest of all. Most of the forty are tired of the snow by now, and of each other, and of turkey, and the castle goes still and drowsy and inward, like a house the afternoon after a party. You spend the second of January in the Long Stacks, in a window bay, with a blanket round your shoulders and a pile of books you've chosen for no reason but their spines. One is about the birds of the northern lakes. One is a cookery book from three hundred years ago with a recipe for eel pie that makes you put it down for a while. Miss Dunne brings you a cup of tea without being asked, and stands for a moment looking out at the white Mere with you, and says, "It always seems to go on for ever, the snow, and then it never does," and goes away again before you can think what she means.
 
 *page_break
 
@@ -645,6 +771,16 @@ You want to tell him. It's right there: the warm floor, the little black door, t
 "Snowed in for a fortnight with Saoirse. She set off a firework shaped like a rook."
 
 @toby:amused Toby studies you a moment longer. Then he nods, as if that's a perfectly good answer and he'll ask again later, which he will. "A [i]rook[/i]," he says. "Of course she did. Was it a good rook?" He hands you a mince pie, and takes your arm, and walks you up the path to the castle telling you about the pudding.
+
+@toby:amused It's a long story, the pudding, and he tells all of it, with gestures, while the porters struggle past you with trunks and the Lamplighters count heads at the gate. His dad poured the brandy on. His dad poured too much brandy on. His dad lit it, and the flame went up to the ceiling and scorched a paper chain, and his littlest sister screamed, and his mum threw the tea towel over it, and the tea towel caught. "And then," says Toby, with deep satisfaction, "my other sister threw her squash on it. To put it out. Orange squash." He sighs. "Best Christmas ever. My mum sent you a card." He digs in his coat and gives you a slightly squashed envelope with a robin on it. "She says you're to make me wear a scarf."
+
+*page_break
+
+"You're not wearing a scarf."
+
+@toby:laugh "I know," says Toby happily. "I'm a rebel." Custard sneezes inside his coat, as if in comment.
+
+You laugh, and it surprises you; you haven't laughed properly since the night in the Cloisters. Toby hears it and looks pleased with himself, and squeezes your arm, and you go up the last of the path together, through the gate, into the courtyard, where every window is lit and the snow's turning to slush underfoot and everybody seems to be shouting at once.
 
 The Lantern Hall fills up again that night. Four long tables, four hundred voices, ten thousand lanterns drifting gold under the roof. It's so loud after a fortnight of forty people that it hurts your ears, and you love it, and you sit in it with Toby's mince pies and let it wash over you: somebody's new scarf, somebody's terrible Christmas, somebody's familiar that's learned to open doors.
 

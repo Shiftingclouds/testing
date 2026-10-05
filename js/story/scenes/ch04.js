@@ -79,9 +79,25 @@ Tuesday comes in grey and wet, with rain blowing across the Mere in long curtain
 
 You've also learned that people talk. Twice on the way to breakfast somebody points you out to somebody else: [i]that's the one, the candles[/i]. A second-year you've never met says [i]morning, Chandelier[/i], as you pass, cheerfully, and you have a horrible feeling it's going to stick.
 
+@toby:amused "It's nice, though," says Toby loyally, through a mouthful of porridge. He's drifted over from {@house = "heronmere"|the far end of the table|the Heronmere table} with his bowl, the way he does most mornings. "Chandelier. It's grand. Nobody's ever going to call me anything grand. They'll call me Croissant. Somebody already has." He brightens. "Actually, I quite like Croissant."
+
+The Lantern Hall at breakfast is a different animal from the Hall at the feast. The lanterns hang low and sleepy, barely glowing, and the windows are grey squares streaming with rain, and the noise is a low steady mumble of four houses not quite awake. Owls come in through a high window with the post, shaking water off their wings over everybody's toast. Somebody at the Rookhallow table has fallen asleep with their face on a folded robe. Toby is on his second bowl and has worked out that if you get to the jam before eight, you get the good jam.
+
+*page_break
+
+@toby:neutral "Brewing next," he says, scraping the bowl. He doesn't sound excited. He sounds the way people sound outside a driving test. "It's like cooking, isn't it? Everyone says it's like cooking." He puts his spoon down very carefully. "I'm not good at cooking when people are watching. I'm good at cooking at four in the morning when it's just me and the ovens."
+
+"Nobody's going to be watching you."
+
+@toby:tense "Somebody's always watching," says Toby, with deep conviction, and steals your toast crust for courage.
+
 Brewing is in the cellars, which are exactly what you'd expect: low stone vaults, blue flames under black cauldrons, shelves of jars with things floating in them that you decide not to look at closely, and a smell like a chemist's shop that's been struck by lightning.
 
 @kovac:neutral Professor Kovač is thin and pale and very still, with sharp cheekbones and a single white streak in her black hair, pinned back so tightly it looks painful, and grey eyes that don't blink enough. She waits at the front of the cellar until the last of you has stopped talking, which takes a while, and then a while longer, because she doesn't ask anyone to stop. She just waits. It's the most frightening thing you've ever seen a teacher do.
+
+*page_break
+
+The silence spreads out from her like cold from an open freezer. The last whisper dies. Somebody's familiar sneezes, and its owner goes scarlet. Somewhere under the floor water is dripping, slow and steady, into something metal, and you find yourself counting the drips because it's easier than looking at her. Eleven. Twelve. Your cauldron sits in front of you on its blue flame, black and empty, with a little card propped against it in narrow, upright handwriting: your name, and a number, and nothing else. Beside it on the bench there's a row of small jars, a bundle of grey feathers tied with thread, a sprig of something silvery that smells of frost, and a stone flask that sloshes when you touch it, very cold.
 
 *page_break
 
@@ -109,6 +125,16 @@ She doesn't say anything else. People start looking round for partners in the pa
     @kovac:attentive Professor Kovač comes past, and looks into your cauldron for what feels like a full minute, and says nothing. Then she makes a tiny mark in a black book. Imogen looks as if she's been knighted.
 
     @imogen:amused "She [i]marked[/i] it," she whispers, all the way up the cellar stairs afterwards. "Did you see? A tick. I think it was a tick. It might have been a very small cross." A pause. "No. It was a tick."
+
+    @imogen:neutral At the top of the stairs she stops, under a window streaming with rain, and gets out a small black notebook of her own, and writes something in it, and underlines it twice. You catch a glimpse before she shuts it: a column of dates, a column of subjects, and against today's date, in tiny exact handwriting, [i]Brewing: tick (Kovač). Partner: {name}. Good.[/i]
+
+    "Do you keep a record of everything?"
+
+    @imogen:amused "Since I was eleven," says Imogen, not at all embarrassed. "It's very useful. When people say [i]you never told me that[/i], I can tell them exactly when I did." She tucks the notebook back in her waistcoat. "Same again next week?"
+
+    You'd meant to say [i]maybe[/i]. You hear yourself say "Same again."
+
+    @imogen:warm She nods, briskly, as if a contract has been signed, and walks off to Herbwork with her chin up, and you'd swear she's very nearly skipping.
     *points +5
   #Go and stand at Casimir Drummond's cauldron. Somebody has to.
     *set heart +5
@@ -126,6 +152,14 @@ She doesn't say anything else. People start looking round for partners in the pa
     @cas:amused "Adequate," he says, not looking at you. Then, even more quietly: "Thank you."
 
     You catch him, as you're packing up, turning the signet ring on his little finger round and round, the way other people bite their nails. He sees you notice, and stops, and walks out without another word. But at the door he pauses, just for a second, as if there's something else he means to say. Then he doesn't.
+
+    @imogen:neutral Imogen, at the next cauldron, has been watching the whole thing over the top of her own very correct tonic. She doesn't say anything. She just raises one eyebrow at you, very slightly, the way a judge might at an unexpected witness.
+
+    @toby:amused Toby is less restrained. "You worked with [i]him[/i]," he hisses, catching you up on the stairs, with a smut of soot on his nose from a tonic that went the colour of gravy. "All lesson. Was it awful? Did he say anything about pies?"
+
+    "He said [i]adequate[/i]."
+
+    @toby:amused Toby thinks about it, climbing. "From him," he says at last, "I think that's practically a hug."
   #Partner Toby. He's going to set the cellar on fire otherwise.
     *set fr_toby +1
     *set heart +5
@@ -136,7 +170,16 @@ She doesn't say anything else. People start looking round for partners in the pa
     @kovac:attentive Professor Kovač looks into your cauldron, and then at Toby, without a flicker, for so long that Toby stops breathing. Then she makes a mark in her black book. Toby floats out of the cellar at the end of the lesson as if he's been given a medal.
 
     @toby:warm "She looked at me," he says, on the stairs, in a daze. "She looked right at me, and she didn't look disappointed. Nobody's ever looked at me in a kitchen and not been disappointed." He has to stop and hold the banister. "I'm going to write to my mum."
+
+    He doesn't, straight away. He talks about it all through lunch instead: the heat, the feather, the exact moment the colour turned, which he describes three times, each time with his hands, as if he's showing you how to fold pastry. The worse bits of the week seem to have slid off him. He laughs at things. He eats an apple. When a second-year at the next table calls him [i]Croissant[/i], he turns round and says "Thank you," with dignity, which nobody's expecting, least of all the second-year.
+
+    @toby:warm "I think I might be all right at this," he says to you, quite quietly, at the end of lunch, as if trying the words for size. "Not all of it. But some of it." He looks at his hands. "That's not happened before."
     *points +5
+*page_break
+The rain doesn't stop all day. In the afternoon it's Herbwork in the Glasshouses, where the glass roofs drum so loudly under the downpour that the teacher gives up talking and writes everything on a slate, and the plants, which like rain, lean up towards the noise with every leaf, like an audience at a concert. You pot a seedling that bites you, gently, as if to test whether you're food. By supper your robes have been damp for so long they've started to smell of sheep.
+
+That evening the tonic comes round the house tables in small corked bottles, one each, each with a name in Kovač's narrow hand: the cellar's whole morning's work, sorted and labelled while you were all at lunch. Yours is pale clear blue. You uncork it and drink it in one go, because that seems braver. It tastes of cold river water, and of the smell of a stone after rain, and when it reaches your chest the restless thing there goes quiet and heavy, like a cat that's been stroked into a doze. You sit very still for a moment with the empty bottle in your hand. It's the first time since March that the inside of you has felt like a room with the windows shut.
+
 *page_break
 *comment ---------------------------------------------------------------- CH04.TURN.01
 *sid CH04.TURN.01
@@ -145,9 +188,21 @@ She doesn't say anything else. People start looking round for partners in the pa
 *present bassani saoirse rowan familiar
 By Wednesday you've started to find your feet.
 
+The rain has gone in the night. You wake to a white mist lying on the Mere so thick that the far shore has disappeared and the castle seems to float on nothing, and the lanterns rising off the roofs vanish into it a few yards up, like coins dropped into milk. By the time you've dressed it's begun to lift, and the sun comes through it in long pale shafts, and every stone of the castle is steaming gently, as if it's just got out of a bath.
+
 Not all of them. The staircases still move, and you still turn up to Herbwork in the wrong glasshouse, and you still can't find the owlery without a map Imogen drew you on the back of an envelope. But you know where breakfast is now. You know the porridge is better than the eggs, and that there's a window seat in the corridor outside the Gallery where the sun comes in at eleven, and that if you whistle at the suit of armour on the second-floor landing, it salutes. You've started, without noticing, to say [i]the Mere[/i] instead of [i]the lake[/i]. {fam_name} has started to find its own way around the castle, and turns up at your elbow at mealtimes as if you'd arranged to meet.
 
+*page_break
+
 The Wordcraft Gallery is being lent to Turning for the morning, while the Turning Room has its ceiling repaired after an incident nobody will describe. The chandelier is still lit. It's been lit for two days. Someone has hung a small sign from it that says [i]PLEASE DO NOT FEED[/i].
+
+You try not to look at it. Everyone else looks at it, and then at you, and grins. You find the window seat at the back, where the sun's coming in, and sit with {fam_name} and pretend to read your timetable. Saoirse drops into the seat next to you, smelling of engine oil, with her goggles on top of her head and a small brass cog in her fist that she keeps turning over and over in her fingers like a worry stone.
+
+@saoirse:amused "Been up since five," she says, not quietly. "Found a door in the Undercroft that goes nowhere. Well. It goes somewhere. I just can't open it yet." She grins. "Yet."
+
+@rowan:neutral Rowan, on your other side, is reading the Turning chapter in the handbook with his finger under the line, frowning, his lips moving slightly, the way you'd read a fire-safety notice you were going to be tested on. He looks up. "It says here [i]the intent must precede the word[/i]," he says. "What does that mean?"
+
+@saoirse:amused "It means think first, then talk," says Saoirse. "Which nobody's ever managed."
 
 @bassani:amused "Turning!" cries Professor Bassani, throwing open his arms, before the door has even shut behind the last of you. "[i]Turning![/i] The hardest subject! The noblest subject! The subject in which you will fail, and fail, and fail, and fail, and then one day, [i]one glorious day[/i], you will turn a button into a beetle, and it will be the proudest moment of your life, the proudest moment of your life!"
 
@@ -160,6 +215,10 @@ He's wearing a waistcoat in gold and rose so bright it's almost a noise, and the
 @bassani:neutral "Turning," he tells you, perching on the edge of his desk, "is persuasion. Persuasion! You do not [i]make[/i] the button a beetle. You tell the button, very nicely, very firmly, that it has always secretly wanted to be a beetle, and that you are the only one who understands it. You are its friend. You are its [i]confidant[/i]." He spreads his hands. "And the button believes you. Or it does not. Usually it does not. Buttons are very stubborn. Very stubborn."
 
 The word is [i]wende[/i]: to turn. The button in front of you is plain and brown and very much a button.
+
+*page_break
+
+@bassani:grave "Before you begin," says Professor Bassani, and for a moment the flourishes go out of him altogether, and he's just a small round man in a loud waistcoat with his hands folded, looking at the room very seriously. "A warning. A warning. You will want to turn bigger things. Everybody does. Your neighbour's hat. Your neighbour. Do not. You do not have the right, and you do not have the skill, and the thing that is turned does not always turn back." He lets that sit. Then he beams, all at once, as if somebody has switched him on again. "Buttons! Begin!"
 
 For the first half hour, nothing happens at all, all round the room. Forty-odd people glaring at buttons and muttering at them, like a room full of people trying to get a signal on their phones. Then things start, here and there. Somebody's button goes soft, like a mushroom. Somebody else's grows a single hair. Kwame's, for reasons no one can explain, turns tartan.
 
@@ -185,6 +244,12 @@ You think about what Bassani said. You look at your button, and you try to think
 The beetle, meanwhile, has landed on Professor Bassani's moustache, and is ticking there, contentedly, like a brooch. He goes cross-eyed trying to look at it. The whole room dissolves.
 
 @bassani:amused "Out!" he cries, flapping his hands, the beetle still ticking on his lip. "Out, all of you, out! Lunch! Practise on your buttons! Maddock, [i]stay[/i]. Stay!" As you file out you hear him, behind you, in quite a different voice, low and fascinated: "Now. Show me. Show me again, from the beginning."
+
+Out in the corridor, Rowan is still looking at his button, which is sitting in the palm of his big hand, cool now, a plain brown button with a faint scorch mark on one side. He turns it over with his thumb.
+
+@rowan:amused "It didn't turn," he says. "But it listened. I think it listened." He puts it in his pocket, carefully, the way you'd keep a pebble from a beach. "That's more than most things do, when I'm about."
+
+Your own button walks in a slow circle on your palm on six small legs, and then sits down, and seems to go to sleep. You put it in your pocket too. You can feel it there all through lunch, shifting now and then, like something dreaming.
 *page_break
 *comment ---------------------------------------------------------------- CH04.FLIGHT.01
 *sid CH04.FLIGHT.01
@@ -195,6 +260,20 @@ The beetle, meanwhile, has landed on Professor Bassani's moustache, and is ticki
 The afternoon clears. By three o'clock the rain has blown away over the hills and left the sky rinsed and enormous, pale blue with clouds going over fast and high, and the Mere below it all dazzle and chop. There's a wind coming off the water that smells of weed and cold and freedom. You can hear the house banners cracking on the pitch before you can see them.
 
 @okoro:amused Coach Okoro has a whistle in his teeth, a shaved head, a grin like a lighthouse, and a flight jacket covered in patches from teams you've never heard of, and he's standing on the water. Not on a boat. On the actual shallows of the Mere, at the south end of the island, where the Glimmer Pitch floats: tall timber stands on stilts, house banners snapping, and three great hoops of lanterns hanging in the air at each end. "Brooms up!" he shouts, without taking the whistle out. "Brooms up, first-years! This is the fun one!"
+
+*page_break
+
+The walk down to the pitch takes you out through a little postern gate on the south side of the island and along a causeway of flat stones laid across the shallows, slippery with weed, with the water slapping either side. Somebody slips and goes in up to the knee and comes out swearing. {fam_name}{@familiar = "owl"| takes one look at the causeway and flies|}{@familiar = "raven"| takes one look at the causeway and flies|}{@familiar = "moth"| rides on your collar, glowing faintly in the wind|}{@familiar = "toad"| rides in your pocket, sensibly|}{@familiar = "cat"| picks its way along the stones with an air of great disapproval|}{@familiar = "fox"| splashes happily through every puddle on the way|}{@familiar = "hare"| goes along the stones in three long bounds and waits at the end, looking smug|}{@familiar = "ferret"| clings to your neck and complains about the wind the whole way|}.
+
+Out here, away from the castle, the sky is huge, and the wind pushes at you like a big friendly dog, and you can see the whole length of the Mere to the far hills, and gulls hanging over it, quite still, riding the air without moving their wings.
+
+*page_break
+
+You watch them, and you think: [i]that, in an hour[/i]. Your stomach drops, the way it does at the top of a rollercoaster, and stays dropped.
+
+@toby:scared "I don't like heights," says Toby, beside you, staring up at the hoops of lanterns hanging in the empty air at the end of the pitch. "I've never liked heights. I don't even like ladders. I don't like the top deck of a bus."
+
+@cas:neutral "Then you'll have a thrilling afternoon," says Casimir Drummond, going past, without stopping.
 
 The school brooms are old, and have names burned into their handles: [i]Nancy[/i], [i]Old Tom[/i], [i]Persistence[/i], [i]DO NOT[/i]. Yours is called [i]Sparrow[/i] and has a kink in the middle. You stand beside it, on the shingle, like everyone else, and hold your hand out, and say [i]up[/i], feeling ridiculous.
 
@@ -242,6 +321,10 @@ He tries. He goes up, and wobbles, and tilts, and slides off [i]Persistence[/i] 
     @cas:tense He looks at you, sideways, wind whipping his pale hair. For a second you think he's going to sneer. Then he looks down at Toby, climbing out of the water again, and something in his face goes tight. "My grandmother," he says, "didn't let me touch a broom until I'd kindled. Twenty-seven years." He banks away, fast, before you can answer, and doesn't laugh at anyone again all lesson.
 
     You hover there over the middle of the Mere for a moment on your own, with the wind pulling at you, trying to work out what he meant. Twenty-seven years of watching other people fly. You think about that for the rest of the afternoon. You find you're not quite as angry as you were.
+
+    You picture it, without meaning to: a boy in a big cold house, with brooms in a cupboard he wasn't allowed to open, standing at a window watching cousins swoop over a lawn. A family that knew what he was missing and didn't let him forget it. You glance across the pitch. He's flying alone at the far end, high up, in long slow circles under the lantern hoops, very precisely, very beautifully, like somebody who has practised a thing in his head ten thousand times and is only now being allowed to do it.
+
+    Below you, Toby falls in again. Saoirse is wading out to him with the bootlace. You turn [i]Sparrow[/i] and go down to help, and halfway there you realise you've stopped being angry altogether, and you're not sure you wanted to.
     *set st_cas +1
   #Go and fetch Toby's broom out of the water, and fly beside him low over the shallows till he gets it.
     *set heart +10
@@ -252,9 +335,17 @@ He tries. He goes up, and wobbles, and tilts, and slides off [i]Persistence[/i] 
 
     @toby:warm "Nobody's ever been that patient with me," he says, afterwards, wringing out his cardigan. "Not even Mr Pargeter, and he gave me my job back three times."
 
+    @saoirse:amused Saoirse lands beside you both on the shingle, upside down for the last six feet, and rights herself at the very last moment with a whoop. "Not bad, Quill," she says. "Still say it was the broom." She has a look at [i]Persistence[/i] anyway, and frowns at it, and runs her thumb down the bristles. "Definitely warped. You learned on a bent broom. You'll fly like a bird on a straight one."
+
+    @toby:warm Toby looks down at the broom, and then at his wet hands, and then out over the pitch where he's just been, where the water's settling and the light's going gold. "I flew," he says, to nobody, as if he's only just heard the news. "I actually flew."
+
+*page_break
+
 @okoro:amused "Not bad, first-years!" roars Coach Okoro, blowing his whistle, standing on the water. "Not bad at all! Trials for house teams are Saturday week! Anybody who didn't fall in, come and see me!" He pauses. "Anybody who did fall in, also come and see me, because you'll have learned more."
 
 You walk back up to the castle in the late gold light with your hair full of wind and your legs aching in places you didn't know had muscles, and Toby squelching beside you, and you realise you're humming. You can't remember the last time you hummed.
+
+Behind you, on the pitch, the lantern hoops are being lowered for the night on long chains, one by one, and they sway as they come down, and catch the sunset. Ahead, the castle is lighting its windows. You can feel the flight still in you, in your arms and your stomach and the backs of your knees, a sort of lift, as if a bit of you is still up there in the wind and hasn't come down yet. At the postern gate you turn round for one last look at the sky, and {fam_name} turns with you, and the two of you stand there for a moment, watching the gulls.
 *page_break
 *comment ---------------------------------------------------------------- CH04.WARDING.01
 *sid CH04.WARDING.01
@@ -265,6 +356,14 @@ You walk back up to the castle in the late gold light with your hair full of win
 Thursday is the lesson everybody's been dreading, although nobody quite says so.
 
 The rumours have been going round since breakfast. Professor Grey doesn't smile. Professor Grey was something else before he was a teacher, something he doesn't talk about. Professor Grey's hands are like that because of a fire, or a spell, or a war, depending on who's telling it. A second-year at the Heronmere table, asked what Warding is like, just says [i]you'll see[/i] and goes back to her porridge, and won't be drawn.
+
+Lunch is quiet, for a lunch. Toby pushes a potato round his plate and doesn't eat it, which you've never seen him do. Rowan eats steadily and without looking up, the way he must have eaten at the station before a shift, and every so often flexes his big hands on the table, open and shut, as if he's checking they still work.
+
+@toby:tense "What if he makes us do it," says Toby, very low. "The Choir thing. What if he makes us feel it again." He puts his fork down. "I don't want to feel it again. I dream about it."
+
+@rowan:neutral "Then he'll be doing it for a reason," says Rowan, without looking up. "You don't teach people about fire by showing them a picture of one." He finishes his water. "Come on. Better early than last in."
+
+*page_break
 
 The Warding Hall is a stone barn of a room in the west wing, scorched black up to the rafters by four hundred years of practice spells. There are circles cut into the floor, and shields on the walls, some of them dented. It's cold. It smells of old smoke. A blackboard stands by the door with one word chalked on it in square capitals, [i]HALD[/i], and underneath, smaller, [i]shield[/i]. Nothing else. No welcome. No joke.
 
@@ -323,6 +422,10 @@ It rolls off him in a wave you feel on your face like an opened oven, and the pr
     @rowan:tense It helps. You can see it help: with nobody near enough to burn, the thing in him stops thrashing, and the heat drops, slowly, slowly, until he's standing in a ring of scorched floor in steaming robes, breathing hard, and it's over.
 
     @rowan:neutral He meets your eyes across the ring. He doesn't say anything. He doesn't need to. You've seen that look before, on the faces of people in waiting rooms when someone finally tells them what's going on.
+
+    Toby is shaking beside you, both hands clamped over his mouth. Kwame has his arm round the girl from Owlcombe, awkwardly, like a man holding a parcel he's been asked to mind. Nobody says anything. The scorched dummy goes on smoking quietly at the centre of the ring, and a thread of black smoke climbs up past the shields to the rafters, and everybody watches it, because it's easier than watching Rowan.
+
+    You find your arms are still spread. You put them down. Your hands are trembling, now that it's over, and you put them in your pockets so nobody will see, the way you used to at work after a bad call, sitting very upright with a smile on and your knees going under the desk.
   #Say [i]hald[/i], the shield word from the board, and put a shield between him and Toby.
     *set flame +10
     You point your wand at the space between Rowan and Toby and say [i]hald[/i], the word from the board, the one you read ten minutes ago, and something bright and hard as glass jumps out of the end of your wand and stands in the air between them. The heat hits it and rolls off it like water off a window.
@@ -331,13 +434,21 @@ It rolls off him in a wave you feel on your face like an opened oven, and the pr
 
     The shield holds for a count of five, shimmering, and then goes, with a sound like a sigh. By then the worst of it is over. Toby, behind where it stood, is staring at you with his mouth open and not a hair singed.
 
+    @toby:scared "You did a [i]spell[/i]," he whispers. "A proper one. On purpose. We've only had it ten minutes."
+
+    You look at your wand. It's hot in your hand, hotter than it's ever been, and the tip is glowing faintly, a hard clear white, like the lamps when they flared. Your arm aches all the way up to the shoulder, as if you've been holding something heavy above your head for hours. You hadn't known you were going to say the word until you'd said it. It came up out of you the way a hand comes up when something's thrown at your face.
+
+    @rowan:tense Rowan has opened his eyes. He's looking at the place where the shield was, and then at Toby, unharmed, and then at you, and his face is doing something complicated. "Thanks," he says, hoarsely. Just that. But he says it as if it cost him.
+
+*page_break
+
 @grey:neutral Professor Grey waits until it's over. Then he walks across the scorched floor to Rowan and puts one of his ruined hands on his shoulder, very briefly, and says something to him too low for anyone else to hear, and Rowan nods, and nods again.
 
 @grey:grave Then he turns and studies you, with those tired pale eyes, for longer than is comfortable, and you can't tell at all what he's thinking.
 
 @grey:neutral "Infirmary," he says. "You're grey. Go." Then, even quieter, as you pass him: "Whatever that was. Keep it close."
 
-You don't remember much of the walk. Only the corridors going on longer than they should, and the lanterns in their niches turning to watch you pass, and Toby's hand under your elbow the whole way, and your own heart going too fast and too light, like a bird in a box.
+You don't remember much of the walk. Only the corridors going on longer than they should, and the stairs, which seem to have more steps in them than usual, and a portrait of an old woman in a ruff who leans out of her frame as you pass and says [i]oh, you poor lamb[/i], and the lanterns in their niches turning to watch you pass, and Toby's hand under your elbow the whole way, and your own heart going too fast and too light, like a bird in a box.
 *page_break
 *comment ---------------------------------------------------------------- CH04.INFIRMARY.01
 *sid CH04.INFIRMARY.01
@@ -345,13 +456,25 @@ You don't remember much of the walk. Only the corridors going on longer than the
 *place P24 infirmary
 *present holloway noor familiar
 *meet holloway
+The Infirmary is at the top of the south tower, behind a door with a brass bell-pull and a card that says [i]KNOCK. THEN COME IN ANYWAY.[/i] Toby knocks for you, because you've got a hand on the wall, and then comes in anyway, and then hovers in the doorway with his hands knotted in his cardigan, until a voice from inside tells him that if he isn't bleeding, on fire or turned into anything, he can go and have his tea, and he goes, looking back over his shoulder three times.
+
 The Infirmary is a long white room with iron beds in rows, screens on wheels, a fire at one end and a desk at the other, and bottles on every shelf that glow faintly, like jars of fireflies.
 
 It's very quiet after the Warding Hall. Afternoon light comes in through tall windows and lies across the white bedspreads in long pale bars. It smells of clean linen and something herbal and sharp, like crushed mint and woodsmoke, and under it, very faintly, of toast. Somewhere a kettle is murmuring. Only one other bed is occupied, by a second-year with both eyebrows missing, who's asleep with his mouth open and a sign propped on his chest that says [i]DO NOT ASK[/i].
 
+*page_break
+
 @holloway:neutral "Flame-surge," says Matron Holloway, before you've even sat down. She's broad and brisk and square, with apple cheeks and a starched white cap and small shrewd eyes that go over you like a checklist. "Grey round the mouth, shaky hands, headache behind the eyes. Sit. Drink this. Don't argue. Everybody argues."
 
 You drink it. It tastes of burnt sugar and ice, and the headache you didn't know you had goes away. You lie back on the bed and close your eyes.
+
+For a while you just lie there and let the room happen round you. The fire mutters. A cart with a squeaky wheel goes past the foot of the bed and stops somewhere, and bottles clink. The boy with no eyebrows mumbles something in his sleep about a ferret and turns over. Your hands are still trembling, a little, on top of the blanket, and you watch them do it with a sort of detached interest, the way you'd watch rain on a window. Under the trembling, deep in your chest, the warm thing is sitting very quietly, the way a dog sits after it's knocked something over: not sorry, exactly, but keeping its head down.
+
+*page_break
+
+You think about the lamps flaring white. You think about the hum coming up out of Professor Grey's chest, so easily, so well. You think about the look on his face afterwards, which you couldn't read, and still can't, and you decide that you'll think about that tomorrow. Today you're going to lie on this bed under this clean blanket and let somebody else be in charge.
+
+@holloway:neutral "And you can stop thinking," says Matron Holloway from her desk, without looking up, as if she can hear it. "I can see you doing it from here. It's bad for flame-surge. Lie there and be boring."
 
 @noor:neutral "Pupils?" says a calm voice, and a small torch shines briefly in each of your eyes, and when you open them it's Noor, the nurse from the feast, in sea-green robes with the sleeves rolled up and an apron over them. Her watch is still pinned upside down on her chest. She's taking your pulse with two fingers, looking at the watch. "Fine. You're fine. Bit fast."
 
@@ -412,9 +535,24 @@ You drink it. It tastes of burnt sugar and ice, and the headache you didn't know
     *set st_noor +1
     You close your eyes and let her fuss: pulse, temperature, a cool cloth on your forehead, a blanket. You can hear, in her hands, how much better it makes her feel to have someone to look after. You lie there and let her, and it's quite nice, actually.
 
+    She does everything without hurrying and without stopping, the way good cooks and good mechanics work, and good nurses, you suppose: each thing finished before the next begins. She tucks the blanket in at the corners, tight, the way nobody has since you were small. She moves your wand from under your hip, where you've been lying on it, and puts it on the locker beside you, square to the edge. She checks your pulse again, and you feel her count it, and you feel her decide it's better.
+
+    "You're very good at this," you say, without opening your eyes.
+
+    @noor:amused "Six years," says Noor. "Nights, mostly. I could do it in my sleep. I have done it in my sleep, a few times." The cool cloth turns over on your forehead, to the cold side. "Sh. You're meant to be resting. I'm meant to be pretending I'm not working."
+
     She hums while she works, very quietly, not a tune exactly, just a sort of low even sound under her breath, the way some people hum when they're concentrating. After the Warding Hall, you'd have thought any humming would frighten you. This doesn't. It's the opposite of that note in every way there is.
 
     @noor:warm "Thank you," she says, very quietly, after a while, when she thinks you're asleep. "For being ill. It's been a long week."
+*page_break
+You sleep, after that, for an hour or so, and wake to the windows gone orange and the fire built up and a tray at your elbow with soup on it, under a plate to keep it warm. The boy with no eyebrows has gone. Noor is at the far end of the room, by the desk, rolling bandages again, and Matron is writing in a ledger, and they're talking in low voices about something that makes Noor laugh, once, a short real laugh that she seems surprised by.
+
+You eat the soup. It's chicken, with barley, and it tastes like being looked after.
+
+@holloway:neutral "Colour's back," says Matron, coming to stand at the foot of the bed with her hands folded over her apron, and looking you up and down the way you'd look at a cake to see if it's done. "You'll live. Go to bed early. No spells till Monday. And if you feel that again, that grey, shaky, hollowed-out feeling, you come straight here, I don't care what time it is." Her small shrewd eyes rest on you a moment longer. "And don't let it frighten you," she says, in a different voice. "It frightens everybody, the first time. That's not the same as it being bad."
+
+On your way out, Noor looks up from the bandages and lifts a hand, and you lift one back, and it feels like the end of a shift: that tired, easy, wordless thing that happens between people who've been through something long together, even when it was only an afternoon.
+
 *page_break
 *comment ---------------------------------------------------------------- CH04.FRIDAY.01
 *sid CH04.FRIDAY.01

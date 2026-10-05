@@ -25,6 +25,18 @@ It's a Heronmere festival, really, and Heronmere needs it more than anyone. You 
 
 She puts yours into your palm and closes your fingers over it with her earthy hand, and holds them shut a moment longer than she needs to.
 
+You open your hand when you're past her. It's a very ordinary seed. Small, flat, the brown of a conker's shell, with a pale nick at one end where it was joined to something once. It weighs nothing. You'd lose it in a coat pocket. {fam_name} leans over from your shoulder to sniff it, and sneezes, and looks offended, as if the seed did it on purpose.
+
+*page_break
+
+The Winter Garden is full. It's never full; on an ordinary day you can walk the length of it and see nobody but Professor Rhys's snail. Today the whole school is in it, in its coats, steaming gently. The paths between the beds are wet and slippery with trodden moss, and the air's so thick and warm it beads on the glass overhead and drips, now and then, onto somebody's neck, and they yelp, and somebody else laughs, and then looks guilty for laughing, and then laughs anyway, because it's the Greening, and you're allowed.
+
+Nobody's hurrying. That's the strange thing. People walk down the long bed slowly, choosing a place, the way you'd choose a seat on a train. A Larkspire third-year in gold and rose kneels by the water-tank and plants hers without a word, and stays kneeling, with her muddy hand flat on the soil, as if she's feeling for a heartbeat. Two Rookhallow first-years have a whispered argument about whether you're meant to say the name before or after you cover it up, and settle it by saying it both times. An Owlcombe boy is reading the label on every bed he passes, out loud, under his breath, as if the right place might be written down somewhere. There's a long line of seeds already in, all down the black earth, each one marked by nothing but a thumbprint.
+
+You walk down the bed with your seed in your fist, past the date palm and the little pond with the orange fish, looking for the right spot. You don't know what the right spot looks like. You keep thinking you'll know it when you see it.
+
+Then you see Priya.
+
 @priya:sad Priya is kneeling at the end of the long bed, by herself, with a handful of seeds. Not one. A handful. She's planting them in a row, one after another, very carefully, and saying the same name over and over under her breath. You don't have to hear it to know what it is.
 *choice
   #Kneel down beside her and plant yours next to hers. Say the same name.
@@ -34,19 +46,47 @@ She puts yours into your palm and closes your fingers over it with her earthy ha
 
     @priya:sad "I asked Professor Rhys if you're allowed more than one," she says, after a while, pressing the soil down with her thumb. "She said the rule's one each. Then she gave me the whole bag." She sits back on her heels and looks at the row, eleven little dents in the black earth. "I don't know what I think will happen. I don't think anything will happen. I just wanted there to be a lot of them. In case one doesn't come up."
 
+    You don't know what to say to that, so you don't say anything. You take one of the seeds from her open hand, without asking, and make a dent at the end of her row, and put it in, and say his name again, and press the earth down. She watches you do it. Then she gives you another one.
+
+    *page_break
+
+    You plant the rest of the bag between you, in silence, one each, turn and turn about. Her row grows down the bed past the pond and round the corner of the date palm. A Heronmere second-year coming the other way stops to see what you're doing, and reads the dents in the soil, and doesn't ask, and kneels down a few feet off and plants her own seed at the end of your row, and says the same name, quietly, and goes.
+
+    @priya:sad "He'd hate this," Priya says, when the bag's empty. She wipes her nose on the back of her black hand and leaves a smudge. "All of us kneeling. Being solemn. He'd make a joke about compost." She tries to think of the joke he'd make, you can see her trying, and her face crumples, and then uncrumples. "I can't do it. I can't do his jokes. They were never funny when anyone else did them."
+
+    "They weren't that funny when he did them."
+
+    @priya:hurt She laughs, wetly, despite herself. "No," she says. "No, they weren't, were they. He just laughed first, so you had to."
+
     You stay kneeling there with her, in the warm, until your knees are soaked and the bell goes for lunch.
   #Plant yours for Professor Grey.
     *set nerve +5
     You plant yours at the far end of the bed, where it's quiet, in the shade of an enormous fern, and say his name. Magnus Grey. It feels strange in your mouth. You never once said it to his face.
 
     When you look up, Professor Rhys is watching you from the door. She nods, once, and turns away quickly, and wipes her face on her sleeve. Later, when you pass her on the way out, she says, without looking at you, "He planted one every year, you know. At the back. Never told anyone who for." She sniffs. "I always knew. Never let on."
+
+    "Who was it for?"
+
+    @rhys:warm She looks at you then, properly, with her red eyes. "Not mine to tell, love," she says. "He kept it all those years. I'll keep it a bit longer for him." She takes your elbow, and steers you to the very back of the Winter Garden, behind the big tank where the water-lilies sleep, to a patch of bed nobody ever plants in because it never gets the sun. There's a flower there. Just one. Small and white and starry, on a thin stem, blooming in March when nothing else is, all on its own in the shade.
+
+    @rhys:warm "Came up in the night," she says. "The week we buried him." She doesn't say anything else. She doesn't need to. You stand there with her a while, the two of you, looking at it, and then she pats your arm with her earthy hand and goes back to her door and her canvas bag, and you hear her say "Something growing," to the next person, in exactly the same voice as before.
+
+    You stay a little longer. The flower doesn't do anything. It's just a flower. You find you can't stop looking at it anyway, and when you finally go, you look back twice.
   #Plant yours for Odile Pellow, and Delphine, and Bram. All the ones who went quiet.
     *set heart +5
     You haven't got enough seeds. Professor Rhys gives you more without being asked, a whole fistful, and doesn't say anything, and goes back to the door.
 
     You plant them in a row, one for each, and say their names. Odile. Delphine. Bram. The two Heronmere second-years. The Rookhallow girl. The Owlcombe boy who went to see what the bell was. Then you go on, because there are more names than that, there are wards and wards of them at St Ide's, and you don't know their names, so you say what you can: the woman by the radio, the old man with the crossword he wasn't doing, the girl in the pink cardigan. You plant until your knees are wet through and your hands are black to the wrist and the seeds are gone.
 
-Outside, through the glass, the snow's gone off the lawns at last, and the Mere's blue again, and there are lambs in the fields on the far shore, small and white and bouncing as if the ground's too hot to stand on. In the hedges along the shore path, for the first time since November, you can hear birds.
+    Somewhere around the twentieth you notice you're not alone. A Larkspire girl you don't know has knelt down at the far end of your row with her own seed, and she's listening to the names. When you say [i]the girl in the pink cardigan[/i] she puts hers in, and says it after you, and gets up, and goes. Then a Rookhallow boy does the same, further along. Then somebody else. By the time your hands are empty, there's a little ragged line of people behind you, all down the bed, kneeling where you've knelt, saying the names of people none of you ever met.
+
+    Nobody says anything about it, afterwards. You just stand up, all of you, with your wet knees, and look at each other, and look away.
+
+You come out of the Glasshouses at one o'clock, blinking, into the cold, with soil in the creases of your knuckles and the wet patches on your knees going icy in the wind. The heat comes off you in a faint steam for a minute, as if you've brought a bit of the Winter Garden out with you, and then the March air takes it.
+
+Out here, all down the slope in front of you, the snow's gone off the lawns at last, and the Mere's blue again, and there are lambs in the fields on the far shore, small and white and bouncing as if the ground's too hot to stand on. In the hedges along the shore path, for the first time since November, you can hear birds.
+
+You stand there and listen to them for a while, with your black hands in your pockets, while people stream past you up the steps to lunch. A blackbird, very close, in the holly by the door. Something smaller and fussier further off. You'd forgotten. That's the thing. You'd forgotten there was a noise the world made when it wasn't frightened, and here it is, all along the hedge, as if nothing happened, as if nothing could. You don't know whether that makes it better or worse. You stand and listen until {fam_name} gets bored and tugs at your sleeve, and then you go in.
 *page_break
 *comment ---------------------------------------------------------------- CH19.OFFER.01
 *sid CH19.OFFER.01
@@ -133,12 +173,40 @@ They both look at you.
     She goes. You hear her boots on the stair, going down, all the way to the bottom.
 
     @kestrel:warm When she's gone, the Headmistress comes and stands in front of you and puts her good hand on your shoulder, and doesn't say anything at all. The fire ticks. Up on the wall, Hester Wren looks down at the two of you, and you could swear the crooked painted mouth has gone a little more crooked. "Thank you," the Headmistress says at last. "For staying. I know what it costs." She takes her hand away. "I'm going to ask a great deal more of you before June. I'd like you to know I know that, too."
+
+    She goes back to the desk and sits down behind it, carefully, favouring the arm, and for the first time since you came in she looks every one of her seventy-one years. The map's still lying there, held flat by its teacup and its inkwell. She looks at the little black square on the edge of the Fen for a moment, then takes the weights off the corners one by one and lets it roll itself up.
+
+    *page_break
+
+    @kestrel:tired "She's not wrong, you know," she says. "Sabine. She's very rarely wrong. It's the most exasperating thing about her." She puts the rolled map in a drawer and shuts it. "I've known her since she was a girl with a fringe and a temper. She'll bring her forty Lamplighters, and she'll fill my castle with them, and they'll stand on my stairs and frighten my first-years and tread mud into the carpets. And I'll be glad of every one."
+
+    She folds her hands on the desk.
+
+    @kestrel:warm "Go and get your supper," she says. "There's treacle tart. Mrs Pettigrew found out it was the Greening and lost her head a little. And {name}." You stop at the door. "Wash your hands first. You've still got half the Winter Garden under your nails."
   #"I'll go. If it keeps him away from the school, I'll go."
     *set order_offer "leave"
     *set nerve +5
     @kestrel:grave The Headmistress closes her eyes. She doesn't argue. She doesn't say anything at all, and the silence goes on until you think she isn't going to. "Then go," she says at last, very quietly. "And come back." She turns back to the window. "Monday. The morning train. Say your goodbyes."
 
     @arkwright:neutral "You're doing the right thing," says the Commander. She doesn't sound as sure as she did.
+
+    She rolls up the map, carefully, taking the teacup and the inkwell and the paperweight off the corners one by one and setting them back where they belong on the Headmistress's desk, as if she's tidying up after herself in somebody else's kitchen. The book she leaves where it is. She ties the map with a bit of grey tape from her pocket and holds it out to you.
+
+    @arkwright:neutral "Learn it," she says. "Every channel. Every causeway. Where the ground goes soft. The Fen kills more people than he ever has, and it's never once meant to." She waits until you've taken it. "Monday, then. I'll have Penrose meet you at the platform. He's young, but he's careful, and he talks enough for two, so you won't have to."
+
+    The map is lighter than you expected. You hold it on your knees and don't know what to do with your hands.
+
+    *page_break
+
+    @arkwright:neutral "Imelda," says the Commander, at the door, to the Headmistress's back. Then, when there's no answer: "I'll look after them."
+
+    @kestrel:grave "You'll look after the plan," says the Headmistress, without turning round. "I know you. Look after them as well." And then, so quietly you almost miss it: "Please."
+
+    The Commander stands a moment in the doorway with her hat in her hand. Then she nods to nobody and goes, and her boots go down and down the stair and fade.
+
+    You stay where you are. You're not sure you've been dismissed. The Headmistress stands at the window with the last of the light going off the Mere in front of her, and the fire going down behind, and doesn't speak, and doesn't send you away, and after a while you understand that she isn't going to do either. So you sit with her. Up on the wall, Hester Wren watches the pair of you out of the dark. The weathervanes creak round on the ceiling, one by one, as the wind changes, until they're all pointing north.
+
+    @kestrel:tired "Go on," she says at last, very gently. "Go and have your supper. You'll want to tell your friends before the house finds out some other way."
 
     You go down the long stair on your own. It's dark now, and the lamps are lit on every landing, and every one of them, as you pass, leans towards you a little, the way they always have, as if they're sorry to see you go.
 *if order_offer = "leave"
@@ -153,6 +221,12 @@ They both look at you.
 You try to relight Toby on Sunday night, when the Infirmary's quiet, with the lamps turned down.
 
 You've thought about little else since the Quiet, and since St Ide's, a week ago, about nothing else at all. Not since Maisie Tully, and the spark at the bottom of her like the last coal in a grate.
+
+You don't eat much at supper. Nobody notices; nobody's eating much this month. You sit in the common room afterwards with a book open on your knee at the same page for an hour, while the fire spits and somebody's familiar chases a moth along the bookshelves and two third-years play a game of cards without speaking, and at a quarter to ten you close the book and get up. {fam_name} gets up with you, before you've so much as looked at it, and comes to heel, and stays there, very close, all the way down.
+
+The corridors are empty. Sunday nights always are. The lamps on the landings lean as you pass, the way they do, and you find yourself putting a hand out to each one, as if you're touching wood. Outside the Infirmary doors you stop, and stand there, and listen to your own heart going, and wait for it to slow down. It doesn't. You go in anyway.
+
+*page_break
 
 The Infirmary at ten o'clock on a Sunday is the quietest place in the castle. The long ward is dim, just the one lamp lit at Matron's desk and a nightlight at the end of each row. Somebody's snoring, gently, behind a curtain. The other four hollowed are asleep, or lying with their eyes open in the dark, which is the same thing, for them. Outside the tall windows the Mere is black and still, and there's a thin new moon over the hills, lying on its back.
 
@@ -219,7 +293,15 @@ You put the piece of your flame into the swept grate at the bottom of Toby Quill
 
   @toby:tired "Custard," says Toby, into Priya's hair, wonderingly, as the hare climbs out from under both of them and sits on his chest and glares at him. "Custard, you're so [i]fat[/i]. Who's been feeding you?" And then, as Priya laughs into his neck: "Priya. Why am I in the Infirmary? Did I fall off something?"
 
+  *page_break
+
   Nobody tells him. Not tonight. Tonight Priya just holds on, and Noor sits on the floor, and you sit on the edge of the bed with your hands going colder and colder, and Toby, bewildered, pats everybody within reach.
+
+  After a while Matron's voice says, from the other side of the curtain, "Is everything all right in there?" in the tone of somebody who has heard a great deal of noise and would like a reason. Noor gets up off the floor and wipes her face with both hands and puts her head out between the curtains, and you hear her say, "Yes. Yes. Come and look," in a voice that doesn't sound like her at all. Then Matron's face appears in the gap, round and sleepy and cross, and sees Toby, and goes perfectly still.
+
+  @toby:tired "Hello, Matron," says Toby, over Priya's shoulder. "Sorry about the noise. I think something's happened. Nobody'll say what." He looks round at all of you. "Has something happened?"
+
+  Matron doesn't answer. She puts her hand over her mouth, exactly the way Priya did, and stays like that, and down the dim ward behind her, one by one, the other beds start to creak as people sit up to see.
   *achieve relit_toby
 *else
   For a while, nothing. A minute. Two. The nightlight flickers.
@@ -242,6 +324,16 @@ You put the piece of your flame into the swept grate at the bottom of Toby Quill
 
   Noor wraps the blanket round your shoulders and puts the hot-water bottle in your lap and your hands round it, and holds them there, hard. She doesn't say anything. She doesn't need to. Her face is saying it for her.
 
+  For a while the three of you just sit there inside the drawn curtains, in the dim, and nobody moves. Noor's thumb is pressed to the inside of your wrist, counting. Priya has Toby's hand in both of hers, and she's looking at his face as if she can find the place the flicker went. Toby lets her. He's gone back to watching the Mere, through the gap in the curtains, where the thin moon's lying on the water.
+
+  @noor:grave "Ninety," says Noor, eventually, to herself. "Ninety and thready. Right." She takes her hand away and stands up, stiffly, and you see that her own hands aren't steady either. "That's the end of that, tonight. Don't argue with me. You'll lose."
+
+  You weren't going to argue. You haven't got anything to argue with.
+
+  @priya:sad Priya kisses Toby's knuckles, once, and lays his hand back on the blanket, on top of the hare, and smooths the blanket out round it as if she's tucking him in. "Night, Tobes," she says. "I'll be here in the morning."
+
+  @toby:hollowed "That's nice," says Toby, kindly, to the Mere. "Goodnight."
+
 You don't remember getting back to your bed. Noor says you walked. You don't remember. You sleep for fourteen hours, and when you wake up, you're cold in a way you've never been cold before, deep down, where your flame lives, and it doesn't go away all day. You sit in the sun on the south terrace in two jumpers and your coat, and it doesn't touch it. Something's been spent that doesn't come back.
 *page_break
 *comment ---------------------------------------------------------------- CH19.ROUTE.01
@@ -254,6 +346,20 @@ On Monday night, you go up to the Observatory roof, because it's the highest pla
 It's a long way up. Two hundred and twelve steps, round and round inside the tower, past the Starreading classroom with its brass orreries ticking in the dark, past Professor Solano's door with the silver stars painted on it, up the last iron ladder and out through the hatch. The wind catches you at the top and nearly takes the hatch out of your hands. The roof is flat and leaded, with a low stone parapet all round it and a great bronze telescope in the middle under a tarpaulin, and from up here you can see the whole of Wrenfold: the four towers, the Glasshouses glinting, the Lantern Hall's long roof with its patches of dark and gold, the boathouse, and the one lit window of Mr Tully's cottage down at the edge of the black water.
 
 The cold out here isn't worse than the cold in you. But the stars are out, all of them, the whole spring sky, and the Mere's black and still below, and it's the first clear night in a month. You sit down with your back to the parapet and {fam_name} in your lap, and look up, and for a while you don't think about anything.
+
+*page_break
+
+Then, because you can't help it, you do.
+
+You think about the swept grate at the bottom of Toby, and the piece of yourself you put in it. {@toby_lit|It's still there. You can feel it, if you go looking: a small white warmth, a long way off, down in the Infirmary, burning in somebody else. It doesn't feel like yours any more. It feels like his. You suppose that's the point.|It's gone. You felt it go out. You keep feeling for it anyway, the way your tongue keeps going to the gap where a tooth was, and finding nothing, and going back.} And in the place where it came from, in the middle of you, there's this: the cold. Not a sharp cold. A patient one. It sits under your breastbone like a stone at the bottom of a well, and the sun didn't reach it on the terrace, and the fire didn't reach it in the common room, and you're beginning to think nothing will.
+
+Hester wrote one line about it, and you've read that line so often in Idris's copy that the page has gone soft. She didn't say whether it grows back. She didn't say how many times you can do it before there's nothing left to give. You'd give a great deal, tonight, for one more line.
+
+*page_break
+
+You put your hand flat on {fam_name}'s side and feel it breathe, quick and warm, and count the breaths, the way Noor counts pulses, until you've lost count. The bronze telescope creaks under its tarpaulin as the wind leans on it. Far down below, a door bangs, and somebody laughs in a corridor, and the laugh comes up the side of the tower to you thin and small, as if from another country. One by one, along the front of Larkspire, the dormitory windows go dark.
+
+The stars don't care about any of it, which is a comfort, in its way. They just go round.
 
 You're not alone for long.
 *if (b_rowan_fire and b_rowan_afraid and (hurt_rowan < 2)) or (b_imogen_kit and b_imogen_order and (hurt_imogen < 2)) or (b_saoirse_still and b_saoirse_run and (hurt_saoirse < 2)) or (b_cas_family and b_cas_debt and (hurt_cas < 2)) or (b_noor_carry and b_noor_rest and (hurt_noor < 2)) or (b_idris_file and b_idris_suspect and (hurt_idris < 2))
@@ -437,12 +543,52 @@ You're not alone for long.
       *set nerve +5
       You call down the stair: [i]not tonight.[/i] There's a pause, and then the footsteps go back down, slowly. You're sorry, and you're not.
 
-      You sit on the roof alone, with the whole spring sky, and your cold, and think about Toby, and about Midsummer, and about what you're going to have to do. The light in Mr Tully's window goes out at eleven. The stars go round. {fam_name} falls asleep in your lap, a small warm weight, the only warm thing on the roof, and you stay until your feet are numb, and then a while longer.
+      You sit on the roof alone, with the whole spring sky, and your cold, and think about Toby, and about Midsummer, and about what you're going to have to do. The stars go round. {fam_name} falls asleep in your lap, a small warm weight, the only warm thing on the roof, and you stay until your feet are numb, and then a while longer.
+
+      At some point you realise you're talking. Not out loud, quite. Under your breath, to the stars, or to {fam_name}, or to nobody. You tell it about the swept grate. You tell it you're frightened, which you haven't said to anyone, not in so many words, not once since the fifth of March. It doesn't sound like much, said into the wind on a roof. It sounds like something anybody might say. That helps, a little.
+
+      Just after ten, a tiny light comes out of the cottage door down by the water and starts along the shore path, bobbing. Mr Tully, with his taper, on his round. You watch it go from lamp to lamp along the edge of the Mere, and every lamp it touches brightens behind it, one and then the next and then the next, until there's a necklace of them all round the black water, and the little light turns up towards the castle and you lose it under the walls. At eleven, the window of the cottage goes dark.
+
+      You find you've been holding your breath. You let it out, white, and it blows away over the parapet, and you stay where you are.
 *else
   *if (st_rowan >= 3) or (st_imogen >= 3) or (st_saoirse >= 3) or (st_cas >= 3) or (st_noor >= 3) or (st_idris >= 3)
-    Somebody comes up the stair after a while, a friend, out of breath from the climb, and sits down beside you without a word, and you sit together on the cold roof watching the stars. Nobody says anything that matters. You pass a bar of chocolate back and forth until it's gone. It's enough. It's a lot, actually.
+    Somebody comes up the stair after a while, a friend, out of breath from the climb. You hear them on the iron ladder, swearing softly at a rung, and then the hatch lifts and lets out a square of lamplight and a head, and the hatch drops shut again, and they pick their way across the leads to you in the dark and sit down beside you without a word.
+
+    You don't say anything either. You don't need to. They've brought a bar of chocolate, the cheap sort from the tuck cupboard, the sort that's more sugar than chocolate, and they break it in half along the line and hand you your half without looking, and you sit together on the cold roof and eat it in small squares, slowly, watching the stars.
+
+    *page_break
+
+    It's very quiet. The wind's dropped. You can hear the water lapping at the boathouse, a long way down, and a sheep on the far shore complaining about something, and the telescope ticking under its tarpaulin as the metal cools. Once a shooting star goes over, low, from the Owlcombe tower towards the hills, quick and white, and you both say "Oh" at exactly the same moment, and then laugh at yourselves for saying it, and then go quiet again.
+
+    Just after ten, a tiny light comes out of the cottage door down by the water and starts along the shore path. Mr Tully, with his taper. You watch it go from lamp to lamp round the edge of the Mere, and every lamp it touches brightens behind it, until there's a ring of them all round the black water. Neither of you says anything about it. Your friend's shoulder leans a little against yours, and stays.
+
+    Nobody says anything that matters, all night. You pass the last square of chocolate back and forth three times, out of politeness, until somebody finally eats it. It's enough. It's a lot, actually. You'd forgotten how much it can be, just to have somebody climb two hundred and twelve steps in the dark to sit next to you and not ask.
   *else
-    Priya comes up the stair after a while, with two mugs of tea and a blanket, and sits down beside you without a word, and puts the blanket over both your knees. {@toby_lit|"Toby wanted to come," she says. "Noor won't let him out of bed yet. He sent me instead, and he sent this." It's a slightly squashed rock bun, wrapped in a napkin.|"Toby would've come," she says. "So I came."} You drink the tea and watch the stars.
+    Priya comes up the stair after a while, with two mugs of tea and a blanket. You hear her before you see her: the clink of the mugs, the iron ladder, a muttered word you've never heard her use. Then the hatch lifts, and she backs out onto the roof with the blanket over one shoulder and a mug in each hand, and both mugs are only half full now, because of the ladder, and the front of her cardigan is soaked.
+
+    She doesn't say anything. She just sits down beside you, and gives you the fuller mug, and puts the blanket over both your knees, and tucks it under your feet as well, the way you'd do it for a child.
+
+    *page_break
+
+    {@toby_lit|"Toby wanted to come," she says. "Noor won't let him out of bed yet. He tried to get up twice and she sat on his feet. He sent me instead, and he sent this." It's a slightly squashed rock bun, wrapped in a napkin. "He made the kitchens give him the ingredients. He made it in bed. On a tray. Don't ask me how." She watches you take a bite. "It's burnt on the bottom. He said to tell you that's on purpose."|"Toby would've come," she says. "So I came." She looks down at her mug. "I sat with him till Matron sent me out. He asked me what my name was again tonight. He's very sorry he keeps forgetting. He said I've got a nice face." She takes a mouthful of tea. "I've decided I'm going to take that as a compliment."}
+
+    You drink the tea and watch the stars. It's gone lukewarm on the climb, and she's put too much sugar in, the way Toby always did, and you don't say anything about either.
+
+    She knows the stars, it turns out. You didn't know that. She points them out to you with the hand that isn't holding her mug, one after another, in a low voice: the Plough, and the bright one at the end of its handle, and the faint smudge of a cluster low down over the hills that her grandad used to show her from the back step. "He said they were sisters," she says. "Seven of them. You can only ever see six. One's always hiding." She drops her hand. "I used to think that was the saddest thing I'd ever heard. I was about seven."
+
+    "And now?"
+
+    She thinks about it. "Now I think at least they know where she is," she says. "At least she's still up there, and they can all keep an eye on her."
+
+    You sit with that for a long time, the two of you, under the blanket, with the tea going cold.
+
+It's past midnight when you finally go down. The hatch is stiff with cold and the iron ladder bites through your gloves, and the two hundred and twelve steps are darker going down than they were coming up, because somebody has turned the lamps down on the landings for the night. They lift a little as you pass, one after another, all the way down the tower, like people raising their heads as you go by.
+
+Past the Starreading classroom, where the orreries are still ticking to themselves in the dark. Past Professor Solano's door with its silver stars. Down into the warm, and along the long corridor, where the portraits are asleep in their frames and one of them, an old man in a ruff, is snoring.
+
+You get into bed with your socks still on. {fam_name} turns round three times on your feet and settles. The cold's still there, in the middle of you, under your breastbone, where the sun couldn't reach it. It's going to be there tomorrow, you think. It might be there for good.
+
+But you can feel the roof on you, too, somehow: the stars, and the wind, and the long view over the black water to the far shore. You lie in the dark and hold on to that instead, and after a while, without noticing, you sleep.
 *goto after
 *comment ================================================================ leave
 *label leave
@@ -454,7 +600,35 @@ You're not alone for long.
 *present arkwright jory familiar
 On Monday morning, you leave Wrenfold.
 
-You pack your trunk on Sunday night, by lamplight, with your roommate pretending to be asleep. Your robes, your books, your wand, the white candle{@candle = "kept"|, still burning, wrapped in a sock|}. The handbook you never finished. The stone from the Mere you picked up in September for no reason. You don't pack your house scarf; you leave it folded on your bed, for when you come back. You go down to the Infirmary late, after the lamps are turned down, and sit with Toby for a while. He tells you it was very nice to meet you. You tell him the same.
+You tell your house at supper on Saturday, because you can't think how else to do it. You stand up at the end of the table, with your knife still in your hand, which you only notice afterwards, and say it, plainly: you're going away for a while, with the Order, on Monday, and you can't say where. The table goes quiet, and then the tables either side of it go quiet, and you sit down again with your face hot and wish you'd done it any other way at all.
+
+Nobody asks why. That's the thing you'll remember. A whole table of people who must want to, and nobody asks. A second-year passes you the gravy. Somebody's familiar, a fat grey toad, climbs out of a pocket and sits beside your plate and looks at you. After a while, the noise comes back, a bit at a time, the way it does after a dropped tray.
+
+*page_break
+
+On Sunday evening, in the common room, people keep coming up to you. Not many words. A hand on your arm on the way past. A first-year you've barely spoken to brings you a paper bag of toffees from home and goes red and runs away. Somebody's made a card, out of the back of a Brewing worksheet folded in half, with a wren drawn on the front in biro, not very well, and it goes round the room from hand to hand while you pretend not to notice, and when it reaches you it's signed by everybody, all over, in every colour of ink, even up the sides. [i]Come back.[/i] [i]Come back soon.[/i] [i]Don't let them feed you fen eels.[/i] [i]COME BACK.[/i] You put it in your coat pocket, inside, where it won't bend.
+
+You pack your trunk on Sunday night, by lamplight, with your roommate pretending to be asleep. You can tell they're pretending because they keep turning over, and sighing, and once, when you drop a boot, they say "Sorry," for no reason, into the pillow.
+
+Your robes, your books, your wand, the white candle{@candle = "kept"|, still burning, wrapped in a sock|}. The handbook you never finished. The stone from the Mere you picked up in September for no reason, smooth and grey and banded with white, that's sat on your windowsill all year. You hold it a while before it goes in. You don't pack your house scarf; you leave it folded on your bed, on top of the pillow, for when you come back. {fam_name} sits in the open trunk the whole time and has to be lifted out of it twice, and the second time it bites you, not hard, as if to say that it's coming too and would like that understood.
+
+*page_break
+
+You go down to the Infirmary late, after the lamps are turned down. Matron looks up from her desk as you come in, and sees your face, and goes back to her book without a word.
+
+Toby's awake, sitting up by the window with the hare on his knees, watching the black Mere, the way he always is. Priya's chair beside him is empty for once; somebody's finally made her go to bed. You sit in it. It's still warm.
+
+"I'm going away tomorrow, Toby," you tell him. "For a bit. I wanted to say goodbye."
+
+He turns from the window and looks at you, pleasantly, with his fog-coloured eyes, the way he'd look at a stranger on a bus. "That's nice," he says. "Somewhere nice?"
+
+"Not really. A fen."
+
+"Oh." He thinks about it, slowly, as if it's a puzzle someone's handed him. Custard shifts on his knee. "I've never been to a fen," he says. "I hope it's nice." Then, kindly, in the tone you'd use for a child at a party: "It was very nice to meet you."
+
+You tell him the same. It's the only thing you can think of to say that's true. Then you sit with him a while longer, not talking, with your hand on the blanket next to his, and watch the water with him, until Matron comes and touches your shoulder and says, gently, that it's very late.
+
+*page_break
 
 It's a bright, blowing morning. You go down to the boats at eight with {fam_name} and two Lamplighters, and the Mere is blue and choppy, with white on it, and the wind snatches at your coat. The castle behind you is enormous and grey and full of faces at the windows, watching you go. You don't look back until you're halfway across. Then you do, and it's smaller than you thought it would be, and it's the most beautiful thing you've ever seen.
 
@@ -480,11 +654,23 @@ At Platform Nought, the Lantern Train is waiting, steam rolling off it in the co
   *present idris
   @idris:hurt Idris came. He gives you a notebook: his notes on Kindlers, all of them, twelve years' worth, in his cramped tiny hand. "You'll need them more than I will," he says. Then, as the whistle goes: "I'll write. Every day. Answer some of them."
 *else
-  Nobody came. That's all right. You said your goodbyes last night, in the common room, and people hugged you and said [i]come back[/i], and you said you would. Somebody had made a card. Everybody had signed it. It's in your coat pocket, and you keep putting your hand on it.
+  Nobody came. That's all right. You said your goodbyes last night, in the common room, and people hugged you and said [i]come back[/i], and you said you would. The card's in your coat pocket, and you keep putting your hand on it to feel it's still there.
 
 @arkwright:neutral The Commander puts a hand on your shoulder as you climb aboard. "Right decision," she says. Then, quieter, looking back at the castle across the water: "I hope."
 
+*page_break
+
 The train pulls out. The platform slides away, and the lake, and the boathouse, and the castle on its hill, getting smaller and smaller in the steamed-up window until it's just a shape, and then a glint, and then the line curves into the hills and it's gone. You sit with {fam_name} in your lap and your hand on the window, and Jory, opposite, very kindly, looks out of the other one.
+
+He lasts nearly twenty minutes. Then, as the train comes out of the hills onto the long flat valley and the sun comes through the window in a sheet, he clears his throat and produces a paper bag from his greatcoat.
+
+@jory:neutral "Mint humbug?" he says. "My gran's. She sends them every month. She thinks the Order doesn't feed us." He holds out the bag. "She's right, mostly."
+
+You take one. It's enormous, and striped, and tastes of somebody's kitchen a long way off. Jory takes one too and stows it in his cheek, and for a while the two of you suck humbugs in silence, and watch the fields go by, flooded silver in the hollows, with rooks going up off them in black handfuls as the train goes past.
+
+@jory:neutral "It does get better," he says, after a while, round the humbug. "Leaving. Not straight away. But one morning you wake up and it's just a place you're from." He looks out of the window. "Then you go back, and it's home again, the minute you walk in. That's the trick of it. It waits for you."
+
+You keep your hand on the card in your pocket, and the humbug in your cheek, and watch Wrenfold's valley go by behind you, and decide to believe him.
 *label after
 *journal [b]Chapter 19.[/b] The Greening: a seed for everyone, in the Glasshouses. Commander Arkwright offered to take you out of Wrenfold, to the Fen, as bait. {@order_offer = "leave"|You went with the Order.|You stayed.}{@toby_lit| You gave Toby a piece of your own flame, and it caught, gold, his colour, and he came back, and asked if the cake caught fire.|}{@(order_offer = "stay") and not(toby_lit)| You tried to relight Toby. There was nothing left in him to kindle, so you gave him a piece of your own flame; it caught for one second, and he said your name, and it went out. Not yet.|}{@final_rel = "rowan"| On the Observatory roof, Rowan told you what he wanted. You said yes.|}{@final_rel = "imogen"| On the Observatory roof, Imogen told you what she wanted, for herself. You said yes.|}{@final_rel = "saoirse"| On the Observatory roof, Saoirse stood still for you. You said yes.|}{@final_rel = "cas"| On the Observatory roof, Cas said it without a sneer. You said yes.|}{@final_rel = "noor"| On the Observatory roof, Noor asked for something for herself. You said yes.|}{@final_rel = "idris"| On the Observatory roof, Idris stopped studying you. You said yes.|}
 *page_break

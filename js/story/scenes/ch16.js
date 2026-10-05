@@ -13,13 +13,27 @@ It's been a grey, sore, watchful week. Rowan is out of the Infirmary by Tuesday,
 
 Imogen has been in the Long Stacks every hour she isn't in a lesson. You know because you've been bringing her sandwiches, and taking them away again uneaten, and bringing new ones. She's got the catalogue card spread out in front of her on the reading table, under a magnifying glass, and beside it a long list in her small fierce handwriting, which she won't let you read.
 
+*page_break
+
 "What is it?"
 
 @imogen:neutral "Every file signed out of the Owlcombe archive in the last twenty years," she says, without looking up. "Don't ask me how I got it. You'd have to testify."
 
+"Have you eaten anything today?"
+
+@imogen:neutral "I had an apple." She turns a page. "Part of an apple. It's a process of elimination, a list like this. You go through it name by name and you rule people out, and the one you can't rule out is the one." She makes a small neat tick in the margin. "Kit used to say I'd make a terrible detective because I'd never stop to sleep and I'd miss the obvious thing. He was wrong about the first part." She doesn't say anything about the second.
+
+You put the sandwich down by her elbow, cheese and pickle, the kind she ate once in November and said was adequate, and sit down across from her with a book you aren't going to read, and keep her company. That's most of the week, really. The long reading room going dim as the afternoons close in. The rain on the high windows. Miss Dunne up in her lit office window like a lighthouse keeper, with her pen going. The scratch of Imogen's nib, and the tick of the clocks, and the occasional small furious noise she makes when a name won't rule itself out.
+
 *page_break
 
-On Saturday night, at a quarter to nine, she runs her finger down the list for what must be the fortieth time, and stops, and goes back up, and stops again. Then she stands up so fast her chair goes over.
+Idris is there most evenings too, at the far end of the same long table, with his own books, as he's been all winter. He and Imogen don't speak, these days. They seem to have a sort of treaty about it. Once, on the Thursday, she runs out of ink, and without looking up he slides a bottle down the table to her, the whole length of it, and it stops exactly at her elbow, and she says "thank you" without looking up either, and that's as near as they come to a conversation all week.
+
+You catch him watching her list, though. Not reading it; he couldn't, from there. Just watching her go down it, line by line, the way you'd watch weather coming across a lake.
+
+*page_break
+
+On Saturday night the library's nearly empty. It's sleeting outside, hard, rattling on the windows in gusts, and most of the castle is in its common rooms by the fire, and the Long Stacks has that late, hushed, end-of-the-week feeling, with the lamps turned low and the clocks very loud. At a quarter to nine, Imogen runs her finger down the list for what must be the fortieth time, and stops, and goes back up, and stops again. Then she stands up so fast her chair goes over.
 
 @imogen:angry "You've got it," she says. She's standing at the end of the long reading table where Idris is sitting with his books, and her voice rings off the shelves. Up in her office window, Miss Dunne's head comes up like a startled bird. "Morrow's file. His school file. It's been missing from the Owlcombe archive since last year, and you're the only person who's signed out a single thing from that archive in six years, and you walk round this library at two in the morning with a satchel you won't let anybody near." She puts both hands flat on the table. "You've got it. And I need it. Now."
 
@@ -81,6 +95,10 @@ Nobody says Cas's name. Nobody has to.
 The Weathervane Room at dusk on a Monday in February is full of dying light and rain.
 
 It comes in grey through the tall windows and lies on the worn rugs and the heaped desk and the teacups nobody's cleared away. The fire's lit, and spits. Up on the ceiling, the hundred weathervanes turn slowly on their pins, all pointing different ways, cockerels and ships and running hares and one small iron wren, and every so often one of them creaks round a few degrees, as if the weather in some far-off place has changed its mind. Above the fireplace, in her cracked gilt frame, the painted founder watches with her bright wren-brown eyes.
+
+You came up the long stair with Imogen at four, through a castle that smelled of wet coats and toast, past the gargoyle on the landing that always sneezes when it rains. Imogen didn't speak the whole way up. She carried the file against her chest with both arms, the way people carry babies or bombs, and at the top she stopped outside the door, and took a breath, and straightened her collar, which was already straight, and then she knocked: three knocks, exactly, like a summons.
+
+*page_break
 
 The Headmistress has sent for Cas. He came in last, and he's standing by the door with his back very straight and his hands behind him, and he hasn't sat down, though there's a chair. You can hear him turning his signet ring, round and round, behind his back.
 
@@ -184,11 +202,27 @@ You watch it land on him. Not all at once. In pieces, the way the cold gets into
 
 @kestrel:neutral The Headmistress doesn't stop her. She's watching Cas. "There's one more thing," she says. "Lucius is dead. Cornelius is long dead. But Honoria Drummond is still alive. Lucius's widow."
 
+*page_break
+
 @cas:guarded "My grandmother," says Cas, flatly.
 
 @kestrel:neutral "Eighty-eight. At Hollin Ferry, in the old house. Cornelius took that journal home, and it never came back. If anyone living knows where it went, it's her." She sighs. "I've written to her four times in thirty years. She's never answered."
 
 @cas:guarded Cas straightens up, off the door frame. The sneer's not back. Something colder is, something with a spine in it. "She won't answer a letter from you," he says. "She'll answer me."
+
+@kestrel:neutral The Headmistress looks at him across the room, over the file and the card and her cold tea. "Are you sure, Casimir?"
+
+@cas:guarded "No," says Cas. "But I'll write tonight. Before I lose my nerve." He turns the signet ring once more, a full slow circle, and then stops, and looks down at it on his finger, at the Drummond crest worn almost smooth, as if he's never really seen it before. He closes his hand over it. Then he opens the door and goes out, and you hear his footsteps going away down the long stair, not fast, very even, all the way to the bottom.
+
+*page_break
+
+Nobody says anything for a moment after he's gone. The rain runs down the windows. Up on the ceiling the weathervanes turn, slow and creaking, and the little iron wren among them swings round to point at the door, as if it's watching him go.
+
+@kestrel:tired The Headmistress takes her reading glasses off and rubs the bridge of her nose. She looks, in the grey light, every one of her years and a few besides. "Go and have your tea, both of you," she says. "There's nothing more to be done tonight." She glances at the file still lying open on her desk, at the laughing boy in plum and silver. "Leave that with me. I'd like to sit with him for a while."
+
+@imogen:neutral Imogen hesitates, as if she might argue, as she always argues. Then she doesn't. She gathers up her notebook, and the card, which she looks at for a moment and then lays back down beside the photograph, squared to its edge. "Goodnight, Headmistress," she says.
+
+You go down the long stair together. Halfway down, under a lantern, she stops, and puts her hand flat on the cold stone wall, and stands there breathing. "I was right," she says, to the wall. "I'm always right. I've never minded before." Then she takes her hand away, and goes on down, and you go with her, and neither of you says another word all the way to the Hall.
 *page_break
 *comment ---------------------------------------------------------------- CH16.HONORIA.01
 *sid CH16.HONORIA.01
@@ -328,6 +362,14 @@ You turn the pages. The fort on the edge of a black lake, draughty and leaking. 
 
 You both go still at that. Neither of you says anything. You turn the page.
 
+The next entry is about a cow. Somebody's cow has got into the herb garden and eaten all the feverfew, and Hester is very cross about it, at length, in a hand that digs into the paper. The one after is a list of what they've got in the stores for winter: barrels of salt herring, oats, sixty candles, one cask of ale "which Tom says is medicinal." You read that one out too, and the Headmistress laughs again, more easily this time, and leans back in her chair with her cup held against her chest.
+
+*page_break
+
+@kestrel:warm "Sixty candles," she says. "For the whole winter. For all of them." She looks up at the ceiling, where the weathervanes turn, and past it, you think, to the Lantern Hall far below, and its ten thousand lanterns. "She'd have thought we'd gone mad."
+
+You read on. There's a page where she's pressed a flower, a small blue one, flat and brown now, with a single word under it you can't make out. There's a page with a child's drawing on it, a stick figure with flames for hair, and under it, in Hester's hand: [i]Agnes, aged seven, of herself. Very like.[/i] There's a page that's only a line long: [i]Buried Nell today.[/i] The Headmistress reaches over and puts her hand on the page for a moment, flat, the way you'd put your hand on someone's shoulder. Then she takes it away, and you go on.
+
 The hand gets shakier as the pages go on, and the entries shorter, and further apart. Then, near the end, there's a page that's different. The writing is small and careful, as if she took a long time over each word.
 
 [i]I am old and I will not see many more winters, and I will not leave them without a light. So I have gone down into the root of the rock under the Hall, as far as the stone goes, and I have taken my flame out of myself, which is a thing only a Kindler can do, and left it there, burning. It will light their lanterns and hold their wards when I am gone. I call it the Heartfire. I have told no one but Tom.[/i]
@@ -384,11 +426,21 @@ Underneath, the last words she wrote:
 
 @kestrel:neutral The Headmistress leans over to look, and puts one finger, very lightly, beside the little drawn wren at the top of the page. "In the roosts," she says. "Four hundred years, the lanterns have been flying up to them every September. I've stood under them more Septembers than I can count." She sits back. "And I never once thought to listen."
 
+*page_break
+
 @hester:neutral Above the fireplace, in the tea-coloured varnish, the painted old woman in the oilskin coat, who has been watching you read her diary all evening with her bright wren-brown eyes, says, in a voice like wind in a sail:
 
 @hester:neutral "Took you long enough."
 
 @kestrel:surprised The Headmistress nearly drops her tea. You nearly drop the journal. The portrait of Hester Wren looks down at you both, cracked and crooked-smiling, and says nothing else at all, and won't, however much the Headmistress asks, all night.
+
+She does ask. She stands up, with her tea slopping into the saucer, and goes and stands in front of the fireplace with her face turned up to the painting, and says "Hester?" and then "Founder?" and then, in a voice you've never heard her use, half cross and half pleading, like someone knocking on the door of a house where they know there's someone home: "Four hundred years, and that's all you've got to say?"
+
+The portrait looks back at her, bright-eyed, crooked-mouthed, painted. A log shifts in the grate. Up on the ceiling the little iron wren creaks round, all on its own, and points north.
+
+@kestrel:amused The Headmistress stands there a moment longer. Then she laughs, a real one this time, short and helpless, with her hand over her eyes. "Well," she says. "She always did like the last word." She sits back down, heavily, and picks up her cup, and finds it empty, and puts it down again. "Go to bed, {name}. I'll still be sitting here in the morning, I expect, waiting for her to say something else."
+
+You go. At the door you look back. She's in her chair by the dying fire with her hands folded, gazing up at the painted founder, and the painted founder, as far as you can tell, is gazing right back.
 *journal [b]Chapter 16.[/b] Morrow's school file, and the card for Hester's journal: both signed by C. Drummond, Deputy, in 1986. The Headmistress told the truth: the boy who snuffed Aldric Morrow was Lucius Drummond, Cas's grandfather, and his father covered it up. {@b_cas_family|Cas told you what his family did to him when he didn't kindle. |}In the Crooked Lantern, Honoria Drummond gave you Hester Wren's journal, and Lucius's unsent letters to Morrow: [i]not by accident; I wanted you smaller.[/i] {@b_cas_debt|In the snowy yard, Cas said whatever it costs, he'll put it right. |}In the journal: the Heartfire is Hester's own flame, left in the root of the rock; only a Kindler can lift it out and carry it. That's what Morrow wants you for. And the Wren's Song, all five voices: the wren's to lead, and one kept in each house's roost. [i]Many notes and one heart.[/i]
 *page_break
 *goto_scene ch17

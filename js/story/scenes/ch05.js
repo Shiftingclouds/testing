@@ -11,6 +11,10 @@ The second week goes faster than the first, the way second weeks do.
 
 On Tuesday morning the Brewing Cellars door sticks, and you put your shoulder to it without thinking, and it opens, and you realise you knew it was going to stick. On Wednesday Professor Bassani turns a teapot into a tortoise and back again, twice, crying [i]watch the join, watch the join![/i], and the tortoise, on its second outing, looks deeply fed up. On Thursday morning the Mere is steaming like a bath under a white sky, and you stand at a window on the stairs with your hands round a cup of tea and watch the mist come off it in long slow ribbons, and forget, for nearly a minute, that you're going to be late for Herbwork.
 
+On Wednesday night there's Starreading on the roof of the north tower, with blankets, and flasks of cocoa, and Professor Solano lying flat on her back among you in a long coat, saying [i]look, don't count[/i] every time anybody reaches for a pencil. The sky is enormous. You've never seen so many stars; there are no streetlights for forty miles in any direction, and the Milky Way goes over the castle like spilt sugar. Somebody sees a shooting star and shrieks, and Professor Solano says, without opening her eyes, "Yes. That one's always early." You lie there till your fingers go numb, with your breath going up white into all that dark, and feel very small, and don't mind.
+
+*page_break
+
 {fam_name} learns the castle faster than you do. You come back from lunch on Wednesday to find {fam_name} asleep on the one good radiator on the second floor, in a small circle of admirers, and on Thursday there's a note pinned to the door of your dormitory in large angry capitals, [i]WOULD THE OWNER OF[/i], followed by a detailed description of {fam_name}, [i]KINDLY KEEP IT AWAY FROM MY GOAT. MRS PETTIGREW (KITCHENS).[/i]
 
 Hearth isn't on the timetable as a lesson. It's on the timetable as [i]Hearth (Thursdays, the Hall, bring nothing)[/i]. It turns out to mean the Headmistress, and all forty-three first-years, the same faces that were round you in the Wordcraft Gallery, lying on their backs on the floor of the Lantern Hall at five o'clock on a Thursday, looking up.
@@ -31,7 +35,13 @@ You breathe. In for four. Out for six. Beside you, Toby breathes like someone bl
 
 Toby says "Sorry, Headmistress," to the ceiling, and a ripple of laughter goes down the rows and dies away, and the Hall settles again. Up among the lanterns, one of them turns lazily over, like a fish.
 
+@kestrel:warm "I lay on this floor in my own Burning Year," says the Headmistress, walking on, "a great many years ago, between a girl who snored and a boy who wouldn't stop asking questions. I thought it was the silliest lesson on the timetable." Her footsteps go softly away down the rows and come softly back. "I've taught it for thirty years. It's the only one I'd keep, if they took the rest away."
+
+You breathe. The floor gets less cold, or you get used to it. Down the row, someone's familiar, a big grey cat, has climbed onto its owner's stomach and is going up and down with her breathing like a boat on a swell, purring loud enough to hear from here. Toby's breathing slows. Custard's ears come up, and twitch, and go flat again. The humming of the lanterns gets into you somehow, into your chest, until you can't tell where it stops and you start.
+
 @kestrel:neutral "Now close your eyes," she says, "and picture it. Your flame. Behind your breastbone, where it's been all year. Don't try to change it. Just see it. Hold it the way you'd hold a candle in cupped hands, walking through a draughty house."
+
+*page_break
 
 You close your eyes.
 
@@ -54,6 +64,13 @@ Your heart's going like a drum. You lie very still and stare up at the lanterns 
 She doesn't say anything. After a moment she smiles, slightly, and walks on. "Out for six," she says, to the Hall. "Slowly. Slowly."
 
 At the end, when the lanterns lift back up into the dark and everybody's getting stiffly to their feet and complaining about their backs, you look for her. She's gone. There's only the swing of a door behind the High Table, and a single gold lantern hanging low where she was standing, turning very slowly on the spot, as if it's thinking.
+
+@toby:neutral "I fell asleep," Toby confesses on the way out, yawning, with Custard under one arm like a loaf. "Did you? I think I fell asleep. I was picturing it, my flame, like she said, and I could sort of see it, a bit, small, and then I was dreaming about a bread oven. A big one. Brick. With a door you could walk into." He looks at you. "You've gone a funny colour. Are you all right? Is it the floor? My back's gone. I'm twenty-three and my back's gone."
+
+"I'm fine," you say. "It's the floor."
+
+@toby:warm He believes you, because he's Toby, and starts telling you about the brick oven in detail, all the way to supper, with his free hand making the shape of the door in the air. You walk beside him and say [i]mm[/i] in the right places, and don't look at his cardigan, and don't look at the hare under his arm, and keep your eyes on the ordinary things: the stairs, the lanterns, the backs of people's heads. At supper you eat two helpings of shepherd's pie and can't remember either.
+
 *page_break
 *comment ---------------------------------------------------------------- CH05.NIGHT.01
 *sid CH05.NIGHT.01
@@ -82,6 +99,14 @@ The corridors at night are different.
 The lanterns in their wall-brackets are turned down to embers, and the portraits are asleep, snoring in their frames, and a suit of armour on the second landing has its visor down and a small bird asleep in its helmet. The stairs creak under your slippers. Moonlight comes through the tall windows in long grey bars across the stone. It's cold, and very quiet, and very old. You can smell the lake through the gaps in the window-leading, and old stone, and somewhere, faintly, tomorrow's bread.
 
 {fam_name} goes ahead of you, stopping at every corner to check you're still coming.
+
+You pass the doors of the Lantern Hall on the way, standing a hand's width open, and you can't help it: you stop, and put your eye to the gap. The Hall at night is a cave of soft light. The ten thousand lanterns have come down low over the empty tables and gone dim, gold and rose and green and blue turned to the colours of embers, and they're barely moving, just turning a little on the spot, the way sleepers turn over. The hum's different too: slower, lower, almost a snore. Somebody's left a single cup on the Larkspire table, and a lantern has come down to hang just over it, as if keeping it company.
+
+*page_break
+
+You watch for a minute. It's the most peaceful thing you've ever seen. You close the door the last inch, very gently, so as not to wake anything, and go on.
+
+Somewhere above you a clock strikes the three-quarters, and the sound goes away through the stone in rings. A draught comes down the stair smelling of the lake. You pull your dressing gown tighter and keep your hand on the cold rail.
 
 You're halfway down the main stair when it happens.
 
@@ -166,6 +191,8 @@ He has a key to the Long Stacks. You don't ask how.
 
 He walks fast and says nothing, and you follow him through three corridors you've never seen and down a short stair that smells of dust and beeswax, with {fam_name} close beside you and your arm still aching. Your breath's still coming short. Every so often, through a wall, a sleeping flame drifts past at the edge of your sight, and you look away from it the way you'd look away from a lit window at night, as if you were intruding.
 
+At the bottom of the stair there's a low door, black oak bound with iron, with a keyhole the size of your thumb. Idris takes a key out of his dressing-gown pocket, long and dark and old, and fits it, and turns it with both hands. The lock goes over with a sound like a knuckle cracking. He stands aside to let you go first, and when you hesitate, he says, very quietly, "It's only books," in the voice of someone who doesn't believe that in the slightest.
+
 The library at midnight is a long galleried hall of books under a vaulted roof, with rolling ladders on brass rails and green-shaded lamps on the reading tables, all turned down to a glow. At the far end there's a cage of iron and brass where the restricted books are kept, and it hums faintly, like a beehive. It smells of old paper and cold ash. Idris turns up one lamp at a table in a corner and sits down across from you. {fam_name} settles {@(familiar = "owl") or (familiar = "raven")|on the back of a chair|in your lap}, watching him, very alert.
 
 @idris:neutral For a while he doesn't speak. He takes his glasses off and cleans them on the hem of his dressing gown, and puts them back on, and you get the impression he's using the time. Then he opens a book on the table between you, old and heavy and bound in cracked green leather, and turns it round to face you. It's a woodcut: a woman in a long coat, standing on a shore, with a flame in her open hand, and all round her in the dark, drawn in thin lines, other small flames, in the chests of the people standing near her, and threads running between them.
@@ -173,6 +200,32 @@ The library at midnight is a long galleried hall of books under a vaulted roof, 
 *page_break
 
 You look at it. You know that shore. You don't know how you know it.
+
+"Who is she?"
+
+@idris:neutral "The caption's gone." He touches the bottom of the page, where the paper's been torn away, a long time ago, in a clean line. "Someone cut it out. Someone cut a great many things out of this book." He doesn't seem to want to say more about that. Instead he takes a notebook out of his satchel, small and black and soft at the corners with handling, and a pencil, and opens it to a clean page, and looks at you over the top of it. "May I ask you some questions? You can say no."
+
+You don't say no. You're not sure you could.
+
+@idris:attentive "When the lantern went out. Did it go out all at once, or did it lean first?"
+
+"It leaned. Away from the wall. Then it shrank. Then it went."
+
+@idris:attentive He writes. His handwriting is very small and very fast. "And when you touched the wick. Was it warm?"
+
+"Cold. Like metal left outside."
+
+@idris:attentive "What colour was it? The light, when it caught?"
+
+"White," you say. "White and gold."
+
+His pencil stops.
+
+He doesn't write that down. He sits looking at the page, with the pencil resting on it, and a little dot of graphite spreading where the point's pressed too long. Then he closes the notebook, carefully, as if there's something inside it that might get out.
+
+*page_break
+
+@idris:neutral "And your arm," he says. "It aches. To the shoulder." It isn't a question. You nod. He nods too, slowly, as if you've confirmed a date in a history he's been piecing together for a long time.
 
 @idris:neutral "I study flame-work," he says. "The history of it. The theory. I've been at it for twelve years; I came to Wrenfold so I could keep doing it. There are about four hundred books in this library that touch on what I study, and I've read three hundred and eighty of them. The other twenty are in the cage." He glances at it, down the length of the dark hall, the way someone glances at a locked door in their own house. Then he looks at you, over his round glasses, very steadily. "There's an old word for what you did on the stair. There's one chapter about it, in all those books, in all four hundred years."
 
@@ -204,6 +257,8 @@ You look at it. You know that shore. You don't know how you know it.
     "And you won't?"
 
     @idris:neutral He stands up and turns the lamp down. "I can keep things," he says. "It's what I'm for."
+
+    He says it lightly. It doesn't sound light. In the dimmer lamp his face looks older than it is, as old as the library, and you think, without knowing where the thought comes from, that whatever he's keeping, he's been keeping it a long time, and alone.
   #"You're frightening me. Stop being mysterious and tell me."
     *set nerve +5
     @idris:guarded "Good," says Idris, quietly. "Be frightened. It's the correct response."
@@ -214,6 +269,10 @@ You look at it. You know that shore. You don't know how you know it.
 
     It's the first time he's said please. It sounds as if it cost him something.
 
+    "And if I don't? If I just go to bed and pretend it didn't happen?"
+
+    @idris:guarded He looks at you for a second over his glasses, with the lamp between you. "Then I'll go to the Headmistress myself, in the morning," he says, "and tell her what I saw. And you'll have one fewer person in this castle you can trust, and so will I." He turns the lamp down. "I'd rather not. I'd rather you went."
+
 You go back through the dark corridors together, not talking, with {fam_name} leading the way. You can still see the flames through the walls, very faint now, fading as your heart slows down, like a picture going out of focus. Idris walks half a step behind you, as if he's keeping watch on your back. You don't mind as much as you'd expect.
 
 *present idris tully familiar
@@ -222,6 +281,10 @@ You go back through the dark corridors together, not talking, with {fam_name} le
 You look at him, and you can't help it: you see his flame. It's small, and a soft, sad amber, and it's flickering the way a candle flickers when there's a door open somewhere. Round the very edge of it, like the brown edge on a page held too near a fire, it's gone grey.
 
 @tully:warm "I'll have to put you down for it," he says, apologetically, to you. Not to Idris; Idris, apparently, doesn't count, or has been caught so many times it's stopped being worth the ink. "Rules is rules. Tuesday, my cottage, seven o'clock. I'll find you something useful to do. Lanterns always need a hand." He pats your arm. His hand's cold. Then his eyes go past you, up the stair, to the lantern burning white in its bracket, and stay there a moment. "Well," he says softly. "Would you look at that." And then, brisker: "Off to bed. Go on."
+
+*page_break
+
+You go. At the turn of the stair you look back, and he's still standing there, his taper burning low, looking up at the white lantern with his head tilted, the way you'd look at a photograph of someone you used to know. Idris has gone already, without a word, back the way you came; you didn't hear him go. You climb the last flight alone with {fam_name}, and get into bed in your dressing gown, and lie with your aching arm across your chest, and the last thing you see before you sleep, through the wall, very faint, is the small sad amber flame going away down the stair towards the water.
 *set detentions +1
 *page_break
 *comment ---------------------------------------------------------------- CH05.WEATHERVANE.01
@@ -462,6 +525,10 @@ You go down the narrow stair sideways, holding the cake, with your heart going h
 *present toby okoro familiar
 Saturday morning is bright and blowy and blue, the kind of September day that feels like the last day of summer and knows it. The wind's coming off the Mere smelling of weed and cold water, and the flags on the stands are cracking like washing on a line.
 
+You slept, in the end, about four hours, with the lemon cake in its napkin on the chair beside the bed and the word going round and round your head like a moth round a lamp. You woke before the bell with it still there. [i]Kindler.[/i] You lay and looked at the ceiling and said it under your breath, once, to see how it sounded in a room, and {fam_name} lifted {@familiar = "moth"|its feathery antennae|its head} at the sound, and you didn't say it again.
+
+At breakfast you sat with your back to the wall and ate porridge and didn't look at anyone too hard. It's surprisingly difficult, not looking. The flame-sight sits just behind your eyes this morning like the beginning of a sneeze, and every time somebody laughs, or leans across the table for the jam, you feel it stir, and want to turn and see. You didn't. You looked at the porridge. You've never studied porridge so closely in your life.
+
 The last time you were down here it was a lesson, and half-empty. This morning the stands on their tall wooden stilts are full, people with flasks and blankets and opinions, and the lantern-hoops at either end are swinging in the wind, and the water under them is thick with trials: brooms whizzing, whistles, somebody shrieking with laughter as they go in. Coach Okoro is out in the thick of it all, standing on the Mere as if it were a car park, bellowing encouragement at everyone and no one.
 *if glimmer
   You try out for {@house = "larkspire"|Larkspire|}{@house = "owlcombe"|Owlcombe|}{@house = "heronmere"|Heronmere|}{@house = "rookhallow"|Rookhallow|}. It's the most fun you've ever had while being terrified. You throw the Glim, a ball of warm white light the size of a grapefruit that pulls in your hand like a live thing, through a lantern-hoop from forty feet, and the hoop flares your house's colour, and a noise comes out of you that you didn't know you could make.
@@ -475,11 +542,27 @@ The last time you were down here it was a lesson, and half-empty. This morning t
 *else
   You watch from the stands, with a flask of tea and a blanket and Toby, and shout for your house, and for everyone else's, and for Toby's friend Jonty, who tries out for Heronmere as Keeper and simply sits in front of the hoop, enormous and calm, like a wardrobe on a broom, and nothing gets past him. He's knitting a hat between shots. Nobody has the heart to tell him to stop.
 
+Down on the water, a Heronmere girl on a borrowed broom loses her nerve halfway through a turn and simply stops in mid-air, clutching the handle, a hundred feet up, while her friends shout instructions from below that all contradict each other. Coach Okoro walks across the Mere to stand directly under her, and talks her down in a voice you can't hear from here, very slowly, a foot at a time, until her boots touch the water and she bursts into tears and then into laughter. The whole stand claps. You clap until your palms sting, and find your eyes are wet, and don't know why.
+
+*page_break
+
+Behind your eyes, the flame-sight stirs again. It's worse in a crowd. Four hundred people packed onto benches, cheering, and you can feel all of them, warm against the edge of your attention like the heat off a row of ovens, and you'd only have to let go a little, only have to look... You don't. You hold your tea in both hands and breathe out for six, the way the Headmistress taught you, and look at the water, which is only water.
+
 @toby:neutral At half past eleven, Toby sits down next to you on the bench with two bacon rolls from the kitchens, wrapped in a napkin and still hot, and gives you one, and looks at you sideways.
 
 You eat. He eats. Down on the water somebody falls off, and there's a splash and a cheer. Toby watches it without seeing it.
 
 @toby:tense "You were out on Thursday night," he says. "{@house = "heronmere"|I heard you go.|Somebody saw you on the main stair.} And you went to the Headmistress's tower yesterday, everyone saw, Mina had it on the Wireless last night, [i]mystery first-year summoned to the Weathervane Room[/i]. She didn't say your name, but she did a sound effect." He fiddles with his roll. "You don't have to tell me. I just want to know if you're all right."
+
+*page_break
+
+"Did she really do a sound effect?"
+
+@toby:neutral "A sort of whooshing. Like a door opening in a film. Then an owl." He's not smiling. "I came to find you after, at supper, and you weren't there. And you weren't at breakfast either, not properly, you were sat with your back to the wall like someone in a western." He turns his roll round in its napkin. "And you've been looking at people funny. Not funny. Careful. Like you're trying not to."
+
+You didn't know it showed. You didn't know anyone was watching closely enough to see it.
+
+@toby:tense "It's just," says Toby, to his roll, "I'm rubbish at most things here. I can't do Turning. I set fire to my Brewing on Wednesday. Custard won't come when she's called. But I'm good at noticing when someone's not all right. I was a baker. You can always tell who's had a bad night by what they order." He looks up. "You'd order something with a lot of sugar in it."
 
 You look at him. Toby Quill, who fell on you on Lamplight Row, and sits next to you in every lesson, and brings you bacon rolls without being asked, and has a small orange flame like an oven light that you could see through his cardigan if you let yourself.
 
@@ -534,6 +617,14 @@ You don't let yourself. It feels like reading someone's letters.
     @toby:warm He studies you, frowning a little, the way he studies a loaf through the oven door when he isn't sure it's done. Then he nods, and bumps his shoulder against yours. "Okay," he says. "One day. I'll hold you to it."
 
     He eats his roll, and doesn't ask again. Once, a bit later, when a Larkspire girl comes off her broom into the shallows and stands up dripping and furious, he nudges you and says "That's you, that is, in a week," and you laugh, and you love him a little bit for not asking.
+
+    @toby:neutral "When you do tell me," he says, much later, as the trials are winding down, "will it be good or bad? Just so I know which face to have ready."
+
+    You think about it. The great white-gold glow under the castle. The lantern going out over your head, and the cold of the wick, and the light catching. Hester's painted eyes. [i]It's always hungriest for the bright ones.[/i]
+
+    "Both," you say.
+
+    @toby:warm Toby nods slowly, as if that's about what he expected. "I'll have both ready, then," he says. "I'm good at faces. I've got loads." And he does one, there and then, so ridiculous that you snort tea down your nose, and he looks enormously pleased with himself for the rest of the morning.
   *if (st_rowan >= 2) or (st_imogen >= 2) or (st_saoirse >= 2) or (st_noor >= 2) or (st_cas >= 2)
     #Tell Toby you're fine. Then go and find someone else. You know who you want to tell.
       *set fr_toby +1
@@ -664,7 +755,15 @@ You don't let yourself. It feels like reading someone's letters.
 
     @toby:neutral He looks at you a moment longer than he needs to. Then he nods, and eats his roll. He doesn't ask again. You can tell he doesn't quite believe you, and that he's too kind to say so, and somehow that sits heavier than if he'd argued.
 
+    The rest of the morning, he's careful with you. He talks about safe things: Jonty's knitting, the bacon rolls, whether Custard is putting on weight or just fluffing up for winter. He doesn't mention Thursday night, or the tower, or Mina's sound effects. Twice he starts a sentence and changes direction halfway through, smoothly, like someone steering round a pothole they've only just seen. You know exactly what he's steering round. You let him.
+
+    It's what you chose. You'd choose it again; you think you would. But you sit beside him in the bright wind with the secret in your chest like a stone in a shoe, and for the first time since you came to Wrenfold, you feel a small cold distance open up between you and the nearest warm thing, and you understand, a little, what the Headmistress meant about precious things. Keeping them costs something too.
+
+*page_break
+
 Down on the Mere, somebody throws the Glim through a hoop, and the hoop flares gold, and the stands roar. The sun's out properly now, flashing off the water. It's a beautiful day.
+
+The trials go on into the afternoon. The wind drops. Somebody's familiar, a small black dog, gets loose on the shingle and runs up and down the edge of the water barking at every broom that comes in low, and has to be carried off under its owner's arm, still barking. Jonty, the enormous Heronmere Keeper, finishes the hat he's been knitting between shots and holds it up, and it's for Custard, with ear-holes, and the whole Heronmere end cheers. The tea in your flask goes cold, and then gone. Gulls come in off the Mere and stand about on the rail in front of you, looking at the last of the bacon rolls with an air of patient entitlement.
 
 You sit in the stand with the flame-sight just behind your eyes, where you can feel it waiting, like a word on the tip of your tongue. You look at the whole bright noisy crowd, four hundred people and four hundred little lights, and you think about a lantern on a stair going out with nobody near it, and a humming in the walls that moved from light to light like a finger along a line.
 
