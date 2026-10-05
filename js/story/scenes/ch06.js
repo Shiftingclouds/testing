@@ -13,6 +13,8 @@ On Friday at five you climb the narrow stair again, sideways, and there's lemon 
 
 [i]Look at it,[/i] the Headmistress says. [i]Just the candle. Not the wax, not the wick, not whatever's behind it on the other side of the wall. The candle.[/i] It's the hardest thing you've ever tried to do. Your eyes keep sliding through it, the way they'd slide through a window to the garden, and you see the fire behind it and the kestrel's small quick spark on her perch and, beyond the wall, somebody on the stair below. [i]Again,[/i] says the Headmistress, patiently, cutting cake. [i]Again.[/i] By half past six you can look at the candle for nearly ten seconds before the room goes glassy. She seems to think that's rather good. You go down the stairs with a headache like a hangover.
 
+*page_break
+
 On Thursdays you lie on the floor in Hearth and breathe. You don't see anything through any walls, and you don't hear any humming, and by the end of the week you've nearly managed to believe that the stair was a dream.
 
 It's the lanterns that wake you. Not a sound. A colour.
@@ -23,6 +25,8 @@ You open your eyes at five in the morning, on Monday, in the grey half-dark, and
 
 You get up. Everybody's getting up: doors opening all over the castle, voices, somebody running on the stair in bare feet. In the Lantern Hall, when you get there in your dressing gown with half your house behind you, all ten thousand lanterns have gone grey. They're still lit. They're still drifting. But every one of them is burning the colour of ash, and none of them is humming, and the Hall is so quiet you can hear people breathing. Somebody beside you whispers "What is it? What's happened?" and nobody answers, because nobody knows.
 
+*page_break
+
 Then, from somewhere outside, towards the lake, someone starts screaming.
 
 You run. Everyone runs: out through the great doors and down the steps and across the lawn, in slippers and bare feet and borrowed coats, the grass soaking and freezing, the sky over the Mere just beginning to go from black to pewter. By the time you get to the Glasshouses there are thirty people on the wet lawn, and the Headmistress is striding across the grass towards them from the other direction with her silver braid undone and her face like stone.
@@ -31,11 +35,15 @@ You run. Everyone runs: out through the great doors and down the steps and acros
 *meet delphine
 The Glasshouses are three long Victorian greenhouses on the south lawn, white-painted iron and fogged glass, full of green. The door of the middle one is standing open, and warm damp air is breathing out of it into the cold, smelling of earth and tomato leaves. Inside, among the pots of grumbles and the tall humming vines, there's a bench. And on the bench, sitting very straight with her hands folded in her lap, is Delphine Arceneaux: {@house = "heronmere"|your own prefect, the one with the violet hair, who stood at the bottom of the Heronmere stair on your first night and told you all to stand still|the Heronmere second-year with the violet hair, whom you've seen laughing in the corridors with a tray of hot chocolate, and who always seemed to know everybody's name}.
 
+*page_break
+
 @rhys:sad Professor Rhys is kneeling on the wet tiles in front of her in a nightdress and wellingtons, holding both of Delphine's hands, crying without making any sound. She's a sturdy rosy woman with a battered hat, and there's a live snail on the hat, and she's saying "Delphine, love, Delphine, look at me, love," over and over.
 
 @delphine:hollowed Delphine looks at her, and smiles, the way you'd smile at a stranger who's held a door for you. "Good morning," she says. Her voice is perfectly clear and perfectly flat, like someone reading from a card. "Is it morning? I'm sorry. I don't... I was going to water the..." She looks down at the grumbles in their pots at her feet, and goes on looking, as if she's trying to remember what they are. "I was going to water them," she says again.
 
 Her skin has gone grey. Not pale. Grey, faintly, all over, like a photograph that's been left in the sun. Her eyes are the colour of fogged glass. Her beautiful violet hair looks as if it's been dusted with ash. There's a watering can on the tiles beside the bench, on its side, and a slow dark puddle spreading from it that nobody has noticed.
+
+*page_break
 
 You look at her, and before you can stop it, the flame-sight comes up behind your eyes.
 
@@ -104,9 +112,13 @@ The porridge goes cold in its tureens. Nobody touches the toast. There's a low, 
 
 @kestrel:grave The Headmistress stands up at the High Table at eight, and the Hall goes so quiet you can hear the toast racks creak. She's put her braid back up. Her face is grey with tiredness, and her voice, when it comes, is as steady as it was on the first night.
 
+*page_break
+
 @kestrel:grave "Delphine Arceneaux, of Heronmere," she says, "was hollowed last night."
 
 The word goes through the Hall like a stone into water. Not everybody knows it. You can see who doesn't: they look at their neighbours, frowning, and their neighbours don't look back. {@told_imogen|You've heard it once before, from Imogen on the stands, and didn't ask what it meant.|You didn't know it either, until this moment.} But you were in the Glasshouses at dawn, and you saw the grey skin and the fogged eyes and the watering can on its side, and you felt the cold edges of the hole where her flame had been. You know exactly what it means. It's like being told the name of something that's already bitten you.
+
+*page_break
 
 [i]Hollowed.[/i] Scooped out, like a turnip lantern with no candle in it. Still smiling.
 
@@ -121,6 +133,8 @@ You wait for the rest. [i]But[/i]. [i]We're doing everything we can[/i]. Somethi
 @kestrel:neutral "From tonight, curfew is at nine." Her voice changes: brisker, flatter, a voice for rules. "Nobody walks the grounds alone after dark. Every house will have a prefect awake at night." A murmur, and she waits for it to finish. "The Order of the Lamp has been informed."
 
 You think of Jory Penrose running up the Row with his lamp on a pole, shaking so hard the light shook. You don't find it as comforting as she'd probably like.
+
+*page_break
 
 @kestrel:neutral She looks down the Hall, at every table. "I asked you on your first night to keep your flame close. I'm asking you again. Keep it close. Keep each other close." A pause. "And if you hear humming, you run to a lit room full of people, and you shout."
 
@@ -195,6 +209,8 @@ The cottage is a crooked stone building down by the boathouse, at the water's ed
 
 @tully:warm "In you come, love," he says. "Kettle's on. Sit there. Mind the glue." He looks older than he did a fortnight ago. His moustache droops. His flat cap's on crooked again. "I've not got much for you to do. Mending, mostly. I just... didn't fancy being on my own tonight, if I'm honest."
 
+*page_break
+
 He makes the tea strong and sweet without asking how you take it, and puts a plate of ginger biscuits between you, and {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|finds {fam_name} a perch on the end of the drying-line, where the stove's warm|finds {fam_name} a spot on the rag rug in front of the stove}, as if he's been expecting {fam_name} for years.
 
 You sit at the workbench, and he shows you how to mend a torn lantern: a patch of paper cut to shape, a thin line of glue, the paper smoothed down with the side of your thumb. It's calming. You do three. He does thirty, without looking, talking about nothing much: the damp, which gets into the paper; the Larkspire roost, which always wants mending first, because they will sing at it; a heron that's been stealing his toast off the windowsill since Easter.
@@ -205,6 +221,8 @@ You hold up your third lantern to the light, to check the patch. It's crooked. T
 
 @tully:neutral He peers at where you're pointing, and then at you, over the top of the lantern, for rather longer than the question needs. "You've good eyes," he says. "Most folk don't see that. That's where the thread goes."
 
+*page_break
+
 "What thread?"
 
 @tully:neutral "Every lantern in the Hall's got one." He goes back to his patching. "I can't see 'em, not really. Not like you're looking now. I just know they're there, same as you know there's a floor under the carpet. Forty years I've been doing this." He smooths a patch down with his thumb. "Every one of them's hung off a thread that goes down. Down, and down, under the school."
@@ -214,6 +232,8 @@ You hold up your third lantern to the light, to check the patch. It's crooked. T
 @tully:warm "The old fire." He says it the way you'd say [i]the old country[/i], or [i]the old house[/i]. "The Old Lady's hearth, we used to call it, when I was a lad and new to the job. That's what lights them. Not me. I just carry the taper." He nods at the rack of brass tapers on the wall. "When a thread goes, the lantern goes out, and I relight it off the taper, and the taper's lit off the old fire, down in the cellars. That's the job. Keep 'em fed."
 
 You think about the great white-gold glow deep under the castle, that you saw from the stairs. The threads going down to it from every lantern, thin as spider silk. The one over your head on the stair, cut. You don't say anything. You smooth down a patch with your thumb, the way he showed you, and it goes on crooked, and you peel it off and try again.
+
+*page_break
 
 "Do you ever get tired of it?"
 
@@ -228,6 +248,8 @@ On the wall above the stove there's a photograph in a frame. A young woman, abou
 @tully:warm "She was. That week." He smooths the patch down, and smooths it again, although it's already flat. "She kindled late, like you. Twenty-four. Worked in the chemist's in Thimble Cross, and one day every bottle on the shelf behind her lit up like Christmas. She came here." He almost smiles. "Her dad the Lanternwarden, and her a first-year. She was mortified. Wouldn't let me say hello to her in the corridors."
 
 You wait. His hands have started to shake. He puts the lantern he's holding down on the bench, very carefully, as if it might break.
+
+*page_break
 
 @tully:sad "Six years ago," he says. "In her Burning Year. Walking back from the village on a Sunday, on her own, with her shopping." A pause. "They found her sitting on the wall by the lane. Shopping bags at her feet. Nothing wrong with her. Nothing at all." He looks at his hands. "Grey."
 
@@ -283,6 +305,8 @@ Everybody practises on their cracked teacups as if it matters. Perhaps it does. 
 
 The lanterns in the Hall still aren't humming. The Heronmere table has a gap in it that nobody sits in. On Tuesday night Mina Achebe does the Wireless without a single joke, and reads out the new curfew rules in a voice like a newsreader, and plays a very old, very slow song, and then signs off early.
 
+*page_break
+
 On Wednesday night, with an hour to go till curfew, you find Imogen in the Long Stacks, at a table in the corner under a green lamp, surrounded by a fortress of books.
 
 @imogen:tense She hasn't been to a lesson since Monday. You're not sure she's slept. She has ink on her fingers, and ink on her face, and her glasses pushed up into her hair, and she's reading three books at once: one open in front of her, one propped against the lamp, and one on her knee. They're all about the same thing. You can see the words from here. [i]Hollowing. Extinction of the flame. The Quiet Art. Cases, 1702 to present.[/i]
@@ -296,6 +320,8 @@ It's a list, in tiny precise handwriting, three columns ruled in pencil: dates, 
 "What is this?"
 
 @imogen:neutral "Everyone," says Imogen. "Everyone it's happened to, that anyone wrote down. That I can find." She still hasn't looked up. "Twenty-three. In forty years."
+
+*page_break
 
 You run your eye down the dates. Some of them have a small pencilled star beside them. "What are the stars?"
 

@@ -15,11 +15,15 @@ By the middle of December the Mere has frozen right across, black ice a foot thi
 
 You've never seen anything like it. Nobody has, the first time. Stalls on the ice, dozens of them, with striped awnings and runners instead of legs, so they can be pushed about. Braziers glowing orange. Lanterns on tall poles stuck into holes in the ice in long curving avenues, gold and rose and green and blue, so that from the castle steps it looks like a map of a town drawn in light on black glass. Roast chestnuts and hot cider and spiced buns.
 
+*page_break
+
 A Rookhallow stall selling clockwork mice that skate. An Owlcombe stall selling star-charts that show you where you'll be standing at midnight on Longnight, which are always wrong and always popular. A Heronmere stall of hot soup, run by Jonty, who has knitted a hat for every familiar that comes past and is putting them on whether the owners like it or not. A band of Larkspire second-years playing fiddles on a sledge, badly and with enormous enthusiasm, while Priya, on the next sledge, plays her violin properly and tries to drown them out. And everywhere, skaters: whirling, wobbling, falling over, shrieking, holding hands in long chains that crack like whips round the corners of the stalls.
 
 After Thimble Cross, nobody was sure there'd be a Frost Market. There were Lamplighters on the ice all afternoon, walking the lines of poles with their brass lamps, testing. There are Lamplighters on the ice now, on the edges, in their greatcoats, watching. But there's a Frost Market, and four hundred students on the ice, and the Headmistress on the castle steps with her arms folded, watching them skate, and the whole school has decided, without anyone saying so, that it's going to have a good time tonight if it kills them.
 
 @toby:laugh "I can't skate," says Toby, already on skates, clinging to your arm with one hand and Priya's with the other, knees going in two directions. Priya's violin is back in its case on her back; she says the fiddles won. "Did I mention? I can't skate. Priya says it's like walking. It is not like walking. Walking doesn't go anywhere without you."
+
+*page_break
 
 @priya:amused "Let go and I'll pull you."
 
@@ -30,6 +34,8 @@ After Thimble Cross, nobody was sure there'd be a Frost Market. There were Lampl
 He falls over. It is different. He lies on his back on the black ice laughing up at the lanterns, and Priya lies down beside him, and after a moment so do you, and the three of you lie there on the frozen Mere with the skaters swooshing round you, looking up at the lanterns on their poles and the stars above them. The ice is so cold it burns through your coat. Somewhere under you, very deep, under a foot of black ice, the water moves, slow and heavy, like something turning over in its sleep. {fam_name} comes and investigates your face, and decides you're alive, and goes to steal a chestnut.
 
 @tully:warm Mr Tully is working his way down the avenue of lantern poles with his brass taper and a little stepladder, relighting the ones the wind's blown out. When he gets to you, lying on the ice, he looks down, and his lined face creases up. "Now there's a sight," he says. "Maisie used to do that. Lie on the ice and look up. Said it was like being at the bottom of the sky." He relights the lantern over your head, and it flares, and settles, gold. "She loved the Frost Market, my Maisie. Best night of the year, she said. Better than Longnight."
+
+*page_break
 
 @toby:neutral "Is she coming home for Christmas, Mr Tully?" says Toby, who doesn't know.
 
@@ -145,6 +151,8 @@ Somewhere around midnight, Miss Dunne comes down the gallery with her own candle
 *meet dunne
 @dunne:neutral "The Wrenfold Carol Book," she says, in her voice like a creaking door, and sets it down on the floor between you with a thump that raises dust. It's enormous, and very old, bound in cracked green leather, with brass corners. "Seventeen hundred and two. The school choir copied it out from older books."
 
+*page_break
+
 @imogen:tense Imogen stares at it. "It's not in the catalogue. I've been through the catalogue. Twice."
 
 @dunne:neutral "No," says Miss Dunne, with some satisfaction. "It isn't. I found it in a chest in the bell-tower when I was a girl, sixty years ago, under a dead pigeon, and I've kept it in my office ever since, because nobody else wanted it." She sniffs. "Nobody ever asked."
@@ -158,6 +166,8 @@ Imogen's already turning the pages. Her hands are shaking.
 Page ninety-one is a song.
 
 Not all of it. You can see at once that the leaf is different from the rest: thicker, browner, cut unevenly at the edge and sewn in with a different thread. A tune, written out in square old-fashioned notes on hand-drawn lines, and under it, words. Old words, in the Wordcraft tongue, the way Odile sang it: [i]lume[/i] and [i]hald[/i], and others you don't know. At the top, in faded brown ink, in a small, strong, slanting hand: [b]The Wren's Song. For as many as will sing it.[/b] Under the tune, the same hand: [i]The first voice. The others to be found in their places.[/i]
+
+*page_break
 
 @imogen:surprised "It's in parts," breathes Imogen. "It's in [i]parts[/i]. That's why nobody could sing it. There's more than one tune. They go together. This is only the first voice." She's already copying it into her notebook, fast, in pencil, her tongue between her teeth. "The others to be found in their places. What places? Where?"
 
@@ -175,6 +185,8 @@ When you lean close, your fingers not quite touching the page, something happens
 
 @dunne:neutral The old librarian doesn't answer at once. She lowers herself, carefully, onto a stool, with her candle in her lap, and looks at the page for a while as if it's somebody she used to know. "A story," she says at last. "When I was a girl, it was a story. The prefects told it to the first-years in the dark, to frighten them. They told it to me. I was very frightened. I was also," she adds, "sixty years younger and a great deal more gullible."
 
+*page_break
+
 "Will you tell it?"
 
 @dunne:neutral She sniffs. "Hester Wren built this school to keep late flames safe from the Choir. You know that much; everybody does. And when she was old, and dying, so the story goes, she couldn't bear to leave it unguarded." She stops there, and turns her candle a little in her lap.
@@ -190,6 +202,8 @@ When you lean close, your fingers not quite touching the page, something happens
 "But why? Why leave it?"
 
 @dunne:neutral "Ah. That was the good part. The part they saved for when the candle was low." Her voice drops, not quite despite herself, into the voice of a girl telling it in a dormitory sixty years ago. "Every lantern in Wrenfold is lit from it. Every ward round the island is held by it. And the day it goes out..."
+
+*page_break
 
 She stops.
 
@@ -227,11 +241,15 @@ The Lantern Hall has been turned into winter. The four long house tables are gon
 
 Real snow. Big, slow, soft flakes, falling from nowhere, from the dark between the lanterns, drifting down over the whole Hall. They never land. Every flake stops about a foot above your head and hangs there, turning slowly, glittering, so that you dance under a ceiling of snow that never falls. After Thimble Cross, you'd have thought snow that stops in the air would be the last thing anybody wanted. But this snow isn't grey, and nothing hums, and it catches the silver light and throws it about like laughter, and after the first gasp nobody minds at all.
 
+*page_break
+
 Along the walls there are long tables of food: roast chestnuts, and a whole ham glazed with honey, and hot pies, and a pudding the size of a cartwheel with a sprig of holly on it that's actually on fire, and bowls of punch that change colour every time somebody ladles it.
 
 There are four bands, one for each house, one in each corner, and they take it in turns: Larkspire's fiddles, bright and fast; Owlcombe's strings, slow and silvery; Heronmere's harps and flutes, like water; and Rookhallow's drums and brass, which make the floor shake and the lanterns bob. Everyone's in their best. Clothes you've never seen: long robes of deep velvet in house colours, with the sleeves embroidered in silver thread, and people you've only ever seen in jumpers and scarves looking suddenly like strangers, and then grinning, and being themselves again. {@look_form = 0|Yours are from Hask & Needle, and they cost a whole month's crowns, and Madame Hask's measuring tape put itself round your waist and sighed approvingly.|Yours are from Hask & Needle, and they cost a whole month's crowns, and Madame Hask's measuring tape put itself round your shoulders and sighed approvingly.}
 
 @kestrel:warm At eight, the Headmistress stands at the top of the Hall, in robes of midnight blue with a thin silver circlet in her grey hair, and raises a cup, and all four bands stop.
+
+*page_break
 
 @kestrel:warm "Longnight," she says. Her voice fills the Hall without trying. "The longest night of the year. Tonight the dark is as long as it will ever be, and tomorrow, a little less. A minute less. Two." She looks round the Hall at all of you, under the hanging snow. "It's been a dark term. I won't pretend it hasn't. We've lost friends to the quiet. We've had strangers at our gates and in our village." Her eyes go, for a second, to the Heronmere students, and then the Rookhallow ones, and then out to the high windows, where the Lamplighters' lamps move along the walls. "But this is Longnight. And on Longnight, Wrenfold does what it has always done. We light every lantern we have. We dance until midnight. And at midnight, we watch the light turn." She lifts her cup. "To the long night. And to the light that comes back."
 
@@ -265,6 +283,8 @@ The bands start again, all four at once, in the same tune for once, and the floo
 
 At the edge of the floor, near the great doors, Professor Grey is standing on his own.
 
+*page_break
+
 @grey:neutral He's not dancing. He's wearing the same dark robes he always wears, with his scarred hands folded in front of him, and he's not watching the dancers. He's watching the lanterns. All ten thousand of them, silver-white, drifting under the hanging snow. His face, in the frost-light, looks very tired, and very watchful, and very old.
 
 He sees you looking. For a moment, his tired blue eyes meet yours across the Hall. Then he comes, slowly, round the edge of the floor, and stops beside you, and says, without turning his head, very low: "Watch the lanterns at midnight."
@@ -291,6 +311,8 @@ At midnight, exactly, as the castle clock strikes the first stroke somewhere far
 Not all at once. From the middle. From one lantern, high up, in the very centre of the Hall, a ripple of blue goes out, like a stone dropped in water: blue, and blue, and blue, spreading out through the ten thousand in rings, the deep clear blue of the sky just after sunset, the blue of the longest night, until the whole roof of the Hall is blue light and the hanging snow is blue and every upturned face is blue.
 
 Under your feet, something answers.
+
+*page_break
 
 You feel it through the soles of your shoes. Through the polished black floor, through the stone under the floor, through the rock under the stone. Deep, deep down. A warmth. A pulse. Slow and huge, like the heartbeat of something enormous and asleep. Your own flame leaps to meet it, the way it did over the carol book, the way a flame leans towards a bigger fire, and for one second you're not in the Lantern Hall at all; you're somewhere far below it, in the dark, looking at a light.
 
@@ -327,6 +349,8 @@ The clock finishes striking. The blue goes on burning. Someone starts to sing an
       @cas:amused "It tickled." It isn't a smile. "At twelve my father stopped speaking to me at dinner. Not cruelly. He just... stopped. As if I'd already gone." His breath goes up white, and hangs, and goes.
 
       You wait. He's looking out at the black Mere, not at you, and you have the feeling that if you move he'll stop.
+
+      *page_break
 
       @cas:grave "At fourteen my younger brother kindled, and they moved his portrait into my place in the long gallery. At twenty, my grandmother had my name taken out of the family book. In ink."
 
@@ -385,6 +409,8 @@ You wake late, with your feet aching and a sprig of somebody's holly in your hai
 
 Half the school is going home for the holidays and half isn't, and by nine o'clock the boathouse is chaos: trunks and cages and hatboxes, familiars in baskets complaining, the Lamplighters at the jetty checking every name against a list, and the boats, fifty of them, bumping and knocking against the ice at the edges of the channel the groundskeepers have broken through the frozen Mere. The fog's so thick you can't see the far shore. You can't see the far end of the jetty. People loom out of it with luggage and vanish into it again, calling names. It smells of wet rope and cold water and, somewhere, frying bacon; Mr Tully's cottage chimney is going.
 
+*page_break
+
 @toby:warm Toby's going home. He's been talking about it for a week: his mum, his little sisters, the chip shop on the corner of his road, his own bed that doesn't have a hare in it. He's got a carrier bag of presents, badly wrapped, with a lot of tape. He hugs you on the jetty so hard your feet leave the ground. "Write," he says. "Every day. Tell me if anything happens. Tell me if [i]nothing[/i] happens." He looks back at the castle, huge and pale in the fog, with every window still faintly blue. "It's weird. I thought I'd want to go. I do want to go. I just don't want to leave."
 
 "It's only a fortnight."
@@ -392,6 +418,8 @@ Half the school is going home for the holidays and half isn't, and by nine o'clo
 @toby:sad "I know," he says. "I know. It's just..." He looks at the fog, and the black channel of water between the ice, and the Lamplighters with their lists. "Everything's different, isn't it. Since September. I keep thinking I'll get home and it'll all be the same and I'll be the same and none of this will have happened." He hitches the carrier bag up his arm. "I don't want it to not have happened. Even the bad bits. Is that mad?"
 
 "No."
+
+*page_break
 
 @toby:warm "Good," says Toby, relieved. "Priya says it's mad. Priya says I'm going to cry on the boat." He sniffs, hard. "I'm not going to cry on the boat."
 

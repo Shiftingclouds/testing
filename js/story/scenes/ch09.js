@@ -15,6 +15,8 @@ The castle changes with the weather. The fires in the common rooms are lit befor
 
 Strange things are happening, too. You can feel them the way you feel weather coming.
 
+*page_break
+
 @mina:amused "Two stories this week," says Mina Achebe, at breakfast, from behind a teapot, with her big headphones round her neck and a slice of toast in each hand. Mina runs Wrenfold Wireless from a cupboard in the Owlcombe Stacks, and knows every rumour in the castle about a day before it happens. This morning three Owlcombes, two Larkspires and one very tired Heronmere have gathered round her end of the table like people round a news stand, and she's enjoying it enormously. "Story one. People are sleepwalking. Five so far. They get up at midnight and walk all the way down to the ground floor and stand in front of the sealed door to the Old Cloisters, in their pyjamas, and when you wake them up they say somebody was calling their name." She lowers her voice, which makes everyone lean in. "Story two. The library's losing its ink."
 
 "Losing it where?"
@@ -22,6 +24,8 @@ Strange things are happening, too. You can feel them the way you feel weather co
 @mina:amused "That," says Mina, pointing a slice of toast at you, "is the question, isn't it. You'll hear it first on the Wireless. Tonight, nine o'clock, if the aerial doesn't fall off the Observatory again."
 
 @toby:tense "The sleepwalking's true," says Toby. He's the very tired Heronmere. He's pale and puffy-eyed, with his cardigan buttoned up wrong, and he hasn't touched his toast, which isn't like him at all. "It was me last night. I woke up at the Cloisters door with my feet freezing and Jonty holding my arm." He shivers, and wraps both hands round his mug. "Somebody was calling me. [i]Tobias. Tobias Quill.[/i] Really kindly. Like they were worried about me. Nobody calls me Tobias. Not even my mum, and she named me."
+
+*page_break
 
 Mina has stopped enjoying herself. She puts the toast down.
 
@@ -58,6 +62,8 @@ The day goes slowly, the way days do when you're waiting for the night. Brewing,
 
 So that night you sit up on the stone floor outside Toby's dormitory, with a blanket and a flask of tea{@house = "heronmere"|, which is easy, because it's your dormitory corridor too, and all you have to do is not go to bed|, which involves sneaking down to the Heronmere Cloister after curfew and being let in by a very nervous Jonty, who is knitting a hat for somebody's ferret and keeps dropping stitches}.
 
+*page_break
+
 The Heronmere corridor is half underwater. The windows along one side look straight into the Mere, and at night there's nothing in them but black water pressing against the glass, and now and then a slow pale shape going past that might be a fish, or might be a trick of the lanterns. The whole corridor smells of lake. It's the coldest place you've ever sat.
 
 @rowan:neutral You're not alone, and you're not cold for long. Rowan's there too, sitting against the wall with his knees up and his big hands hanging loose between them. He's warm; the stone round him is warm. There's a little dry patch on the damp flags where he's sitting, spreading slowly outwards. It's nice to sit next to him on a cold November night, like sitting next to a radiator that talks.
@@ -68,6 +74,8 @@ The Heronmere corridor is half underwater. The windows along one side look strai
 
 You don't talk much after that. You don't need to. The tea goes lukewarm. {fam_name} falls asleep across your feet. Somewhere a clock you can't see strikes eleven, slowly, and a long while later the quarter.
 
+*page_break
+
 At half past eleven, the dormitory door opens, and Toby walks out.
 
 His eyes are open. He's not awake. He's in his pyjamas and his too-big cardigan, barefoot, and he walks straight past you both without seeing you, down the corridor, calm and quick, like someone late for a bus. Rowan's already on his feet. You're getting to yours when you hear it: from somewhere far below, very faint, through the stone, a voice. Old and hoarse and kind, like a grandfather calling a child in from the garden at dusk.
@@ -77,6 +85,8 @@ His eyes are open. He's not awake. He's in his pyjamas and his too-big cardigan,
 You follow him. Down the main stair, past the sleeping portraits, who mutter and turn over in their frames. Down another stair, and another, into the oldest part of the castle, where the walls are rough and the lanterns in the brackets are old iron and the air smells of cold stone and something older, like the inside of a church in winter. Toby never stumbles. He never looks down. His bare feet find every step as if he's walked this way a hundred times.
 
 At the bottom there's a door. It's black oak, bound in iron, taller than a man, and it's been sealed: a great round seal of red wax across the join, stamped with the wren, and a sign on it in old square letters: [i]THE OLD CLOISTERS. CLOSED BY ORDER. 1782.[/i]
+
+*page_break
 
 Toby stops in front of it and stands there, swaying, and the voice on the other side calls his name.
 
@@ -127,6 +137,8 @@ In the middle of the dead garden, standing in the dry fountain, is somebody.
 
 He's tall. Nine feet, maybe. He's made of... you can't tell. Dust and old stone and cobwebs and candle-stubs, and the shape of a man in a long coat and a wide hat, the way a man might look if you built one out of the inside of a very old church. He has no face. Where his face should be there's a hollow, and in the hollow, faintly, the lichen-green flame you saw through the door, guttering. From him, going out into the pillars, into the ward-marks, into the stone, are threads. Dozens and dozens of threads. Like roots. Like a spider's web with him at the centre.
 
+*page_break
+
 Half of them are cut.
 
 @toby:scared Toby's hand tightens on your arm. "That's it," he whispers. "That's the voice. That's him."
@@ -142,6 +154,8 @@ His green flame gutters, and flares, and gutters. You look at it with the flame-
 [i]Watchman,[/i] he says, as if it's a job and not a name. [i]She set me here. To hold the doors. To call them in when it's dark.[/i] The dust of his long coat shifts. [i]Nobody comes down the stairs. Nobody has come down the stairs in so long. I call and I call.[/i]
 
 @toby:small "He's been calling everyone," Toby whispers. "Not just me. Hasn't he. All the sleepwalkers." He's still holding your sleeve. "He's been trying to get somebody to come."
+
+*page_break
 
 [i]I can't hold them,[/i] says the Watchman. [i]I can't hold them all. Somebody inside. Somebody who knows the way. They come through the water door, and up, and they cut, and they cut...[/i]
 
@@ -210,7 +224,11 @@ All day, the Long Stacks are closed. There's a notice on the doors in shaky hand
 
 The Long Stacks at nine o'clock on a school night ought to be full of people studying: the green lamps lit along the reading tables, the galleries creaking under careful feet, somebody asleep on a pile of Starreading charts. Tonight they're empty. The lamps are low. The long galleried hall goes back and back into the dark, shelf after shelf, and the air smells of dust and leather and, faintly, of something like the smell of a snuffed candle. The only person in it is Miss Dunne, the librarian, who is standing alone on the bare boards in a lace collar and a cloud of pencils with a blank book in each hand, crying.
 
+*page_break
+
 @dunne:neutral She's eighty, at least, tiny and birdlike, with a pinched face and sharp black eyes and white hair in a bun stuck through with pencils. She doesn't wipe her eyes. She doesn't seem to know she's crying. "The Tollemache Herbal," she says, holding up one book, in a voice like a door creaking. "Blank. [i]Wordcraft for the Late Beginner.[/i] Blank. Hester Wren's own letters, in the case. Two of them. Blank." She puts both books down on a table very carefully, as if they're injured. "I've been here sixty years. I have seen damp, and bookworm, and a first-year who tried to make a bonfire out of the Starreading section. Nothing has ever done this."
+
+*page_break
 
 @imogen:tense Imogen's already there, at a reading table under the one lamp that's properly lit, with a stack of books in front of her and a pen in her hand and ink on every finger, turning pages. She doesn't seem surprised to see you. She looks up. "It's not random," she says. "I've been mapping it since four o'clock. It started in the restricted cage and it's spreading out from there, like a stain. Shelf by shelf. It's getting faster." She holds up a page. As you watch, the last paragraph on it fades, letter by letter, from the bottom up, like water draining out of a basin.
 
@@ -219,6 +237,8 @@ The Long Stacks at nine o'clock on a school night ought to be full of people stu
 @imogen:neutral "I asked," says Imogen, as if that's obvious. "Miss Dunne needed someone who could count."
 
 @idris:neutral Idris has gone straight past her, to the restricted cage at the far end of the Stacks: the great cage of iron and brass, two storeys high, that hums like a beehive and has never, in your time here, been open. He stands in front of it with his hands in his pockets, looking in. "It's in there," he says, when you come to stand beside him. "Whatever it is. The cage is humming wrong. Listen."
+
+*page_break
 
 You listen. The cage's hum is usually steady, sleepy, the sound of a lot of old books dreaming. Tonight it's ragged. Hungry.
 
@@ -285,6 +305,8 @@ It takes you a whole day to work out how to feed it.
 
 @imogen:tense Imogen tries a mending charm on the corner of the canvas, drawing the shape in the air with her wand, precise as a signature, and the charm simply sinks into the paint and disappears, like a stone into a pond. She tries it again. She says a word under her breath you've never heard her say, and then looks round guiltily, as if Miss Dunne might have heard it from her bed three floors away. You try the flame-sight until your eyes water, and all it tells you is what you already know: that the thing is starving, and frightened, and getting weaker. At four in the morning you give up and creep back to bed through the dark castle, and in the morning two more bays of the Long Stacks have gone blank.
 
+*page_break
+
 The day is very long. You sit through lessons without hearing a word. At lunch Imogen draws the map from memory on a napkin, and Idris doesn't come to lunch at all, and somewhere in the afternoon, in Herbwork, with your hands in a pot of grumbles, you think: [i]it's not a book. It's a machine. It's a machine that's run out of fuel.[/i] And you know exactly who to ask about machines.
 
 @saoirse:amused It takes Saoirse Maddock about twenty minutes, once you bring her in. She turns up at ten o'clock that night with a rucksack full of rubber tubing and copper pipe and a stirrup pump from a bicycle and a two-gallon bottle of ink she's liberated from the Wordcraft Gallery, and builds, on the floor of the restricted cage, in front of an astonished Idris, a machine. "An ink-pump," she says, round a mouthful of washers. "Obviously. It's hungry. You feed it. It's an engine, it just runs on ink instead of petrol." She tightens a jubilee clip with her teeth. "Who's got a spoon? Doesn't matter. Somebody hold the bottle."
@@ -292,6 +314,8 @@ The day is very long. You sit through lessons without hearing a word. At lunch I
 @idris:neutral "This is the most important artefact in the Long Stacks," says Idris faintly.
 
 @saoirse:amused "Then it deserves a decent pump," says Saoirse. "Bottle. Up. Higher. Lovely."
+
+*page_break
 
 It's ridiculous. It works. The pump chugs and wheezes and pushes ink up the tube to a brass nozzle that Saoirse holds, very carefully, against the edge of the canvas, and the map drinks. You can hear it drink, a soft thirsty sound, like a cat at a saucer, and the rippling slows, and the painted Mere goes still, and Imogen lets out a breath she seems to have been holding since yesterday.
 
@@ -369,6 +393,8 @@ The Weathervane Room is full of weather, the way it always is. Weathervanes turn
 *if ch09_way = "cloisters"
   So you start with Toby, barefoot, walking past you in the Heronmere corridor with his eyes open. The voice through the stone. [i]Tobias.[/i]
 
+  *page_break
+
   @kestrel:attentive "Kind," she says. "You said the voice was kind."
 
   "Frightened. Frightened for him. Rowan said it wasn't a lure; it was a warning. He said he's heard people call like that into a burning house."
@@ -385,6 +411,8 @@ The Weathervane Room is full of weather, the way it always is. Weathervanes turn
 *else
   So you start with Idris, coming down the Hall with the blank book in his hands, and Miss Dunne in the empty Stacks, crying without knowing she was crying.
 
+  *page_break
+
   @kestrel:attentive "Miss Dunne," says the Headmistress, "let three students into the restricted cage. At midnight."
 
   "She went to bed first. With a hot-water bottle. Idris had a key."
@@ -396,6 +424,8 @@ The Weathervane Room is full of weather, the way it always is. Weathervanes turn
   @kestrel:neutral "Out of a bicycle," she repeats, faintly, as if she's putting it away somewhere safe for a bad day when she'll need it. Then the smile's gone, and she listens without moving to the rest: the red lines and the grey ones, the dotted route, and the thin old brown line from the boathouse that none of you saw until the end.
 
 "And the boathouse passage," you finish. "It comes out in the Old Cloisters. Somebody's been using it."
+
+*page_break
 
 @kestrel:grave She doesn't say anything for a while. The weathervanes turn slowly all round you. Her tea has gone cold in her hands, and she hasn't noticed.
 

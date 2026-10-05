@@ -15,6 +15,8 @@ Nothing else has changed. The Lamplighters are still on the stairs. The dark pat
 
 The Greening comes on the twentieth of March, the spring equinox, and Wrenfold keeps it the way it keeps everything, even now: all at once, with too many flowers.
 
+*page_break
+
 The Glasshouses are thrown open. All of them: the long glass halls down the south side of the castle, the palm house and the fern house and the orchid house and the great domed Winter Garden, doors propped wide, and the warm green air pouring out of them into the cold March morning like breath. The whole school walks through them in the morning, in the green light, with a seed in their hand. It's hot inside, after the wind, and people are taking off their scarves and stuffing them in their pockets and blinking at each other, pink-cheeked, as if they've just come in from snow.
 
 It's a Heronmere festival, really, and Heronmere needs it more than anyone. You plant a seed for somebody. That's all. In the long beds down the middle of the Winter Garden, where the soil's black and warm and smells like the inside of a cake tin, you kneel down and make a hole with your finger and put your seed in and say a name. By Midsummer, Professor Rhys says, there'll be a flower for every name. Nobody knows what flower. That's part of it.
@@ -62,6 +64,8 @@ There are two people in it. The Headmistress is standing at the window with her 
 
 You sit. She doesn't. She looks at your hands, which are still faintly black round the nails.
 
+*page_break
+
 @arkwright:neutral "Rhys gave you a seed this morning," she says. It isn't a question. She takes one hand from behind her back and opens it, and there's a seed in her palm, small and brown and wrinkled. "Gave me one too, when I cut through the Glasshouses on my way in. Wouldn't take it back." She looks at it. "I've no idea who I'm meant to plant it for. There are too many."
 
 She closes her hand and puts it in her pocket, and you understand that she wasn't making conversation. She was deciding how to start.
@@ -73,6 +77,8 @@ The room doesn't move. The weathervanes turn, very slowly, on the ceiling. You'd
 "How?"
 
 @arkwright:grave "{@morrow_knows|The Hush saw you at Thimble Cross. She'll have told him that night. |}The hoop at the Glimmer Cup was a test. He wanted to see who'd reach for the Keeper when he fell, and who'd light up doing it." She turns her head and looks at you. "You lit up."
+
+*page_break
 
 "So he knows my name."
 
@@ -90,6 +96,8 @@ She crosses to the desk and turns the map round so it faces you. It's a piece of
 
 @arkwright:neutral "The Order has houses," she says. "This is one of them. Edge of Saltmarrow Fen." She puts her finger on a small black square beside a blue thread of water. "A mile from the drowned chapel, where he came from. Reeds for fifty miles, and the sea behind it. You can see anybody coming a day off."
 
+*page_break
+
 "You want me to hide there."
 
 @arkwright:grave "No." She looks up from the map. "I want you to be seen going there. Openly. On the Lantern Train, with Lamplighters round you, so that every tongue between here and Kingsmere carries it to him by the end of the week. The Kindler's gone to the Fen." Her finger doesn't move from the little black square. "And when he comes for you, and he will, he'll come onto ground I've chosen, with every Lamplighter I have lying in the reeds, instead of into a Hall full of children."
@@ -101,6 +109,8 @@ You look at the little black square. It's very small. The Fen round it is very b
 @arkwright:grave "Yes." She doesn't dress it up. You find you're grateful for that, in a strange cold way. "I won't pretend otherwise. You'd be bait. But you'd be bait with forty Lamplighters round you, and this school would be empty of the one thing he wants."
 
 @kestrel:grave "And if he doesn't follow?" says the Headmistress, to the window. "If he knows it's a trap, which he will, because Aldric Morrow was cleverer than anyone in this room at twenty-five and he's had forty years since? Then he comes here anyway, at Midsummer, for the Heartfire, without a Kindler to carry it. And he'll try it anyway. And he'll break it trying." She turns round. Her arm's out of the sling now, but she holds it stiffly, close to her side. "I'm not going to tell you what to do. I've never told you what to do. But I'll tell you this: I'd rather have you here, where I can see you, than on a fen with Sabine's people and a lot of good intentions."
+
+*page_break
 
 @arkwright:neutral "That's your answer to everything, Imelda," says the Commander, not unkindly. "Keep them close."
 
@@ -152,6 +162,8 @@ The Infirmary at ten o'clock on a Sunday is the quietest place in the castle. Th
 
 @priya:tense Priya is in the chair on his other side, where she always is. She knows what you're going to try. You asked her yesterday, on the bench outside the Glasshouses, with your hands still black from the Greening. You'd only got as far as [i]if I tried[/i] when she said "Yes," and then got up and walked very fast round the corner, and you heard her being sick in the flowerbed, and then she came back and sat down and wiped her mouth and said, "Yes. Sorry. Yes."
 
+*page_break
+
 @noor:tense Noor has drawn the curtains round the bed. She's standing at the foot of it with her arms folded and her face set. She's got a blanket over one arm, and a hot-water bottle, and a bowl, and the look she must have worn on a thousand bad nights in A&E. "If I tell you to stop," she says, "you stop. I mean it. I'm not losing two of you."
 
 @noor:tense Then, because she's Noor, and she has to know what she's walking into: "What does Hester say? Exactly. Not what you hope she says."
@@ -171,6 +183,8 @@ You've got it by heart. You've read it so many times, in Idris's careful copy, t
   On the bedside table, in its jam jar, your white Candlewake candle is still burning. Seven weeks. It's never gone out. It's burning a little brighter tonight, as if it knows.
 
 You take his hands. They're cold. He lets you, the way he lets everyone, and waits to see what you'll do. You close your eyes and look.
+
+*page_break
 
 Nothing. You knew it would be nothing; you looked on the night of the Quiet, and every day since. Where Maisie had a spark, Toby has nothing at all. Taken whole, in one song. The place where his flame was is just a place: clean and cold and empty, like a grate that's been swept.
 
@@ -193,6 +207,8 @@ You put the piece of your flame into the swept grate at the bottom of Toby Quill
 
   @toby:tired He blinks.
 
+  *page_break
+
   He looks down at the hare on his knees. At his hands, in yours. At Priya, in the chair, with her hands over her mouth. At you.
 
   @toby:tired "Oh," says Toby Quill. His voice is hoarse, as if he hasn't used it properly in a fortnight. "Oh, I had the worst dream. There was a cake." He frowns. "Was there a cake? I made a cake. It didn't catch fire." He looks at you, and his round face does something slow and bewildered and wonderful. "{name}," he says. "You're {name}. Why are you crying? Why's everyone crying? Did the cake catch fire in the end?"
@@ -209,6 +225,8 @@ You put the piece of your flame into the swept grate at the bottom of Toby Quill
   For a while, nothing. A minute. Two. The nightlight flickers.
 
   Then, for one second, it catches. You feel it. A flicker, gold, in the swept grate. Toby's eyes, the fog-coloured eyes, go wide, and for one second he looks at you, really looks, and his lips move, and he says "[i]{name}?[/i]"
+
+  *page_break
 
   And it goes out.
 
@@ -260,6 +278,8 @@ You're not alone for long.
         "Rowan. What is it?"
 
         @rowan:shy "Nothing." A pause. "No. Not nothing. I came up the stairs going over it and it was all in the right order and now it's gone." He rubs the back of his neck. "Give me a minute."
+
+        *page_break
 
         You give him a minute. Down below, the light in Mr Tully's window. Up above, the whole slow spring sky.
 

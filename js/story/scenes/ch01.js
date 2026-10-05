@@ -14,6 +14,8 @@ It's a small kitchen. You've always known that, but you know it better now, with
 
 There's a line of gold drawn in the wallpaper. It goes up from the skirting board, round in a tall curve at the top, and down again, exactly the shape of a door, as if someone had traced one with a pen made of sunlight. Inside the line, where the faded flowers of the wallpaper ought to be, there's a street.
 
+*page_break
+
 You've looked three times now. It hasn't stopped being true.
 
 Crooked houses lean towards each other over wet cobbles. Lamps hang from brackets on every wall, in colours lamps don't come in: rose, and sea-green, and a blue so deep it's nearly violet. An owl sits on a gutter, eating something you'd rather not see. Somebody on that street is making toffee. You can smell it from here, over the microwave lasagne you didn't finish and the birthday card on the table with a foil balloon on the front that says [b]25[/b] in a font that's trying too hard.
@@ -21,6 +23,8 @@ Crooked houses lean towards each other over wet cobbles. Lamps hang from bracket
 It isn't a picture. That's what you keep coming back to. Pictures don't have weather. On the other side of that gold line a thin rain is falling, catching the lamplight as it comes down, and a gutter somewhere is running over with a sound like someone pouring tea, and the air that comes through, when it comes, is cold and wet and full of chimney smoke. Your own kitchen smells of lasagne and washing-up liquid. The two smells meet over the lino and don't seem to know what to make of each other.
 
 On the counter the kettle is steaming, although you didn't switch it on. It's been doing that since March.
+
+*page_break
 
 You look back down at the letter.
 
@@ -133,6 +137,8 @@ Kindling. You say it out loud, to the kitchen, to see what it sounds like. It so
 
 You pick the letter up again. [i]It will burn very brightly for a year and then either settle or burn you out.[/i] You read that line three times, and each time the words stay exactly as they are, and don't shimmer, and don't offer to be more specific. [i]Burn you out.[/i] They don't say what that means. You notice that they don't say. You notice, too, that the next sentence is [i]We would like it to settle[/i], written in the same neat hand, as calmly as someone saying they'd like it to stay dry for the weekend, and that it helps, a bit, more than it should.
 
+*page_break
+
 A place kept for you since the day you were born. You think of a coat peg with your name over it in some cold corridor you've never seen, empty for twenty-five years, waiting. You don't know whether that's a lovely thought or a terrible one.
 
 You read the last paragraph twice. Then a third time, with your finger under the words, like a child.
@@ -148,6 +154,8 @@ You remember the exact moment you noticed. You were brushing your teeth, late, c
 You'd laughed at yourself. You'd hoovered up the glass and bought a new bulb.
 
 Then the kettle, a week later, switched off at the wall and boiling anyway while you were on the phone to your landlord, rattling on its base as if it were as angry as you were. You'd started unplugging it before you rang him, which is the kind of thing you can't tell anyone without sounding mad. Then the basil, which began, round about Easter, to turn its leaves to follow you round the kitchen, like a dog watching you get its lead.
+
+*page_break
 
 You'd searched for it once, at two in the morning: [i]why do lights flicker when I'm angry[/i]. The internet had suggested your wiring, your blood pressure, and a prayer group. You'd closed the laptop and not tried again.
 
@@ -188,6 +196,8 @@ The three little dots come up, and go away, and come up again. You watch them th
 *text dev then go. whatever it is. I'll cover. send a postcard
 You put the phone face down on the counter and sit with your hand on it for a second, feeling your heart go.
 
+*page_break
+
 That's Dev all over. He's never once asked you a question he could tell you didn't want to answer. You picture him on the night bus home, long legs folded up against the seat in front, lanyard still round his neck because he always forgets to take it off, typing [i]I'll cover[/i] with both thumbs and meaning it. You're going to miss him more than you've let yourself think about. You put that thought somewhere safe, to take out later.
 
 The letter said dawn. Dawn in September is somewhere around half six. That's six hours. You could spend them sleeping on it, if you could sleep, which you can't. You could spend them packing.
@@ -220,6 +230,8 @@ You can picture it exactly. The gas fire on low. The budgie under his cover. Nan
 
 You open your mouth to explain, and discover you have no idea how. Every way of starting sounds mad. [i]Nana, there's a street in the wall.[/i] [i]Nana, the kettle's been boiling itself since March.[/i] [i]Nana, I think I'm a[/i]... what? So you say the only thing in the letter that you can bear to say out loud.
 
+*page_break
+
 "I've had a letter."
 
 There's a silence on the line, so long you check the screen to see if she's still there. On her end, very faintly, you can hear the snooker commentator saying something respectful about a red.
@@ -240,6 +252,8 @@ That's all, for a moment. You wait for the rest of it, and it doesn't come. On h
 
 @nana:neutral "She did. Before, and after." A pause. "Nineteen fifty-three. She was twenty-eight. I was nine. I never saw the letter, love. I only remember she wasn't there, for months and months, and my dad doing my hair wrong for school." Another pause. "And then she was. She came back at midsummer with a suitcase and a sunburn, and she was quieter. That's the only word for it. As if she'd been somewhere very loud and was still listening to it."
 
+*page_break
+
 You sit down on the kitchen floor with your back against the cupboards, because it's where your legs take you.
 
 "What did she do? After?"
@@ -253,6 +267,8 @@ You sit down on the kitchen floor with your back against the cupboards, because 
 "Why? What did she say about it? What's it like?"
 
 @nana:neutral There's a pause long enough that you hear a snooker ball drop into a pocket, somewhere in Nana Pearl's front room. "She never said much," she says at last. "I asked her, when I was older. I asked her all sorts. She'd only ever tell me two things. That it was hard. And that it was worth it." Another pause. "And that you came back different. I used to think she meant it like a warning. I'm not sure now she did." Her voice goes softer. "Is there a door?"
+
+*page_break
 
 You look at it. The gold line, the lamplit street, the rain still falling softly on the other side. "There's a door."
 
@@ -291,6 +307,8 @@ Nana Pearl's bungalow is the only lit house on Laburnum Close. She opens the doo
 
 @nana:neutral She's in her quilted dressing gown and her red glasses, and her hair is in its night-time net, and she has a plate of toast in one hand, because she always has a plate of toast in one hand after eleven. She looks at your face. She looks at the corner of cream envelope sticking out of your pocket. She doesn't say [i]what on earth are you doing here[/i], or [i]is it the landlord[/i]. She says: "Is it a wren?"
 
+*page_break
+
 You stand on her doorstep with your mouth open.
 
 @nana:warm "Come in," she says. "You'll let the heat out. Admiral, it's {name}."
@@ -309,6 +327,8 @@ She says it to the letter, not to you. She's running her thumb along the edge of
 
 @nana:neutral "Nineteen fifty-three." She folds the letter along its creases, carefully, and doesn't give it back yet. "She was twenty-eight and she worked at the mill. It came under the door at midnight, with a wren on it. I was nine. I remember the wax. I remember her sitting at the kitchen table in her coat, reading it, and my dad saying [i]Ivy, what is it, Ivy[/i], and her not answering." She looks at the gas fire. "Then she was gone for a year."
 
+*page_break
+
 "Where?"
 
 @nana:warm "She never said, love. Not properly. Not to me." Her mouth goes wry. "When she came back she was quieter. And she could make the kettle sing. A little tune. She'd do it to make me laugh when I was poorly, and then look over her shoulder, as if somebody might tell her off."
@@ -324,6 +344,8 @@ She says it to the letter, not to you. She's running her thumb along the edge of
 She gets up, slowly, the way she gets up now, and goes to the sideboard, and comes back with something small in her closed hand.
 
 @nana:warm "She left me this," she says. "She said to give it to whichever one of us got the letter next. I thought it would be your mother." She opens her hand. It's a thimble: old silver, worn thin at the top, and stamped round the rim with a tiny cocked-tailed bird. "She said it was from the school."
+
+*page_break
 
 It's warm when she puts it in your palm. Warmer than her hand. It fits your middle finger exactly. When you turn it to the lamp, the little wren on the rim catches the light, and for a second you'd swear it flicks its tail.
 
@@ -394,6 +416,8 @@ The humming in the wall rises, very slightly. Not impatient. Just: [i]here I am.
 You think about your kitchen. The kettle. The basil. The lasagne. The rent. Glossop, and the rota, and the life you've been living for seven years like someone walking to the shop in the rain with their head down, getting there, getting back, not looking up.
 
 {@told_nana|You think about Nana Pearl, who's been waiting all summer for exactly this.|You think about Nana Pearl, asleep across town, and promise her an owl.}
+
+*page_break
 
 It occurs to you, standing there, that you could still say no. The letter said so. The doorway will close at dawn, and they won't trouble you again, and in the morning you'll go back to work and tell Dev it was a joke, and the kettle will go on boiling by itself, and the candles will go on leaning, and you'll go on not looking at your hands. You could. People must.
 

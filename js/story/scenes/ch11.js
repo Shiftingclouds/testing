@@ -13,13 +13,19 @@ Then it snows on the first Friday in December, all night, without stopping, and 
 
 Nobody was sure it would be. There was a notice on the board in the Lantern Hall for a week that said [i]Village weekend: under review[/i] in the Headmistress's green ink, and people stood in front of it every morning as if it might change while they watched. On Thursday night it did. Somebody had crossed out [i]under review[/i] and written, in the same green ink, [i]Wrap up warm. Stay in pairs. Be back by dark.[/i] The cheer from the Lantern Hall made the lanterns bob.
 
+*page_break
+
 So at ten o'clock on Saturday, four hundred students in scarves and boots and bobble hats go crunching down the shore path round the south end of the Mere, in the snow, laughing, throwing snowballs, with their familiars riding on their shoulders or bounding ahead through the drifts, and {fam_name} {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|riding in the hood of your coat, complaining|ploughing through the snow ahead of you, delighted with it}, towards Thimble Cross.
 
 It's a long walk, and nobody minds. The snow squeaks under your boots. The pines along the shore are bowed down with it, and every so often one lets go of its load all at once, with a soft thump, onto whoever's underneath, and everyone shrieks. The Mere on your left is black water in the middle and white at the edges, with a skin of new ice that sings faintly when the wind goes over it. Somebody starts a song, and it goes down the line of students like a ripple, and falls apart, and starts again further back. Your breath smokes. Your cheeks sting. You can't remember the last time you were this cold, or this happy about it.
 
 Then you come round the last bend, and there's the village, and you stop walking.
 
+*page_break
+
 It's the prettiest place you've ever seen. You didn't know places like this were allowed to exist. One crooked high street going up a hill, with the shops leaning together over it like old friends gossiping, all bow windows and bottle glass and crooked chimneys, with snow on every roof and a lantern hanging outside every door. A village green at the top with a stone market cross, and a stall beside it with a striped awning. Bunting, red and green and gold, strung from chimney to chimney across the street. Chestnuts roasting somewhere. A smell of woodsmoke and hot sugar and oranges. Smoke going straight up from a hundred chimneys into a sky the colour of pearl.
+
+*page_break
 
 On every corner, in long lamp-black greatcoats with the snow settling on their shoulders, stands a Lamplighter with a brass lamp on a pole, watching.
 
@@ -38,6 +44,8 @@ On every corner, in long lamp-black greatcoats with the snow settling on their s
 @jory:tense He hesitates. "Enough," he says, which is how you know it isn't.
 
 The stall on the green has a hand-painted sign swinging from the awning: [b]PELLOW'S. WANDS POLISHED, MENDED & LISTENED TO. WINTER HOURS.[/b] Under the awning, behind a trestle table covered in green baize and little pots and brushes and rags, in a sheepskin coat with a pencil through her bun and a leather apron over the top, is Odile Pellow.
+
+*page_break
 
 You haven't seen her since the night you got your wand, on Lamplight Row, in the shop with drawers to the ceiling. She hasn't changed at all. She looks as if she's been standing behind that table in the snow for a hundred years and intends to stand there for a hundred more.
 
@@ -134,6 +142,8 @@ Jars to the ceiling, on shelves that lean, with a ladder on wheels to get at the
 
 *meet ombree
 @ombree:neutral Behind the counter, in a striped bow tie, with his waxed white moustache and his pink bald head shining under the lamp, Mr Ombree is weighing out sherbet on a brass scale with the concentration of a surgeon. "Welcome, welcome, welcome," he says, without looking up. "One at a time, my dears, one at a time, there's plenty for everybody. Nothing that hums, I'm afraid. Not this year."
+
+*page_break
 
 There's an empty jar at the end of the counter with a label on it in curly writing: [i]Humming Humbugs, the Original![/i] And under that, stuck on, a square of card: [i]Discontinued until further notice.[/i]
 
@@ -322,6 +332,8 @@ The hearthale comes in a pewter tankard, hot, foaming, the colour of dark honey.
 
 The door bangs open, and the snow comes in, and so does Jory Penrose.
 
+*page_break
+
 @jory:tense He's blue. Actually blue, round the lips. He's been standing on the corner by the post office for four hours. He tries to stand straight, and his teeth chatter, and Moll Dunmore takes one look at him and puts a tankard of hearthale into his hands and physically sits him down on a bench by the fire.
 
 @moll:neutral "Drink that," she says. "All of it. Then you can go back out and be brave again."
@@ -364,6 +376,8 @@ Then the hum.
 
 Low. Long. It comes from everywhere at once: out of the stones of the street and the windows of the shops and the frozen snow hanging in the air. You feel it in your teeth. You feel it in your chest, in the place where your flame is, like a cold thumb pressing. {fam_name} makes a sound you've never heard {@(familiar = "moth")|it|{fam_name}} make, and presses against your neck.
 
+*page_break
+
 They come down the hill from the green. In daylight. Twelve of them, in grey robes with the hoods up, walking slowly, in step, down the middle of the high street, between the crooked shops, through the hanging snow. Not hurrying. They don't need to hurry. At the front walks a tall woman with a shaved head and her hood pushed back and her pale severe face perfectly calm, with her lips closed, humming.
 *meet corliss
 @corliss:neutral The Hush. Corliss Fane. You'll learn her name later. You don't need it now. Her eyes are rimmed with grey, and they move over the students frozen in the street the way you'd look along a shelf of jam jars, choosing.
@@ -373,6 +387,8 @@ All down the street, students are stopping. Not frozen, exactly. Slowing. Their 
 @mina:scared "I can't feel my hands," she says, in a small puzzled voice. "Why can't I feel my hands?"
 
 @jory:scared Jory Penrose is running up the street towards them with his lamp held up in front of him, shouting something, a ward, a Lamplighter's word, and the brass lamp flares white and then gutters, and then goes out, and Jory goes down on one knee in the snow with both hands over his ears.
+
+*page_break
 
 The Hush turns her head, slowly, and looks at the first-years outside the post office.
 
@@ -386,6 +402,8 @@ The hum falters.
 *snapshot odile
 
 You feel it go. The cold thumb on your chest lifts, a little. All down the street, students gasp, and blink, and look at their hands. The snow in the air trembles. Mina Achebe, behind Odile's back, grabs the first-year next to her and starts pulling.
+
+*page_break
 
 @corliss:neutral The Hush stops walking. She regards Odile Pellow with a kind of mild interest, the way you'd regard a wasp at a picnic. Then she lifts one bare grey hand, and the eleven behind her step forward, and they hum [i]together[/i]: all twelve of them, one note, low and long and enormous, and it rolls down the high street like a wave, and Odile's voice staggers under it like somebody walking into a gale.
 
@@ -469,6 +487,8 @@ Moll Dunmore has pushed all the tables against the walls and put every blanket i
 
 @odile:hollowed Odile Pellow is sitting by the fire. Somebody's taken her apron off, and folded it, and put it on the bench beside her, and she keeps looking at it. She's holding a mug of hearthale she hasn't drunk. When people come over to her, and they do, all evening, shopkeepers and villagers and students whose wands she polished, she smiles at them and says "Hello," and doesn't know who they are.
 
+*page_break
+
 @arkwright:grave Commander Arkwright arrived at four, by broom, from St Ide's, with snow in her cropped grey hair and her scarred face set like a wall. She went up the high street and down it. She talked to Jory Penrose for ten minutes in the alley by the post office, and when he came back in, he'd been crying, and she hadn't shouted at him, and that was worse. Now she's standing at the bar, not drinking, looking at Odile Pellow.
 
 @arkwright:grave "I was at St Ide's," she says. Not to you. To no one. "I changed the plan on Thursday. Took most of my people to guard the ones who'd already been taken. I thought they'd come back to finish them." A muscle in her jaw moves. "They came to the village in daylight, with four hundred students in it, and six of mine." She turns the brass lamp badge on her greatcoat, round and round. "I can't be everywhere. I've never been able to be everywhere. I just used to be able to pretend."
@@ -476,6 +496,8 @@ Moll Dunmore has pushed all the tables against the walls and put every blanket i
   @arkwright:grave She looks at you then. Hard. "The Hush saw you," she says, very low, so only you hear. "Didn't she. Whatever you did out there." It isn't a question. "Then he knows. Not guesses. [i]Knows[/i]." She holds your eyes. "From now on, you're not out of my sight. I don't care what the Headmistress says."
 
 @kestrel:grave The Headmistress is sitting on the bench beside Odile. She's been there an hour. She's holding Odile's hand, the one without the mug, and Odile's letting her, courteously, the way you'd let a stranger on a train.
+
+*page_break
 
 @kestrel:grave "Her gran was a Pellow too," says Imelda Kestrel, when you sit down on Odile's other side. "They've made wands on Lamplight Row for three hundred years." She doesn't take her eyes off the fire. "I used to hear her humming it in the shop when I went in for repairs. The old lady first, and then Odile. I never asked what it was. I thought it was a lullaby."
 
@@ -518,6 +540,8 @@ Nobody at the fire can look at anybody else for a while after that. Moll Dunmore
 *if village_with = "cas"
   *present cas
   @cas:grave Cas stays by the door all evening, where he can see the high street, with his wand in his hand, not saying anything. When people look at him now, it's different, and it takes you a while to work out why.
+
+  *page_break
 
   At about seven, a Larkspire second-year you don't know, with a bandaged hand and a blanket round her shoulders, comes across the room and stops in front of him. "You got in front of me," she says. "In the street. When they turned round." She sounds as if she's still working it out. "You just stepped in front. I don't even know your name."
 

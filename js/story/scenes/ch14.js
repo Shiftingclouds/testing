@@ -17,11 +17,15 @@ It gets light at half past eight and dark at four. The Mere freezes again a week
 
 @toby:neutral "You don't know that. Nobody's done the research." He breathes on it again anyway, very gently, like somebody blowing on soup. "Come on. Come on, you little onion."
 
+*page_break
+
 On the fifth morning, under your breath, a green blade no longer than a fingernail pushes up through the frost, and Professor Rhys claps as if you've cured something, and the snail on her hat puts its horns out to look. Toby's comes up the morning after. He names it Gerald, and visits it every day for the rest of the month.
 
 {fam_name} goes fat and fluffy with winter, or as near to it as it can manage, and takes to sleeping on the radiator in the common room and refusing to move for anybody, even at mealtimes. Toby's hare, Custard, eats a prefect's scarf. The corridors smell of wet wool and woodsmoke and the porridge the kitchens now serve at every breakfast in vats. It's the time of year when you stop saying [i]is it always this cold[/i] and start saying [i]it's not that cold[/i], and mean it, and are wrong.
 
 The Order stays. The Lamplighters walk the walls at night with their brass lamps, and sit at the ends of the house tables at meals with their greatcoats on, and follow first-years to the Glasshouses and back. You get used to them the way you get used to weather. {@ch13_way = "home"|Jory Penrose, who stood on your doorstep in Wrexley at midnight with his lamp blazing, and ate two of Nana Pearl's bacon sandwiches, and came back on New Year's Eve for a sherry, has a new scar on his chin he won't talk about, and says hello to you in corridors as if you're old friends. You are, now. Nana writes to ask after him in every letter.|Jory Penrose, who came back from his Christmas posting with a new scar on his chin that he won't talk about, starts saying hello to you in corridors as if you're old friends. You suppose you are, a bit.}
+
+*page_break
 
 Then it's February, and the snow's still on the ground, and it's Candlewake.
 
@@ -35,6 +39,8 @@ You make the candles on the night before, in the Brewing Cellars, all of you, in
 
 It's one of those Wrenfold things you'd never believe if you told anyone. Great copper vats of beeswax bubbling gold over blue fires along the whole length of the vaulted cellar, smelling of honey and summer, so that walking in out of the February cold is like walking into July. Long tables with wicks laid out on them in rows. Steam curling up into the vaults, where the old iron lamps hang. And Professor Kovač at the far end, thin and pale and still, with the white streak in her black hair pinned back so tight it hurts to look at, saying things once.
 
+*page_break
+
 @kovac:neutral "Dip the wick. Twelve times. Between each dip, hold it and think of the person it's for. On the twelfth, put a thread of your own flame into the wax." She looks down the cellar at all of you with her pale unblinking eyes. "A thread. Not a flood. Anyone who floods their candle and sets fire to my cellar will spend Candlewake scrubbing my vats."
 
 You dip, and hold, and think. The wax is hot and heavy and smells so sweet it makes your eyes water, and each time you lift the wick out it's a little fatter, a little whiter, like something growing. Round you, the whole cellar is doing the same: two hundred people holding white wicks over copper vats with their eyes half shut, thinking about somebody. It's quiet. It's the quietest you've ever heard two hundred people be. The fires hiss under the vats. Somebody sniffs. Somebody else, a big Heronmere man at the next table, is crying without making any noise at all, and nobody looks at him, because that's the kind of night it is.
@@ -42,6 +48,8 @@ You dip, and hold, and think. The wax is hot and heavy and smells so sweet it ma
 On the twelfth dip, you put a thread of your flame into the wax.
 
 A thread. You're careful. You've been careful since September. But it's your flame, the white one, and when the candle comes out of the vat, it's lit. By itself. And it isn't burning gold, like Toby's beside you, or rose, like the Larkspire girl's across the table. It's burning white. Pure, clear, steady white, like a star, like the lantern on your first night.
+
+*page_break
 
 You close your hand round it, fast.
 
@@ -105,6 +113,8 @@ There's a light at the back of the second gallery, behind the iron grille of the
 
       [i]Warding exercise, 14 Feb. Incident. A student (name withheld at the request of the Deputy) cast an unsanctioned [redacted] in panic. Aldric Morrow's flame was extinguished. Entirely. All attempts at relighting have failed. He has been sent home to recover. Students are asked not to discuss the matter. The matter is closed.[/i]
 
+      *page_break
+
       Stamped across the bottom, in red: [b]CLOSED.[/b]
       *clue e11
       @idris:grave "The matter is closed," says Idris, very quietly. "Forty years. They took a Kindler's whole flame, by accident, in a classroom, and wrote [i]the matter is closed[/i] and sent him home." He turns the page back to the photograph, the laughing boy. "I took it out of the Stacks last year, in my first term. Nobody noticed it was gone. Nobody had asked for it in forty years."
@@ -116,6 +126,8 @@ There's a light at the back of the second gallery, behind the iron grille of the
       @idris:hurt "My mother was hollowed," he says, "when I was seventeen." He says it the way he says everything, precisely, as a fact. But his hands on the folder are very still. "She was a late flame, like us, as late as they come. Kindled at thirty-five, in her garden, making the roses bloom in November. She was so happy. For about six weeks." He looks at the photograph. "The Choir came to the house. I was upstairs. I heard the humming and I thought it was the boiler." His voice doesn't change. "She lived two more years. Polite. Grey. Asking me every week what my name was. My father lasted a year after that. The doctors had a word for it. I didn't think much of the word."
 
       You don't say anything. There isn't anything. You sit on the cold floor of the cage with your shoulder against his and let it be as big as it is.
+
+      *page_break
 
       @idris:tense "I started reading about Kindlers the week she was hollowed," he says. "Because the books said a Kindler could relight a hollowed flame. If they got there in time. I thought, if I could find one. Just one." He finally turns and looks at you, through his round wire glasses, with his dark deep-set eyes. "And then, twelve years later, I was in a corridor at night, and you put your hand on a snuffed candle, and it lit."
 

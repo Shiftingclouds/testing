@@ -29,6 +29,8 @@ The voices go on up the stair and round the turn and out of hearing, and you sta
 
 People move away from Idris in corridors now. Somebody wrote something on the door of the Owlcombe Stacks and Professor Kovač had it scrubbed off before breakfast, but not before half the school had read it.
 
+*page_break
+
 It's been a strange, grey, stunned sort of week. Lessons started again on Monday, because the Headmistress said they must, and nobody learned anything. Warding has been cancelled until further notice; the door of the Warding Hall is shut, and there's a candle burning on the floor outside it that someone keeps replacing. There are still Lamplighters on the stairs. The dark patches in the roof of the Lantern Hall haven't changed. And every night at ten, Mr Tully still goes out on his round with his long brass taper and his stepladder, and the lanterns he can light come on behind him, one by one, gold, all the way up the hill.
 
 The Long Stacks at nine on a Wednesday night are almost empty. The rain's back, ticking on the high windows. The green reading lamps make little pools of light down the length of the long tables, and between them the shelves go up into the dark, and somewhere a long way off Miss Dunne is putting books back, one soft thump at a time.
@@ -138,6 +140,8 @@ You don't know where to start. You look at the paper, and the lamp, and Idris's 
 
 @imogen:grave Imogen reads back down her list. Her lips move. Then she looks up at you, and waits, and you know what she's waiting for, because it's the last thing, and the worst, and you're the only one who heard it.
 
+*page_break
+
 "On the stair," you say. "At the end. He said to tell the Headmistress it was the boathouse ward." You have to stop. The lamp hums over your head. "Opened from inside. On the round." Nobody moves. "And then he said: [i]I was watching the wrong man.[/i]"
 
 @imogen:grave Imogen puts down her pencil and looks at the table. So does everyone. Nobody wants to be the first to say it. The lamp over the table hums faintly, the way every lantern in Wrenfold has hummed since September, and for the first time you all hear it, and look up at it, and look away.
@@ -184,6 +188,8 @@ Friday night is cold and clear after a week of rain. The wind's dropped. The Mer
 
 At ten o'clock exactly, the cottage door opens, and Mr Tully comes out with his long brass taper and his stepladder, the way he does every night, and pulls the door to behind him without locking it, and sets off up the lawn towards the castle. He walks slowly, with his bad knees. He's humming something under his breath. You can't hear what. His taper bobs away up the hill, gold, stopping at every lantern on the path, one by one, and every lantern it stops at comes alight.
 
+*page_break
+
 You wait until the taper is a spark at the top of the hill. Then you go.
 
 The door isn't locked. Nobody locks doors at Wrenfold.
@@ -195,6 +201,8 @@ A little girl on a beach with a bucket. A girl of ten on a bicycle, laughing. A 
 You stand on the rag rug and turn round slowly, and she's everywhere you look. You feel like a thief. You are one.
 
 You don't have to look hard. It's in the stove drawer, the one for kindling, under the kindling: a bundle of letters, tied with string. Thin grey paper. Dozens of them. The handwriting on every envelope is long and looping and beautiful and old-fashioned, and there's no stamp, and no postmark, and on the back of every one, instead of a return address, a small grey drawing of a wick.
+
+*page_break
 
 Your hands are cold. You open the top one.
 
@@ -210,6 +218,8 @@ You don't hear the door. You hear the taper, set down very carefully on the shel
 
 @tully:sad He doesn't shout. He doesn't come any closer. He looks at the letter in your hand, and at the open stove drawer, and at you, and his long kind face doesn't do anything at all for a moment. Then it just... falls. Like a house when the last wall goes.
 
+*page_break
+
 @tully:sad "I came back for my gloves," he says. "Left my gloves." He looks at them, on the arm of the chair. He doesn't pick them up.
 
 You can't speak. You're still holding the letter. You think about putting it down, back in the drawer, as if that would undo it, and you can't make your hand do that either.
@@ -217,6 +227,8 @@ You can't speak. You're still holding the letter. You think about putting it dow
 @tully:sad "You'd best sit down, {name}," he says. "Properly, love. Not on the floor like that; you'll get cold." Then he sees there's only the one chair, and his face does something helpless. "No. Stay there, then. Stay by the stove." He takes off his cap. He stands holding it. "I've been wanting to tell somebody for three years. I used to practise. Up the ladder, doing the high ones. I'd say it to the lanterns." He almost smiles. "They never said anything back."
 
 He doesn't start. He goes past you, carefully, the way you'd go past someone asleep, to the stove, and opens the door of it, and puts in two sticks of kindling from the drawer you've emptied, and fills the kettle at the little sink and sets it on the hob. He gets down a second cup from the shelf. He looks at it, and takes a clean cloth off the rail, and wipes it, inside and out, although it's already clean. You don't know why that's the thing that nearly undoes you, but it is.
+
+*page_break
 
 "Mr Tully." Your voice comes out cracked. "The fifth. The boathouse ward." You hold the letter up, a little, so he can see it. "Was it you?"
 
@@ -237,6 +249,8 @@ He sits down in the armchair. It creaks. He puts his cap on his knee and his big
 
 @tully:sad "I'll tell it from the start," he says. "Or I'll get it wrong. I've only ever said it to the lanterns, and they don't interrupt." He breathes out. "You'll not believe the start. Nobody would, now."
 
+*page_break
+
 You wait. The kettle begins, very faintly, to tick and whisper.
 
 @tully:sad "I was twenty-seven," he says. "Under-lampman. The old Lanternwarden had the round then, and I carried his ladder, and I hadn't a spark in me. Not one. The students looked straight through me. You'd pass one on a stair, forty times a day, and they'd not see you. You were furniture." He turns his cap a quarter-turn on his knee. "All except one. Tall lad. Black hair. Laughed with his whole face. He used to come out on the round with me. At night. Just for the company. He'd light the high ones, the ones up past the top of the ladder, with his bare hand. Like that." He lifts one finger, and there's nothing on the end of it, and he puts it down. "He knew my name. First week. He knew everybody's name."
@@ -249,6 +263,8 @@ You wait. The kettle begins, very faintly, to tick and whisper.
 
 @tully:sad "I saw it." He's quiet a moment. "I'll not tell you what it looked like. Not tonight. I've told the lanterns, and that's enough telling for one thing." His thumb moves on the brim of his cap. "Afterwards they sent him home and said he'd mend, and nobody said a word. Not the staff. Not the students. Not the under-lampman up the ladder with his mouth shut." He looks up at you. "I didn't say anything. None of us did. I want you to know that bit. It's the start of it, the not saying."
 
+*page_break
+
 The kettle's singing now, thin and high. He gets up and sees to it. His hands don't shake at all: they've made tea for forty years, and they know how. He warms the pot. He puts the tea in, two spoons and one for the pot. He pours. He brings yours over and puts it into your hands and closes your fingers round it, the way you'd do for a child, and then sits down again with his own and doesn't drink it.
 
 @tully:sad "Then Maisie," he says.
@@ -260,6 +276,8 @@ He doesn't go on at once. He looks at the photograph on the mantelpiece: the fro
 You don't say anything. There isn't anything.
 
 @tully:sad "I've been to St Ide's every Sunday since. Three hundred and twelve Sundays." He says the number the way other people say their address. "She asks me what my name is. Every time. I tell her. She says [i]that's a nice coat[/i]. It's the same coat. She's said it three hundred and twelve times." He looks down at the brown sleeve. "I can't get a new one. I tried, once. I couldn't go in, in a new coat. What if that was the thing she knew."
+
+*page_break
 
 The tea's hot through the cup. You hold on to it.
 
@@ -277,6 +295,8 @@ You unfold it. Your hands aren't steady, and the paper whispers.
 
 @tully:sad He's got his eyes shut. "[i]You were the only one who didn't look away.[/i]" He opens them. "I did look away. I looked away for forty years. But he wrote that, and I thought: he remembers me. Somebody remembers me." He lifts his hands and lets them fall on his knees. "He only wanted small things, at first."
 
+*page_break
+
 "Like what?"
 
 @tully:tense "A ward left open an hour. An old one, one nobody walks. A lantern with a grey wick in it, here and there, so he could hear through the lanterns what was said under them." He's looking at the floor now. "A drop of the Fen oil from my shed. I've had a barrel of it thirty years, for the old brass lamps; it burns slow. I told myself it was nothing. Oil. Wicks. I've been trimming wicks my whole life."
@@ -288,6 +308,8 @@ You unfold it. Your hands aren't steady, and the paper whispers.
 He stops. You think he's finished. He hasn't.
 
 @tully:sad "Every Sunday, on the train, I'd do the sum," he says. "Delphine and Bram and Odile, on one side. On the other, Maisie, and all of St Ide's. Hundreds. I'd do the sum all the way to Kingsmere, and it always came out right." He looks up. "It always came out right, love. That's how you know you've gone wrong. When the sum's always right."
+
+*page_break
 
 "And Professor Grey?"
 
@@ -383,6 +405,8 @@ It's full of the hollowed. That's the thing nobody tells you. You knew they were
 *meet maisie
 @maisie:hollowed Maisie Tully is in the end bed of the fourth ward, by the window. She's thirty now. Thin, and fair, with her father's long face and his pale blue eyes, gone foggy. Her hair's in a hospital plait. She's wearing a pink cardigan that's been washed so often it's nearly white. When her father sits down in the chair beside her bed and takes her hand, she turns her head and looks at him with a small, puzzled, pleasant smile.
 
+*page_break
+
 @maisie:hollowed "Hello," she says. "That's a nice coat. What's your name?"
 
 @tully:warm "Absalom," says Mr Tully, gently, as he has three hundred and thirteen times. "Absalom Tully. I'm your dad, love." He takes last week's flowers out of the water jug, brown and drooping, and puts the daffodils in. "Look. Daffodils. Spring's coming."
@@ -397,6 +421,8 @@ He talks to her. You didn't expect that. You thought he'd sit, the way the other
 
 @tully:warm "It was, love." He goes on. "Lamp oil's up again. Fourpence a gallon. I told the man, I said, I've been buying from you since before you had teeth." He strokes her knuckles with his thumb. "And the Mere's broken up. All the ice gone. The ducks are back. Seven of them, and one with a bad wing that the others wait for."
 
+*page_break
+
 He doesn't mention the Quiet. He doesn't mention you, or the letters inside your coat. She listens, or doesn't, with her eyes on the window, and every so often she says [i]that's nice[/i], and he says [i]it was, love[/i], and goes on.
 
 You sit down on the edge of the bed. You look.
@@ -410,6 +436,8 @@ You open your eyes. Mr Tully is watching your face. He's seen it. You didn't nee
 
 @tully:hurt "There's something," he whispers. "Isn't there. There's something left." His whole face is shaking. "He said. He said there was, and he could reach it, and I thought he was lying, I thought he was just saying it..."
 
+*page_break
+
 "There's something. A spark. That's all."
 
 @tully:hurt "A spark," says Mr Tully, and bends over his daughter's hand, and holds it against his face. Maisie looks down at him, puzzled, and pats his head, the way you'd pat a stranger's dog.
@@ -421,6 +449,8 @@ You open your eyes. Mr Tully is watching your face. He's seen it. You didn't nee
 @cas:grave "Tell me." Cas's voice is barely there. "Please. What you saw, from up there. The Headmistress was beside him; she told me what it [i]meant[/i]. Nobody's told me what it looked like."
 
 @tully:sad Mr Tully looks out of the window at the roofs for a while before he starts. "February," he says. "Cold. The Warding Hall was full; it was a big lesson, both years. I was up by the high windows with my taper. There was a hum in the room. There always is, when they're warding; you get used to it." He moves his cap in his hands. "Your grandfather was at the front. Thin lad, frightened. He had a black book open on the bench in front of him, and he kept looking down at it, and his lips were moving."
+
+*page_break
 
 @cas:grave Cas doesn't say anything. His hands are flat against his coat.
 
@@ -462,6 +492,8 @@ You open your eyes. Mr Tully is watching your face. He's seen it. You didn't nee
 
   *present kestrel
   That night you climb to the Weathervane Room with the letters inside your coat, and knock, and stand on the Headmistress's hearthrug with your cold hands and your train-smelling clothes, and don't know how to begin. So you don't. You put the bundle on her desk, on top of her papers, with the string still round it.
+
+  *page_break
 
   @kestrel:grave She looks at the grey paper, and at the little drawn wick on the back of the top envelope, and her face changes. "Where did you get these?"
 

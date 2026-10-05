@@ -13,6 +13,8 @@ It's been building for a fortnight. Ever since Candlewake, the castle has talked
 
 The semi-finals were a fortnight ago, in a blizzard. {@house = "owlcombe"|Owlcombe lost to Larkspire by one hoop, in the last minute, and your whole common room is still in mourning.|}{@house = "heronmere"|Heronmere lost to Rookhallow when their Keeper, Jonty Farthing, fell asleep on his broom, and nobody in your common room has spoken to him since, except to be very kind about it, which is worse.|}{@house = "larkspire"|Larkspire beat Owlcombe by one hoop in the last minute, and your common room hasn't slept since.|}{@house = "rookhallow"|Rookhallow beat Heronmere by a mile when their Keeper fell asleep on his broom, and your common room has been building something in the Undercroft for the final that nobody will tell you about.|} And now it's the final, and the snow's stopped, and the sky's hard and blue, and the pitch is white from shore to shore.
 
+*page_break
+
 The morning is so cold the air hurts your teeth, and so bright off the snow you have to screw your eyes up. The whole school walks down to the Mere together after breakfast, four hundred people in every scarf they own, stamping their feet and blowing on their hands, with flasks and blankets and banners and familiars in knitted hats; Jonty Farthing has been busy. You can smell woodsmoke from the braziers along the shore, and roasting chestnuts, and the cold, clean, metal smell of the ice.
 
 The stands on their stilts over the frozen shallows are packed. Gold and rose on one side, black and copper on the other, and Owlcombe and Heronmere split down the middle according to who they hate least. Flags. Scarves. Rookhallow has built a brass dragon that breathes copper sparks every time they score, and it's already set fire to one Larkspire banner and been told off by three Lamplighters. There are Lamplighters on every stand, in their greatcoats, with their lamps, watching the sky instead of the game.
@@ -28,6 +30,8 @@ At each end of the pitch, the three lantern-hoops hang in the cold air, twenty f
   You're in the stands, in the front row, with a flask of tea and a blanket and Toby, who has painted his face half gold and half black because he says he can't choose, and Priya, who says he's a coward.
 
 @rowan:tense In front of the Larkspire hoops, big and still in gold and rose, sits the Larkspire Keeper. Rowan. He's not watching the game. He's watching the hoops behind him, one after another, frowning, as if something's bothering him. He rubs his gloved hands together. Even from here you can see the snow melting off his broom.
+
+*page_break
 
 @saoirse:laugh Out in the middle, in black and copper, with her goggles on and her dark hair whipping, Saoirse Maddock is doing loops round the Rookhallow dragon just to annoy it, and laughing.
 
@@ -48,6 +52,8 @@ Then, with the score level and the lanterns in the hoops burning down towards th
   You should be on the end of that wedge. You're not: a Larkspire Harrier has your broom tail hooked on the far side of the pitch, and by the time you've shaken her off you're forty yards behind, and all you can do is watch.
 
 Nobody else notices. Not at first. It's one hoop, twenty feet across, and its lanterns go dim, and then flat, and then grey: dead grey, colourless, like a photograph. You notice. You'd notice that grey anywhere now. It's the grey of Delphine's lantern wick. It's the grey of Viaduct Street, or of the high street in Thimble Cross, of every bad night since October.
+
+*page_break
 
 The first Rookhallow Chaser goes through it with the Glim.
 
@@ -112,6 +118,8 @@ The Infirmary is long and white and hushed, with its tall windows full of snow l
 
 @noor:tense Noor is at his other side, with her hand flat on his chest over the blankets, and her face is grey and set. She hasn't taken her coat off. There's still snow on her boots. "It's coming back," she says. "Slowly. Too slowly. It keeps sinking." She looks up at you, across the bed, and her eyes say what she won't in front of Matron: [i]you could.[/i]
 
+*page_break
+
 You sit down on the edge of the bed. You take his cold hand. It's the strangest thing, holding Rowan's hand and it being cold; it's like putting your hand on a radiator in August. You look.
 
 His flame's there. Blue, tiny, flickering, down at the bottom of him like a pilot light, sinking and catching and sinking again. It wants to come up. It doesn't know how. It's forgotten what it's like to be big.
@@ -125,6 +133,8 @@ It takes twenty minutes. They're very long minutes. The Infirmary clock ticks. N
   *set b_rowan_afraid true
   *set st_rowan 4
   @rowan:scared He looks at you. At Noor. At the ceiling. His face, which you've seen brave and embarrassed and furious and laughing, does something you've never seen it do. It breaks.
+
+  *page_break
 
   @rowan:scared "I thought I'd gone," he says. His voice is tiny. "When I went through. I felt it go out. Everything. All the heat. And I was so cold, and I thought, this is it, this is what it's like, and I was glad." He grips your hand so hard it hurts. "For a second. I was glad. Because it was gone and it couldn't hurt anyone any more." He's crying. "What kind of person is glad? I'm so frightened of it. All the time. I've been frightened since Tanner's Row. And I've never told anyone, because I'm the one who goes in. I'm the one who isn't frightened." He shuts his eyes. "I'm frightened all the time."
 
@@ -180,6 +190,8 @@ You go down onto the ice. You don't entirely know why. You've been sitting with 
     @tully:neutral He hands it to you without a thought. It's a hoop lantern: brass and paper, with a thick wick in a little well of oil. The oil should be clear and gold, like the oil in every lantern in Wrenfold. It isn't. It's grey. Thin, cloudy, silvery-grey, like water that's had ash in it, and when you lift the lantern to your face it smells of mud and reeds and standing water and something rotten underneath: a marsh, at night.
 
     {@e01|You've smelled it before. On the grey wick in Delphine's lantern, in October.|You've never smelled anything like it in your life, and you know, at once, that you don't like it.}
+
+    *page_break
 
     @tully:tense When you look up, Mr Tully's face has gone the colour of the oil. He's staring at the lantern in your hands. "That's Fen oil," he says. His voice has gone strange and thin. "From Saltmarrow. Out on the Fen. They make it in the villages there, for the marsh lamps. We use it for the old boathouse lamps; it burns in the damp." He swallows. "There's no other store of it in Wrenfold. Just the one. In my shed." He takes the lantern out of your hands, very gently, and holds it against his chest. "Somebody's been in my shed," he says. "Somebody's been in my shed."
     *clue e04

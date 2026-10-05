@@ -13,7 +13,11 @@ Everybody does. Wrenfold is not a building that wants to be understood by Monday
 
 It doesn't matter. It's the best weekend of your life. The sun comes out on Saturday and lies on the Mere like a sheet of hammered gold, and half the first-years end up sprawled on the grass by the boathouse in their new robes, comparing wands and familiars and lives.
 
+*page_break
+
 [i]What did you do? Before?[/i] It's the question everybody asks, lying on their backs with their eyes shut against the sun, and it's the one everybody wants to be asked. [i]Nails[/i], says the woman who was nested just before you, holding up ten perfect coral fingertips. [i]Twelve years. I did a bride's the morning I kindled and every one of her nails came out a different colour, and she loved it, and I cried in the stockroom.[/i] A man a few yards off, who is lying on the grass mainly because if he stands up he drifts, says [i]scaffolder[/i], and everybody laughs, and then stops, and he says [i]yeah, I know[/i], a bit sadly, and holds on to a tussock. The quiet girl with the owl says [i]vet[/i], and nothing else, and her owl turns its head right round to glare at anyone who asks a follow-up question.
+
+*page_break
 
 When they get to you, you say {@job = "calls"|[i]insurance, on the phones[/i]|}{@job = "nurse"|[i]A&E reception[/i]|}{@job = "cook"|[i]pub kitchen[/i]|}{@job = "shop"|[i]returns desk, at a department store[/i]|}{@job = "library"|[i]the library[/i]|}{@job = "courier"|[i]bike courier[/i]|}, and it sounds so strange out loud, here, on the grass, with the castle behind you and a stranger's toad sunning itself on your shoe, that you have to say it twice. Somebody says [i]oh, I bet you've got stories[/i], and you find, to your surprise, that you have, and that for the first time in years you want to tell them.
 
@@ -25,6 +29,8 @@ The Wordcraft Gallery is a long room on the second floor with windows down one s
 
 The room smells of chalk and new paint and old paper. Morning sun comes in slantwise through the long windows and lies across the desks in bright bars, full of floating dust. Everybody's nervous. You can tell by the noise: too loud, too many jokes, people fiddling with their new wands like cigarettes they've only just given up. It's the first day at school, except that everyone in the room is a grown-up who's been out in the world for years, and knows exactly how ridiculous this is, and is trying very hard to look as if they don't.
 
+*page_break
+
 There's a stack of books at the front of the room. On top of the books is Professor Moth.
 
 *meet moth
@@ -33,6 +39,8 @@ There's a stack of books at the front of the room. On top of the books is Profes
 You sit. {fam_name} settles {@(familiar = "owl") or (familiar = "raven")|on the back of your chair|under your desk}. Toby sits next to you, as he now does everywhere, as if you're a lifeboat.
 
 @moth:neutral "Wordcraft," says Professor Moth, "is the oldest craft of all. Before there were wands, there were words. Before there were words, I suppose, there was pointing and shouting, but we don't talk about that." He beams. "The words are very old. Older than the languages you speak. They're not Latin. People always think they're Latin. They're [i]older[/i] than Latin, and much ruder. Every word does one thing. You say it with your flame behind it, through your wand, and the world, if you've said it properly, does the thing." He holds up a candle. "Today's word is [i]lume[/i]. It lights things. Say it with me. [i]Lume.[/i]"
+
+*page_break
 
 Forty-three grown adults say [i]lume[/i] in the tone of people who've been asked to say [i]cheese[/i].
 
@@ -43,6 +51,8 @@ There's a candle on every desk. You spend twenty minutes failing to light it. Ev
 Professor Moth goes up and down the rows, hopping from desk to desk on a sort of little wheeled ladder that follows him about like a dog. He doesn't correct anybody. He just listens, with his head on one side, and says things like [i]nearly, nearly, you're a little bit shy of it[/i], or [i]lovely vowel, now give it some elbow[/i], or, to Kwame, very kindly, [i]I think you've made it taller, dear, which is a different word altogether[/i].
 
 You say it. [i]Lume.[/i] Nothing. [i]Lume.[/i] Nothing. You think about Professor Moth saying [i]you're not asking[/i], and you think about the candles on Nana's birthday cake, leaning towards you, and the ones in Pellow's shop, and you point your wand and say [i]lume[/i] as if you're telling an old friend something they already know.
+
+*page_break
 
 Your candle lights.
 
@@ -72,6 +82,8 @@ You've also learned that people talk. Twice on the way to breakfast somebody poi
 Brewing is in the cellars, which are exactly what you'd expect: low stone vaults, blue flames under black cauldrons, shelves of jars with things floating in them that you decide not to look at closely, and a smell like a chemist's shop that's been struck by lightning.
 
 @kovac:neutral Professor Kovač is thin and pale and very still, with sharp cheekbones and a single white streak in her black hair, pinned back so tightly it looks painful, and grey eyes that don't blink enough. She waits at the front of the cellar until the last of you has stopped talking, which takes a while, and then a while longer, because she doesn't ask anyone to stop. She just waits. It's the most frightening thing you've ever seen a teacher do.
+
+*page_break
 
 @kovac:neutral "Stillwater tonic," she says, when it's silent. "You will take it weekly until June. It steadies a late flame. It will not make you safe. It will make you less likely to explode. Instructions are on the board. I will not say them again." She doesn't. "Partners."
 
@@ -139,6 +151,8 @@ The Wordcraft Gallery is being lent to Turning for the morning, while the Turnin
 
 @bassani:amused "Turning!" cries Professor Bassani, throwing open his arms, before the door has even shut behind the last of you. "[i]Turning![/i] The hardest subject! The noblest subject! The subject in which you will fail, and fail, and fail, and fail, and then one day, [i]one glorious day[/i], you will turn a button into a beetle, and it will be the proudest moment of your life, the proudest moment of your life!"
 
+*page_break
+
 He says everything twice. You'd been warned. You hadn't been warned how much you'd enjoy it.
 
 He's wearing a waistcoat in gold and rose so bright it's almost a noise, and there's a fresh flower in his buttonhole, a small blue one, which he tells you in passing he turned from a paperclip at breakfast, at breakfast, and which is now very slowly turning back. He walks up and down between the desks while he talks, twirling his moustache, flinging out his hands, stopping now and then to bend over someone's work with his nose an inch from it and say [i]hmm[/i], or [i]aha[/i], or once, alarmingly, [i]oh dear, oh dear[/i].
@@ -149,6 +163,8 @@ The word is [i]wende[/i]: to turn. The button in front of you is plain and brown
 
 For the first half hour, nothing happens at all, all round the room. Forty-odd people glaring at buttons and muttering at them, like a room full of people trying to get a signal on their phones. Then things start, here and there. Somebody's button goes soft, like a mushroom. Somebody else's grows a single hair. Kwame's, for reasons no one can explain, turns tartan.
 
+*page_break
+
 You think about what Bassani said. You look at your button, and you try to think of it as something that might want to change, and you whisper [i]wende[/i] at it the way you'd talk a friend into a new haircut. After an hour, yours has grown six small legs and is walking in circles, still, somehow, a button, which Professor Bassani describes as [i]promising, promising[/i]. Rowan's is smoking slightly. He's frowning at it as if it's a building he's been asked to go into.
 
 @rowan:tense "It's not listening," he mutters to you. "I tell it, and it just gets hot."
@@ -158,6 +174,8 @@ You think about what Bassani said. You look at your button, and you try to think
 @rowan:amused He looks at you sideways, and then, to your surprise, he does. He bends right down until his nose is nearly touching the desk and says [i]wende[/i] to the button almost in a whisper, the way you'd talk to a frightened animal. It stops smoking. It doesn't turn into anything. But it stops smoking, and he sits back looking as pleased as if it had.
 
 @saoirse:laugh Saoirse's button turns into a beetle on the first try. Not a beetle, exactly. A little brass beetle, with cogs visible through its wing-cases, and a tiny key in its back that turns by itself as it walks, and when it gets to the edge of the desk it opens its wings with a whirr and flies off round the Gallery, ticking.
+
+*page_break
 
 @bassani:amused There's a stunned silence. Professor Bassani watches the brass beetle circle the chandelier. "Magnificent," he says, at last, faintly. "Magnificent. Also completely against the rules of Turning. Completely against the rules! Five points to Rookhallow, and you will stay behind and explain to me how you did it, how you did it."
 *points rookhallow +5
@@ -183,6 +201,8 @@ The school brooms are old, and have names burned into their handles: [i]Nancy[/i
 It comes up into your hand like a dog that's been waiting for its walk.
 
 Flying is... you don't have a word for it. It's like the first time you rode a bike downhill without brakes. It's like being nine. You hover six feet over the water with your heart in your mouth and the whole Mere spread out below you, glittering, and the castle behind you, and Coach Okoro shouting [i]lean, LEAN, you're not a sack of potatoes[/i], and you lean, and [i]Sparrow[/i] goes, and you laugh out loud.
+
+*page_break
 
 The wind is in your face and your robes are cracking behind you like a flag and the water is flashing past underneath, green and gold and silver, so close you could trail your fingers in it. You bank, clumsily, and come round, and see the whole castle from the water: its towers and its turrets and its thousand windows, the lanterns drifting over its roofs even in daylight, faint as bubbles. You didn't know you could be this happy. You didn't know it was allowed.
 
@@ -250,6 +270,8 @@ The Warding Hall is a stone barn of a room in the west wing, scorched black up t
 
 @grey:neutral Professor Grey is standing at the centre of it when you come in, and he doesn't move or speak until every one of you is standing in a circle round him. He's big and heavy, with a craggy face and a broken nose and grey stubble, and eyes of a tired pale blue. His hands are scarred, both of them, from the fingertips to the wrists, shiny and puckered, as if he once held them in a fire for a long time. He's wearing plain charcoal robes with no house colours at all.
 
+*page_break
+
 @grey:grave "Warding," he says. His voice is low and rough and very quiet. You have to lean in. "Shields. Counters. How to not die." He looks round the circle, at every face. "Some of you met the Choir on the Row. Hands up."
 
 Hands go up. Yours. Toby's. Rowan's. A few others.
@@ -263,6 +285,8 @@ He stops after two seconds. It feels like two minutes. Somebody's crying. Toby's
 @grey:grave "That," says Professor Grey, very quietly, "is the Quiet Art. When you hear it, you don't fight, you don't argue, you don't try a spell you read about. You run. You shout. You don't stop running and shouting till you reach a lit room full of people. Understand?"
 
 Nobody answers. He doesn't seem to need them to. But you're looking at the lamps, which are slowly straightening, and you're thinking: [i]how does a teacher know how to do that so well?[/i]
+
+*page_break
 
 Then the thing in your chest, which has been pulling against the hum, doesn't stop when the hum stops. It keeps going. It rebounds, like a spring let go, up and out, and every lamp in the Warding Hall, still leaning away from Grey, whips upright and flares white. Blinding white. So bright people shout. So bright you see the bones of your own hand against it.
 
@@ -331,6 +355,8 @@ You drink it. It tastes of burnt sugar and ice, and the headache you didn't know
 
 @noor:neutral "Pupils?" says a calm voice, and a small torch shines briefly in each of your eyes, and when you open them it's Noor, the nurse from the feast, in sea-green robes with the sleeves rolled up and an apron over them. Her watch is still pinned upside down on her chest. She's taking your pulse with two fingers, looking at the watch. "Fine. You're fine. Bit fast."
 
+*page_break
+
 "You work here?"
 
 @noor:amused "No," says Noor. "I'm a first-year. Same as you." She lets go of your wrist. "I just came up to see if Matron needed a hand, on Monday, and she did, and I came back on Tuesday, and..." She shrugs. "It's where I know what I'm doing."
@@ -363,6 +389,8 @@ You drink it. It tastes of burnt sugar and ice, and the headache you didn't know
     @noor:amused She comes back with a whole rack of it, and a pot of tea, and two cups, and sits on the end of your bed, and you eat it together. She eats four slices. She doesn't seem to notice she's doing it. Halfway through the fourth she stops, with the toast in the air, and says, "Have I told you about the swan?"
 
     "You've known me for a week."
+
+    *page_break
 
     @noor:amused "Christmas Eve," says Noor, as if you hadn't spoken. "Three in the morning. Sliding doors open, and in walks a man in a Santa hat, perfectly calm, with a swan under his arm." She takes a bite. "A live swan. Furious. And he walks up to the desk and says, [i]I think it's broken its wing, and I think it's broken my nose[/i], and they both had, as it turned out, and the triage nurse says [i]which of you is the patient[/i], and the swan..." She has to stop. Her shoulders are shaking. "The swan [i]answers her[/i]."
 
@@ -403,6 +431,8 @@ The Lantern Hall after dinner on a Friday is the best room in the world. The tab
 
 Rowan is at the Larkspire table, arm-wrestling a second-year and losing on purpose. Saoirse has taken the back off something that was probably a clock. Imogen is reading with her feet up on the bench, which is the most relaxed you've ever seen her. Across the Hall, Noor is sitting with the Heronmere crowd, a cup of tea in both hands and, you notice with a small glow of satisfaction, a plate with crumbs on it at her elbow. Casimir Drummond sits alone at the end of his house table, reading, and doesn't look up, and turns a page every so often, much too fast to be reading it.
 
+*page_break
+
 High over the High Table hang four huge paper globes, one in each house's colours, with gold numbers floating under each of them like writing on the air. You've been looking at them all week without knowing what they were. Tonight, as you watch, the Rookhallow globe gives a small pleased pulse, and its number ticks up by one, and somebody at the Rookhallow table cheers and somebody at the Larkspire table boos.
 
 @imogen:neutral "Points," says Imogen, without looking up from her book, as if you'd asked out loud. "Each house's lantern burns by its points. Somebody in Rookhallow's just handed in homework." She turns a page. "{@house = "owlcombe"|Ours|Yours} went up on Monday. After the chandelier."
@@ -434,6 +464,8 @@ The pen underlines [i]flies[/i] on its own. You let it.
 
 [i]There are lanterns everywhere. Paper ones, thousands, all colours, floating about under the roof of the big hall like fish, and they hum when they're happy. When I came in they all turned round to look at me. I'm not making that up. There's a pudding that sings. It's treacle sponge. You'd have words with it.[/i]
 
+*page_break
+
 [i]{fam_name} sends love.[/i] You look across at {fam_name}, who is watching the pen with deep suspicion. [i]That's a lie,[/i] you add. [i]{fam_name} is looking at this letter as if it owes money. But I'm sending the love anyway.[/i]
 
 You stop, and chew the end of the pen, which doesn't like it, and think about how to explain the people.
@@ -446,6 +478,8 @@ You start a new paragraph. [i]On the first morning, on the street where we bough
 
 You stop. You look at it. The ink sits there, wet, waiting to find out what there were three of. You think about Nana Pearl reading this in her chair with her feet on the pouffe, and her hand going to her mouth.
 
+*page_break
+
 You cross it out, so thoroughly that the pen makes a small offended noise, and write instead: [i]The food is very good.[/i]
 
 {@thimble|[i]I wear Ivy's thimble every day. It's warm. I think it likes it here.[/i] You look at it on your finger, the little wren catching the lamplight, and add: [i]I think she did too.[/i]|[i]I keep wondering what Great-gran Ivy would think of it all.[/i] You look at that for a while. [i]I think she'd have liked it,[/i] you add.}
@@ -455,6 +489,8 @@ You cross it out, so thoroughly that the pen makes a small offended noise, and w
 You read it through when you've finished. It's four pages long and the pen has corrected [i]definitely[/i] three times, rather smugly. It sounds like a letter from somebody on holiday. It sounds like somebody happy. You sit and look at it for a while, surprised.
 
 You give it to {fam_name}, who looks at it with enormous disdain, and then, to your astonishment, takes it{@(familiar = "owl") or (familiar = "raven")| in its beak and goes out of the Hall's great round window into the dark, towards Wrexley|, and disappears with it round the corner of the Hall, and comes back five minutes later without it, looking extremely pleased with itself}. Mr Tick did say they'd find anyone anywhere.
+
+*page_break
 
 @toby:warm Toby, at your elbow, has been quiet for a while. He's been watching the Heronmere table, where a tall young woman with a high glossy ponytail and a violin case beside her is laughing at something, with her head thrown back.
 

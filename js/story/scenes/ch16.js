@@ -17,6 +17,8 @@ Imogen has been in the Long Stacks every hour she isn't in a lesson. You know be
 
 @imogen:neutral "Every file signed out of the Owlcombe archive in the last twenty years," she says, without looking up. "Don't ask me how I got it. You'd have to testify."
 
+*page_break
+
 On Saturday night, at a quarter to nine, she runs her finger down the list for what must be the fortieth time, and stops, and goes back up, and stops again. Then she stands up so fast her chair goes over.
 
 @imogen:angry "You've got it," she says. She's standing at the end of the long reading table where Idris is sitting with his books, and her voice rings off the shelves. Up in her office window, Miss Dunne's head comes up like a startled bird. "Morrow's file. His school file. It's been missing from the Owlcombe archive since last year, and you're the only person who's signed out a single thing from that archive in six years, and you walk round this library at two in the morning with a satchel you won't let anybody near." She puts both hands flat on the table. "You've got it. And I need it. Now."
@@ -32,6 +34,8 @@ On Saturday night, at a quarter to nine, she runs her finger down the list for w
   @idris:guarded "Yes," he says, after a pause long enough to hear the clocks. "I've got it." He opens his satchel slowly, like a man handing over a weapon. "I took it because nobody else was reading it. I've been reading it for a year and a half. I don't know what I'm looking for." He puts a buff-coloured folder on the table. "Maybe you will."
 
 @imogen:neutral Imogen doesn't grab it. You'd have bet money she would. She stands there with her hands flat on the table a moment longer, breathing, and then she picks up her chair and sets it on its feet and sits down in it, opposite him, and says, in a different voice, "Thank you." It seems to surprise her as much as him.
+
+*page_break
 
 The folder is old, and buff-coloured, and soft at the corners from handling, with a wren stamped on the cover in faded red. [b]MORROW, Aldric J. Owlcombe. Entered 1985.[/b] {@b_idris_file|You've seen it before, on the floor of the restricted cage, but it's different under the reading lamps with Imogen breathing beside you: smaller, somehow, and worse.|}
 
@@ -49,6 +53,8 @@ The last page is typed, and dated February 1986, and half of it is blacked out w
 
 *clue e11
 Nobody says anything. The clocks tick, all out of time with each other. Up in the dark of the shelves, a book shifts in its sleep.
+
+*page_break
 
 @imogen:grave "[i]Name withheld at the request of the Deputy,[/i]" says Imogen, to herself. Then she opens her notebook and takes out a small stiff card, yellow with age, which she must have lifted from the founders' drawer, and lays it down beside the file, and lines up their edges exactly.
 
@@ -84,6 +90,8 @@ The Headmistress has sent for Cas. He came in last, and he's standing by the doo
 
 @imogen:neutral Imogen lays the file on the desk, open at the photograph. "This is Aldric Morrow's school record. It left the Owlcombe archive some time ago; how it came to me isn't relevant." She lays the card beside it. "This is the catalogue card for Hester Wren's journal. Withdrawn in 1986. Signed." She turns the file to its last page and puts it next to the card, and steps back, and doesn't point. She doesn't need to.
 
+*page_break
+
 @kestrel:grave The Headmistress doesn't look at the signatures straight away. She looks at the photograph for a long moment, the laughing boy in plum and silver. Then she puts on her reading glasses and bends over the card and the page, and touches the faded ink on the card with one finger, very lightly, the way you'd touch a bruise to see if it still hurts.
 
 @kestrel:grave "You have been busy, Miss Sallow," she says.
@@ -106,6 +114,8 @@ Cas doesn't move. The ring stops turning.
 
 @kestrel:grave The Headmistress is quiet for so long you think she isn't going to answer. Then she gets up, stiffly, and goes to the window, and stands with her back to the room, looking out at the rain on the Mere.
 
+*page_break
+
 @kestrel:grave "It was a Friday," she says. "The fourteenth of February. Someone had pinned paper hearts on the Warding Hall door, and Professor Tamworth made them take them down. He had us in pairs, practising shields against a hum. He hummed it himself, on a pitch pipe, very badly." Something that is almost a smile, and isn't. "Nobody wanted to partner Aldric. His shields were too good; you came away with your hair standing on end. Lucius drew the short straw."
 
 @imogen:tense "And Lucius panicked," says Imogen.
@@ -115,6 +125,8 @@ Cas doesn't move. The ring stops turning.
 "What did it do?"
 
 @kestrel:grave "I was standing next to him," says the Headmistress. "It took about as long as it takes to say it. He turned and looked at Lucius, surprised, as if someone had told a joke he didn't get. And then the colour went out of him. Out of his face, and his hands, and his hair. Like watching a photograph fade in a window." She stops. You hear her breathe. "Then he asked Professor Tamworth, very politely, what his name was."
+
+*page_break
 
 Imogen has sat down, at last, without seeming to notice she's done it.
 
@@ -190,6 +202,8 @@ Honoria Drummond will not set foot in Wrenfold. She says so in her letter, in fo
 
 Saturday is cold and clear and bright, the first bright day in a fortnight. The three of you walk down the shore path round the south end of the Mere, in the snow, the Headmistress in her long midnight-blue coat going ahead with her stick, you and Cas behind. Cas doesn't speak the whole way. Twice he stops, and stands looking at the ice, and then walks on. Thimble Cross is exactly as it was in December, crooked and bow-windowed and leaning together over its hill, with smoke going straight up from every chimney. There are fresh flowers in the snow on the spot in the high street where Odile Pellow planted her boots. Somebody's been putting them there every week.
 
+*page_break
+
 @moll:neutral Moll Dunmore shows you through to the back parlour herself, which she never does, with her big red face gone careful. "In there," she says. "She's had a pot of tea and sent it back twice for being wrong." She lowers her voice. "Mind yourselves."
 *meet honoria
 @honoria:neutral The back parlour is small and dark and panelled, with a fire, and a window onto the snowy yard, and in a hard chair by the fire, with her back like a poker, sits the most formidable person you've ever seen. She's tiny, and eighty-eight, and she has Cas's cheekbones and a hawk's nose and cold pale eyes, and her white hair is in an immaculate knot, and she's in black lace and jet beads, and she doesn't get up.
@@ -204,6 +218,8 @@ Saturday is cold and clear and bright, the first bright day in a fortnight. The 
 
 @honoria:neutral "Of course I know why you're here," says Honoria Drummond. "I've been expecting someone for forty years. I rather thought it would be Imelda, but she never had the nerve." The Headmistress's mouth goes tight, and she says nothing, which is its own answer.
 
+*page_break
+
 @cas:guarded "Have you got it?"
 
 @honoria:neutral "Sit down, Casimir. You're looming. Your grandfather loomed." He doesn't sit. She lets it go. She reaches down beside her chair, to a black leather bag, and takes out two things, one at a time, and puts them on the little table by the fire.
@@ -216,11 +232,15 @@ Your flame lifts its head. You feel it from across the room. Warm. {@ch13_way = 
 
 @honoria:neutral "My father-in-law brought it home the week of the accident," says Honoria. "I remember the night. He came in late with his coat still on and went straight into his study and locked the door, and in the morning there was a new lock on the bottom drawer of his desk." Her mouth thins. "When he died, the house came to Lucius, and the desk to me. I kept the drawer locked. Thirty years."
 
+*page_break
+
 "Did you read it?"
 
 @honoria:neutral She turns her pale eyes on you. "I'm not one of you," she says. "I never was. I married into the Drummonds without a spark in me, and I watched what they did with theirs. I didn't need to read a book to know what was in that drawer. I knew it was something that had cost somebody everything." She lays her hand on the letters. "And these are Lucius's. He wrote them to Aldric Morrow. One every February. For thirty-nine years." A pause. "He never sent one. He'd write it, and seal it, and give it to me to put away. As if I were the post office for his conscience."
 *clue e12
 @honoria:neutral She unties the ribbon and takes out the top letter and holds it out. Not to the Headmistress. To Cas. "Read that one," she says. "The last. He wrote it the week he died."
+
+*page_break
 
 Cas takes it. His hands are shaking. He unfolds it, and looks at it for a moment without reading, as if the handwriting itself is something he has to get past first. Then he reads it aloud, in a flat careful voice, as if every word is a step on ice.
 
@@ -268,6 +288,8 @@ The Headmistress has turned to the window. You can't see her face. Her hand on t
 
 @honoria:neutral Honoria Drummond watches her grandson. For a moment, only a moment, something in her cold pale face gives. "I took your name out of the book, Casimir," she says. "Your father asked me to, and I did it, in front of you, because that is what Drummonds do, and I was more of a Drummond than any of them, having had to try so hard." Her mouth tightens. "It is the second worst thing I have done. The first was keeping quiet about that letter."
 
+*page_break
+
 @cas:hurt Cas lifts his head. He doesn't say anything. But he meets her eyes, for the first time since you came in, and holds them, and it's his grandmother who looks away first.
 
 @honoria:neutral She pushes the brown journal across the table, towards you. "Take it. Whatever's in it, it's done forty years of harm sitting in a drawer. Let it do something else." She stands up, with a stick you hadn't noticed, tiny and upright. "I shan't come again. Casimir. Write to me. Properly. Not like your grandfather." She goes out through the bar, past Moll Dunmore and the staring students, like a small black ship.
@@ -296,6 +318,8 @@ It's not what you expected. It's not a spellbook. It's a diary, in a small stron
 
 You turn the pages. The fort on the edge of a black lake, draughty and leaking. The people who came, one by one, and what they could do, and what she did with them. You read some aloud, because you can't not.
 
+*page_break
+
 "[i]Tom Brack, a smith, forty, set his forge alight with a look. He weeps at night. I have told him he may stay.[/i]"
 
 @kestrel:warm "She said that to me," says the Headmistress, softly. "Not in those words. The night I came. I'd blown up a greengrocer's and I cried all the way across the Mere, and the old Headmaster gave me soup and said I could stay." She shakes her head. "I thought he'd made it up himself."
@@ -307,6 +331,8 @@ You both go still at that. Neither of you says anything. You turn the page.
 The hand gets shakier as the pages go on, and the entries shorter, and further apart. Then, near the end, there's a page that's different. The writing is small and careful, as if she took a long time over each word.
 
 [i]I am old and I will not see many more winters, and I will not leave them without a light. So I have gone down into the root of the rock under the Hall, as far as the stone goes, and I have taken my flame out of myself, which is a thing only a Kindler can do, and left it there, burning. It will light their lanterns and hold their wards when I am gone. I call it the Heartfire. I have told no one but Tom.[/i]
+
+*page_break
 
 You stop, and read it again, and then you look up. The Headmistress has put her cup down on the hearth.
 
@@ -330,6 +356,8 @@ You sit with that. The fire ticks. Up on the ceiling a weathervane creaks round,
 
 "But I could carry it," you say. Your voice doesn't sound like yours. "Out of the rock. And give it to him."
 
+*page_break
+
 @kestrel:grave The Headmistress doesn't answer. That's the answer.
 
 You think of Lettice Crane at Emberfall, silver and see-through among the red lanterns, smiling her sad smile: [i]he's coming back for what he lost. And you have it.[/i] You thought she meant your flame. All this time you've thought he wanted to take something from you. He doesn't. He wants you to fetch it for him.
@@ -341,6 +369,8 @@ You think about {@ch13_way = "stay"|the door in the Old Cloisters, warm as a han
 "Would it come? If I went down there?"
 
 @kestrel:grave "Yes," she says at last. "I think it would. I think it's been calling you since your first night." She opens her eyes, and they're very bright and very hard. "Which is why you are never, ever going to go down there alone. Do you hear me? Not for anyone. Not for any reason."
+
+*page_break
 
 "I hear you."
 

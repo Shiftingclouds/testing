@@ -13,6 +13,8 @@ For the first few turns they're proper steps, cut square, with a groove worn dow
 
 The song fades behind you, turn by turn, until you can't hear it any more. Something else takes its place. The hum, Hester's hum, the great slow warm note you've heard through the floor since Longnight, gets louder and louder until you're not hearing it any more; you're inside it. It's in your teeth. It's in the soles of your feet. Your own flame is beating in time with it, and you didn't tell it to.
 
+*page_break
+
 Then the passage opens, and you're in the root of the rock, and there it is.
 
 The Heartfire.
@@ -39,6 +41,8 @@ It's beautiful. It's the most beautiful thing you've ever seen. And it wants you
 
 @morrow:warm "It's something, isn't it," he says, without turning round. "I came down here once, when I was twenty-five. Hester's door opened for me too, then. I stood where you're standing and I thought: I could carry that. I could lift it out of the rock and carry it and never be afraid of anything again." He turns round. His pale eyes find yours. "Then Lucius Drummond put me out, and the door never opened for me again. Not for forty years. Until tonight."
 
+*page_break
+
 He looks at you for a moment the way Idris used to, in the autumn: as if you're a page he's been trying to read.
 
 @morrow:warm "You're younger than I was," he says. "No. The same. Everyone's the same age down here." He almost smiles. "Did they tell you what I am? I expect they told you some of it. They never did like the rest."
@@ -55,6 +59,8 @@ You don't say anything. {fam_name} has gone very still against your legs.
 
 @morrow:warm "And then I stop." He says it simply, like a man naming a station. "I never need to take another flame as long as I live." He spreads his grey bare hands. "Think about it. Properly, the way Imelda never let you. No more Choir. What would they be for? No more hollowed. No more St Ide's."
 
+*page_break
+
 "The ones you've already taken."
 
 @morrow:warm "Home." He touches his own chest, where the stolen flames are crammed and guttering. "Every one I've got in here, back where it came from. Tonight. I'd let them go. I'd be glad to." He's watching you now. "You'd be saving all of them. Delphine. Bram. The wand-woman in the high street, who sang at us. All of them, with one lift of your hands." His voice drops. "And all it costs is a piece of a fire that's been burning in the dark for four hundred years, keeping paper lanterns lit."
@@ -67,6 +73,8 @@ You can see that he means it. That's the worst of it. Seeing a flame never tells
   @cas:grave There are footsteps on the passage behind you. Fast, then slowing. Cas comes out into the root of the rock, out of breath, with his grandfather's hands at his sides. He followed you down. Of course he did. [i]This is the door. This is where it's owed.[/i]
 
   @cas:grave He doesn't look at the Heartfire. He looks at Aldric Morrow. "My name's Casimir Drummond," he says. His voice shakes and doesn't break. "Lucius was my grandfather. He wrote you letters. Every year for thirty-nine years. He never sent them." He takes a folded paper out of his coat: the last letter. [i]I did it. Not by accident.[/i] He holds it out. "He wanted you to have this. He was too much of a coward to send it. I'm not him."
+
+  *page_break
 
   @morrow:neutral Aldric Morrow looks at the letter. He doesn't take it. He reads it where it is, in Cas's hand, the paper shaking very slightly. Something happens in his grey face, something very old, like ice shifting on a lake in spring. "Not by accident," he says, very quietly. "I always knew. It helps, somehow, to hear it said." And for one second, when you look, there's something in the cold place in him that isn't a stolen flame. A flicker. Grey, and cold, and tiny. Like the last coal in a grate.
 
@@ -111,6 +119,8 @@ You look at the Heartfire. At Aldric Morrow. At the threads of light going up in
         It catches.
 
         @morrow:hurt Not white. Not gold. A small clear ordinary blue, like a gas flame, like the flame on a kitchen hob. As it catches, all the stolen flames crammed round it go out of him at once, like birds out of a cage, up the threads of light, up through the rock, home. You feel them go. A hundred small lights, going home.
+
+        *page_break
 
         @morrow:hurt Aldric Morrow looks down at his own hands. They're not grey any more. They're an old man's hands, spotted and thin and shaking. There's a candle stub on the rock by his knee, one somebody dropped; he picks it up, and looks at it, and it lights. Blue. A small blue flame. That's all he can do. You can tell, just by looking. Light a candle. That's all.
 

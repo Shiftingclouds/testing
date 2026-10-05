@@ -17,6 +17,8 @@ You cross the Mere in the boats with everyone else, in the gold evening, with th
 
 The Candlestones are older than the school. Twelve grey stones in a ring on the top of the hill, leaning together like old women sharing gossip, each one worn at the top into a shallow cup where somebody, a very long time ago, used to keep a flame. Tonight there's a candle in every cup. From up here you can see the whole valley: the village roofs, the Mere going from gold to pewter, and the castle on its rock across the water, small as a toy.
 
+*page_break
+
 The Brightfire is enormous. A bonfire at the heart of the ring, built by Rookhallow over a week, taller than the stones, and when the Headmistress lights it, with a word and a flick of her good hand, it goes up with a roar you feel in your chest. The sparks climb into the violet sky until you can't tell them from the first stars. There's a band on a hay cart: a fiddle, a drum, an accordion held together with tape. There's a maypole with four hundred ribbons. There are garlands of may blossom and cowslips on everybody's heads, and bread and cheese and pies in the baskets, and potatoes pushed into the edge of the embers to bake, and a cauldron of something hot and spiced that Heronmere swear is only apple. There's dancing, round and round the fire in one great ring, then in smaller rings inside it, and people leap the embers at the edge of the fire for luck, screaming.
 *if toby_lit
   @toby:laugh Toby leaps the embers four times. He's thinner than he was, and paler, and his flame is small and lopsided and gold, but he leaps them four times, shouting, with a garland of cowslips slipping over one eye. Priya screams at him every single time. He lands every single time. On the fourth he turns round in the firelight and finds you, and shouts, "It's all going to be all right!" and you almost believe him.
@@ -35,6 +37,8 @@ The Brightfire is enormous. A bonfire at the heart of the ring, built by Rookhal
   @maisie:neutral When you pass, she looks up at you. Her eyes aren't foggy any more. They're her father's, pale and blue and startled. "It's so loud," she says, delighted, as if loud were a present somebody had given her.
 
 @kestrel:warm The Headmistress stands at the edge of the firelight with her arms folded, watching. She's put a sprig of may in her braid. When you pass her, she says, without looking round, "Go and dance. That's an order. I'm told I'm allowed to give those now."
+
+*page_break
 
 You dance. Round the fire in the great ring, with your garland falling off, with everybody: with people from your own house and people from the other three, with a Larkspire prefect who treads on your feet and apologises every time, with a Rookhallow second-year who knows the steps and shouts them at you and gets them wrong. The fiddle goes faster. The ring goes faster. You dance until your lungs hurt and your feet hurt and you're laughing so much you can't stand up, and then you sit down in the grass with a hot potato in your hands and your back against a warm stone and your heart going like the drum.
 
@@ -205,6 +209,8 @@ Nobody offers anyone cake. That's how you know.
 
 Morrow's letter is lying on the table among the teacups, flattened out, with a barometer on one corner to stop it curling. Thin grey paper. You don't need to read it again. You read it once in the Old Cloisters, by candlelight, and you could say it back now word for word.
 
+*page_break
+
 @arkwright:grave "He's told us what he's going to do," says the Commander. "That's the one advantage we've got." She taps the letter with one finger. "He trusts the Lanternwarden." She looks at Mr Tully, and her face doesn't soften, quite.
 
 @tully:tense Mr Tully looks at his cap.
@@ -232,6 +238,8 @@ Morrow's letter is lying on the table among the teacups, flattened out, with a b
   @kestrel:warm Nobody says anything to that. After a moment the Headmistress crosses the room and puts her good hand on his shoulder, and he sits there under it with his eyes shut.
 
 @kestrel:neutral "Then," says the Headmistress, at last, and her voice is brisk again, "three places." She goes to the table and moves the letter aside, and unrolls a plan of the castle, old and brown at the edges, and weighs the corners down with the barometer and two teacups. Her finger goes to the Hall. "Here. The song must be sung here, or every flame in the room is his for the taking."
+
+*page_break
 
 "All four hundred," you say.
 
@@ -287,6 +295,8 @@ It's been a fortnight since the boats went back across the Fen with the Commande
 The pie was black on top and cold in the middle, and you both ate all of it, at the kitchen table, with {fam_name} and the cat on opposite sides of the room pretending the other one didn't exist, which is the peace they've come to. Afterwards you went and sat in the upstairs window, the way you did every evening for four weeks while you were bait, and watched the reeds. Nothing came. Nothing's going to come now. Nobody's hunting you any more, and that's almost worse.
 
 Tonight Jory has built a fire himself, with driftwood and reeds, because he said you couldn't let the first of May go by without a fire; it was bad luck; his gran said so. It smokes. It keeps going out. The cat sits as close to it as a cat can sit without catching light, and {fam_name} keeps to your other side, as far from the cat as possible, and the sky over the Fen goes from green to navy to black, enormous, without a hill anywhere to stop it. Out on the black water, the drowned chapel's bell is ringing in the east wind, slow, like somebody counting.
+
+*page_break
 
 @jory:neutral "They'll be on the Candlestones now," says Jory, poking the fire. "The whole school. Big fire. Maypole. Everybody leaping the embers." He's quiet for a while. "I went, my year. Leapt it three times. Burnt my eyebrows off. Took till Midsummer to grow back." He smiles. Then he doesn't. "Seven weeks," he says. "And he'll go to Wrenfold, and the Commander'll be there with forty of us, and the Headmistress, and the students with their song. And us here with a cat."
 

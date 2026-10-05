@@ -39,6 +39,8 @@ You look. Everyone at the Heronmere table looks. Priya Menon is at the other end
 
 @toby:laugh Toby opens his mouth. Nothing comes out. He closes it. Then he sits down very suddenly on the bench beside her, and she laughs, and hands him a piece of toast, and he eats it, and the whole Heronmere table bursts into applause. Somebody bangs a spoon on a tureen. Up above, a whole cluster of sea-green lanterns sinks lower, as if to get a better look.
 
+*page_break
+
 It's the first time anyone's clapped in the Hall all week. You clap until your hands sting.
 
 He comes back to you twenty minutes later floating about six inches off the ground. You're not sure it's a figure of speech. {fam_name} watches his feet suspiciously.
@@ -101,6 +103,8 @@ At each end of the pitch hang three hoops: great rings of lanterns in the air, t
 
 @okoro:amused Coach Okoro, standing on the water in the middle of the pitch, takes something out of a padded box at his feet, and blows his whistle, and throws it straight up, and twelve brooms go for it at once.
 
+*page_break
+
 She was right. You know. It's a ball of white light the size of a grapefruit, and it's alive, or near enough: the second it's loose it bolts for the nearest hoop like a dog slipping its lead, and the player who catches it has to wrestle it back under one arm while it tows them sideways across the sky. Two players on each side don't chase it at all. They carry long hooked sticks, and swing them at whoever's got the ball, and the sticks crack together over your head like gunshots.
 
 "Harriers," shouts your neighbour, over the noise, as if that explains it. "Knock it loose! [i]Knock it loose![/i]"
@@ -110,6 +114,8 @@ She was right. You know. It's a ball of white light the size of a grapefruit, an
 She points, without looking, at the hoops. The lanterns in them are burning down like candles, one ring slightly lower already than when you sat down. "When they go out," she says. "Whoever's ahead when the last one gutters." Then the Glim goes through the Rookhallow hoop, and the hoop flares black and copper, and she forgets you entirely and screams.
 
 It's chaos. It's glorious. Saoirse is chasing for Rookhallow, upside down half the time, screaming with laughter, and she scores in the first minute with a throw from behind her own back that makes Coach Okoro blow his whistle out of sheer admiration.{@cas_house = "rookhallow"| Casimir Drummond is Rookhallow's other Chaser, cold and fast and perfect, and he scores twice without changing his expression.|} Marcus scores for Larkspire. Rookhallow score again. The Harriers crack their sticks together over your head. The lanterns overhead brighten every time a hoop flares, as if they're cheering too.
+
+*page_break
 
 Rowan keeps goal like a man holding a door shut in a fire. He's not elegant. He's not fast. But he's big, and brave, and when the Glim comes at him he doesn't flinch; he just gets his body in front of it and holds on. Three times. Four. Once, the Glim hits him so hard it knocks him off his broom, and he hangs off it by one hand, twenty feet over the water, and the crowd screams, and he swings back up and throws the Glim out to Marcus as if nothing's happened.
 
@@ -162,6 +168,8 @@ He's steaming very slightly in the cold, a faint haze coming off his shoulders i
 *if st_rowan >= 3
   @rowan:tense He doesn't say anything for a while. Then he says, to the water: "Do you want to know? About the fire?"
 
+  *page_break
+
   "Only if you want to tell me."
 
   @rowan:tense "Tanner's Row," he says. "In Kingsmere. June. Terraced house, top floor gone up, family out on the pavement in their nightclothes, the mum screaming that her little girl was still inside. Seven years old. Stair had gone. We had the ladder coming, but it was two minutes out, and she didn't have two minutes." He looks at his hands. "So I went in. Through the front. Through it. It was all fire, the whole hall, floor to ceiling, and I walked through it like it was rain. It didn't touch me. It didn't even singe my hair. I went up the stairs that weren't there, and got her out of the wardrobe she was hiding in, and walked back down with her through all of it, and she didn't get a mark on her either. Like it was scared of me."
@@ -196,6 +204,8 @@ He's steaming very slightly in the cold, a faint haze coming off his shoulders i
 *else
   You ask whether anyone in his family plays, and it turns out that's a door he's been waiting for somebody to knock on.
 
+  *page_break
+
   @rowan:amused "My sisters would," he says. "Four of them. All older. All loud. The eldest'd have had Saoirse off her broom in the first minute, and said sorry, and done it again." He shakes his head at the water. "They're still furious with me. About June. Not that I went in. That I didn't ring them first."
 
   "So they could tell you not to?"
@@ -223,6 +233,8 @@ You go down to the Undercroft at ten, an hour after curfew, feeling like a crimi
 The Rookhallow Undercroft on a Saturday night is the loudest place you've ever been, and {@job = "cook"|you once worked a hen party at the Pie & Pint on the night of a cup final|you once went to a hen party in a Wrexley pub on the night of a cup final}.
 
 There's music coming out of a gramophone that's playing itself, and changing its own records, and turning up its own volume every time somebody turns it down. There are fairy lights strung between the forges, except they aren't fairy lights, they're jars of the same pulsing golden things you saw in the wheelbarrow on Lamplight Row. There's a cauldron of something hot and spiced and orange that Hamish Galbraith says is punch and Mina Achebe says is a crime. There are forty people from every house, dancing badly on the warm flagstones, and a ferret wearing a party hat, and a brass beetle flying ticking circles round the beams.
+
+*page_break
 
 It smells of hot metal and oranges and cloves, and it's so warm after the cold stairs that your face tingles. For the first time all week, nobody's whispering.
 
@@ -301,6 +313,8 @@ The forges have been banked for the night, and they're ticking as they cool. The
 *if st_saoirse >= 3
   You sit down beside her. The forge is warm on your faces. The gramophone scratches. For a while neither of you says anything, and it isn't awkward; it's just quiet, the way a kitchen's quiet at the end of a long day.
 
+  *page_break
+
   @saoirse:tense "My mam left when I was seven," she says, eventually, still looking at the fire. "Just went. Tuesday. Packed a bag while I was at school. Dad was all right, he was lovely, he's still lovely, but..." She turns the goggles over in her hands. "I think I decided, that day, that if I kept moving, I'd never be the one left standing still when somebody went. So I never stop. Bikes, engines, the sofa. Twelve projects on the go and I'll never finish one. Twelve jobs in ten years. Never a..." She stops. "Anyone. Long enough to leave."
 
   The fire shifts. A little shower of sparks goes up the flue.
@@ -344,6 +358,8 @@ The long white room is dim, the lamps turned down to a glow, the fire banked. Th
 
 @holloway:neutral "Eight till eight," says Matron Holloway, putting on her coat. "Obs every two hours, the chart's on the desk, the potions are labelled, don't give the hare-boy anything with carrots in, he's sensitive about it. Wake me if anything's on fire." She looks at Noor, and then at you, and her small shrewd eyes soften, just slightly. "{@kept7|Good. She said you'd come.|Well. You're here. Good.}" She goes to bed.
 
+*page_break
+
 @noor:neutral Noor's already at the desk, in her apron, with the chart. {@kept7|She looks up when you come in, and something in her face that's been tight all week lets go, just a little. "You came," she says. As if she'd been bracing for you not to.|She looks up when you come in, surprised. "You came," she says. "I didn't think... you didn't say you would." She looks at you a moment longer. "Thank you."}
 
 @noor:neutral She hands you an apron, and a pencil, and shows you the chart: five names down the side, the hours across the top, and small neat columns for pulse and temperature and breathing and a column headed [i]Other[/i] that she tells you is the important one. "That's where you write the things that don't fit," she says. "They're usually the ones that matter."
@@ -351,6 +367,8 @@ The long white room is dim, the lamps turned down to a glow, the fire banked. Th
 It's the quietest twelve hours of your life, and the hardest.
 
 @noor:neutral On the ten o'clock round, Noor takes the Larkspire boy's wrist between two fingers and looks, not at a watch, but at the fire. "Count his breaths against the flames," she says, very low. "The fire here keeps time. Matron charmed it years ago; every flicker's a second. Your turn." You try. You lose count at eleven, because the boy mutters something and you jump. He's asleep. He's talking about cheese. He goes on talking about cheese, on and off, for the rest of the night: a crumbly white one, and a blue one he can't remember the name of, and something he calls, with great tenderness, [i]the orange sort[/i].
+
+*page_break
 
 The floorboard by the third bed creaks. You find that out at twenty past ten. Noor doesn't say anything; she just looks at the board, and at you, and steps over it on the way back, and after that so do you.
 
@@ -410,6 +428,8 @@ The three o'clock obs are due. The chart's under her arms.
       You sit down across from her and do the five o'clock round too, when it comes. And the seven o'clock. In between, you read one of your two books without taking in a word of it, and watch the windows go from black to navy to grey, and listen to her breathe. Once she frowns in her sleep and says something that sounds like a drug dose. Then her face smooths out again.
 
       @noor:tense She wakes at half past seven with the chart under her face and your coat round her and the whole night done, and she's furious. "You should have woken me," she says. "That's not your job. That's my job. I'm the one who..."
+
+      *page_break
 
       Then she reads the chart. All three rounds. In your best handwriting.
 
@@ -503,6 +523,8 @@ You get a cup of tea and a plate of eggs and sit down, and wait for the day to f
 
     @noor:tired She comes in late, as the plates are being cleared, with her plait still damp and grey under her eyes, and takes a cup of tea and nothing else, and sits at the far end of the Heronmere table. You get up and go down to her before you can think better of it.
 
+    *page_break
+
     "Noor. Last night. I should have..."
 
     @noor:neutral "It's fine," she says. She says it kindly, which is the worst part. "It was a quiet night. The hare-boy had a nightmare at eleven, and I sat with him, and he went back to sleep." She wraps both hands round the cup. "I did the rounds. I went to bed at eight."
@@ -516,6 +538,8 @@ You get a cup of tea and a plate of eggs and sit down, and wait for the day to f
 
 @toby:laugh Toby Quill comes into the Hall at ten past eleven, late, with his cardigan on inside out and a smile on his face so wide it looks as if it hurts, and sits down beside you, and says: "We went for a walk. Me and Priya. Round the cloisters. Last night. From supper right up to the curfew bell." He puts his head down on the table. "She held my hand. For [i]three hours.[/i]"
 
+*page_break
+
 "How was it?"
 
 @toby:warm He lifts his head. "My hand's still warm," he says, in wonder, and looks at it, as if it belongs to someone luckier. "We talked about bread. She knows about bread. Her nan makes a flatbread on a stone, and she's going to show me, and I'm going to show her a proper sourdough starter, and I told her about the croissants, the fire ones, and she didn't laugh, well, she did laugh, but in a nice way." He stops for breath. "She's got a scar on her thumb from a violin string. She let me see it."
@@ -524,6 +548,8 @@ Then, because he's Toby, he looks up at you, suddenly anxious. "How was yours? Y
 
 *if ch07_way = "match"
   "Rowan let four in," you tell him, "and stopped the one that mattered. The last one. Saoirse, on her own, right in front of him, and the whole Mere went quiet..."
+
+  *page_break
 
   @toby:laugh "We heard!" says Toby. "From the cloisters! This enormous roar, right across the water, and Priya said [i]that's Larkspire[/i], just from the sound of it." He leans in. "Did he really fall off? Somebody said he fell off and got back on. Twenty feet up."
 
@@ -535,6 +561,8 @@ Then, because he's Toby, he looks up at you, suddenly anxious. "How was yours? Y
 *if ch07_way = "party"
   "There's a sofa," you say. "That flies."
 
+  *page_break
+
   @toby:surprised Toby stares at you. "[i]The[/i] sofa? Saoirse's sofa? I thought that was a story. I thought it was one of her stories."
 
   "It's got headlamps. Off Professor Bassani's bicycle."
@@ -544,6 +572,8 @@ Then, because he's Toby, he looks up at you, suddenly anxious. "How was yours? Y
   You tell him how high. You tell him about the brass rook on the door that told you to mind your own, and the ferret in the party hat trying to get into Hamish's sporran, and the gramophone that turned itself up. You don't tell him about the end of the night, by the forge, when everybody had gone. That part was Saoirse's.
 *if ch07_way = "shift"
   "I sat up with Noor," you say. "In the Infirmary. All night."
+
+  *page_break
 
   @toby:warm His face goes soft. "All night? Were you all right? Was [i]she[/i] all right?"
 

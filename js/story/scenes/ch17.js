@@ -15,11 +15,15 @@ At eight, a note comes under your door in handwriting that slopes downhill: [i]C
 
 So you go down. Down the east stair, along the corridor behind the kitchens, and down the long slope where the passage goes under the lake, and the air gets cooler and greener with every step, until you come out into the Heronmere cloister, and Toby has baked a cake.
 
+*page_break
+
 @toby:laugh "It didn't catch fire," he says. He's standing by the fire holding it out in front of him on a plate, the way a man holds a baby he's been told is his. "It didn't catch fire. Look at it. It's a cake. It's a Victoria sponge. It's [i]risen[/i]. I've been trying since September. Every single thing I've baked since September has caught fire, and this didn't." His round face is pink with joy. "I did it in the kitchens. Mrs Pettigrew let me. I held the flame down the whole time, the way you showed me, and it didn't flare once, and look. Look at it."
 
 You look at it. It's a little lopsided. The jam's escaping down one side, and somebody has dusted the top with icing sugar in a pattern that might be a heron or might be a teapot. It's perfect.
 
 The Heronmere cloister is half underwater: the lake laps against the lower arches, and the green light comes up through the windows set below the waterline, and at night, with the lamps lit, it's like sitting at the bottom of a pond in a dream. Now and then something moves past the glass, slow and silver, a fish or a weed or a trick of the lamp. Custard is asleep on the warm stones by the fire with her ears flat and one back foot twitching. Priya is curled up in the window seat with her feet tucked under her and her violin case beside her, watching Toby with a face so soft it's almost unbearable.
+
+*page_break
 
 @priya:warm "He's been talking about it for three days," she says to you. "He's been practising on scones. The scones all caught fire. Mrs Pettigrew's eyebrows have only just grown back."
 
@@ -42,6 +46,8 @@ He cuts it with a bread knife, far too carefully, measuring each slice with his 
   On the mantelpiece, in a jam jar, your white Candlewake candle is still burning. It's been burning for a month. He hasn't let it go out once. He moves it to the back of the mantelpiece when he puts the cake plate down, carefully, as if the plate might hurt its feelings.
 
 The fire burns down. The Heronmere second-years drift off to bed in ones and twos, saying goodnight to Toby as they pass, the way people always do, and one of them steals the last slice. The lake knocks softly at the lower arches. Priya reads for a while and then doesn't, and her book slides off her knee, and she's asleep in the window seat with her cheek against the cold green glass.
+
+*page_break
 
 @toby:neutral When she's properly asleep, Toby pulls a folded piece of paper out of his back pocket and smooths it out on his knee. It's music. A copy, in Imogen's precise pencil hand, of the first voice of the Wren's Song. The wren's line.
 
@@ -93,6 +99,8 @@ The walls are humming.
 
 You've heard it before. In September, deep in the stone, so faint you thought you'd dreamed it, and nobody else could hear it at all. This isn't that. This is close. It's inside. It's in the corridor outside your door, and the corridor beyond that, and up the stairs and down them, everywhere at once, low and long and lonely, so loud you feel it in your teeth, in your ribs, in the place under your breastbone where your flame lives. Your flame [i]leans[/i] towards it. You feel it lean, the way a candle leans into a draught, and you put your hand flat on your chest without thinking, as if you could hold it in.
 
+*page_break
+
 They're inside. The Grey Choir is inside Wrenfold.
 
 You don't remember deciding to get up. You're on the cold floor, and you've got your wand in your hand, and one boot on and the other in your fist, and {fam_name} is at the door before you, pressed to the crack at the bottom of it, bristling. You open it.
@@ -133,6 +141,8 @@ Less than an hour ago you walked up this slope with jam on your fingers.
 
 The lake door is open. The big iron door at the end of the Heronmere cloister, the one that opens straight onto the Mere, the one that's been locked and warded for four hundred years, is standing wide. The grey water's lapping in over the threshold across the flagstones, and the cold's coming in with it, and the smell of the lake at night, weed and mud and ice. And the hum.
 
+*page_break
+
 In the cloister, in the grey light, there are eight of them. Grey robes. Hoods. They're standing in a loose half-ring on the wet flagstones where you ate cake, not moving, humming, and the water round their feet doesn't ripple. At the front, bare-headed, with her shaved head and her closed mouth, stands the Hush.
 
 Between them and a huddle of Heronmere first-years in the corner by the fireplace, with Priya on the floor at the back of the huddle, holding them, stands Toby Quill.
@@ -145,6 +155,8 @@ The Choir is standing still.
 *snapshot toby
 
 It's working. It's working a little. He's holding them, the way Odile held them in the high street: eight of them, just standing there, humming, unable to take the last step, because one terrible off-key voice is singing the wren's line in their faces. You can almost see it in the air between them: a kind of shiver, where the hum meets the song and can't get through.
+
+*page_break
 
 The first-years are crawling behind him, one by one, along the wall, towards the passage, towards you. Priya's pushing them. Her lips are moving; she's counting. Two gone. Three. A small boy in striped pyjamas gets to you and grabs your leg and won't let go, and you peel him off and point him up the slope and he goes.
 
@@ -203,6 +215,8 @@ Real silence. The hum stops. The bell in the gatehouse, far above, is still ring
 
 The Choir turns, all eight at once, and walks out through the lake door into the Mere, into the dark, grey robes going into the grey water up to their knees, their waists, their shoulders, and under, without a ripple, and gone. The Hush goes last. At the threshold, up to her ankles in the lake, she looks back once over her shoulder. Not at Toby. At you.
 
+*page_break
+
 The door swings in the wind off the water, and bangs against the wall, and swings back.
 
 The lamps come back. Green. One by one, all down the cloister, the way lamps come back after a power cut, as if nothing has happened. The green light at the bottom of the lake.
@@ -235,6 +249,8 @@ Six grey robes, coming up. Humming. Slowly, step by step, round and round, towar
 On the stair, three steps below the landing, between the six and the twenty, is Professor Grey.
 
 @grey:neutral He's in his dark robes. He's got no wand out; he doesn't seem to need one. He's standing with his feet planted on the narrow step and his scarred hands held out in front of him, palms forward, and there's something coming off them, a shimmer, a heat-haze, like the air over a road in summer. The Choir's hum is hitting it and breaking round it, the way water breaks round a stone. They can't get past him. Six of them, and they can't get past him.
+
+*page_break
 
 You come up onto the landing from the side passage, pushing through children, and look down over his shoulder, and see the first of them. Close. Four steps below him. A hood, and under it a face, a man's face, ordinary, unshaven, somebody you might sit next to on a bus, with his eyes half closed and his mouth open, humming.
 
@@ -273,6 +289,8 @@ Twenty first-years, through the tapestry, down a back stair so narrow they have 
 
 At the bottom, the stair comes out behind the staff table in the Lantern Hall. The Hall is full of people and wands and grey light and shouting. There are scorch marks up one wall. Benches are overturned. The Headmistress is there with blood on her face and one arm hanging wrong, and Lamplighters in their long coats, and Matron with her sleeves rolled up. You push the first-years through to them, all twenty, and count them one last time as Matron takes them, touching each small head as it passes.
 
+*page_break
+
 Then you turn round, and go back up.
 
 You go back up because he's still up there. You go back up because you can still hear the hum on the east stair, faint now through the stone, and under it, something that isn't a hum. A voice. Low and rough and tired, singing. The wren's line. Up, and round, and back down.
@@ -287,6 +305,8 @@ He's on the step where he was. He hasn't moved. The six are still below him, and
 
 "Twenty. All of them."
 
+*page_break
+
 @grey:warm "Good." He closes his tired eyes. "Good." Something in his craggy face lets go, the way a fist lets go. For a moment he looks younger than you've ever seen him look, and very tired, like somebody at the end of a long shift.
 
 You sit down on the top step, above him, because your legs won't hold you. He doesn't tell you to go.
@@ -300,6 +320,8 @@ You sit down on the top step, above him, because your legs won't hold you. He do
 His head goes back against the stone.
 
 The six on the stair below him stop humming. They look up at him, all six faces under the six hoods, and you can't read anything in any of them. It isn't respect. It isn't anything. It's the way you'd look at a door that's finally opened, or a light that's finally gone out. They turn, all six, and go back down the east stair, slowly, not hurrying, round and round, and are gone.
+
+*page_break
 
 The lanterns on the east stair come back, gold, one by one, from the bottom up, turn by turn, like somebody coming up the stair with a taper, until the whole stair is lit, and warm, and ordinary. And Professor Magnus Grey is sitting on the third step from the top with his scarred hands in his lap and his eyes closed, and he isn't breathing.
 
@@ -331,6 +353,8 @@ At four this morning you found the Headmistress in the wreck of the Lantern Hall
 
 @kestrel:grave The Headmistress closed her eyes. She sat like that while the broom went on at the far end of the Hall, swish and tinkle, swish and tinkle. "Say it again," she said. "Exactly as he said it." You did. She moved her lips with you on [i]the round[/i], without sound, as if she was learning it by heart. Then she opened her eyes and looked at you, at your knees, at your trailing laces, and said, "Thank you, {name}. Go and find something warm to put on," and that was all.
 
+*page_break
+
 You didn't find anything warm. You walked for a while. Then you came here, because there was nowhere else to go.
 
 The Infirmary is full of the hollowed.
@@ -342,6 +366,8 @@ The ward smells of carbolic and cold tea. Somebody has pulled the blinds halfway
 @toby:hollowed Toby is in the end bed. Someone's washed the jam off his face. Custard the hare is on the blanket over his knees, pressed against him, not moving, the only thing in the room that won't leave him alone. He's stroking her. Slowly. Carefully. As if he's not sure what she is.
 
 @toby:hollowed "She's nice," he says, when you sit down. "Is she mine? Somebody said she's mine." He looks at you, with fog-coloured eyes, and smiles his round pleasant smile. "Sorry. I'm sure I should know you. You've got a kind face."
+
+*page_break
 
 You can't answer. You nod. He seems to find that perfectly satisfactory.
 
@@ -401,6 +427,8 @@ There are no lessons. There are Lamplighters on every stair, two to a landing, i
 
 By Saturday evening, people have started leaving things on the third step from the top of the east stair. A candle. A sprig of rosemary from the Glasshouses. A folded note that nobody opens. A Warding textbook with a first-year's name in it and the page turned down at the chapter on standing your ground. Nobody organised it. Nobody moves any of it. People step round it, going up and down, and keep their voices low on the stair.
 
+*page_break
+
 On Sunday night the whole school is in the Lantern Hall, and half the lanterns are dark.
 
 Nobody knows why. They went out on the night of the Quiet, when the Choir came in, and they haven't come back: great patches of darkness up under the roof, like holes in a net, where a thousand lanterns hang cold and grey and won't light, no matter what Mr Tully does with his taper. The ones that are still lit drift lower than usual, and slower, as if they're tired. The Hall feels like a mouth with teeth missing. The four house tables are full, and silent, and the empty places at them are worse than the dark.
@@ -410,6 +438,8 @@ There are gaps at every table. Rookhallow's has two: Bram's, since November, and
 Professor Grey's chair is empty. Somebody's put a candle in front of it, grey-white, plain. The same kind he put in front of Delphine's place at Candlewake.
 
 @arkwright:grave Commander Arkwright stands up. She's not wearing her greatcoat. She's in a plain black jacket, with the brass lamp badge on it, and she looks older than she did on Friday. She stands with one hand on the back of the empty chair, not speaking, until the last scrape of the last bench has stopped.
+
+*page_break
 
 @arkwright:grave "I've been asked to say something," she says. Her voice carries to the back of the Hall without trying; it's a voice built for yards and rooftops and wind. "I told the Headmistress I'm no good at it. She said nobody is." She looks down at the chair under her hand. "So."
 
@@ -422,6 +452,8 @@ A sound goes round the Hall, not quite a murmur: four hundred people breathing i
 @arkwright:grave "He'd been a Lamplighter for years when I joined. I was seventeen, in a barracks in Kingsmere with a roof that leaked, and he swapped bunks with me the first night so I'd have the dry one, and he never once let me forget it." Something moves at the corner of her mouth and is put away. "In nineteen ninety-eight, the Order needed someone to go where none of us could go. Inside. Into the Choir itself. To learn their note, and sing it, and stand among them, and come back out every week with what they knew." She looks up, round the tables. "He put his hand up. Nobody else did. I didn't."
 
 At the Owlcombe table a girl has both hands over her mouth.
+
+*page_break
 
 @arkwright:grave "Six years," says the Commander. "He sang with them for six years. He never took anybody. Not one. He'd go out onto the moors with them, and hum, and come back to a safe house at dawn, and sit at a kitchen table and write it all down, every name, every road, in that dreadful handwriting of his." She takes a breath. "Most of what the Order knows about the Grey Choir, we know because Magnus Grey sat in the dark with them and listened."
 
@@ -437,6 +469,8 @@ Nobody moves. Nobody at all.
 
 @arkwright:grave "On Friday night he held the east stair against six of them," she says. "For twenty-five minutes. Without a wand. While twenty first-years went down the back stair behind the heron tapestry." She turns and looks at the first-years, at every table, small and scrubbed and wide-eyed in their house colours. One of them, a boy at the Larkspire table, still has a sticking plaster on his chin from the back stair. He sits up very straight when her eyes reach him. "Every one of those twenty is sitting in this Hall tonight. I've counted. So has the Headmistress. So, I'm told, did he."
 
+*page_break
+
 She stops again. Longer, this time. Her hand has tightened on the back of the chair.
 
 @arkwright:grave "He was the bravest man I ever served with," says Commander Arkwright. "And I never once told him so, because I thought there'd be time." She lets go of the chair. "I'd like you to stand."
@@ -448,6 +482,8 @@ Nobody says anything. Nobody's told what to do next. You all just stand there, b
 When everyone's sitting again, nobody picks up a spoon. The Commander has gone back to her place at the end of the staff table, and sits with her hands folded on the cloth, looking at nothing.
 
 @kestrel:grave Then the Headmistress gets up. Slowly, with her arm strapped across her chest and one hand flat on the table to push herself upright. Her hair is back in its braid, and the gold thread's been wound through it, crooked, as if she did it herself with one hand. She stands there longer than she needs to. You think, at first, that she's gathering her strength. Then you see her glance down the table at Commander Arkwright, and the Commander, very slightly, shake her head, and the Headmistress look away from her and back at the Hall.
+
+*page_break
 
 @kestrel:grave "You are owed the truth," she says. "Some of it, at least. I've been advised to keep this to the staff." She doesn't look at the Commander again. "I don't intend to. You're the ones who have to sleep here."
 
@@ -465,7 +501,11 @@ She sits down.
 
 That's all. She doesn't explain it and she doesn't soften it. At the end of the staff table, Commander Arkwright closes her eyes.
 
+*page_break
+
 The cold starts at the front of the Hall and goes back, table by table, the way a room goes cold when somebody has opened a door onto the night and you can't see who. People don't look at each other. Then they do, quickly, and look away. At the Heronmere table, a boy moves a few inches along the bench from the boy beside him, without seeming to know he's done it, and then sees what he's done, and goes red, and moves back. Priya doesn't look up at all. At the Rookhallow table someone's knife slides off a plate and rings on the stone floor, and forty people flinch.
+
+*page_break
 
 From inside. Somebody who walks these corridors. Somebody who knows where the old ward lies under the black water, and how to open it, and when. Somebody opened a door on Friday, and Toby Quill went grey, and Magnus Grey sat down on a stair and didn't get up.
 

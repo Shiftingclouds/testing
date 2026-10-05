@@ -15,6 +15,8 @@ After that, the week goes quiet.
 
 The fog comes back on Monday and stays. Nobody sleepwalks. The books in the Long Stacks stop going blank, and Miss Dunne opens the doors again, and sits behind her desk with the ruined Tollemache Herbal in her lap like a sick cat. Toby sleeps through three nights in a row and comes down to breakfast on Thursday pink-cheeked and ravenous and eats four rounds of toast and half of yours. In Warding, Professor Grey teaches you all to hold a shield for a whole minute, and says "Better," to the room, which from him is a standing ovation. Mina's Wireless plays dance music from the Observatory every night at nine, crackling, and people turn it up in the common rooms and dance in their socks. You start to think it's over. Everybody does. You can feel the whole castle letting out its breath.
 
+*page_break
+
 It's the familiars that wake the castle, in the end.
 
 At ten past six in the morning on the second Saturday of November, every familiar in Wrenfold starts screaming at once. Cats and owls and ravens and hares, the peacock and the ferrets and Mrs Pettigrew's goat. {fam_name} is at your door, {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|beating against it|scratching at it}, making a sound you'll hear in your sleep for weeks: high, thin, over and over, like a kettle nobody's taking off. From the Rookery tower, where the familiars roost at night, the noise is so loud it rattles the windows in their frames.
@@ -27,6 +29,8 @@ The Rookery is a tall round tower with no ceiling on the inside, just perches an
 
 *meet bram
 @bram:hollowed "Morning, Professor," says Bram Hollis. His voice is flat and clear and pleasant. He's grey. His small eyes are the colour of fog. On his shoulder, a big black crow, his familiar, is standing absolutely still, pressed against his neck, and it's the only familiar in the whole tower that isn't screaming. "Is it morning? I was going up to feed... I was going up to..." He looks up the stair, at the dark, at the hundreds of animals. "I don't know what I was going up for," he says, and smiles at nothing, the kind of smile you'd give a stranger holding a door.
+
+*page_break
 
 You knew Bram Hollis a little, the way you know everyone a little by November. Big and loud and sullen, with a buzz cut and a laugh like a car alarm, always a step behind Cas in the corridors, always saying the thing that makes somebody else flinch. You didn't like him. You'd have crossed a corridor not to talk to him. None of that seems to matter now at all.
 
@@ -60,6 +64,8 @@ Lessons are cancelled. Everybody is sent back to their common rooms and told to 
 That night, the Order of the Lamp arrives, by boat, in the dark.
 
 You see them from the window at the top of your stair, because everyone's at a window. Twenty lights on the black Mere, coming across from the south shore in a long line, white and steady, not flickering at all. Twenty of them, in long lamp-black greatcoats, with brass lamps on poles, walking up from the jetty two by two. They take over the Warding Hall and don't leave.
+
+*page_break
 
 By Sunday morning it's a headquarters. There are maps pinned to the scorched walls, and trestle tables, and tea urns, and people in greatcoats walking fast with papers, and a hard white light in every lamp that doesn't lean at all. The practice dummies have been pushed into a corner in a heap, like people who've fainted. Students are being called in one at a time to be interviewed, and sit on benches along the wall waiting, not looking at each other. Nobody knows what they're asking. Everybody's been told not to talk about it, which means everybody's talking about it.
 *meet arkwright
@@ -106,6 +112,8 @@ Because the Warding Hall is one big room and there are no walls, you can hear th
 @cas:guarded Cas's jaw moves. "Nobody," he says, "ever remembers seeing me. It's one of my family's great talents."
 
 @idris:neutral At the table beyond that, Idris is being interviewed by Jory, who looks as if he'd rather be anywhere else. "You walk the corridors at night," Jory's reading from his notes. "You've been seen by staff on eleven occasions. You have a key to the restricted cage that nobody gave you. You've spent twelve years studying..." He squints. "Flame-work."
+
+*page_break
 
 @idris:neutral "Yes," says Idris, calmly. "All of that is true." He adjusts his glasses. "It was twelve occasions. One of them didn't see me."
 
@@ -199,6 +207,8 @@ It's supposed to make you feel safer. Mostly it makes the castle feel like somew
 
 @imogen:neutral "I applied," she says, as you sit down. "To the Order. This morning. I walked into the Warding Hall and I asked for the Commander and I told her I wanted to join. I told her I'd read the whole handbook and every book in this library on the Choir and I had a list of every hollowing for forty years." She smiles, thinly. "She said [i]no students[/i]. She didn't even look at the list. She was eating a sandwich."
 
+*page_break
+
 "I'm sorry."
 
 @imogen:neutral "Don't be. It was a very reasonable answer. I'd have said the same." She straightens the book in front of her, so that its edge lines up with the edge of the table. "I just didn't think it would be said to me."
@@ -217,6 +227,8 @@ It's supposed to make you feel safer. Mostly it makes the castle feel like somew
   You open your mouth. She holds up one hand, not looking at you, the way you'd stop traffic.
 
   @imogen:tense "Wait. I haven't said why. You should know why before you answer. It's only fair." She lines the book up with the table edge again, though it hasn't moved. "I have a brother. Had. Have." A small, furious breath through her nose. "Kit. He kindled late too. Twenty-four. Everybody at home said [i]well, that's Kit, never on time for anything[/i]."
+
+  *page_break
 
   "Imogen, you don't..."
 
@@ -276,6 +288,8 @@ By Tuesday morning there are nine of them. By Tuesday lunchtime there's a queue 
 
 It's a long white room at the top of the east wing, with tall windows and iron beds and a fire at each end, and it usually smells of clean sheets and Matron's eucalyptus. Tonight it smells of too many people and burnt sugar. It's not full of injuries. It's full of what Matron has started calling hum-sickness: first-years, mostly, and a few second-years, who can't sleep because they hear humming in the walls, and wake up with their hands so cold they can't hold a cup, and cry, and don't know why they're crying. Every bed is taken. There are camp beds down the middle of the ward. There are students sitting on chairs by the fires wrapped in blankets, holding mugs of the burnt-sugar draught in both hands and shivering, and a Heronmere boy you know by sight asleep upright against the wall with his mouth open and his toad on his knee.
 
+*page_break
+
 @holloway:neutral "She won't go to bed," says Matron Holloway, to you, at the door, in a low furious voice, jerking her head down the ward. Her starched cap has gone crooked. "Three days. I've ordered her. She says [i]in a minute[/i]. It's been in a minute since Saturday." She looks at you properly for the first time. "You're one of hers, aren't you. The one she talks about. Go and make her sit down, or I'll sedate her, and I'll enjoy it."
 
 @noor:tired Noor is at the far end of the ward, on her knees by a camp bed, holding a sobbing Owlcombe first-year's hands in hers, rubbing warmth back into them, talking to him low and steady. Her plait's come down. There are grey shadows under her eyes like bruises. Her hands, you can see from here, are shaking almost as badly as his.
@@ -334,6 +348,8 @@ They both stop when you come in. The weathervanes are all spinning, wildly, in e
 
 @arkwright:neutral The Commander is standing by the fire with her greatcoat on. She looks at you, and then at the Headmistress, and then back at you. "Sit down," she says. "This concerns you. Imelda, I'm going to say it. You can throw me out after."
 
+*page_break
+
 @kestrel:grave The Headmistress, at the window, doesn't say anything. Her face is very still. The small hawk on its perch has woken up, and is watching the Commander with its head low and its feathers lifted.
 
 You sit down. Nobody offers you cake.
@@ -347,6 +363,8 @@ You don't say anything. Your hands have gone cold in your lap. On its perch, the
 @arkwright:neutral "No. She'll have been told not to, forty years ago, and the dead are very obedient about that sort of thing." The Commander glances at the window, at the Headmistress's straight back. Nobody at the window turns round. "Forty years ago," she says, "a first-year's lantern flared white on his first night in this castle. Just like yours. His name was Aldric Morrow."
 
 The weathervanes stop spinning, all at once.
+
+*page_break
 
 In the silence, you can hear the fire, and the hawk shifting on its perch, and your own heart. Aldric Morrow. It's only a name. It sits in the room like a third person.
 

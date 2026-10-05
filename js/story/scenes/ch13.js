@@ -15,6 +15,8 @@ The Lantern Train takes you south through a whole day of white fields and black 
 
 You walk from the station with your trunk bumping behind you on its little wheels and {fam_name} {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|inside your coat, peering out at the traffic in disbelief|in a cat basket you had to buy in Kingsmere, making its feelings known}. It's drizzling, the fine grey Wrexley drizzle that doesn't so much fall as hang about. Under the viaduct. Past the chip shop, fogged up and busy, and the launderette with its one lit dryer going round, and the bookie's, and the corner shop with a plastic Father Christmas in the window who's lost his nose. Your street. Your door, with the draught under it. Your key, which still fits.
 
+*page_break
+
 It's so small.
 
 That's the first thing. The kitchen, with its yellow light and its one wobbly chair, is about the size of the Weathervane Room's fireplace. The ceiling's so low you want to duck. There are no lanterns. There's a strip light that buzzes, and a calendar on the wall still on September, and the basil on the windowsill, the one that used to turn its leaves to follow you round the room, which you forgot to give to anyone, and which is dead. When the eight-fifteen goes over the viaduct, the whole house shakes, and the cups rattle on their hooks, and you realise you've been hearing that sound every night of your life and never once noticed it until you'd been away.
@@ -22,6 +24,8 @@ That's the first thing. The kitchen, with its yellow light and its one wobbly ch
 It's so small, and so ordinary, and you love it so much you have to sit down on the wobbly chair for a minute.
 
 The house is cold with that particular cold of a place nobody's breathed in for months. You put the heating on, and the boiler thinks about it and then, grudgingly, clanks. {fam_name} {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|flutters up onto the top of the fridge and surveys the kitchen with open contempt, as if it's been asked to live in a shoebox|comes out very slowly, sniffs the lino, sniffs the skirting board, sniffs the draught under the back door, and then sits down on the lino and stares at you, as if to ask whether this is a joke}.
+
+*page_break
 
 Your kettle boils on its own when you look at it. It always did. You just know why, now.
 
@@ -32,6 +36,8 @@ At half past seven, someone bangs on the front door with the flat of their hand 
 @dev:amused He's exactly the same. Lanky, in a hoodie, with his lanyard still round his neck because he's come straight from work, a carrier bag of cans in one hand and a bag of chips in the other and his long face split in the biggest grin you've ever seen. "Look at you," he says. "[i]Look[/i] at you. You're alive. Glossop owes me a fiver." He hugs you, cans and chips and all, and he smells of chip fat and work and the bus, and of home.
 
 He comes in. He sits on the wobbly chair, which you let him have because he's the guest, and it wobbles, and he says "still?" in a wounded voice, as if it's personally let him down. He opens two cans. He tips the chips out onto their paper on the table, the way you always used to, and plants the little wooden fork in the middle like a flag.
+
+*page_break
 
 @dev:amused "Right," he says. "Four months. Where do I start." He points a chip at you. "Glossop's divorce."
 
@@ -50,6 +56,8 @@ He comes in. He sits on the wobbly chair, which you let him have because he's th
 "Dev."
 
 @dev:amused "Somebody did something to the coffee machine. That's all I'm prepared to say. It's under investigation." He lowers his voice, though there's nobody in the house but you and {fam_name}. "They've sent a man. With a clipboard. He's been in three days. Nobody's confessed."
+
+*page_break
 
 "Was it you?"
 
@@ -104,6 +112,8 @@ The turkey is, in fact, the size of a small dog. Nana has cooked it anyway, and 
 *meet nana
 @nana:warm "Don't you dare," says Nana Pearl, to {fam_name}, pointing a serving spoon. "He's eleven. He's got a heart condition." She sits down in her paper crown, with her red glasses on and her pink lipstick on and her pearls on, and looks at you across the table. "Right," she says. "Now tell me everything. Start with the castle. Is it a proper castle? Towers? Moat?"
 
+*page_break
+
 "A lake. It's on an island in a lake."
 
 @nana:amused "Better than a moat," says Nana, satisfied, and passes you the bread sauce. "Go on, then."
@@ -125,6 +135,8 @@ So you go on. You tell her about the first night: lighting a lantern from an old
 "Toby. He was a baker. He kept setting the croissants on fire. He's got a hare called Custard."
 
 @nana:amused "A hare." She considers this. "Is he nice to you? The boy, not the hare."
+
+*page_break
 
 "He makes me toast. When I've had a bad day he just turns up with toast."
 
@@ -163,6 +175,8 @@ You don't tell her about the Choir. Or Delphine, or Bram, or Odile Pellow standi
 
     "In December they came to the village near the school. In the daytime. There was a woman there, Odile, who makes wands. She stood in the road in front of a load of first-years and sang at them. On her own. To hold them back while everyone ran." Your voice goes, and you wait for it to come back. "It worked. For a bit. She's grey now too."
 
+    *page_break
+
     @nana:neutral Nana reaches over and moves the gravy boat out of the way, so there's nothing on the tablecloth between her hands and yours. "And you," she says. "Where are you in all this, love?"
 
     Here it is. You look at her flame without meaning to: small and bright and stubborn in the middle of her.
@@ -192,6 +206,8 @@ She reorganises your kitchen cupboards the first morning without asking. She fin
 
 The house feels bigger with her in it. You can't work out how.
 
+*page_break
+
 On the third night, she does the washing-up, and you dry, and she hums.
 
 You almost drop the plate.
@@ -207,6 +223,8 @@ It's the Wren's Song. The first voice. Exactly the way Odile sang it in the snow
 A year ago you'd never have heard it. It was Nana's washing-up tune, like the smell of the lemon squeezy bottle and the squeak of the hot tap. You've been listening to the first voice of the Wren's Song since before you could walk.
 
 @nana:warm "She used to say there was another bit," says Nana Pearl, turning back to the sink, "that went underneath. She taught it me when I was little. Said I had to sing it with her, or it didn't work. I never knew what she meant by work." She hands you a dripping gravy boat. "I haven't sung the underneath bit in sixty years. I expect I've forgotten it."
+
+*page_break
 
 You look at her, at her small back and her yellow gloves and her pouf of white hair, and you think of Odile Pellow saying [i]it's meant for a lot of people[/i], and of the carol book: [i]the others to be found in their places.[/i]
 
@@ -292,6 +310,8 @@ You don't stop. Nana doesn't stop. She loses the four bars and goes back to the 
 
 It's not enough to drive her off. Two voices aren't. But it's enough that she can't get in.
 
+*page_break
+
 Then, at the far end of Viaduct Street, a light: brass, and bright, and swinging, coming at a run.
 *meet jory
 @jory:tense Jory Penrose. In his too-big greatcoat, with his lamp held up high in front of him, running flat out down the middle of the street between the parked cars, shouting a Lamplighter's word at the top of his lungs, "[i]LUME! LUME![/i]", with the brass lamp blazing white.
@@ -301,6 +321,8 @@ Then, at the far end of Viaduct Street, a light: brass, and bright, and swinging
 The streetlights come back on. Orange. The reindeer at number twelve starts flashing again. Somewhere up the road a dog starts barking, as if it's been holding it in. The eleven-forty, forty minutes late, goes thundering over the viaduct, and the whole house shakes, and the cups rattle on their hooks, and you've never been so glad to hear anything in your life.
 
 @jory:tense Jory is on your doorstep, bent double, gasping. "Headmistress," he wheezes. "Sent birds. To everyone. Who went home." He straightens up. "Every Lamplighter we've got is standing in some street somewhere tonight. I got you." He looks past you, at Nana Pearl in the kitchen doorway in her dressing gown and hairnet, holding the door frame with both hands. "Is she all right? Are you all right? What did you [i]do[/i]? I felt that from the end of the road."
+
+*page_break
 
 @nana:neutral Nana Pearl lets go of the door frame. She's still shaking. She looks at Jory, and at his lamp, and at his greatcoat, and at you. Then she draws herself up to her full four foot eleven.
 
@@ -321,6 +343,8 @@ The streetlights come back on. Orange. The reindeer at number twelve starts flas
 @nana:neutral "Twenty-four." She lets that sit. "And where's your mother?"
 
 @jory:neutral "Porthallow. It's by the sea. It's... quite a long way."
+
+*page_break
 
 @nana:neutral "And does she know you're out in the middle of the night, in the rain, running at... whatever that was, with a lamp?"
 
@@ -345,6 +369,8 @@ At ten to midnight Nana sends you out to fetch him. He's standing under the stre
 
 He sits bolt upright in the armchair by the window with his lamp on his knee and a tiny glass in his hand, and watches the fireworks on the telly and the street outside by turns, and at a quarter past twelve, while Nana is telling him about your grandad's allotment, he falls asleep sitting up. She puts a blanket over him and takes the glass out of his hand. "Poor lamb," she says, to you, very low. "Leave him. Somebody's got to be on duty for him, for once."
 
+*page_break
+
 Dev comes round on New Year's Day with a hangover and a box of leftover chocolates and sits with Nana for two hours discussing snooker, and doesn't ask why there's a man in a long coat standing under the viaduct, and doesn't ask why your nan keeps humming the same four bars under her breath.
 
 Nana won't sleep with the light off now. She doesn't say why. She just leaves the landing light on, and you leave it on too.
@@ -357,6 +383,8 @@ Nobody from outside is supposed to be able to find Platform Nought. Nana finds i
 
 On the other side, the Lantern Train is waiting in a cloud of silver steam, long and dark and gleaming, with every window lit gold, and the platform's full of students and trunks and cages and hugging families, owls on shoulders and cats in baskets and somebody's ferret loose and being chased, and Nana Pearl stands in the middle of it all and looks round with her mouth open.
 
+*page_break
+
 @nana:warm "Oh," she says. "Oh, my mother was right. She said you never forget it." She squeezes your arm. "She told me about it once. The steam. The gold windows. I thought she was making it up, for a story." She looks up at the lit carriages, and her eyes are bright behind her red glasses. "I've been waiting seventy years to see this."
 
 @toby:laugh "[i]{name}![/i]" Toby comes barrelling down the platform with his trunk in one hand and a tin of his mum's mince pies in the other, and hugs you, and sees Nana Pearl, and goes pink, and shakes her hand very formally. "Mrs Pearl. Hello. I'm Toby. I've heard so much about you. Is it true you once hit a man with a handbag?"
@@ -364,6 +392,8 @@ On the other side, the Lantern Train is waiting in a cloud of silver steam, long
 @nana:amused "Twice," says Nana Pearl, delighted. "Same man." She looks him up and down: the cardigan, the flour on his sleeve, the hare peering out of his coat. "And it's not Mrs Pearl, love. Pearl's my first name. You can call me Nana. Everybody does, in the end."
 
 @toby:warm Toby looks as if he's been handed a medal. "Nana," he says, and then, as if it's only fair, "these are mince pies. My mum made them. You should have them. She makes too many. She makes about four hundred."
+
+*page_break
 
 @nana:amused Nana takes the tin and prises the lid off and inspects one with the air of a judge at a show, and bites it, and chews. "Your mother," she says, "knows what she's doing with pastry." Toby goes pinker than ever. "You look after this one," she says to him, nodding at you. "They don't eat properly when they're worried."
 
@@ -394,6 +424,8 @@ The snow comes on the twenty-third and doesn't stop. It piles up on the battleme
 
 The kitchens send up hot chocolate at odd hours without being asked. There are no lessons. You sleep till nine, which you haven't done since you were a teenager, and wander the castle in two jumpers, finding rooms you didn't know were there: a gallery full of stuffed birds, a staircase that only goes up, a window seat in the Observatory tower where you can see the whole white Mere from end to end.
 
+*page_break
+
 By Christmas Eve, the ten thousand lanterns in the Lantern Hall have gone soft gold again, and they drift low and slow over the one long table the kitchens have laid down the middle of the Hall for everyone who stayed. The four house tables are pushed back against the walls. It feels like a family dinner in a cathedral.
 
 Forty people. Six Lamplighters, who take turns eating, with their greatcoats on. The Headmistress, at the head of the table in a paper crown, which is somehow the most frightening thing you've ever seen. Mr Tully, carving. And whoever else stayed, and why.
@@ -403,6 +435,8 @@ Forty people. Six Lamplighters, who take turns eating, with their greatcoats on.
 "Does he mind? You not going?"
 
 @saoirse:amused "He sent me a jumper with a reindeer on it," says Saoirse. "And a card that said [i]don't blow anything up, love[/i]. So no. He knows me." She pulls the jumper out from under her overalls to show you. The reindeer's nose lights up. "I did that," she says proudly. "It didn't used to."
+
+*page_break
 
 @idris:neutral Idris, because he doesn't have anyone to go home to. He says it quite simply, as a fact, passing the potatoes. "My parents are both dead. I spent last Christmas here too. It's quieter than it sounds." He looks round the table at the forty of you in your paper hats, at Saoirse's hat smoking, at a Lamplighter trying to eat a mince pie without taking off his gauntlets. "This is the loudest one I've been to," he says, and something at the corner of his mouth might be a smile. "I don't mind it."
 
@@ -414,6 +448,8 @@ Forty people. Six Lamplighters, who take turns eating, with their greatcoats on.
   @cas:guarded And Cas. You didn't know he'd stayed until he walks into the Hall, late, with snow on his shoulders and his grandmother's Longnight letter still unopened in his coat pocket; you can see the corner of it. He sits down opposite you without a word. After a while, he says, not looking up from his plate, "I took your advice. Don't mention it." You don't. He pulls a cracker with you. He gets the hat that's on fire, and wears it, gravely, all the way through pudding.
 
 The pudding comes in on fire too, on purpose this time, carried in by two of the kitchen staff and set down in front of the Headmistress, who regards it with enormous satisfaction. There's brandy butter. There's a sixpence somewhere in it; Saoirse finds it, and bites it, and swears.
+
+*page_break
 
 @kestrel:warm The Headmistress, at the head of the table, stands at nine o'clock, in her paper crown, and raises her glass. The lanterns overhead turn towards her, all together, the way they do. "To those who stayed," she says. "And to those who went home. And to those who couldn't do either." She looks down the long table, at forty faces in the candlelight. "Merry Christmas, Wrenfold."
 
@@ -487,6 +523,8 @@ You're at the boathouse in four minutes, with your coat on over your pyjamas and
 
       @saoirse:hurt "You waited," she says. Her voice cracks. "You just... waited. You didn't come after me. You didn't shout. You just sat there in the freezing cold and waited." She gets off the bike and comes up the jetty steps and stands in front of you, shaking. "Nobody's ever done that. Nobody's ever been the one standing still when I went. I always made sure I was the one going." She sits down beside you in the snow, hard, and puts her head on your shoulder. "It's my mam," she says. "She wants to meet me. I'll tell you. Give me a minute. I'll tell you everything."
 
+      *page_break
+
       @saoirse:sad She doesn't tell you everything. Nobody could. But after a while, looking out at the ice, she starts.
 
       @saoirse:sad "She had nice hands," she says. "That's what I remember. She used to do my hair for school. Two plaits, really tight, so it pulled." She touches the side of her head, where the bootlace is holding her curls up. "The Tuesday she went, she did them tighter than usual. I thought I'd done something wrong."
@@ -502,6 +540,8 @@ You're at the boathouse in four minutes, with your coat on over your pyjamas and
       It's one in the morning before she stops talking, and the stars have gone a long way round overhead, and your feet are long past feeling. When she's finished, she says, "Your lips have gone blue," and drags you up to the kitchens by the sleeve, and makes you cocoa on the big range, and watches you drink every drop.
 *else
   But she's already gone. The headlamp's a spark on the far shore, and then it's gone over the rise towards Thimble Cross, and there's nothing on the black ice but a thin bright track in the frost.
+
+  *page_break
 
   You stand on the jetty until you can't feel your feet. Then you go and wake up the Lamplighter on the boathouse door, and tell him, and he swears, and sends a bird.
 
@@ -529,6 +569,8 @@ On the thirtieth, at eleven at night, you follow it.
 
 Down the east stair, with the portraits snoring. Along the corridor behind the kitchens, where it's always warm anyway and smells of tomorrow's bread. {@ch09_way = "cloisters"|Down the oldest stair of all, to the black oak door you and Toby and Rowan followed the voice to in November, the one that's supposed to be sealed, which opens for you now the way it did then, as if it's been waiting|Down the oldest stair of all, to a black oak door bound in iron that you've only ever heard about: the Old Cloisters door, sealed for two hundred and forty years. It opens at your touch, without a sound, as if it's been waiting}. And down, into the Old Cloisters.
 
+*page_break
+
 It's dark down here, and cold, and old. The pillars are carved with birds, wrens, hundreds of them, worn smooth by centuries of nobody. Your breath smokes. You light the tip of your wand, and the wrens leap out of the dark at you and fall back. {@ch09_way = "cloisters"|The Watchman isn't here; or he is, and he's quiet, and watching.|Somewhere in the dark, water drips, very slowly, into water.} The warmth under your feet gets stronger with every step, until you're following it the way you'd follow the smell of bread through a strange town: round a corner, down a flight of steps so worn they're more like a ramp, to the end of a passage you've never seen.
 
 There's a door.
@@ -548,6 +590,8 @@ As if something is getting in.
   @idris:tense Idris has his hand on the door too, beside yours. He's gone very still. "I can hear it," he says, in a whisper. "Not the way you can. But I can hear it." He takes his hand away, slowly, and looks at his palm as if he expects it to be marked. "That's it. Isn't it. Whatever's been warming the floor. That's what you've been following."
 
 @grey:neutral "Go back to bed."
+
+*page_break
 
 You nearly jump out of your skin. Professor Grey is standing at the top of the worn steps behind you, in the dark, in his charcoal robes, with no light. You didn't hear him come. You have no idea how long he's been there. He's a big man, and he fills the passage, and he doesn't move. His scarred hands are folded in front of him, and his tired blue eyes are on the door, not on you.
 
@@ -582,11 +626,15 @@ You stand at the parapet with your mug going cold in your hands and look at the 
 
 You don't go back down to the Old Cloisters. You want to. Every night you want to. You walk over the warm places in the floor and feel your flame lift its head, and you keep walking. You think about Professor Grey's face in the dark, and his hand flat on the door.
 
+*page_break
+
 The thaw comes on the second of January. You wake to the sound of water: everything dripping, gutters running, the snow sliding off the roofs in long soft thumps, and the Mere groaning all day and all night as the ice breaks up, great grey plates of it turning over and grinding against each other at the edges. By evening there's a channel of black water open down the middle. On the third, the boats run, and the school comes home.
 
 You're on the jetty when the first boats come in out of the dusk, lanterns bobbing at their prows, packed with students and trunks and cages, everybody shouting, and the first person off the first boat, falling off it, practically, onto the ice-crusted boards, is Toby Quill, with a tin of his mum's mince pies under one arm.
 
 @toby:laugh "I missed you," he says, into your shoulder, hugging you so hard your ribs creak. "I missed everything. I missed the [i]stairs[/i]. My little sisters put a cracker in my bed. My mum cried at the pudding. My dad set fire to the pudding, again, and then the tea towel. I told everyone at the chip shop I go to a school up north for gifted bakers." He lets you go and holds you at arm's length, and his round face goes serious. "What happened? Something happened. You've got a face."
+
+*page_break
 
 "I haven't got a face."
 

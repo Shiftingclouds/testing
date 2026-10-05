@@ -15,6 +15,8 @@ On Tuesday morning the Brewing Cellars door sticks, and you put your shoulder to
 
 Hearth isn't on the timetable as a lesson. It's on the timetable as [i]Hearth (Thursdays, the Hall, bring nothing)[/i]. It turns out to mean the Headmistress, and all forty-three first-years, the same faces that were round you in the Wordcraft Gallery, lying on their backs on the floor of the Lantern Hall at five o'clock on a Thursday, looking up.
 
+*page_break
+
 The lanterns have come down low for it. They hang six feet above you, drifting, gold and rose and green and blue, close enough that you can see the brushmarks on the paper and the tiny scorched patches where somebody, years ago, mended them. The benches have been pushed back against the walls. The Hall is dim and warm and humming, and it smells of candle-wax and floor polish and, faintly, of the lemon soap they use on the tables. It's like lying at the bottom of a lit pond.
 
 The stone's cold through your robes. Somebody down the row is trying not to giggle. Toby, on your left, has brought his hare, Custard, who wasn't asked, and who is lying along his side with her ears flat and her eyes half shut, as if Hearth were something she'd invented.
@@ -24,6 +26,8 @@ The stone's cold through your robes. Somebody down the row is trying not to gigg
 You breathe. In for four. Out for six. Beside you, Toby breathes like someone blowing up a lilo.
 
 @kestrel:amused "Mr Quill," says the Headmistress, without looking round. "Out for six. Not out for everything."
+
+*page_break
 
 Toby says "Sorry, Headmistress," to the ceiling, and a ripple of laughter goes down the rows and dies away, and the Hall settles again. Up among the lanterns, one of them turns lazily over, like a fish.
 
@@ -38,6 +42,8 @@ Without meaning to, with your eyes still shut, you turn your head towards Toby.
 You see his.
 
 It's small and orange and warm, like the light in an oven door when something's baking. It's there, behind his cardigan, behind his ribs, bobbing slightly with his breathing, a little uneven where he's trying too hard. Next to it, lower down, something smaller still: a quick brown spark, twitching. Custard. You can see them both as clearly as you can see your own. Through your eyelids. Through him.
+
+*page_break
 
 You gasp and open your eyes. It's gone. Toby's just Toby, lying on the floor with his cardigan rucked up and his mouth open, very nearly asleep, and Custard's just a hare.
 
@@ -85,6 +91,8 @@ You stop on the stair.
 
 You're looking at a wall. Plain grey stone, a tapestry of a stag, a lantern in a bracket turned down low. And behind the wall, through it, as if the stone were smoked glass, there are lights. Six of them, in a row, lying down, bobbing very slightly: small flames, each one a different colour and shape and size, each one slow and soft with sleep. A dormitory. Six people asleep on the other side of that wall, and you can see their flames. You can see them breathing.
 
+*page_break
+
 One of them turns over. You watch it turn over.
 
 You turn round, slowly, on the stair.
@@ -102,6 +110,8 @@ You sit down on the stair, because your legs have stopped working.
   *present familiar rowan
   @rowan:tense That's how Rowan finds you: sitting on the main stair at midnight in your dressing gown, with your mouth open, staring at a wall. He's in a T-shirt and bare feet, and the stone under his feet is steaming. "Can't sleep," he says, low. "Too hot. I come down and lie on the flagstones in the entrance hall. They're cold." He looks at you properly. "What's wrong? You look like you've seen..."
 
+  *page_break
+
   You look at him, and you see it. Not him. His flame. It isn't a candle, or a lamp. It's a bonfire: huge and red-gold and roaring and frightened, far too big for the man it's in, pushing against the inside of him like a fire against a door.
 
   "Sit down," you say, without knowing why. "Sit down next to me. Breathe out for six."
@@ -115,6 +125,8 @@ You sit down on the stair, because your legs have stopped working.
 
 It's then, sitting on the stair, that you hear it properly.
 
+*page_break
+
 The humming. Not the lanterns. The other thing. It's somewhere in the walls, very faint, low and thin, like a draught moaning in a chimney, and it's moving. You can hear it go along the wall beside you, and up, and along, following the lanterns in their brackets from one to the next, the way a finger follows a line of text. As it passes each one, the lantern shrinks, very slightly, and leans away, and then straightens again when it's gone.
 
 {fam_name} has gone completely still.
@@ -126,6 +138,8 @@ And goes out.
 The humming goes on along the wall, fainter, fainter, and is gone. The lantern above you hangs dark. A thin grey thread of smoke goes up from its wick, and in the flame-sight you can see, where its little light should be, where its thread should run down to the great glow under the castle, nothing. A hole. The thread's been cut.
 
 You don't think about it. You stand up on the stair and reach up and put your fingers round the wick of the dead lantern, the way you'd pinch out a candle, except the other way round.
+
+*page_break
 
 It's cold. Colder than it should be, cold as a key left out overnight. Then, under your fingers, something catches: a flicker from behind your breastbone, running down your arm like a match struck in the dark, and the wick lights. White-gold. The lantern swells with it and turns in its bracket, and the thin bright thread from it goes down, down, into the dark, and finds the great glow in the root of the rock, and holds.
 *snapshot candle
@@ -155,6 +169,8 @@ He walks fast and says nothing, and you follow him through three corridors you'v
 The library at midnight is a long galleried hall of books under a vaulted roof, with rolling ladders on brass rails and green-shaded lamps on the reading tables, all turned down to a glow. At the far end there's a cage of iron and brass where the restricted books are kept, and it hums faintly, like a beehive. It smells of old paper and cold ash. Idris turns up one lamp at a table in a corner and sits down across from you. {fam_name} settles {@(familiar = "owl") or (familiar = "raven")|on the back of a chair|in your lap}, watching him, very alert.
 
 @idris:neutral For a while he doesn't speak. He takes his glasses off and cleans them on the hem of his dressing gown, and puts them back on, and you get the impression he's using the time. Then he opens a book on the table between you, old and heavy and bound in cracked green leather, and turns it round to face you. It's a woodcut: a woman in a long coat, standing on a shore, with a flame in her open hand, and all round her in the dark, drawn in thin lines, other small flames, in the chests of the people standing near her, and threads running between them.
+
+*page_break
 
 You look at it. You know that shore. You don't know how you know it.
 
@@ -224,6 +240,8 @@ At a quarter to five, you climb.
 
 The central tower has more stairs than anywhere else in the castle, and they get narrower as they go, as if the tower were drawing itself in to keep a secret. By the last flight you're going sideways, one shoulder brushing the stone, {fam_name} {@(familiar = "owl") or (familiar = "raven") or (familiar = "moth")|riding close against you because there's no room to fly|picking a way up the steps ahead of you and looking back, every few, to check you haven't lost your nerve}. There are no windows. There's only the sound, getting louder as you climb: ticking. Dozens of clocks, all ticking, none of them together, like rain on a tin roof.
 
+*page_break
+
 The door at the top is small and very old, and has a knocker in the shape of a wren. You stand in front of it for a while. You wipe your palms on your robe. You think, for no reason at all, of standing outside Glossop's office on the day of your appraisal, and nearly laugh.
 
 You knock.
@@ -234,6 +252,8 @@ The Weathervane Room is round, and full of weather.
 
 That's the only way you can describe it, afterwards. It comes at you in pieces while you stand in the doorway. The clocks first, because you've been hearing them all the way up: on every wall, on every shelf, grandfather clocks and carriage clocks and a cuckoo clock with no cuckoo. Then the barometers and the rain gauges and the thermometers, and a glass tube of something blue that's gone cloudy, as if it's expecting a storm. Then the weathervanes, which is when you stop noticing anything else: weathervanes, indoors, on posts and on shelves and hanging from the beams, iron cockerels and brass ships and a copper wren, all of them turning, slowly, this way and that, although there isn't a breath of wind in the room. As you step in, one by one, they swing round to point at you, and then, as if they've seen what they needed, drift away again.
 
+*page_break
+
 The windows look out over the whole Mere, gone pewter in the dusk, and the dark line of the hills beyond. There's a fire. On a perch by the window there's a small hawk, grey-headed and rust-backed, eating something off the Headmistress's fingers.
 
 @kestrel:amused "She's called Kestrel," says the Headmistress, without turning round. "Before you ask. Everybody asks. She was here when I came, with the name already, and I've always felt that if one of us ought to change, it's me." She wipes her fingers on a handkerchief. "She's eleven, and she bites. Sit down. There's cake."
@@ -241,6 +261,8 @@ The windows look out over the whole Mere, gone pewter in the dusk, and the dark 
 There's cake. There's a whole lemon cake on a stand by the fire, and a pot of tea under a knitted cosy, and two chairs, one each side of the hearth. You sit in the one that isn't hers. It's old and deep and saggy, and it takes you in like a hand, and you perch on the front edge of it anyway, because you're not sure yet that you're allowed to lean back.
 
 @kestrel:warm "It's lemon," she says, cutting you a slice. "The kitchens make it for me every Friday, and I can never finish it, and Mrs Pettigrew tells me off for wasting it. You'll be doing me a kindness." She hands you the plate, and pours the tea, and sits down in her own chair opposite, and stretches her long feet out to the fire, and doesn't say anything else.
+
+*page_break
 
 You wait. She drinks her tea. The clocks tick. The weathervanes turn. Over the fireplace, you notice now, there's a painting: an old woman in an oilskin coat with a broad, wind-browned face and a crooked smile, painted in oils so old the varnish has gone the colour of tea. The painted eyes are bright and brown and seem to be looking at the cake.
 
@@ -258,6 +280,8 @@ You open your mouth. Nothing comes out.
 
 "I saw his..." You don't know what to call it. You try again. "In Hearth. When you said to picture it. Mine was just there, it was easy, and then I turned my head, and Toby..." You stop. It sounds mad. It sounds like the sort of thing you'd have searched for at two in the morning, and closed the laptop.
 
+*page_break
+
 @kestrel:attentive "What colour was it?"
 
 It's such a practical question that it steadies you. "Orange. Small. Like..." You feel your face go warm. "Like the light in an oven door. When something's baking."
@@ -273,6 +297,8 @@ So you tell her about last night. It comes out badly, in the wrong order, and sh
 "And there was something under the castle," you say. "Right down. Under the kitchens, under everything. Huge. White-gold. Like the sun through your eyelids. All the lanterns had threads going down to it."
 
 @kestrel:grave The Headmistress closes her eyes. Just for a moment. When she opens them again her face is exactly the same as before, pleasant and attentive, and you have the strangest feeling you've just watched a door being closed very gently in a house you'll be living in for a while.
+
+*page_break
 
 @kestrel:neutral "Yes," she says. "We'll come to that. Not tonight." She nods at you. "Go on."
 
@@ -296,6 +322,8 @@ You stare at her. "Yes. Like a key that's been left outside all night. How do yo
 
 You find your own hands are shaking. You put your cup down on its saucer, carefully, and it rattles anyway.
 
+*page_break
+
 @kestrel:warm She notices. She reaches over without a word and puts another slice of cake on your plate, as if that were the obvious remedy, and waits until you've eaten some of it. It helps more than it should. The lemon is sharp and the sponge is warm and your hands have something to do.
 
 @kestrel:neutral "Would you do something for me?" she says, when you've finished. "Would you look at me? The way you looked at Toby."
@@ -311,6 +339,8 @@ You don't have to close your eyes, this time. It's there almost before you've as
 "Silver," you say. Your voice has gone odd. "It's silver. Very tall. You're keeping it still."
 
 @kestrel:tired The Headmistress breathes out. It's a long breath, and she lets it go slowly, and when it's gone she looks, for a second, every one of her seventy-one years. "Silver," she says. "Somebody told me that once. A long time ago." She smiles, a little, not at you. "I'd forgotten."
+
+*page_break
 
 "Who?"
 
@@ -329,6 +359,8 @@ The weathervanes turn, all together, very slowly, and point at you.
 "What does it mean?"
 
 @kestrel:neutral "Someone who sees flames." She holds up one finger, like someone counting. "As you do. Plainly. Through walls." A second finger. "Someone who can steady them, when they flare. With a hand. With a thought." She looks at you. "You've done that already, I think, or you will soon."
+
+*page_break
 
 "And?"
 
@@ -402,6 +434,8 @@ You do. You think of the bathroom mirror, and the glass like frost in the sink. 
 
 It's all the answer you're going to get. You eat your cake.
 
+*page_break
+
 "Tell no one at all?" you say, eventually, with your mouth full.
 
 @kestrel:warm "That's up to you, in the end. It's yours," she says. "But be careful whom you give it to. Once it's said, it can't be unsaid."
@@ -474,6 +508,8 @@ You don't let yourself. It feels like reading someone's letters.
     @toby:scared "With your [i]hand[/i]."
 
     "With my hand. And Idris saw. And he sent me to the Headmistress. And she said..." You stop. [i]Once it's said, it can't be unsaid.[/i] Toby waits, the bacon roll going cold in his fingers, his round face perfectly serious. "She said there's a word for it. [i]Kindler.[/i]"
+
+    *page_break
 
     @toby:scared He says it back, under his breath, the way you'd try out a word in a foreign language. His bacon roll is forgotten. He's quiet for so long you start to worry. Down on the water somebody scores, and the stand erupts round you, and Toby doesn't even look. Then he says, "Can you see mine?"
 

@@ -135,6 +135,8 @@ You sat down on the bed. You hadn't known you were holding your breath until it 
 
 Underneath, in smaller type: [i]four hundred students of all four houses, in a counter-song not heard within living memory, led by the Headmistress...[/i] Led by the Headmistress. You read that line twice. It was supposed to be you, and it was her, and it held. You didn't know what to feel, so you went on reading.
 
+*page_break
+
 @jory:neutral "Page two says the boathouse didn't work," said Jory, reading upside down over your shoulder. "Forty of us and a trap, and he walked straight through it." He winced. "She'll hate that they printed that."
 
 [i]...Aldric Morrow reached the root of the rock beneath the school, where the founding flame is kept. The Headmistress went down after him alone...[/i]
@@ -154,6 +156,8 @@ You read it three times. The words didn't change.
 The last line was on its own, under a little drawn lamp. [i]The man Morrow is believed to have escaped by water into Saltmarrow Fen, carrying a stolen flame. The public are asked not to approach.[/i]
 
 Into the Fen. Neither of you said anything. Jory got up, and went to the window, and stood there with his back to you looking out at the reeds and the water and the drowned chapel's tower, for a long while, with his hand on the frame. Then he went downstairs and checked the locks on every door in the house, twice. You heard him doing it. You've heard him do it every night since.
+
+*page_break
 
 @jory:neutral "She'd have done it anyway," says Jory, now, out of nowhere, swatting midges. "The Headmistress. If you'd been there. You know that? She'd have gone down first. She'd have put herself in front." He doesn't look at you. "That's what the Commander says. I asked."
 
@@ -194,6 +198,8 @@ You take it out again now, in the last of the light, and read it once more, and 
 
   @kestrel:warm The Headmistress stops behind you on her way down the Hall, with her cup in her hand, and bends to say it in your ear. "Every Midsummer," she says. "From now on. The whole school, all five voices, at the Proving. I've made it a rule. I've never made a rule I liked so much." She straightens. "Hester's portrait has spoken three times this year, you know. The same word every time." She's smiling. "[i]Louder.[/i]"
 
+  *page_break
+
   Odile Pellow reopened her stall on the green at Thimble Cross at Christmas. You went, in the snow, and put your wand down on her counter, and she polished it without a word, and hummed while she did it: the whole song, all five voices at once somehow, under her breath. The flames Aldric Morrow stole went home on Midsummer night, and at St Ide's they've been waking all year, slowly, one by one: Delphine, and Bram, and her. Morrow himself sits by a window in a quiet house in Kingsmere, in the Order's keeping. The Commander says he doesn't speak. You think about him sometimes. Not tonight. Somebody passes you the cream, and you pass it on.
 *if ending = "B"
   *place P39 st_ides
@@ -208,6 +214,8 @@ You take it out again now, in the last of the light, and read it once more, and 
 
   You don't answer. You don't need to. The woman in the bed is looking at her own hands, and the grey is going out of them, from the fingertips, like frost going off a window. She looks at you. She opens her mouth, and doesn't know yet what she wants to say, and starts to cry instead.
 
+  *page_break
+
   @idris:warm Idris takes the pencil from behind his ear and draws a neat line through her name. Then he puts his hand on the back of your neck, where you're coldest, and leaves it there. "Fifty-one," he says. "Home by Christmas, at this rate. All of them." He isn't writing that down. He doesn't need to.
 
   On the way out, in the corridor, you pass an old man with a paper bag of oranges, walking slowly, stopping at every door. Aldric Morrow comes most weeks now, from the cottage at Thimble Cross that the Headmistress found for him. He sits by the beds of the people he took, and says their names, and asks them to forgive him. Some of them do. He nods to you. He's got a candle stub in his coat pocket; you can feel it, a small blue flame, his.
@@ -221,6 +229,8 @@ You take it out again now, in the last of the light, and read it once more, and 
   @tully:warm "Wrist," he says. "Less wrist. You're lighting it, not stirring it." He takes the taper off you and does the last one himself, with one small flick, and gives it back. "They're colder, the new ones. I know. You get used to it." He looks at the taper, not at you. "I never thought I'd see them all lit by hand. Every one. Four hundred people with tapers." He almost smiles. "It's a lot of lanterns."
 
   From the green you can see it across the Mere: the old castle, dark, a big stone house on a hill. No lights. The Order walled up the root in July.
+
+  *page_break
 
   @tully:sad "He asked to go back down, at the end," says Mr Tully, looking at it. "Aldric. The first week of July. Starving. He asked the Commander, and she let him, and I went with him. I held the lamp." He's quiet. "He sat against the rock where it used to be. He looked up. That's all. He didn't take anything. There wasn't anything to take." He puts his cap back on. "Everybody else lived. You know that. Everybody."
 

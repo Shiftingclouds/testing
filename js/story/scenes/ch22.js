@@ -22,6 +22,8 @@ Midsummer Eve is the shortest night of the year, and the Proving is the oldest t
 
   "Wind," you tell him. There isn't any wind.
 
+  *page_break
+
   Then, out in the water, very faintly, with nothing to move it, the bell in the drowned tower rings once, as if it's answering. Jory's eyes open. He looks at the tower, and at you, and at the reeds, and doesn't say anything at all. That evening he goes into Saltmarrow on his bicycle and comes back with a timetable for the slow train to Kingsmere, and pins it to the kitchen wall, and neither of you mentions the bell again.
 
   On the nineteenth you lock the house, leave the cat a week's worth of food and an apology, and take that train, and sleep badly at the Lamp & Ladle on Lamplight Row with Jory snoring on the chair by the door. In the morning Platform Nought is almost empty. Everyone who's going to Wrenfold is already there.
@@ -38,6 +40,8 @@ Midsummer Eve is the shortest night of the year, and the Proving is the oldest t
   @idris:neutral Idris, beside you, writes something small in the margin of the rota. "Have you noticed," he says, low, "that the gaps close when they're laughing?" You have noticed. "I'm writing it down," he says. "I don't know what it means. I'm writing it down."
 
   A morning in June, in the Lantern Hall, at long desks under the lanterns, with four hundred pens scratching and the lanterns drifting low overhead as if they're trying to read over your shoulder. Warding, paper two. [i]Describe three counters to a sustained hum.[/i] You write the first one and then find you've written a name in the margin, [i]M. Grey[/i], and you look at it for a while and don't cross it out. At the next desk somebody is crying quietly and still writing. Professor Bassani's Turning practical is that afternoon; your teapot becomes a tortoise with a spout, and he throws up both hands and writes on his clipboard, twice, and you never find out what.
+
+  *page_break
 
   @kestrel:neutral The Headmistress's Hearth exam is ten minutes in the Weathervane Room, across the fire from her, with the clocks ticking. "Breathe," she says. You breathe. She watches your flame, not your face. The weathervanes creak round. At the end she sits back. "You'll do," she says, and that's the result, and it's the one you'll keep.
 
@@ -68,6 +72,8 @@ One by one, the first-years go up to the front and light their lanterns. Some of
   When Toby's name is called, nobody goes up. There's a silence at the Heronmere table. Then Mr Tully, on his ladder by the wall, lights a lantern with his long brass taper, sea-green, and lets it go, and it rises, wobbling, and nobody says anything at all, and Priya puts her face in her hands.
 
 When it's your turn, you walk up the Hall with four hundred people watching, and you take the paper lantern, and you don't use your wand. You just hold it in your hands and let it light.
+
+*page_break
 
 It burns white. It did on the first night; it does now. It goes up out of your hands slowly, turning, a white light among ten thousand gold ones, and it rises all the way to the very top of the Hall, higher than any of the others, and stays there.
 
@@ -110,6 +116,8 @@ At eleven o'clock, every lantern in the Lantern Hall gutters at once.
 
 Ten thousand of them. Like a breath going out. The warm gold ceiling flickers, and dims, and goes blue, and then grey, and there's a sound from four hundred people that isn't a scream, not yet, just a sort of intake, all together. Into the grey, from everywhere, from the stones and the windows and the lanterns themselves, comes the hum.
 
+*page_break
+
 Low. Long. Lonely. Louder than you've ever heard it. It isn't eight singers or twelve. It's all of them. The whole Grey Choir, somewhere in the castle, and the note coming through every lantern in the Hall at once, the way it came through one lantern on Longnight. You feel every flame in the room lean towards it. Your own leans too. It would be so easy to let it.
 
 You stand up on the bench.
@@ -151,6 +159,8 @@ You stand with your back to it. It's warm at your back, warmer than it's ever be
 
 At eleven o'clock the lanterns on the carved pillars gutter all at once, and go grey, and the hum comes down the east stair like water.
 
+*page_break
+
 They come after it. Grey robes, hoods, humming, a dozen of them, slow, not hurrying, round and round the spiral and out into the passage between the pillars. When you look for their flames, there's nothing there: a dozen holes in the dark, walking. The Lamplighters' lamps flare white, and hold, and the grey robes stop.
 
 @idris:tense "They're not trying to get past," says Idris, very low. "Look. They're just holding us here." He looks up at the ceiling, at forty feet of stone between you and the Lantern Hall. "They're keeping the Kindler away from the song."
@@ -179,6 +189,8 @@ You can't see the Lamplighters. That's the point. Thirty of them, in the boats, 
 
 At eleven o'clock, Mr Tully kneels on the wet stone at the water's edge, where the old ward runs under the Mere wall, and puts his hand flat on the stone, and says a word, and the ward opens.
 
+*page_break
+
 You feel it go. A draught, cold, from under the water. The boat-lamps along the jetty gutter and go grey. And across the black Mere, in the midsummer half-dark, the water starts to move.
 
 They come up out of the lake. Grey robes, streaming water, walking up the slipway out of the Mere as if it's a staircase. Ten. Twenty. More. Humming. And in the middle of them, taller than the rest, with his hood down and his long white hair wet on his shoulders, walking slowly, as if his bones hurt, Aldric Morrow.
@@ -202,6 +214,8 @@ He stops at the top of the slipway. He looks at Mr Tully, kneeling on the stone.
   @morrow:warm "By morning," says Aldric Morrow softly. "I promise." Mr Tully stands there on the wet stone with his cap in his hands and doesn't move, and you can see him wanting to believe it, and not.
 
 @arkwright:grave "[i]Now![/i]" roars Commander Arkwright.
+
+*page_break
 
 The trap springs. Thirty Lamplighters, from the boats, from the rafters, from behind the boathouse doors, lamps flaring white all at once, a ring of light round the top of the slipway so bright it hurts, and thirty voices shouting the Lamplighter's word: [i]LUME![/i]
 

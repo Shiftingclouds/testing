@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Bots play Nuit Blanche end to end. They make choices, submit looks and names, spend wishes, and try deductions.
 // Reports crashes, endings, coverage, and how long a playthrough is (pages and words per night).
-//   node tools/playtest.js [--runs 3000] [--seed 1] [--verbose] [--until night3] [--unshown]
+//   node tools/playtest.js [--runs 3000] [--seed 1] [--verbose] [--until night3] [--unshown] [--pacing [--pacing-limit 5] [--pacing-all]]
 "use strict";
 const { loadNB } = require("./lib");
 
@@ -36,10 +36,15 @@ const TALLY = opt("tally", null) ? String(opt("tally")).split(",") : [];
 const tallies = {};
 const stops = {};
 const statDist = {};
+// pacing: how many clicks ("Next", or picking an option and pressing Continue) each scene takes, per playthrough
+const sceneClicks = new Map(); // sid -> array of click counts (one per visit)
+const sceneNexts = new Map();  // sid -> array of plain "Next" counts
+const sceneWords = new Map();  // sid -> array of words read in it
 let totalPages = 0, totalWords = 0, finished = 0, wishesSpent = 0, deductionsMade = 0;
 const wordsByScene = {};
 
 let currentWords = null;
+let allWords = 0; // every word rendered, for the pacing report
 let reachedVars = null;
 const origGoto = NB.Runtime.prototype.gotoScene;
 NB.Runtime.prototype.gotoScene = function (name, label) {
@@ -69,6 +74,7 @@ NB.Runtime.prototype.render = function (src, lineIndex) {
   if (currentWords) {
     const w = NB.text.toPlain(out).split(/\s+/).filter(Boolean).length;
     currentWords[this.state.scene] = (currentWords[this.state.scene] || 0) + w;
+    allWords += w;
   }
   return out;
 };
@@ -192,7 +198,13 @@ for (let run = 0; run < RUNS; run++) {
     page = step(rt, () => rt.newGame({ seed, ng }));
     if (rng() < 0.2) rt.state.vars.steam = false; // some players fade to black
     let pages = 1;
+    let curSid = rt.state.sid, clicks = 0, nexts = 0, sw = 0, lastAll = allWords;
+    const push = (m, v) => (m.get(curSid) || m.set(curSid, []).get(curSid)).push(v);
+    const closeScene = () => { if (curSid) { push(sceneClicks, clicks); push(sceneNexts, nexts); push(sceneWords, sw); } };
     while (page.kind !== "ending") {
+      if (rt.state.sid !== curSid) { closeScene(); curSid = rt.state.sid; clicks = 0; nexts = 0; sw = 0; }
+      sw += allWords - lastAll; lastAll = allWords;
+      clicks++; if (page.kind === "page_break") nexts++;
       if (UNTIL && (reachedVars || UNTILS.includes(rt.state.scene))) break;
       if (++pages > MAX_PAGES) throw new Error("Too many pages (loop?)");
       if (rng() < 0.15) tryDeductions(rt, rng);
@@ -218,6 +230,7 @@ for (let run = 0; run < RUNS; run++) {
         page = step(rt, () => rt.submitLook(look));
       }
     }
+    if (page.kind === "ending") { clicks++; sw += allWords - lastAll; closeScene(); }
     totalPages += pages;
     if (UNTIL && reachedVars) {
       const v = reachedVars;
@@ -296,6 +309,22 @@ if (FOCUS) {
     const flag = r.rate === null ? "  NEVER SEEN by a " + r.sk + " bot" : r.rate < 0.5 ? "  <-- LOW" : "";
     console.log(`  ${r.rate === null ? "  -" : String(Math.round(r.rate * 100)).padStart(3) + "%"}  ${r.sk.padEnd(5)} ${r.where.padEnd(14)} ${r.expr}${flag}`);
   }
+}
+if (opt("pacing", false)) {
+  const LIMIT = Number(opt("pacing-limit", 5)) || 5;
+  const rows = [];
+  for (const [sid, arr] of sceneClicks) {
+    const s2 = arr.slice().sort((x, y) => x - y), nx = (sceneNexts.get(sid) || []).slice().sort((x, y) => x - y);
+    const low = arr.filter((n) => n <= LIMIT).length;
+    const ws = (sceneWords.get(sid) || []).slice().sort((x, y) => x - y);
+    rows.push({ sid, min: s2[0], med: s2[Math.floor(s2.length / 2)], max: s2[s2.length - 1], low, n: arr.length, nmin: nx[0], nmed: nx[Math.floor(nx.length / 2)], wmin: ws[0], wmed: ws[Math.floor(ws.length / 2)] });
+  }
+  rows.sort((a, b) => a.min - b.min || a.med - b.med);
+  const flagged = rows.filter((r) => r.min <= LIMIT);
+  console.log(`\nPacing: clicks to get through each scene (Next pages + choices). ${rows.length} scenes seen; ${flagged.length} took ${LIMIT} clicks or fewer on at least one playthrough:`);
+  console.log("  clicks min/med/max   words read min/med   runs<=" + LIMIT + "/visits  scene");
+  for (const r of flagged) console.log(`  ${String(r.min).padStart(3)} /${String(r.med).padStart(3)} /${String(r.max).padStart(3)}    ${String(r.wmin).padStart(5)} /${String(r.wmed).padStart(5)}    ${String(r.low).padStart(5)}/${String(r.n).padEnd(5)}  ${r.sid}`);
+  if (opt("pacing-all", false)) { console.log("\nAll scenes:"); for (const r of rows) console.log(`  ${String(r.min).padStart(3)} /${String(r.med).padStart(3)} /${String(r.max).padStart(3)}  ${r.sid}`); }
 }
 if (UNTIL && Object.keys(statDist).length) {
   console.log("\nStats on arriving at " + UNTIL + " (median / max):");
